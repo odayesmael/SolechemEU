@@ -34,7 +34,7 @@ export default function SoleTalentPage() {
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify({
           access_key: accessKey,
-          subject: 'New Sole Talent Application',
+          subject: 'New Talent Application',
           from_name: 'SoleChem Talent System',
           'Full Name': data.fullName,
           'Email': data.email,

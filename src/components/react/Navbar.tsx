@@ -198,7 +198,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
                     { icon: Globe, title: 'Global Reach', desc: 'Supplying verified B2B buyers across 50+ countries with full regulatory documentation.', link: '/about' },
                     { icon: Award, title: 'Certifications', desc: 'ISO 9001, ISO 22000, REACH & CLP compliant with full batch traceability.', link: '/about' },
                     { icon: Beaker, title: '4,483+ Products', desc: 'Comprehensive catalog spanning 27 chemical categories for every industrial application.', link: '/products' },
-                    { icon: Users, title: 'Sole Talent', desc: 'Join our team of qualified chemists and industry experts shaping the future of chemistry.', link: '/sole-talent' },
+                    { icon: Users, title: 'Talent', desc: 'Join our team of qualified chemists and industry experts shaping the future of chemistry.', link: '/sole-talent' },
                   ].map((item, i) => (
                     <a key={i} href={item.link} className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
                       <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">

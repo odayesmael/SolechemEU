@@ -216,7 +216,7 @@ The facility also supports our growing repackaging and labeling services, allowi
 
 The Bari warehouse complements our existing facilities in the Milan metropolitan area, creating a comprehensive distribution network that covers all of Italy and extends efficiently throughout the Mediterranean basin.
 
-We are actively recruiting local logistics and warehouse management professionals to support this expansion. Interested candidates can view open positions on our Sole Talent careers page.`,
+We are actively recruiting local logistics and warehouse management professionals to support this expansion. Interested candidates can view open positions on our Talent careers page.`,
     category: 'Company News',
     date: '2026-02-15',
     readTime: '3 min read',
