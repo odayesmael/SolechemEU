@@ -11,7 +11,7 @@ const INDUSTRIES_MENU = [
   { name: "Biotechnology & Life Sciences", slug: "biotechnology-life-sciences", img: "/industries/Biotechnology & Life Sciences.webp" },
   { name: "Building & Construction", slug: "building-construction", img: "/industries/Building & Construction.webp" },
   { name: "CASE (Coatings & Adhesives)", slug: "coatings-adhesives-sealants-elastomers", img: "/industries/Coatings, Adhesives, Sealants & Elastomers.webp" },
-  { name: "Electronics", slug: "electronics", img: "/industries/Electronics.webp" },
+  { name: "Electronics & Solar Photovoltaic", slug: "electronics", img: "/industries/Electronics.webp" },
   { name: "Food & Nutrition", slug: "food-nutrition", img: "/industries/Food & Nutrition.webp" },
   { name: "Home Care & Industrial Cleaning", slug: "home-care-industrial-cleaning", img: "/industries/Home Care & Industrial Cleaning.webp" },
   { name: "Lubricants & Metalworking", slug: "lubricants-metalworking", img: "/industries/Lubricants & Metalworking.webp" },
@@ -110,6 +110,9 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           </form>
           {showResults && searchResults.length > 0 && (
             <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-sm shadow-xl z-[60] max-h-[400px] overflow-y-auto">
+              <div className="px-4 py-1.5 border-b border-gray-100 bg-gray-50/80">
+                <span className="text-[11px] font-semibold text-slate-500">{searchResults.length} result{searchResults.length !== 1 ? 's' : ''} found</span>
+              </div>
               {searchResults.map((r: any) => (
                 <a key={r.slug} href={`/products/${r.slug}`} className="flex items-center gap-3 px-4 py-3 hover:bg-orange-50 transition-colors border-b border-gray-50 last:border-0" onClick={() => setShowResults(false)}>
                   <div className="w-8 h-8 bg-slate-100 rounded flex items-center justify-center shrink-0">
@@ -279,6 +282,9 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           <form onSubmit={handleSearch} className="relative"><Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" /><input type="text" value={searchQuery} onChange={(e) => onSearchChange(e.target.value)} placeholder="Search CAS, formula, or product..." className="w-full h-12 pl-10 pr-4 bg-gray-100 border border-gray-200 rounded-xl text-base focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:bg-white transition-all text-slate-900" autoComplete="off" /></form>
           {showResults && searchResults.length > 0 && (
             <div className="bg-white border border-gray-200 rounded-xl shadow-lg max-h-[300px] overflow-y-auto">
+              <div className="px-4 py-1.5 border-b border-gray-100 bg-gray-50/80">
+                <span className="text-[11px] font-semibold text-slate-500">{searchResults.length} result{searchResults.length !== 1 ? 's' : ''} found</span>
+              </div>
               {searchResults.map((r: any) => (
                 <a key={r.slug} href={`/products/${r.slug}`} className="flex items-center gap-3 px-4 py-3 hover:bg-orange-50 border-b border-gray-50 last:border-0" onClick={() => { setShowResults(false); setIsMenuOpen(false); }}>
                   <div className="flex-1 min-w-0">

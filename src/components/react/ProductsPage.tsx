@@ -1,6 +1,7 @@
 import React, { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import { Search, Filter, Grid, List, ArrowRight, ChevronRight, ChevronLeft, X, Package } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
+import Fuse from 'fuse.js';
 import { cn } from '@/lib/utils';
 
 interface ProductLite {
@@ -95,19 +96,37 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
     setter(prev => prev.includes(value) ? prev.filter(v => v !== value) : [...prev, value]);
   };
 
-  const filteredProducts = useMemo(() => {
-    const filtered = PRODUCTS.filter(p => {
-      const matchesSearch = p.name.toLowerCase().includes(search.toLowerCase()) ||
-                           (p.cas || "").includes(search) ||
-                           p.category.toLowerCase().includes(search.toLowerCase());
+  const fuse = useMemo(() => new Fuse(PRODUCTS, {
+    keys: [
+      { name: 'name', weight: 0.5 },
+      { name: 'cas', weight: 0.3 },
+      { name: 'category', weight: 0.2 },
+    ],
+    threshold: 0.4,
+    distance: 200,
+    minMatchCharLength: 2,
+  }), [PRODUCTS]);
 
+  const filteredProducts = useMemo(() => {
+    let baseProducts = PRODUCTS;
+
+    if (search.trim().length >= 2) {
+      const fuseResults = fuse.search(search.trim());
+      baseProducts = fuseResults.map(r => r.item);
+    } else if (search.trim().length === 1) {
+      baseProducts = PRODUCTS.filter(p =>
+        p.name.toLowerCase().includes(search.toLowerCase())
+      );
+    }
+
+    const filtered = baseProducts.filter(p => {
       const matchesCategory = activeCategory === 'All' || p.category === activeCategory;
 
       const matchesIndustry = activeIndustries.length === 0 || activeIndustries.some(i => p.industry.includes(i));
 
       const matchesLetter = !activeLetter || (activeLetter === '#' ? /^[0-9]/.test(p.name) : p.name.charAt(0).toUpperCase() === activeLetter);
 
-      return matchesSearch && matchesCategory && matchesIndustry && matchesLetter;
+      return matchesCategory && matchesIndustry && matchesLetter;
     });
 
     // Sort
@@ -127,7 +146,7 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
         break;
     }
     return sorted;
-  }, [search, activeCategory, activeIndustries, activeLetter, sortBy]);
+  }, [search, activeCategory, activeIndustries, activeLetter, sortBy, fuse]);
 
   const hasActiveFilter = activeCategory !== 'All' || activeIndustries.length > 0 || activeLetter !== null;
   useEffect(() => {
@@ -201,10 +220,11 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
                 )}
                 {showGlobalDropdown && globalResults.length > 0 && hasActiveFilter && (
                   <div className="absolute left-0 right-0 top-full mt-1 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-lg shadow-2xl z-50 max-h-[400px] overflow-y-auto">
-                    <div className="px-4 py-2 border-b border-slate-100 dark:border-slate-800">
+                    <div className="px-4 py-2 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between">
                       <span className="text-[11px] font-bold text-orange-600 uppercase tracking-widest flex items-center gap-1.5">
                         <Search className="w-3.5 h-3.5" /> Results from All Products
                       </span>
+                      <span className="text-[11px] font-semibold text-slate-500">{globalResults.length} result{globalResults.length !== 1 ? 's' : ''}</span>
                     </div>
                     {globalResults.map((r: any) => (
                       <a key={r.slug} href={`/products/${r.slug}`} className="flex items-center gap-3 px-4 py-3 hover:bg-orange-50 dark:hover:bg-orange-500/10 transition-colors border-b border-slate-50 dark:border-slate-800 last:border-0">
@@ -534,6 +554,7 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
                     <h4 className="text-[11px] font-bold text-orange-600 uppercase tracking-widest mb-4 flex items-center gap-2">
                       <Search className="w-4 h-4" />
                       Results from All Products
+                      <span className="text-slate-400 font-semibold">({globalResults.length})</span>
                     </h4>
                     <div className="space-y-1">
                       {globalResults.map((r: any) => (

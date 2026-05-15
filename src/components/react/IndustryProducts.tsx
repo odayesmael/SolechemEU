@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect, useCallback, useRef } from 'react';
 import { Package, ArrowRight, Search, Grid, List, ChevronLeft, ChevronRight } from 'lucide-react';
+import Fuse from 'fuse.js';
 import { cn } from '../../lib/utils';
 
 interface ProductLite {
@@ -40,12 +41,31 @@ export default function IndustryProducts({ products, industryName }: Props) {
 
   const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
+  const fuse = useMemo(() => new Fuse(products, {
+    keys: [
+      { name: 'name', weight: 0.6 },
+      { name: 'cas', weight: 0.4 },
+    ],
+    threshold: 0.4,
+    distance: 200,
+    minMatchCharLength: 2,
+  }), [products]);
+
   const filteredProducts = useMemo(() => {
-    const filtered = products.filter(p => {
-      const matchesSearch = p.name.toLowerCase().includes(search.toLowerCase()) ||
-        p.cas.toLowerCase().includes(search.toLowerCase());
+    let baseProducts = products;
+
+    if (search.trim().length >= 2) {
+      const fuseResults = fuse.search(search.trim());
+      baseProducts = fuseResults.map(r => r.item);
+    } else if (search.trim().length === 1) {
+      baseProducts = products.filter(p =>
+        p.name.toLowerCase().includes(search.toLowerCase())
+      );
+    }
+
+    const filtered = baseProducts.filter(p => {
       const matchesLetter = !activeLetter || (activeLetter === '#' ? /^[0-9]/.test(p.name) : p.name.charAt(0).toUpperCase() === activeLetter);
-      return matchesSearch && matchesLetter;
+      return matchesLetter;
     });
 
     const sorted = [...filtered];
@@ -64,7 +84,7 @@ export default function IndustryProducts({ products, industryName }: Props) {
         break;
     }
     return sorted;
-  }, [products, search, sortBy, activeLetter]);
+  }, [products, search, sortBy, activeLetter, fuse]);
 
   const totalPages = Math.ceil(filteredProducts.length / ITEMS_PER_PAGE);
   const paginatedProducts = filteredProducts.slice(
@@ -146,10 +166,11 @@ export default function IndustryProducts({ products, industryName }: Props) {
           />
           {showGlobalDropdown && globalResults.length > 0 && (
             <div className="absolute left-0 right-0 top-full mt-1 bg-white border border-slate-200 rounded-lg shadow-2xl z-50 max-h-[400px] overflow-y-auto">
-              <div className="px-4 py-2 border-b border-slate-100">
+              <div className="px-4 py-2 border-b border-slate-100 flex items-center justify-between">
                 <span className="text-[11px] font-bold text-orange-600 uppercase tracking-widest flex items-center gap-1.5">
                   <Search className="w-3.5 h-3.5" /> Results from All Products
                 </span>
+                <span className="text-[11px] font-semibold text-slate-500">{globalResults.length} result{globalResults.length !== 1 ? 's' : ''}</span>
               </div>
               {globalResults.map((r: any) => (
                 <a key={r.slug} href={`/products/${r.slug}`} className="flex items-center gap-3 px-4 py-3 hover:bg-orange-50 transition-colors border-b border-slate-50 last:border-0">
@@ -373,6 +394,7 @@ export default function IndustryProducts({ products, industryName }: Props) {
               <h4 className="text-[11px] font-bold text-orange-600 uppercase tracking-widest mb-4 flex items-center gap-2">
                 <Search className="w-4 h-4" />
                 Results from All Products
+                <span className="text-slate-400 font-semibold">({globalResults.length})</span>
               </h4>
               <div className="space-y-1">
                 {globalResults.map((r: any) => (
