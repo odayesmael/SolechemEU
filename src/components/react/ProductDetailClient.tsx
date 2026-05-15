@@ -130,7 +130,7 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
               </div>
 
               <div className="flex flex-wrap gap-2 pt-2">
-                <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-widest mr-2 flex items-center">Main Industries:</span>
+                <span className="text-[11px] font-semibold text-slate-500 uppercase tracking-widest mr-2 flex items-center">Industries:</span>
                 {product.industry.map((ind: string) => {
                   const industryObj = INDUSTRIES.find((i: any) => i.name === ind);
                   return industryObj ? (
@@ -461,16 +461,8 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
                   </p>
                 </div>
 
-                <div className="space-y-4 pt-6 border-t border-slate-200 dark:border-slate-800">
-                  <div className="flex items-center justify-between text-[13px]">
-                    <span className="text-slate-500 font-bold uppercase text-[10px] tracking-widest">Lead Time</span>
-                    <span className="text-slate-900 dark:text-white font-semibold">{product.leadTime}</span>
-                  </div>
-                  <div className="flex items-center justify-between text-[13px]">
-                    <span className="text-slate-500 font-bold uppercase text-[10px] tracking-widest">Packing</span>
-                    <span className="text-slate-900 dark:text-white font-semibold line-clamp-1 text-right">{product.packing[0]}</span>
-                  </div>
-                </div>
+
+
 
                 <div className="bg-slate-50 dark:bg-slate-800/50 p-5 border border-slate-200 dark:border-slate-700 space-y-4">
                   <h5 className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">Volume Pricing Guidelines</h5>
