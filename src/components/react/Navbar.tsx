@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package } from 'lucide-react';
+import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Mail, MapPin, Clock, Globe, Award, Users, MessageCircle, Building2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { motion, AnimatePresence } from 'motion/react';
 import QuoteModal from './QuoteModal';
@@ -140,8 +140,12 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('manufacturing')}>
             <a href="/manufacturing" className={cn("text-sm font-semibold transition-colors", currentPath === '/manufacturing' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Manufacturing</a>
           </div>
-          <a href="/about" className={cn("text-sm font-semibold transition-colors px-4", currentPath === '/about' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))} onMouseEnter={() => setActiveMegaMenu(null)}>About</a>
-          <a href="/contact" className={cn("text-sm font-semibold transition-colors px-4", currentPath === '/contact' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))} onMouseEnter={() => setActiveMegaMenu(null)}>Contact</a>
+          <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('about')}>
+            <a href="/about" className={cn("text-sm font-semibold transition-colors", currentPath === '/about' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>About</a>
+          </div>
+          <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('contact')}>
+            <a href="/contact" className={cn("text-sm font-semibold transition-colors", currentPath === '/contact' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Contact</a>
+          </div>
         </div>
         <div className="flex items-center gap-4 shrink-0" onMouseEnter={() => setActiveMegaMenu(null)}>
           <button onClick={() => setIsQuoteModalOpen(true)} className="hidden sm:flex items-center gap-2 bg-orange-600 hover:bg-orange-700 text-white px-4 h-9 rounded-sm text-xs font-bold transition-all active:scale-95">SUBMIT RFQ</button>
@@ -172,6 +176,100 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
               <div className="w-1/3"><h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2"><Factory className="w-5 h-5 text-orange-600" /> Manufacturing Services</h3><p className="text-sm text-slate-500 mb-6 leading-relaxed">More than just a distributor, we are your strategic manufacturing partner.</p><a href="/manufacturing" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">Explore Manufacturing <ArrowRight className="w-4 h-4" /></a></div>
               <div className="w-2/3 grid grid-cols-2 gap-6 border-l border-gray-100 pl-12">{MANUFACTURING_SERVICES.map((sol, i) => (<a key={i} href={sol.link} className="group flex gap-4 p-4 rounded-2xl hover:bg-orange-50/50 transition-colors cursor-pointer border border-transparent hover:border-orange-100"><div className="w-12 h-12 rounded-xl bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors"><sol.icon className="w-6 h-6 text-orange-600 group-hover:text-white transition-colors" /></div><div><h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">{sol.name}</h4><p className="text-xs text-slate-500 leading-relaxed">{sol.desc}</p></div></a>))}</div>
             </div></div>
+          </motion.div>
+        )}
+        {activeMegaMenu === 'about' && (
+          <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.2 }} className="absolute top-20 left-0 right-0 bg-white border-b border-gray-200 shadow-xl overflow-hidden">
+            <div className="max-w-7xl mx-auto px-4 py-8">
+              <div className="flex gap-10">
+                <div className="w-1/3">
+                  <h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2">
+                    <Building2 className="w-5 h-5 text-orange-600" /> About SoleChem
+                  </h3>
+                  <p className="text-[13px] text-slate-500 mb-6 leading-relaxed">
+                    A leading B2B chemical distributor and manufacturer headquartered in Milan, Italy. ISO 9001 & ISO 22000 certified, serving 50+ countries worldwide.
+                  </p>
+                  <a href="/about" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">
+                    Learn More <ArrowRight className="w-4 h-4" />
+                  </a>
+                </div>
+                <div className="w-2/3 grid grid-cols-2 gap-5 border-l border-gray-100 pl-10">
+                  {[
+                    { icon: Globe, title: 'Global Reach', desc: 'Supplying verified B2B buyers across 50+ countries with full regulatory documentation.', link: '/about' },
+                    { icon: Award, title: 'Certifications', desc: 'ISO 9001, ISO 22000, REACH & CLP compliant with full batch traceability.', link: '/about' },
+                    { icon: Beaker, title: '4,483+ Products', desc: 'Comprehensive catalog spanning 27 chemical categories for every industrial application.', link: '/products' },
+                    { icon: Users, title: 'Sole Talent', desc: 'Join our team of qualified chemists and industry experts shaping the future of chemistry.', link: '/sole-talent' },
+                  ].map((item, i) => (
+                    <a key={i} href={item.link} className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
+                      <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
+                        <item.icon className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
+                      </div>
+                      <div>
+                        <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">{item.title}</h4>
+                        <p className="text-xs text-slate-500 leading-relaxed">{item.desc}</p>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </motion.div>
+        )}
+        {activeMegaMenu === 'contact' && (
+          <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.2 }} className="absolute top-20 left-0 right-0 bg-white border-b border-gray-200 shadow-xl overflow-hidden">
+            <div className="max-w-7xl mx-auto px-4 py-8">
+              <div className="flex gap-10">
+                <div className="w-1/3">
+                  <h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2">
+                    <Phone className="w-5 h-5 text-orange-600" /> Get in Touch
+                  </h3>
+                  <p className="text-[13px] text-slate-500 mb-6 leading-relaxed">
+                    Speak directly with a technical expert — not a call centre. We respond to all B2B inquiries within 24 business hours.
+                  </p>
+                  <a href="/contact" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">
+                    Contact Form <ArrowRight className="w-4 h-4" />
+                  </a>
+                </div>
+                <div className="w-2/3 grid grid-cols-2 gap-5 border-l border-gray-100 pl-10">
+                  <a href="tel:+390230556150" className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
+                    <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
+                      <Phone className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">B2B Sales & Technical</h4>
+                      <p className="text-xs text-slate-500 leading-relaxed font-mono">+39 02 3055 6150</p>
+                    </div>
+                  </a>
+                  <a href="mailto:info@solechem.eu" className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
+                    <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
+                      <Mail className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">Email</h4>
+                      <p className="text-xs text-slate-500 leading-relaxed">info@solechem.eu</p>
+                    </div>
+                  </a>
+                  <a href="https://wa.me/390230556150" target="_blank" rel="noopener noreferrer" className="group flex gap-4 p-4 rounded-sm hover:bg-green-50/50 transition-colors border border-transparent hover:border-green-100">
+                    <div className="w-11 h-11 rounded-sm bg-green-100 flex items-center justify-center shrink-0 group-hover:bg-green-600 transition-colors">
+                      <MessageCircle className="w-5 h-5 text-green-600 group-hover:text-white transition-colors" />
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-green-700">WhatsApp Business</h4>
+                      <p className="text-xs text-slate-500 leading-relaxed">Response within 2 hours</p>
+                    </div>
+                  </a>
+                  <div className="group flex gap-4 p-4 rounded-sm border border-transparent">
+                    <div className="w-11 h-11 rounded-sm bg-slate-100 flex items-center justify-center shrink-0">
+                      <MapPin className="w-5 h-5 text-slate-500" />
+                    </div>
+                    <div>
+                      <h4 className="text-sm font-bold text-slate-900 mb-1">Milan, Italy</h4>
+                      <p className="text-xs text-slate-500 leading-relaxed">Via Leonardo da Vinci 9<br />20051 Cassina de'Pecchi (MI)</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </motion.div>
         )}
       </AnimatePresence>
