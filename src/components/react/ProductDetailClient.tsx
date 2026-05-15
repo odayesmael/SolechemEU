@@ -110,7 +110,7 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
                   {[
                     { label: 'CAS Number', value: product.cas },
                     { label: 'EC Number', value: product.ec || "N/A" },
-                    ...(product.formula ? [{ label: 'Chemical Formula', value: product.formula }] : []),
+                    ...(product.formula && product.formula !== 'Unspecified' ? [{ label: 'Chemical Formula', value: product.formula }] : []),
                     { label: 'Molecular Weight', value: product.mw && product.mw !== "N/A" ? (product.mw.includes('g/mol') ? product.mw : `${product.mw} g/mol`) : "N/A" }
                   ].map(pill => (
                     <div key={pill.label} className="bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 p-4 rounded-sm flex flex-col justify-center">
