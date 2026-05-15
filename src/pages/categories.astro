@@ -82,14 +82,53 @@ const getCategoryCount = (categoryName: string) => {
         </div>
       </div>
 
+      <!-- Alphabetic Filter Bar -->
+      <div class="flex flex-wrap items-center gap-1 bg-white border border-slate-200 px-3 py-2 shadow-sm mb-6" id="alpha-filter-bar">
+        <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mr-2 shrink-0">A-Z</span>
+        <button data-letter="all" class="alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all bg-orange-600 text-white shadow-sm">All</button>
+        {(() => {
+          const hasNumeric = CATEGORIES.some(c => /^[0-9]/.test(c.name));
+          return (
+            <button
+              data-letter="#"
+              disabled={!hasNumeric}
+              class={`alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all ${
+                hasNumeric
+                  ? 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 cursor-pointer'
+                  : 'text-slate-300 cursor-not-allowed'
+              }`}
+            >
+              #
+            </button>
+          );
+        })()}
+        {Array.from('ABCDEFGHIJKLMNOPQRSTUVWXYZ').map(letter => {
+          const hasItems = CATEGORIES.some(c => c.name.charAt(0).toUpperCase() === letter);
+          return (
+            <button
+              data-letter={letter}
+              disabled={!hasItems}
+              class={`alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all ${
+                hasItems
+                  ? 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 cursor-pointer'
+                  : 'text-slate-300 cursor-not-allowed'
+              }`}
+            >
+              {letter}
+            </button>
+          );
+        })}
+      </div>
+
       <!-- Categories Grid -->
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4" id="categories-grid">
         {CATEGORIES.map((category) => {
           const count = getCategoryCount(category.name);
           return (
             <a
               href={`/products?category=${encodeURIComponent(category.name)}`}
-              class="group block rounded bg-white border border-slate-200 hover:border-orange-500/50 transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 overflow-hidden"
+              class="category-card group block rounded bg-white border border-slate-200 hover:border-orange-500/50 transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 overflow-hidden"
+              data-name={category.name}
             >
               <!-- Image -->
               <div class="relative h-36 overflow-hidden bg-slate-100">
@@ -123,4 +162,45 @@ const getCategoryCount = (categoryName: string) => {
       </div>
     </div>
   </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const buttons = document.querySelectorAll('.alpha-btn');
+      const cards = document.querySelectorAll('.category-card');
+      let activeLetter: string | null = null;
+
+      buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const letter = (btn as HTMLElement).dataset.letter!;
+          if (letter === 'all') {
+            activeLetter = null;
+          } else {
+            activeLetter = activeLetter === letter ? null : letter;
+          }
+
+          // Update button styles
+          buttons.forEach(b => {
+            const l = (b as HTMLElement).dataset.letter!;
+            const isActive = (activeLetter === null && l === 'all') || l === activeLetter;
+            b.classList.toggle('bg-orange-600', isActive);
+            b.classList.toggle('text-white', isActive);
+            b.classList.toggle('shadow-sm', isActive);
+            if (!isActive && !(b as HTMLButtonElement).disabled) {
+              b.classList.add('text-slate-600');
+              b.classList.remove('bg-orange-600', 'text-white', 'shadow-sm');
+            }
+          });
+
+          // Filter cards
+          cards.forEach(card => {
+            const name = (card as HTMLElement).dataset.name!;
+            const firstChar = name.charAt(0);
+            const show = !activeLetter ||
+              (activeLetter === '#' ? /^[0-9]/.test(firstChar) : firstChar.toUpperCase() === activeLetter);
+            (card as HTMLElement).style.display = show ? '' : 'none';
+          });
+        });
+      });
+    });
+  </script>
 </BaseLayout>

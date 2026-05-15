@@ -31,6 +31,7 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
   // Filter States
   const [activeCategory, setActiveCategory] = useState('All');
   const [activeIndustries, setActiveIndustries] = useState<string[]>([]);
+  const [activeLetter, setActiveLetter] = useState<string | null>(null);
   const [sortBy, setSortBy] = useState('name-asc');
   const [currentPage, setCurrentPage] = useState(1);
   const [globalResults, setGlobalResults] = useState<any[]>([]);
@@ -84,10 +85,11 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
   // Extract unique filter options from data
   const categories = ['All', ...Array.from(new Set(PRODUCTS.map(p => p.category))).sort()];
   const industries = Array.from(new Set(PRODUCTS.flatMap(p => p.industry)));
+  const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [search, activeCategory, activeIndustries]);
+  }, [search, activeCategory, activeIndustries, activeLetter]);
 
   const toggleFilter = (setter: React.Dispatch<React.SetStateAction<string[]>>, value: string) => {
     setter(prev => prev.includes(value) ? prev.filter(v => v !== value) : [...prev, value]);
@@ -103,7 +105,9 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
 
       const matchesIndustry = activeIndustries.length === 0 || activeIndustries.some(i => p.industry.includes(i));
 
-      return matchesSearch && matchesCategory && matchesIndustry;
+      const matchesLetter = !activeLetter || (activeLetter === '#' ? /^[0-9]/.test(p.name) : p.name.charAt(0).toUpperCase() === activeLetter);
+
+      return matchesSearch && matchesCategory && matchesIndustry && matchesLetter;
     });
 
     // Sort
@@ -123,9 +127,9 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
         break;
     }
     return sorted;
-  }, [search, activeCategory, activeIndustries, sortBy]);
+  }, [search, activeCategory, activeIndustries, activeLetter, sortBy]);
 
-  const hasActiveFilter = activeCategory !== 'All' || activeIndustries.length > 0;
+  const hasActiveFilter = activeCategory !== 'All' || activeIndustries.length > 0 || activeLetter !== null;
   useEffect(() => {
     if (search.trim().length >= 2 && hasActiveFilter) {
       if (debounceRef.current) clearTimeout(debounceRef.current);
@@ -160,12 +164,14 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
 
   const activeFilters = [
     ...(activeCategory !== 'All' ? [{ type: 'category', value: activeCategory, remove: () => setActiveCategory('All') }] : []),
-    ...activeIndustries.map(i => ({ type: 'industry', value: i, remove: () => toggleFilter(setActiveIndustries, i) }))
+    ...activeIndustries.map(i => ({ type: 'industry', value: i, remove: () => toggleFilter(setActiveIndustries, i) })),
+    ...(activeLetter ? [{ type: 'letter', value: `Letter: ${activeLetter}`, remove: () => setActiveLetter(null) }] : [])
   ];
 
   const clearAllFilters = () => {
     setActiveCategory('All');
     setActiveIndustries([]);
+    setActiveLetter(null);
     setSearch('');
     updateURL({ q: null, category: null, industry: null });
   };
@@ -252,6 +258,61 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
                 )}
               </div>
             </div>
+          </div>
+
+          {/* Alphabetic Filter Bar */}
+          <div className="flex flex-wrap items-center gap-1 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 px-3 py-2 shadow-sm">
+            <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mr-2 shrink-0">A-Z</span>
+            <button
+              onClick={() => setActiveLetter(null)}
+              className={cn(
+                "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+                activeLetter === null
+                  ? "bg-orange-600 text-white shadow-sm"
+                  : "text-slate-500 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+              )}
+            >
+              All
+            </button>
+            {(() => {
+              const hasNumeric = PRODUCTS.some(p => /^[0-9]/.test(p.name));
+              return (
+                <button
+                  onClick={() => hasNumeric && setActiveLetter(activeLetter === '#' ? null : '#')}
+                  disabled={!hasNumeric}
+                  className={cn(
+                    "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+                    activeLetter === '#'
+                      ? "bg-orange-600 text-white shadow-sm"
+                      : hasNumeric
+                        ? "text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+                        : "text-slate-300 dark:text-slate-700 cursor-not-allowed"
+                  )}
+                >
+                  #
+                </button>
+              );
+            })()}
+            {ALPHABET.map(letter => {
+              const hasProducts = PRODUCTS.some(p => p.name.charAt(0).toUpperCase() === letter);
+              return (
+                <button
+                  key={letter}
+                  onClick={() => hasProducts && setActiveLetter(activeLetter === letter ? null : letter)}
+                  disabled={!hasProducts}
+                  className={cn(
+                    "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+                    activeLetter === letter
+                      ? "bg-orange-600 text-white shadow-sm"
+                      : hasProducts
+                        ? "text-slate-600 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-white"
+                        : "text-slate-300 dark:text-slate-700 cursor-not-allowed"
+                  )}
+                >
+                  {letter}
+                </button>
+              );
+            })}
           </div>
 
             {/* Active Filters Chips */}
