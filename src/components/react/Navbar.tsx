@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Mail, MapPin, Clock, Globe, Award, Users, MessageCircle, Building2 } from 'lucide-react';
+import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Mail, MapPin, Globe, Award, Users, MessageCircle, Building2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { motion, AnimatePresence } from 'motion/react';
 import QuoteModal from './QuoteModal';

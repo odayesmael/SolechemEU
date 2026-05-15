@@ -108,12 +108,6 @@ export default function IndustryProducts({ products, industryName }: Props) {
     setCurrentPage(1);
   };
 
-  const clearAllFilters = () => {
-    setSearch('');
-    setActiveLetter(null);
-    setCurrentPage(1);
-  };
-
   const pageNumbers = useMemo(() => {
     const pages: (number | 'dots')[] = [];
     for (let i = 1; i <= totalPages; i++) {
