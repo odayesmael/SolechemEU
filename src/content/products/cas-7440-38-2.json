@@ -1,0 +1,63 @@
+{
+  "id": "2003",
+  "name": "Arsenic",
+  "slug": "cas-7440-38-2",
+  "cas": "7440-38-2",
+  "ec": "231-148-6",
+  "formula": "As",
+  "mw": "74.92159 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Arsenic (CAS 7440-38-2 ) is a metalloid element sourced for industrial and specialty applications where controlled introduction of element 33 into alloys, semiconductors, or catalytic systems is required. It functions as a dopant, alloying agent, and catalyst component across electronics manufacturing and metallurgical processing. In semiconductor fabrication, it is used as an n-type dopant to modify electrical conductivity. This process directly influences device performance in transistors and diodes by modifying silicon and germanium wafers. The metallurgical industry incorporates it into lead and copper alloys to improve hardness. These enhancements are critical for high-temperature strength in battery grids and ammunition. In compound semiconductor production, it is a primary feedstock for gallium arsenide wafers used in high-frequency devices. Optoelectronic devices also rely on this material for efficient operation. Certain heterogeneous catalytic processes employ arsenic-containing compounds derived from elemental arsenic as precursor material for chemical synthesis. The product is supplied as a solid in lump, shot, or powder form, with purity grades ranging from technical to high-purity for electronics-grade applications. Standard commercial grades are available for metallurgical use. Semiconductor and compound semiconductor manufacturers typically require certified high-purity material. These materials must meet tightly controlled trace metal specifications to ensure consistent performance in sensitive electronic components. Contact us for supply of Arsenic Request Quote",
+  "physicalProperties": "Melting Point: 613 °C (sublm); Boiling Point: 614 °C; Density: 5.778 g/cm³ @ Temp: 25 °C; Appearance: Elemental arsenic, as, occurs to a limited extent in nature as a steel-gray, amorphous metalloid.; Color: Silver to black; Odor: Odourless; Form: powder; Water Solubility: insoluble; Vapor Pressure: 1Pa at 280℃; pH: 2.5 (20°C in H2O)",
+  "safetyHandling": "Danger GHS06 GHS09 GHS05 GHS07 GHS08 GHS02 Hazard Statements H228 Flammable solid H251 Self-heating; may catch fire H301 Toxic if swallowed H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H331 Toxic if inhaled H341 Suspected of causing genetic defects H350 May cause cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H301+H331 Toxic if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28048000; UN Number: 1558; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "element 33 | 33As | Arsen | Arsenic-75 | Gray arsenic | Colloidal arsenic | Arsenic, elemental | Dietary Arsenic",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS09",
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS02"
+  ],
+  "hsCode": "28048000",
+  "similarProducts": [
+    "cas-1327-53-3",
+    "cas-7782-49-2",
+    "cas-7440-37-1",
+    "cas-7440-69-9",
+    "cas-7440-21-3",
+    "cas-7440-31-5",
+    "cas-7440-22-4",
+    "cas-7440-47-3",
+    "cas-7723-14-0",
+    "cas-7429-90-5",
+    "cas-7439-92-1",
+    "cas-506-64-9",
+    "cas-7440-66-6",
+    "cas-7440-44-0",
+    "cas-7440-47-3",
+    "cas-7723-14-0",
+    "cas-7429-90-5",
+    "cas-7439-92-1",
+    "cas-506-64-9",
+    "cas-7440-66-6",
+    "cas-7440-44-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-38-2/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "3382",
+  "name": "Sodium propynesulfonate",
+  "slug": "cas-55947-46-1",
+  "cas": "55947-46-1",
+  "ec": "259-915-0",
+  "formula": "C3H4O3S.Na",
+  "mw": "142.11 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics",
+    "Mining & Metals",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium propynesulfonate (CAS 55947-46-1 ), also known as sodium 2-propyne-1-sulphonate, is a specialty sulfonate salt used primarily as a functional additive in electroplating and electrodeposition processes. Its terminal alkyne group enables surface-active and polymerization-relevant behavior that standard sulfonates cannot provide, making it a targeted choice for technically demanding formulations. In the electronics and metal finishing industries, it functions as a brightening and leveling agent in copper electroplating baths, improving deposit uniformity across complex geometries. Formulators of plating electrolytes incorporate it to control grain structure and surface smoothness in printed circuit board manufacturing. This ensures high-quality finishes for sensitive components. In polymer chemistry, the reactive alkyne group supports its use as a building block for sulfonate-functionalized polymers and surface-modification coatings for various industrial applications. Mining and metals processors may also evaluate it as a functional additive where controlled surface interaction during metal recovery or treatment is required for efficient processing. Sodium propynesulfonate is supplied as a white to off-white crystalline powder or solid. It is available in technical grade, with purity specifications typically ranging from 97% to 99%+. Packaging options generally include small quantities for laboratory or formulation development through to bulk quantities for industrial electroplating operations and large-scale manufacturing. Contact us for supply of Sodium propynesulfonate Request Quote",
+  "physicalProperties": "Melting Point: 220 °C (decomp); Boiling Point: 259.16°C[at 101 325 Pa]; Density: 1.04 g/mL at 25 °C; Flash Point: 26 °C; Appearance: Colorless to light yellow Liquid; Water Solubility: 19.904g/L at 25℃; Vapor Pressure: 0Pa at 25℃; Log P: -2.17",
+  "safetyHandling": "Warning GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H317 May cause an allergic skin reaction Precautionary Statements P234 Keep only in original packaging. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P390 Absorb spillage to prevent material damage. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse.",
+  "tradeRegulatory": "",
+  "otherNames": "Propynesulfonic acid sodium salt | 2-Propyne-1-sulfonic acid sodium salt | Sodium 2-propyne-1-sulphonate | 2-Propyne-1-sulfonic acid, sodium salt (1:1) | RefChem:89340 | sodium prop-2-yne-1-sulfonate | Sodium 2-propyne-1-sulfonate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-28348-53-0",
+    "cas-68608-26-4",
+    "cas-2495-39-8",
+    "cas-25053-27-4",
+    "cas-63316-43-8",
+    "cas-657-84-1",
+    "cas-825-90-1",
+    "cas-532-02-5",
+    "cas-5324-47-0",
+    "cas-20526-58-3",
+    "cas-15763-76-5",
+    "cas-5324-84-5",
+    "cas-68037-49-0",
+    "cas-127-68-4",
+    "cas-532-02-5",
+    "cas-5324-47-0",
+    "cas-20526-58-3",
+    "cas-15763-76-5",
+    "cas-5324-84-5",
+    "cas-68037-49-0",
+    "cas-127-68-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-55947-46-1/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "190",
+  "name": "Vinyltriethoxysilane",
+  "slug": "cas-78-08-0",
+  "cas": "78-08-0",
+  "ec": "201-081-7",
+  "formula": "C8H18O3Si",
+  "mw": "190.31 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Automotive",
+    "Electronics",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Vinyltriethoxysilane ( CAS 78-08-0 ), commonly abbreviated as VTEO, is an organosilane coupling agent that bridges inorganic substrates and organic polymer matrices. It functions as a reactive monomer and surface modifier across adhesives, sealants, and coatings. In crosslinked polyethylene (XLPE) production, VTEO is grafted onto polyethylene chains to enable moisture-cure crosslinking. This is a critical process for wire and cable insulation where durability is paramount. Rubber and silicone sealant formulators use it to improve adhesion to glass, metal, and mineral fillers. This directly affects bond durability in various construction and automotive assemblies during the manufacturing process. In coatings and primers, VTEO-treated surfaces improve adhesion of organic topcoats to glass fiber and silica. It is also effective on other inorganic substrates to ensure long-term coating integrity and performance. Electronics manufacturers apply it as a surface treatment for encapsulants and laminates. This is necessary where moisture resistance and interfacial adhesion are strict qualification requirements for the final product. Vinyltriethoxysilane is supplied as a clear liquid, typically in drums and IBC containers for industrial volumes. Technical grade is the standard commercial offering, with purity specifications commonly at 97% or higher. Specialty electronic and high-purity grades are available from select producers to meet tighter process requirements. These grades ensure that the material meets the rigorous demands of advanced chemical manufacturing. Contact us for supply of Vinyltriethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: <0°C; Boiling Point: 160-161 °C; Density: 0.903 g/cm³; Flash Point: 94 °F; Appearance: Colorless transparent liquid; Color: colorless; Odor: Fruity odor; Form: liquid; Water Solubility: decomposes; Vapor Pressure: 7 hPa (20 °C); Refractive Index: n 20/D 1.398(lit.)",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "Triethoxy(vinyl)silane | Silane, ethenyltriethoxy- | Silane, triethoxyvinyl- | VTES | Silane A 151 | VTEO",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-4130-08-9",
+    "cas-2768-02-7",
+    "cas-1067-53-4",
+    "cas-2224-33-1",
+    "cas-2943-75-1",
+    "cas-57813-67-9",
+    "cas-17689-77-9",
+    "cas-78-10-4",
+    "cas-780-69-8",
+    "cas-2031-67-6",
+    "cas-2530-87-2",
+    "cas-919-30-2",
+    "cas-17980-47-1",
+    "cas-2897-60-1",
+    "cas-78-10-4",
+    "cas-780-69-8",
+    "cas-2031-67-6",
+    "cas-2530-87-2",
+    "cas-919-30-2",
+    "cas-17980-47-1",
+    "cas-2897-60-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-78-08-0/"
+}

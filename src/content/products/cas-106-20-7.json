@@ -1,0 +1,62 @@
+{
+  "id": "463",
+  "name": "Diethylhexylamine",
+  "slug": "cas-106-20-7",
+  "cas": "106-20-7",
+  "ec": "203-372-4",
+  "formula": "C16H35N",
+  "mw": "241.46 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Food & Nutrition",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethylhexylamine (CAS 106-20-7 ), also known as di-(2-ethylhexyl)amine, is a branched secondary amine used as a catalyst, curing agent, and chemical intermediate across industrial and specialty formulation markets. Its long-chain structure makes it effective in applications requiring controlled reactivity and compatibility with non-polar systems. In coatings and adhesives, it functions as a curing agent and crosslinker. It is frequently utilized for epoxy and polyurethane systems, influencing cure speed and film integrity. As a catalyst precursor, it is used in the synthesis of specialty chemicals where controlled basicity is required. In personal care formulations, it serves as a neutralizing agent and intermediate in the production of emulsifiers and conditioning actives. This versatility makes it a staple in modern chemical manufacturing. Flavor and fragrance manufacturers also use it as a chemical building block in the synthesis of nitrogen-containing aroma compounds. It provides the necessary structural foundation for complex olfactory profiles. The product is supplied as a liquid, typically at high purity levels suited to industrial and specialty chemical applications. Technical grade is the standard commercial offering for most industrial users. Higher-purity specifications are available for sensitive synthesis applications requiring strict quality control. Packaging ranges from drums to IBC containers depending on the specific order volume and logistics. Contact us for supply of Diethylhexylamine Request Quote",
+  "physicalProperties": "Melting Point: -60 °C; Boiling Point: 113-116 °C @ Press: 3 Torr; Density: 0.805 g/mL at 25 °C(lit.); Flash Point: >230 °F; Appearance: colourless liquid; Color: Clear colorless to slightly yellow; Form: Liquid; Water Solubility: <0.2 g/L (20 ºC); Vapor Pressure: 0.0023 hPa (20 °C); Refractive Index: n 20/D 1.443(lit.); pH: >7 (H2O, 20℃); Log P: 7.3 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS09 Hazard Statements H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211980; UN Number: 2735; ADR Class: 8; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "di-(2-ethylhexyl)amine | 2-ethyl-n-(2-ethylhexyl)hexan-1-amine | Bis(2-ethylhexyl)amine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29211980",
+  "similarProducts": [
+    "cas-104-75-6",
+    "cas-109-89-7",
+    "cas-660-68-4",
+    "cas-112-69-6",
+    "cas-4079-68-9",
+    "cas-100-37-8",
+    "cas-111-42-2",
+    "cas-101-83-7",
+    "cas-1120-24-7",
+    "cas-139-87-7",
+    "cas-111-40-0",
+    "cas-3710-84-7",
+    "cas-108-01-0",
+    "cas-624-78-2",
+    "cas-101-83-7",
+    "cas-1120-24-7",
+    "cas-139-87-7",
+    "cas-111-40-0",
+    "cas-3710-84-7",
+    "cas-108-01-0",
+    "cas-624-78-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-20-7/"
+}

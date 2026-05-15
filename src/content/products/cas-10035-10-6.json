@@ -1,0 +1,63 @@
+{
+  "id": "2529",
+  "name": "Hydrogen bromide",
+  "slug": "cas-10035-10-6",
+  "cas": "10035-10-6",
+  "ec": "233-113-0",
+  "formula": "BrH",
+  "mw": "80.91 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydrogen bromide ( CAS 10035-10-6 ), commercially supplied as hydrobromic acid in aqueous solution, is an inorganic acid used across pharmaceutical synthesis, food processing, and water treatment. HBr delivers strong acidification and bromide ion activity that drive its utility across multiple industrial sectors. In pharmaceutical manufacturing, hydrobromic acid is used to produce active pharmaceutical ingredient salts. Hydrobromide salts improve the stability and solubility profile of amine-based drug compounds, making them suitable for solid dosage formulation. Water treatment operations use HBr as a bromination precursor. It reacts with oxidants to generate hypobromous acid for microbiological control in cooling towers and process water systems. In food-grade applications, it functions as a pH-regulating agent in controlled processing environments. Catalyst systems in organic synthesis also rely on HBr as a brominating agent for producing intermediates used in agrochemicals and specialty chemicals. Hydrobromic acid is supplied as an aqueous solution. The 48% concentration is the most commercially standard grade. Both technical and reagent-grade specifications are available, with pharmaceutical-grade material produced to USP and Ph. Eur. standards. These quality benchmarks ensure suitability for API salt formation. Packaging ranges from drums and IBCs to bulk tanker supply depending on the specific volume requirements of the industrial facility. Contact us for supply of Hydrogen bromide Request Quote",
+  "physicalProperties": "Melting Point: -87 °C; Boiling Point: -67 °C; Density: 1.8 g/cm³; Flash Point: 40°C; Appearance: colourless liquid with a strong irritating odour; Color: Light yellow, brown; Odor: Sharp, irritating odor detectable at 2 ppm; Form: Solution; Water Solubility: soluble; Vapor Pressure: 334.7 psi ( 21 °C); Refractive Index: n 20/D 1.438; pH: 3.01(1 mM solution);2.04(10 mM solution);1.08(100 mM solution); Log P: 0.629 at 25℃",
+  "safetyHandling": "Danger GHS04 GHS05 GHS07 GHS06 GHS08 Hazard Statements H280 H280 H314 H314 H318 H318 H331 H331 H335 H335 H370 H370 H372 H372 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P316 P316 P317 P317 P319 P319 P321 P321 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P304+P340 P304+P340 P308+P316 P308+P316 P403+P233 P403+P233 P410+P403 P410+P403 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28111990; UN Number: 3265; ADR Class: 8; Packing Group: II; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "HBr | HYDROBROMIC ACID | Acido bromidrico | bromane | Acide bromhydrique | Hydrogen bromide (HBr) | Anhydrous hydrobromic acid | Hydrogen bromide (H2Br2)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28111990",
+  "similarProducts": [
+    "cas-10034-85-2",
+    "cas-7726-95-6",
+    "cas-7647-01-0",
+    "cas-5589-96-8",
+    "cas-7789-48-2",
+    "cas-7647-15-6",
+    "cas-7758-02-3",
+    "cas-16872-11-0",
+    "cas-7664-39-3",
+    "cas-7699-45-8",
+    "cas-7550-35-8",
+    "cas-12124-97-9",
+    "cas-74-96-4",
+    "cas-111-25-1",
+    "cas-16872-11-0",
+    "cas-7664-39-3",
+    "cas-7699-45-8",
+    "cas-7550-35-8",
+    "cas-12124-97-9",
+    "cas-74-96-4",
+    "cas-111-25-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10035-10-6/"
+}

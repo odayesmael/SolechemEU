@@ -1,0 +1,66 @@
+{
+  "id": "518",
+  "name": "Dimethylethanolamine",
+  "slug": "cas-108-01-0",
+  "cas": "108-01-0",
+  "ec": "203-542-8",
+  "formula": "C4H11NO",
+  "mw": "89.14 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Water Treatment",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Lubricants & Metalworking",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethylethanolamine (CAS 108-01-0 ), also known as DMAE, is a bifunctional amine-alcohol used across industrial and specialty chemical sectors as a pH regulator, catalyst, and corrosion inhibitor. Its dual amine and hydroxyl functionality makes it a building block and process chemical in coatings, water treatment, and polymer manufacturing. In waterborne coatings and resin systems, it neutralizes acidic binders. This improves dispersion stability and film formation. Water treatment programs use it to condition boiler and cooling water systems, where it inhibits corrosion by maintaining alkaline pH in steam condensate lines. As a catalyst in polyurethane foam production, it controls gel and blow reaction timing. This is a critical parameter for foam manufacturers managing cycle times and cell structure during the production process. In metalworking fluids and lubricant formulations, it buffers pH to extend fluid service life and protect ferrous metal surfaces. This ensures long-term stability and performance in demanding industrial environments. Dimethylethanolamine is supplied as a clear, low-viscosity liquid. It is available in technical grade for industrial applications including coatings, water treatment, and polymer processing for various sectors. Bulk supply is standard in drums and IBC totes, with tank truck quantities available for high-volume industrial buyers. We ensure reliable logistics and consistent quality for all our chemical distribution partners. Contact us for supply of Dimethylethanolamine Request Quote",
+  "physicalProperties": "Melting Point: -59 °C; Boiling Point: 135 °C @ Press: 758 Torr; Density: 0.8866 g/cm³ @ Temp: 20 °C; Flash Point: 105 °F; Appearance: Colourless liquid; Color: Clear colorless to pale yellow; Odor: Amine like; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 100 mm Hg ( 55 °C); Refractive Index: n 20/D 1.4294(lit.); pH: 10.5-11 (100g/l, H2O, 20℃); Log P: -0.55 at 23℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS06 GHS08 Hazard Statements H226 Flammable liquid and vapor [Warning Flammable liquids] H302 Harmful if swallowed [Warning Acute toxicity, oral] H312 Harmful in contact with skin [Warning Acute toxicity, dermal] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 29221980; UN Number: 2051; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "propamine A | N,N-dimethylaminoethanol | N,N-dimethyl-N-(beta-hydroxyethyl)amine | N,N-dimethyl-N-(2-hydroxyethyl)amine | N,N-dimethyl-2-hydroxyethylamine | N,N-dimethyl-2-aminoethanol | N-dimethylaminoethanol | N-(2-hydroxyethyl)dimethylamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29221980",
+  "similarProducts": [
+    "cas-1704-62-7",
+    "cas-2867-47-2",
+    "cas-124-40-3",
+    "cas-100-37-8",
+    "cas-124-28-7",
+    "cas-7378-99-6",
+    "cas-105-59-9",
+    "cas-10563-29-8",
+    "cas-139-87-7",
+    "cas-111-42-2",
+    "cas-2212-32-0",
+    "cas-84649-84-3",
+    "cas-102-81-8",
+    "cas-109-83-1",
+    "cas-10563-29-8",
+    "cas-139-87-7",
+    "cas-111-42-2",
+    "cas-2212-32-0",
+    "cas-84649-84-3",
+    "cas-102-81-8",
+    "cas-109-83-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-01-0/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2047",
+  "name": "Silica",
+  "slug": "cas-7631-86-9",
+  "cas": "7631-86-9",
+  "ec": "231-545-4",
+  "formula": "O2Si",
+  "mw": "60.084 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Building & Construction",
+    "Plastics & Polymers",
+    "Printing & Packaging",
+    "Rubber & Tire"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silica (CAS 7631-86-9 ), also known as silicon dioxide or SiO2, is a high-purity amorphous mineral used across industrial and consumer product manufacturing. As E551 in food-contact and additive applications, it functions primarily as an anticaking agent. It serves as a flow aid and rheology modifier in powder and liquid systems. In personal care, silica controls texture and oil absorption in pressed powders, dry shampoos, and skincare formulations where sensory performance and spreadability are critical. Rubber and tire compounding relies on precipitated silica as a reinforcing filler that improves rolling resistance and wet grip performance in high-performance tire compounds. Plastics and polymer processing uses fumed silica to modify viscosity. This application is vital in adhesives, sealants, and coatings, preventing sagging and improving shelf stability. In printing and packaging, silica acts as a matting agent and anti-slip additive in inks and surface coatings. Silica is supplied as fumed silica, precipitated silica, and colloidal silica dispersions, each suited to different processing requirements. Standard grades include food-grade ( FCC , E551) and pharmaceutical-grade options. These pharmaceutical grades meet USP and Ph. Eur. standards, alongside technical-grade for industrial applications. Particle size, surface area, and surface treatment vary by grade and determine suitability. Hydrophilic or hydrophobic treatments are available depending on specific formulation or processing conditions. This versatility ensures that the material meets the rigorous demands of diverse global manufacturing sectors. Contact us for supply of Silica Request Quote",
+  "physicalProperties": "Melting Point: 1713 °C; Boiling Point: 2230 °C; Density: 0.729 g/cm³ (solid); Flash Point: 2230°C; Appearance: Amorphous silica, the noncrystalline form of SiO2, is a transparent to gray, odorless, amorphous powder; Color: White to yellow; Odor: at 100.00?%. odorless; Form: suspension; Water Solubility: insoluble; Vapor Pressure: 13.3hPa at 1732℃; Refractive Index: 1.46; pH: 5-8 (100g/l, H2O, 20℃)(slurry)",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H350 May cause cancer H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2811221000; Storage Class: 12 - Non Combustible Liquids; WGK (Germany): nwg",
+  "otherNames": "silicic anhydride | silicon oxide | SILICON DIOXIDE | Diatomaceous silica | Wessalon | Zorbax sil | Silica, amorphous | Silica, colloidal | SiO2 | E220A",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "2811221000",
+  "similarProducts": [
+    "cas-60676-86-0",
+    "cas-112945-52-5",
+    "cas-112926-00-8",
+    "cas-68855-54-9",
+    "cas-10279-57-9",
+    "cas-1344-95-2",
+    "cas-14808-60-7",
+    "cas-12141-46-7",
+    "cas-7440-21-3",
+    "cas-67762-90-7",
+    "cas-69012-64-2",
+    "cas-1343-88-0",
+    "cas-60842-32-2",
+    "cas-68909-20-6",
+    "cas-12141-46-7",
+    "cas-7440-21-3",
+    "cas-67762-90-7",
+    "cas-69012-64-2",
+    "cas-1343-88-0",
+    "cas-60842-32-2",
+    "cas-68909-20-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7631-86-9/"
+}

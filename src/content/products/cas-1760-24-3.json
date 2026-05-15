@@ -1,0 +1,63 @@
+{
+  "id": "1529",
+  "name": "(trimethoxysilylpropyl)ethylenediamine",
+  "slug": "cas-1760-24-3",
+  "cas": "1760-24-3",
+  "ec": "217-164-6",
+  "formula": "C8H22N2O3Si",
+  "mw": "222.36 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Automotive",
+    "Electronics",
+    "Building & Construction",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-(2-Aminoethyl)-3-aminopropyltrimethoxysilane (CAS 1760-24-3 ), commercially known as DAMO, is a bifunctional aminosilane coupling agent carrying both a trimethoxysilyl group and a diamine functionality. It bridges organic polymer matrices and inorganic substrates, improving adhesion, crosslink density, and surface compatibility across demanding industrial applications. In adhesives, sealants, and epoxy systems, it acts as a curing agent. DAMO serves as a coupling promoter, strengthening bonds between polymer resins and glass, metal, or mineral fillers. The electronics industry uses it as a surface primer for printed circuit boards and encapsulants. Reliable adhesion under thermal cycling is critical in these applications. In coatings and composite manufacturing, it modifies fiber and filler surfaces to improve wet-out and mechanical performance of plastics. Glass fiber-reinforced plastics benefit significantly from this modification. Automotive sealants and structural adhesives rely on DAMO to maintain bond integrity at substrate interfaces exposed to moisture and temperature extremes. DAMO is supplied as a clear to slightly yellow liquid. Standard commercial grades are available at ≥97% purity for industrial and technical use, ensuring consistent performance across various manufacturing processes. Some suppliers offer higher-purity specifications for electronics and specialty coating applications. Packaging ranges from small drums to IBC containers to suit both development-scale and bulk procurement needs. Contact us for supply of (trimethoxysilylpropyl)ethylenediamine Request Quote",
+  "physicalProperties": "Melting Point: 0°C; Boiling Point: 140 °C @ Press: 15 Torr; Density: 1.010 g/cm³ @ Temp: 25 °C; Flash Point: 220 °F; Appearance: Colorless transparent liquid; Color: Clear colorless to light yellow; Form: Liquid; Water Solubility: REACTS; Vapor Pressure: 1.5 hPa (20 °C); Refractive Index: n 20/D 1.444(lit.); pH: 10 (10g/l, H2O, 20℃); Log P: -4--0.82 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H332 Harmful if inhaled H373 May causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 3267; ADR Class: 8; Packing Group: II; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "N'-(3-trimethoxysilylpropyl)ethane-1,2-diamine | n-(2-aminoethyl)-3-aminopropyltrimethoxysilane | DAMO",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-35141-30-1",
+    "cas-3179-76-8",
+    "cas-82985-35-1",
+    "cas-5089-72-5",
+    "cas-14513-34-9",
+    "cas-2897-60-1",
+    "cas-13822-56-5",
+    "cas-2530-85-0",
+    "cas-23779-32-0",
+    "cas-23843-64-3",
+    "cas-10563-29-8",
+    "cas-9046-10-0",
+    "cas-1704-62-7",
+    "cas-99363-37-8",
+    "cas-2530-85-0",
+    "cas-23779-32-0",
+    "cas-23843-64-3",
+    "cas-10563-29-8",
+    "cas-9046-10-0",
+    "cas-1704-62-7",
+    "cas-99363-37-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1760-24-3/"
+}

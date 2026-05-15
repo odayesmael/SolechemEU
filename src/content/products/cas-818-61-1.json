@@ -1,0 +1,63 @@
+{
+  "id": "1281",
+  "name": "2-hydroxyethyl acrylate",
+  "slug": "cas-818-61-1",
+  "cas": "818-61-1",
+  "ec": "212-454-9",
+  "formula": "C5H8O3",
+  "mw": "116.11 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Hydroxyethyl acrylate (CAS 818-61-1 ), commonly abbreviated as HEA, is a reactive hydroxyl-functional monomer used to introduce pendant hydroxyl groups into polymer backbones. Ethylene glycol monoacrylate is a recognized alternative name in some supplier and regulatory contexts. It enables controlled crosslinking and adhesion performance in UV-curable and thermally cured polymer systems. In UV-curable coatings and inks for printing and packaging, HEA acts as a reactive diluent that reduces viscosity while contributing hydroxyl functionality to the cured network. Adhesive and sealant formulators incorporate it into acrylic pressure-sensitive adhesives to tune peel strength and cohesion through isocyanate or melamine crosslinking. In waterborne and solvent-based coatings, it serves as a comonomer to improve substrate adhesion and coating flexibility without sacrificing crosslink density. Polymer manufacturers also use HEA to functionalize acrylic resins destined for two-component polyurethane systems. HEA is supplied as a clear liquid, typically stabilized with a polymerization inhibitor. This stabilization helps maintain shelf stability during storage and transport. It is available in technical and industrial grades, with purity specifications commonly at 96% or higher. Bulk quantities are offered in drums and IBC containers, with inhibitor type and concentration often specified on request to suit downstream processing requirements. Contact us for supply of 2-hydroxyethyl acrylate Request Quote",
+  "physicalProperties": "Melting Point: -60 °C; Boiling Point: 220 °C; Density: 1.011 g/cm³; Flash Point: 209 °F; Appearance: clear liquid; Color: Yellow to brown; Form: Oily Liquid; Water Solubility: soluble; Vapor Pressure: <0.1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.45(lit.); Log P: -0.17 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS09 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29161290; UN Number: 2927; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Hydroxyethyl acrylate | 2-Propenoic acid, 2-hydroxyethyl ester | Ethylene glycol monoacrylate | Bisomer 2HEA | 2-(Acryloyloxy)ethanol | Ethylene glycol, acrylate | Acrylic acid, 2-hydroxyethyl ester | HEA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29161290",
+  "similarProducts": [
+    "cas-103-11-7",
+    "cas-868-77-9",
+    "cas-2918-23-2",
+    "cas-688-84-6",
+    "cas-13641-96-8",
+    "cas-84170-27-4",
+    "cas-140-88-5",
+    "cas-48145-04-6",
+    "cas-923-26-2",
+    "cas-21282-97-3",
+    "cas-51978-15-5",
+    "cas-7328-17-8",
+    "cas-27813-02-1",
+    "cas-264888-31-5",
+    "cas-48145-04-6",
+    "cas-923-26-2",
+    "cas-21282-97-3",
+    "cas-51978-15-5",
+    "cas-7328-17-8",
+    "cas-27813-02-1",
+    "cas-264888-31-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-818-61-1/"
+}

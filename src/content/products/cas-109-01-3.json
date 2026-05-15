@@ -1,0 +1,63 @@
+{
+  "id": "547",
+  "name": "n-methylpiperazine",
+  "slug": "cas-109-01-3",
+  "cas": "109-01-3",
+  "ec": "203-639-5",
+  "formula": "C5H12N2",
+  "mw": "100.16 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Water Treatment",
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Methylpiperazine (CAS 109-01-3 ) is a cyclic diamine building block used across pharmaceutical synthesis, polymer chemistry, and industrial process chemistry. Its secondary and tertiary amine groups make it a reactive intermediate for constructing drug molecules. In pharmaceutical manufacturing, it serves as a key structural component in the synthesis of active pharmaceutical ingredients, including several antipsychotics, antivirals, and antibiotics where the piperazine ring is incorporated. Polymer and epoxy formulators use it as a curing agent and cross-linker, where controlled reactivity with epoxide groups influences network density and final mechanical properties in industrial applications. In water treatment, it functions as a biocide intermediate and corrosion inhibitor precursor, contributing to formulations that control microbial growth in industrial cooling and process water systems. Catalyst manufacturers also use it as a ligand precursor and amine catalyst in polyurethane and specialty polymer production, providing essential functionality for high-performance chemical manufacturing. N-Methylpiperazine is supplied as a colorless to pale yellow liquid in drum and IBC quantities, with bulk tanker options available for high-volume industrial buyers requiring consistent supply chains. Standard commercial grades include technical grade and pharmaceutical-grade material meeting specifications relevant to API intermediate production. Purity levels typically range from 98% to 99%+ depending on the application. Contact us for supply of n-methylpiperazine Request Quote",
+  "physicalProperties": "Melting Point: -6 °C; Boiling Point: 138 °C; Density: 0.88607 g/cm³ @ Temp: 40.00 °C; Flash Point: 108 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: soluble; Vapor Pressure: 12 hPa (20 °C); Refractive Index: n 20/D 1.466(lit.); pH: 11-12 (50g/l, H2O, 20℃); Log P: -0.57 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 Flammable liquid and vapor H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H332 Harmful if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29335995; UN Number: 2734; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "1-methylpiperazine | PIPERAZINE, 1-METHYL- | B92I95EL9Q | RefChem:434645",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29335995",
+  "similarProducts": [
+    "cas-110-85-0",
+    "cas-3644-18-6",
+    "cas-105-83-9",
+    "cas-106-58-1",
+    "cas-110-89-4",
+    "cas-74-89-5",
+    "cas-109-02-4",
+    "cas-616-47-7",
+    "cas-100-61-8",
+    "cas-140-31-8",
+    "cas-104-19-8",
+    "cas-108-89-4",
+    "cas-624-78-2",
+    "cas-872-50-4",
+    "cas-616-47-7",
+    "cas-100-61-8",
+    "cas-140-31-8",
+    "cas-104-19-8",
+    "cas-108-89-4",
+    "cas-624-78-2",
+    "cas-872-50-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-01-3/"
+}

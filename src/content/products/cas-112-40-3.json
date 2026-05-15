@@ -1,0 +1,62 @@
+{
+  "id": "660",
+  "name": "Dodecane",
+  "slug": "cas-112-40-3",
+  "cas": "112-40-3",
+  "ec": "203-967-9",
+  "formula": "C12H26",
+  "mw": "170.33 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dodecane (CAS 112-40-3 ), also known as duodecane, is a straight-chain alkane hydrocarbon used as a non-polar solvent and carrier across industrial and specialty chemical applications. Its low reactivity and controlled evaporation profile make it a preferred diluent in formulations where solvent residue and compatibility with sensitive substrates are procurement considerations. In coatings and adhesives, dodecane functions as a slow-evaporating solvent that aids film formation and controls viscosity in solvent-borne systems for industrial use. Lubricant formulators use it as a base fluid component or diluent in metalworking fluids, where its hydrocarbon structure provides stable lubrication under moderate operating conditions. Personal care manufacturers incorporate it as a lightweight carrier in emollient formulations, fragrance delivery systems, and skin-feel modifiers in leave-on products. It also serves as a reference solvent and calibration standard in analytical and laboratory environments where a well-characterized hydrocarbon matrix is required for testing. Dodecane is supplied as a clear, low-viscosity liquid in drum, IBC, and bulk quantities. Standard commercial grades include technical-grade and high-purity research-grade specifications. Purity levels typically range from 99%+ for laboratory applications. Buyers should confirm hydrocarbon distribution and impurity profiles when sourcing for sensitive formulation or analytical use. Contact us for supply of Dodecane Request Quote",
+  "physicalProperties": "Melting Point: -9.6 °C; Boiling Point: 216.3 °C @ Press: 760 Torr; Density: 0.7487 g/cm³ @ Temp: 20 °C; Flash Point: 181.4 °F; Appearance: Dodecane(112-40-3) is a liquid alkane hydrocarbon with the chemical formula CH3(CH2)10CH3, a thick, oily liquid of the paraffin series. It has 355 isomers.; Color: Colorless; Odor: alkane; Form: Liquid; Water Solubility: <0.1 g/100 mL at 25 ºC; Vapor Pressure: 1 mm Hg ( 47.8 °C); Refractive Index: n 20/D 1.421(lit.); Log P: 6.100",
+  "safetyHandling": "Danger GHS07 GHS08 GHS02 GHS09 Hazard Statements H226 Flammable liquid and vapor H227 Combustible liquid H304 May be fatal if swallowed and enters airways H319 Causes serious eye irritation H410 Very toxic to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P331 Do NOT induce vomiting. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29011090; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "n-dodecane | Duodecane | Dihexyl | CH3-[CH2]10-CH3 | Bihexyl | Adakane 12 | N-Dodecan | Ba 51-090453",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS02",
+    "GHS09"
+  ],
+  "hsCode": "29011090",
+  "similarProducts": [
+    "cas-1322-35-6",
+    "cas-31807-55-3",
+    "cas-1120-21-4",
+    "cas-544-76-3",
+    "cas-593-45-3",
+    "cas-629-50-5",
+    "cas-629-59-4",
+    "cas-112-55-0",
+    "cas-5333-42-6",
+    "cas-124-22-1",
+    "cas-2915-72-2",
+    "cas-693-23-2",
+    "cas-29658-97-7",
+    "cas-7045-71-8",
+    "cas-112-55-0",
+    "cas-5333-42-6",
+    "cas-124-22-1",
+    "cas-2915-72-2",
+    "cas-693-23-2",
+    "cas-29658-97-7",
+    "cas-7045-71-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-40-3/"
+}

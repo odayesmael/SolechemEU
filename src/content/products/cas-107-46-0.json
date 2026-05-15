@@ -1,0 +1,62 @@
+{
+  "id": "502",
+  "name": "Hexamethyldisiloxane",
+  "slug": "cas-107-46-0",
+  "cas": "107-46-0",
+  "ec": "203-492-7",
+  "formula": "C6H18OSi2",
+  "mw": "162.38 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hexamethyldisiloxane (CAS 107-46-0 ), commonly referenced as HMDSO, is a low-viscosity silicone fluid used as a solvent, carrier, and surface-modifying agent across specialty chemical manufacturing. It conditions surfaces, aids dispersion of silicone-based materials, and supports film formation in coating and personal care applications. In silicone coatings and release liners, it acts as a reactive diluent. The material functions as a processing solvent, improving flow and substrate wetting during application. Personal care formulators use it as a lightweight carrier fluid in skin-feel emollients and dry-touch formulations. It is ideal for hair conditioning products where fast evaporation and a non-greasy finish are required. In adhesives and sealants manufacturing, it functions as a solvent for silicone polymers and as a surface primer. The chemical promotes adhesion on low-energy substrates. Plasma-enhanced chemical vapor deposition processes use HMDSO as a precursor to deposit hydrophobic or barrier silica coatings on plastics and films. Hexamethyldisiloxane is supplied as a clear, low-viscosity liquid in drum and IBC quantities. Technical and high-purity grades are available, with purity levels typically ranging from 97% to 99%+. Cosmetic-grade material meeting relevant purity standards is also available for personal care applications. Our supply chain ensures consistent quality and reliable delivery for industrial and laboratory requirements. Contact us for supply of Hexamethyldisiloxane Request Quote",
+  "physicalProperties": "Melting Point: -66 °C; Boiling Point: 99.5 °C; Density: 0.7638 g/cm³ @ Temp: 20 °C; Flash Point: 33 °F; Appearance: Colorless or yellowish transparent liquid; Color: Colorless to Almost colorless; Form: liquid; Water Solubility: insoluble; Vapor Pressure: 20 hPa (20 °C); Refractive Index: n 20/D 1.377(lit.); Log P: 5.06 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS09 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H332 Harmful if inhaled H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "oxybis(trimethylsilane) | HMDSO | bis(trimethylsilyl) oxide | bis(trimethylsilyl) ether | ((CH3)3Si)2O | Disiloxane, hexamethyl- | Fluka AG | Belsil DM 0.65",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-26298-61-3",
+    "cas-999-97-3",
+    "cas-541-05-9",
+    "cas-63148-57-2",
+    "cas-540-97-6",
+    "cas-107-51-7",
+    "cas-9016-00-6",
+    "cas-63148-62-9",
+    "cas-16415-12-6",
+    "cas-70131-67-8",
+    "cas-556-67-2",
+    "cas-107-50-6",
+    "cas-31692-79-2",
+    "cas-541-02-6",
+    "cas-63148-62-9",
+    "cas-16415-12-6",
+    "cas-70131-67-8",
+    "cas-556-67-2",
+    "cas-107-50-6",
+    "cas-31692-79-2",
+    "cas-541-02-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-46-0/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "1312",
+  "name": "Sodium cyanate",
+  "slug": "cas-917-61-3",
+  "cas": "917-61-3",
+  "ec": "213-030-6",
+  "formula": "CHNO.Na",
+  "mw": "65.007 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium cyanate (CAS 917-61-3 ), also known as NaOCN, is an inorganic salt used as a reactive intermediate and reagent across pharmaceutical synthesis, agricultural chemistry, and biochemical research. It introduces the cyanate functional group into target molecules, enabling the construction of urea derivatives, carbamates, and other nitrogen-containing compounds for various industrial applications. In pharmaceutical manufacturing, it serves as a key building block for synthesizing urea-based active ingredients and carbamylating agents used in drug development workflows and specialized chemical synthesis. Agricultural formulators use it as a precursor in herbicide synthesis, particularly in the production of compounds targeting broadleaf weeds and other specific crop protection requirements in the field. In biochemistry and life sciences research, it carbamylates proteins and amino acids under controlled conditions, making it a standard reagent for studying protein structure and enzyme activity. It also functions as a pH buffer and nitrogen source in select fermentation and microbial culture media where controlled alkalinity is required for optimal growth and chemical reactions. The product is supplied as a white crystalline powder or granular solid. It is available in technical and reagent grades, with high-purity specifications commonly offered for laboratory applications. Packaging ranges from kilogram-scale laboratory quantities to bulk industrial supply depending on end-use requirements. All materials are handled according to strict safety and quality protocols. Contact us for supply of Sodium cyanate Request Quote",
+  "physicalProperties": "Melting Point: 550 °C; Density: 1.893 g/cm³ @ Temp: 204 °C; Appearance: white powder or crystals; Color: White to light yellow or light beige; Form: Crystalline Powder and/Chunks; Water Solubility: 110 g/L (20 ºC); Log P: 0.3 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 H302 H313 H313 H319 H319 H370 H370 H373 H373 H412 H412 Precautionary Statements P260 P260 P264 P264 P270 P270 P273 P273 P280 P280 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P317 P302+P317 P308+P316 P308+P316 P337+P317 P337+P317 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 28380000; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "NaOCN | cyanic acid, sodium salt | Sodium isocyanate | Cyansan | Weecon | 8UFS3JRV8P | Cyanic acid, sodium salt (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28380000",
+  "similarProducts": [
+    "cas-143-33-9",
+    "cas-540-72-7",
+    "cas-151-50-8",
+    "cas-3926-62-3",
+    "cas-506-64-9",
+    "cas-333-20-0",
+    "cas-13361-31-4",
+    "cas-557-21-1",
+    "cas-156-62-7",
+    "cas-33818-15-4",
+    "cas-108-80-5",
+    "cas-506-61-6",
+    "cas-827-95-2",
+    "cas-140-29-4",
+    "cas-557-21-1",
+    "cas-156-62-7",
+    "cas-33818-15-4",
+    "cas-108-80-5",
+    "cas-506-61-6",
+    "cas-827-95-2",
+    "cas-140-29-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-917-61-3/"
+}

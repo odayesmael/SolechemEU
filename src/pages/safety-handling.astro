@@ -1,0 +1,299 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import {
+  physicalHazards,
+  healthHazards,
+  environmentalHazards,
+  generalP,
+  preventionP,
+  responseP,
+  storageP,
+  disposalP
+} from '../data/safetyData';
+---
+
+<BaseLayout title="Safety & Handling | SoleChem Europe" description="GHS classification and labelling guide for chemical safety, hazard statements, precautionary statements, and pictograms.">
+  <div class="min-h-screen bg-gray-50 pt-28 pb-20">
+    <div class="max-w-7xl mx-auto px-4">
+      <!-- Breadcrumb -->
+      <div class="flex items-center gap-2 text-xs font-bold text-slate-400 mb-8 uppercase tracking-widest">
+        <a href="/" class="hover:text-orange-600 transition-colors">Home</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        <span class="text-slate-900">Safety & Handling</span>
+      </div>
+
+      <div class="bg-white rounded-sm p-8 md:p-12 shadow-sm border border-slate-200">
+        <div class="flex flex-col md:flex-row md:items-center gap-6 mb-12 pb-8 border-b border-slate-200">
+          <div class="w-16 h-16 bg-slate-50 border border-slate-200 rounded-sm flex items-center justify-center shrink-0">
+            <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
+          </div>
+          <div>
+            <h1 class="text-3xl md:text-4xl font-black text-slate-900 tracking-tight mb-2">Safety & Handling Guide</h1>
+            <p class="text-[15px] font-medium text-slate-500 uppercase tracking-widest">GHS Classification & Labelling</p>
+          </div>
+        </div>
+
+        <div class="prose prose-slate max-w-none prose-headings:font-black prose-headings:tracking-tight prose-headings:text-slate-900 prose-a:text-orange-600 prose-a:font-bold hover:prose-a:text-orange-700">
+          <p class="lead text-lg text-slate-600 font-medium">
+            Understanding chemical safety labels is essential for safe handling, storage, and transport. This guide explains the Globally Harmonized System (GHS) of classification and labelling, including pictograms, signal words, hazard statements (H-codes), and precautionary statements (P-codes).
+          </p>
+
+          <h2 class="border-b border-slate-200 pb-4 mt-16 mb-8 text-2xl">GHS Pictograms</h2>
+          <p class="text-[15px] leading-relaxed text-slate-600">GHS pictograms are standardized symbols used worldwide to communicate specific hazards associated with chemical substances. Each pictogram represents a category of danger.</p>
+
+          <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-6 not-prose my-12">
+            {[
+              { code: 'GHS01', title: 'Exploding Bomb', desc: 'Explosives, self-reactive substances, organic peroxides', icon: '\u{1F4A5}' },
+              { code: 'GHS02', title: 'Flame', desc: 'Flammable gases, liquids, solids, aerosols, self-heating substances', icon: '\u{1F525}' },
+              { code: 'GHS03', title: 'Flame Over Circle', desc: 'Oxidizing gases, liquids, and solids', icon: '\u{2B55}' },
+              { code: 'GHS04', title: 'Gas Cylinder', desc: 'Compressed, liquefied, dissolved, or refrigerated gases under pressure', icon: '\u{1F6E2}\u{FE0F}' },
+              { code: 'GHS05', title: 'Corrosion', desc: 'Corrosive to metals, causes severe skin burns and serious eye damage', icon: '\u{1F9EA}' },
+              { code: 'GHS06', title: 'Skull & Crossbones', desc: 'Acute toxicity (fatal or toxic if swallowed, inhaled, or in contact with skin)', icon: '\u{2620}\u{FE0F}' },
+              { code: 'GHS07', title: 'Exclamation Mark', desc: 'Irritant, skin sensitizer, acute toxicity (harmful), narcotic effects', icon: '\u{2757}' },
+              { code: 'GHS08', title: 'Health Hazard', desc: 'Carcinogenicity, mutagenicity, reproductive toxicity, organ toxicity', icon: '\u{1FAC0}' },
+              { code: 'GHS09', title: 'Environment', desc: 'Hazardous to the aquatic environment (acute and chronic)', icon: '\u{1F41F}' }
+            ].map(pic => (
+              <div class="bg-white p-6 rounded-sm border border-slate-200 hover:border-orange-200 hover:shadow-md transition-all group">
+                <div class="text-3xl mb-4 group-hover:scale-110 transition-transform origin-left">{pic.icon}</div>
+                <div class="font-bold text-slate-900 border-b border-slate-100 pb-3 mb-3 flex items-center justify-between">
+                  <span class="text-[13px] uppercase tracking-widest text-slate-500">{pic.code}</span>
+                </div>
+                <div class="font-bold text-slate-800 mb-2">{pic.title}</div>
+                <div class="text-[13px] text-slate-500 leading-relaxed font-medium">{pic.desc}</div>
+              </div>
+            ))}
+          </div>
+
+          <h2 class="border-b border-slate-200 pb-4 mt-16 mb-8 text-2xl">Signal Words</h2>
+          <p class="text-[15px] leading-relaxed text-slate-600 mb-6">Signal words indicate the relative severity of a hazard. There are only two signal words in the GHS system:</p>
+          <div class="grid sm:grid-cols-2 gap-6 not-prose mb-16">
+            <div class="bg-red-50 border border-red-100 p-6 rounded-sm">
+              <div class="text-red-700 font-black text-xl mb-2 uppercase tracking-tight">Danger</div>
+              <p class="text-red-800/80 text-[13px] leading-relaxed font-medium">Used for more severe hazard categories. Indicates that the chemical presents a serious or life-threatening hazard. Examples include acute toxicity (fatal), flammable liquids (Category 1), and carcinogens.</p>
+            </div>
+            <div class="bg-orange-50 border border-orange-100 p-6 rounded-sm">
+              <div class="text-orange-700 font-black text-xl mb-2 uppercase tracking-tight">Warning</div>
+              <p class="text-orange-800/80 text-[13px] leading-relaxed font-medium">Used for less severe hazard categories. Indicates that the chemical presents a hazard that is less serious than those warranting "Danger." Examples include skin irritants and flammable liquids (Category 4).</p>
+            </div>
+          </div>
+
+          <h2 class="border-b border-slate-200 pb-4 mt-16 mb-8 text-2xl">Hazard Statements (H-Codes)</h2>
+          <p class="text-[15px] leading-relaxed text-slate-600 mb-10">Hazard statements describe the nature and severity of a chemical hazard. Each H-code corresponds to a specific type of danger. They are divided into three groups: Physical Hazards (H200-H290), Health Hazards (H300-H373), and Environmental Hazards (H400-H420).</p>
+
+          <!-- Physical Hazards -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Physical Hazards (H200-H290)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {physicalHazards.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-red-50 text-red-600 font-mono text-xs font-bold border border-red-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Health Hazards -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Health Hazards (H300-H373)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {healthHazards.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-red-50 text-red-600 font-mono text-xs font-bold border border-red-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Environmental Hazards -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Environmental Hazards (H400-H420)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {environmentalHazards.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-red-50 text-red-600 font-mono text-xs font-bold border border-red-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <h2 class="border-b border-slate-200 pb-4 mt-16 mb-8 text-2xl">Precautionary Statements (P-Codes)</h2>
+          <p class="text-[15px] leading-relaxed text-slate-600 mb-10">Precautionary statements advise on how to minimize or prevent adverse effects from exposure to a hazardous chemical. They are divided into five groups: General (P100), Prevention (P200), Response (P300), Storage (P400), and Disposal (P500).</p>
+
+          <!-- General P -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">General (P100)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {generalP.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-blue-50 text-blue-600 font-mono text-xs font-bold border border-blue-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Prevention P -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Prevention (P200)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {preventionP.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-blue-50 text-blue-600 font-mono text-xs font-bold border border-blue-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Response P -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Response (P300)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {responseP.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-blue-50 text-blue-600 font-mono text-xs font-bold border border-blue-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Storage P -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Storage (P400)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {storageP.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-blue-50 text-blue-600 font-mono text-xs font-bold border border-blue-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <!-- Disposal P -->
+          <div class="mb-12 not-prose">
+            <h3 class="mb-4 text-[11px] font-bold text-slate-400 uppercase tracking-widest">Disposal (P500)</h3>
+            <div class="rounded-sm border border-slate-200 overflow-hidden bg-white">
+              <table class="w-full text-left border-collapse">
+                <thead>
+                  <tr class="bg-slate-50 border-b border-slate-200 text-[10px] text-slate-500 uppercase tracking-widest">
+                    <th class="px-6 py-4 font-bold w-32">Code</th>
+                    <th class="px-6 py-4 font-bold">Statement</th>
+                  </tr>
+                </thead>
+                <tbody class="divide-y divide-slate-100">
+                  {disposalP.map((item) => (
+                    <tr class="hover:bg-slate-50/50 transition-colors">
+                      <td class="px-6 py-4 align-top">
+                        <span class="inline-flex items-center px-2 py-1 rounded-sm bg-blue-50 text-blue-600 font-mono text-xs font-bold border border-blue-100">{item.code}</span>
+                      </td>
+                      <td class="px-6 py-4 text-[13px] text-slate-700 font-medium">{item.statement}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="bg-slate-50 border border-slate-200 rounded-sm p-8 mt-16 not-prose flex items-start gap-4">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400 shrink-0 mt-1"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="M12 8v4"/><path d="M12 16h.01"/></svg>
+            <div>
+              <h3 class="font-bold text-slate-900 mb-2 uppercase tracking-widest text-[11px]">Disclaimer</h3>
+              <p class="text-slate-600 text-[13px] leading-relaxed font-medium">
+                This guide is provided for informational purposes only. Always refer to the Safety Data Sheet (SDS) for complete safety information about a specific chemical product. SoleChem S.R.L. provides SDS documents for all products upon request. For specific safety questions, please contact our team.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

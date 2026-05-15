@@ -1,0 +1,61 @@
+{
+  "id": "754",
+  "name": "Triethyl phosphite",
+  "slug": "cas-122-52-1",
+  "cas": "122-52-1",
+  "ec": "204-552-5",
+  "formula": "C6H15O3P",
+  "mw": "166.16 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethyl phosphite (CAS 122-52-1 ), commonly abbreviated as TEP, is a trialkyl phosphite ester used as a reactive intermediate and stabilizer across polymer, lubricant, and agrochemical manufacturing. Ethyl phosphite is a recognized alternative name in trade and procurement contexts. Its value lies in its ability to act as a ligand, antioxidant precursor, or catalyst component depending on the application. In polymer production, TEP functions as a stabilizer and processing aid, protecting polyolefins and engineering resins from oxidative degradation during high-temperature compounding processes. Lubricant and metalworking fluid formulators incorporate it as an antiwear additive precursor, where it reacts in situ to form protective phosphorus-containing films on metal surfaces. In agrochemical synthesis, TEP serves as a key building block for organophosphate active ingredients, including pesticides and herbicides produced via Michaelis–Arbuzov reactions. It also acts as a ligand precursor in transition metal catalyst systems used in polymerization and fine chemical processes. This versatility makes it essential for modern chemical synthesis. Triethyl phosphite is supplied as a clear, colorless liquid in standard drum and IBC packaging. Technical grade is the primary commercial specification, with purity levels typically ranging from 97% to 99%+. High-purity grades are available for catalyst and synthesis applications where trace impurities affect reaction selectivity. Proper handling is required to maintain the integrity of the chemical during storage. Contact us for supply of Triethyl phosphite Request Quote",
+  "physicalProperties": "Melting Point: -112 °C; Boiling Point: 157.9 °C; Density: 0.9629 g/cm³ @ Temp: 20 °C; Flash Point: 130 °F; Appearance: Colorless liquid. Insoluble in water; soluble in alcohol and ether. Combustible.; Color: colorless; Odor: characteristic, obnoxious, phosphiteodor; Form: liquid; Water Solubility: slightly soluble; Vapor Pressure: <6 hPa (20 °C); Refractive Index: n 20/D 1.413(lit.)",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209012; UN Number: 2323; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Phosphorous acid, triethyl ester | Ethyl phosphite, (EtO)3P | Fosforyn trojetylowy | 6B2R04S55G | TRIS(ETHOXY)PHOSPHINE | Ethyl phosphite, Et3PO3 | TEP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29209012",
+  "similarProducts": [
+    "cas-78-40-0",
+    "cas-762-04-9",
+    "cas-101-02-0",
+    "cas-78-42-2",
+    "cas-78-51-3",
+    "cas-97-94-9",
+    "cas-77-93-0",
+    "cas-122-51-0",
+    "cas-115-96-8",
+    "cas-126-71-6",
+    "cas-597-82-0",
+    "cas-603-35-0",
+    "cas-119415-05-3",
+    "cas-121-44-8",
+    "cas-122-51-0",
+    "cas-115-96-8",
+    "cas-126-71-6",
+    "cas-597-82-0",
+    "cas-603-35-0",
+    "cas-119415-05-3",
+    "cas-121-44-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-122-52-1/"
+}

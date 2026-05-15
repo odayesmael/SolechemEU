@@ -1,0 +1,61 @@
+{
+  "id": "1668",
+  "name": "Phenyltrimethoxysilane",
+  "slug": "cas-2996-92-1",
+  "cas": "2996-92-1",
+  "ec": "221-066-9",
+  "formula": "C9H14O3Si",
+  "mw": "198.29 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phenyltrimethoxysilane (CAS 2996-92-1 ) is an organosilane monomer used to introduce phenyl functionality into silicone networks and inorganic surfaces. It acts as a surface modifier, crosslinker, and polymerization building block across coatings and electronics. In silicone resin synthesis, it contributes phenyl groups that improve thermal stability and compatibility with organic polymers. This makes it a preferred monomer for high-performance coatings and encapsulants in various industrial sectors. Electronics manufacturers use it to treat fillers and substrates, improving adhesion and moisture resistance in encapsulation compounds. It is also frequently utilized in underfill formulations to ensure long-term component reliability. In adhesives and sealants, it functions as a crosslinking agent that enhances bond durability to glass, metal, and ceramic surfaces. This versatility allows for stronger structural integrity in demanding environmental conditions. Plastics compounders incorporate it as a coupling agent to improve filler-matrix adhesion in reinforced polymer systems. This process optimizes the mechanical properties and chemical resistance of the final composite materials. The product is supplied as a liquid and is available in technical grade for industrial synthesis and surface treatment applications. It is handled according to standard chemical safety protocols for organosilicon compounds. Purity specifications typically range from 97% to 99%+, with higher-purity grades used in electronics and specialty polymer applications. This ensures consistent performance across sensitive manufacturing processes and high-tech uses. Contact us for supply of Phenyltrimethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: -25 °C; Boiling Point: 211 °C; Density: 1.064 g/cm³; Flash Point: 99 °F; Appearance: Colorless transparent liquid; Color: colorless; Odor: Mild odor; Form: liquid; Water Solubility: Reacts with water.; Vapor Pressure: 0-12790Pa at 20-25℃; Refractive Index: n 20/D 1.468(lit.); Log P: -0.74-2 at 22℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29319090; UN Number: 1992; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Silane, trimethoxyphenyl- | 21TQE746S9 | RefChem:861841 | Benzene, (trimethoxysilyl)- | (Trimethoxysilyl)benzene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29319090",
+  "similarProducts": [
+    "cas-780-69-8",
+    "cas-2116-84-9",
+    "cas-34036-80-1",
+    "cas-14513-34-9",
+    "cas-1185-55-3",
+    "cas-22984-54-9",
+    "cas-18395-30-7",
+    "cas-3179-76-8",
+    "cas-68909-20-6",
+    "cas-2943-75-1",
+    "cas-17865-07-5",
+    "cas-2224-33-1",
+    "cas-207692-01-1",
+    "cas-2897-60-1",
+    "cas-3179-76-8",
+    "cas-68909-20-6",
+    "cas-2943-75-1",
+    "cas-17865-07-5",
+    "cas-2224-33-1",
+    "cas-207692-01-1",
+    "cas-2897-60-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2996-92-1/"
+}

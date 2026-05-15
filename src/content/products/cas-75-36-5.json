@@ -1,0 +1,60 @@
+{
+  "id": "169",
+  "name": "Acetyl chloride",
+  "slug": "cas-75-36-5",
+  "cas": "75-36-5",
+  "ec": "200-865-6",
+  "formula": "C2H3ClO",
+  "mw": "78.50 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acetyl chloride (CAS 75-36-5 ), also known as acetic chloride, is a highly reactive acylating agent used across pharmaceutical synthesis and specialty chemical manufacturing. It introduces acetyl groups into organic molecules, enabling the construction of active pharmaceutical ingredients and chemical intermediates at scale. In pharmaceutical manufacturing, acetyl chloride acetylates amines, alcohols, and phenols to produce APIs and protected intermediates where precise reaction control is critical. Cosmetic ingredient synthesis relies on it to produce acetylated derivatives. Fatty alcohols and other actives are modified to improve stability or skin-feel performance in finished formulations. It also functions as a catalyst activator and reagent in the preparation of anhydrides and other acylating agents used upstream in fine chemical production. Contract manufacturers and formulators processing complex multi-step syntheses source it as a key reagent where high purity and consistent reactivity directly affect yield. This ensures that the final chemical products meet rigorous industrial requirements. Acetyl chloride is supplied as a colorless fuming liquid, typically in drums or ISO tanks suited for moisture-sensitive materials. Technical and high-purity reagent grades are the standard commercial offerings for industrial applications. Purity specifications are commonly at 98% and above to ensure optimal performance in sensitive reactions. Packaging configurations are selected to maintain anhydrous conditions throughout storage and transport to prevent degradation. Contact us for supply of Acetyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -112 °C; Boiling Point: 52 °C; Density: 1.1051 g/cm³ @ Temp: 20 °C; Flash Point: 40 °F; Appearance: Acetyl chloride is a highly flammable, colorless, fuming liquid with a pungent odor; Color: Clear colorless; Odor: Strong pungent odor; Form: Liquid; Water Solubility: Decomposes violently in water; Vapor Pressure: 11.69 psi ( 20 °C); Refractive Index: n 20/D 1.389(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H402 Harmful to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159080; UN Number: 1717; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "ethanoyl chloride | CH3COCl | acetic chloride | acetic acid chloride | QD15RNO45K",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29159080",
+  "similarProducts": [
+    "cas-79-04-9",
+    "cas-98-88-4",
+    "cas-3282-30-2",
+    "cas-108-24-7",
+    "cas-79-11-8",
+    "cas-107-05-1",
+    "cas-5589-96-8",
+    "cas-7719-09-7",
+    "cas-5856-77-9",
+    "cas-100-44-7",
+    "cas-7446-70-0",
+    "cas-910-31-6",
+    "cas-5080-50-2",
+    "cas-75-07-0",
+    "cas-7719-09-7",
+    "cas-5856-77-9",
+    "cas-100-44-7",
+    "cas-7446-70-0",
+    "cas-910-31-6",
+    "cas-5080-50-2",
+    "cas-75-07-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-36-5/"
+}

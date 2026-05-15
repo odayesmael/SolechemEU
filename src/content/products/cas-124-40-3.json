@@ -1,0 +1,62 @@
+{
+  "id": "789",
+  "name": "Dimethylamine",
+  "slug": "cas-124-40-3",
+  "cas": "124-40-3",
+  "ec": "204-697-4",
+  "formula": "C2H7N",
+  "mw": "45.08 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethylamine (CAS 124-40-3 ), commonly abbreviated as DMA, is a secondary amine supplied primarily as an aqueous solution or compressed gas. It functions as a chemical intermediate and pH modifier across food, agricultural, and industrial manufacturing processes. In food and flavoring applications, DMA contributes to characteristic fishy and fermented notes, and its presence is monitored as a quality marker in seafood processing. As a building block in synthesis, it is used to produce dimethylformamide (DMF) and dimethylacetamide. These solvents are critical to pharmaceutical and polymer manufacturing. In agrochemical production, DMA serves as a precursor to herbicide salts, particularly dimethylamine salts of glyphosate and 2,4-D formulations. It also appears in the manufacture of surfactants, ion exchange resins, and rubber accelerators where controlled amine functionality is required. DMA is supplied as a compressed liquefied gas or as aqueous solutions. The most common concentrations for aqueous solutions are 40% and 60%. Technical grade is the standard offering for industrial synthesis, with solution grades available for applications requiring easier handling and metered dosing. Packaging ranges from cylinders and ISO tanks for gas supply to IBCs and bulk tankers for aqueous solution delivery. This ensures safe transport and storage for various industrial and laboratory requirements. Contact us for supply of Dimethylamine Request Quote",
+  "physicalProperties": "Melting Point: -92.2 °C; Boiling Point: 6.8 °C; Density: 0.6804 g/cm³ @ Temp: 0 °C; Flash Point: 60 °F; Appearance: colourless gas with strong ammonia-like smell; Color: Clear slightly yellow; Odor: Ammonical odour; Form: Solution; Water Solubility: Miscible with water and most organic solvents.; Vapor Pressure: 16.97 psi ( 55 °C); Refractive Index: n 20/D 1.37; pH: 14 ( in H2O); Log P: -0.274 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS04 GHS05 GHS07 GHS09 GHS08 Hazard Statements H220 Extremely flammable gas H224 Extremely flammable liquid and vapor H280 Contains gas under pressure; may explode if heated H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H402 Harmful to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P410+P403 Protect from sunlight. Store in a well-ventilated place. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211100; UN Number: 2924; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "N,N-dimethylamine | N-methylmethanamine | Me2NH | HNMe2 | dimethylamine anhydrous | 2-azapropane | (CH3)2NH | DMA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29211100",
+  "similarProducts": [
+    "cas-121-69-7",
+    "cas-2044-64-6",
+    "cas-108-01-0",
+    "cas-1704-62-7",
+    "cas-127-19-5",
+    "cas-2867-47-2",
+    "cas-7378-99-6",
+    "cas-927-62-8",
+    "cas-1120-24-7",
+    "cas-109-55-7",
+    "cas-103-83-3",
+    "cas-75-50-3",
+    "cas-74-89-5",
+    "cas-98-94-2",
+    "cas-927-62-8",
+    "cas-1120-24-7",
+    "cas-109-55-7",
+    "cas-103-83-3",
+    "cas-75-50-3",
+    "cas-74-89-5",
+    "cas-98-94-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-124-40-3/"
+}

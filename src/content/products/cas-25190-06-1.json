@@ -1,0 +1,60 @@
+{
+  "id": "2998",
+  "name": "Polytetrahydrofuran",
+  "slug": "cas-25190-06-1",
+  "cas": "25190-06-1",
+  "ec": "607-637-9",
+  "formula": "(C4H8O)nH2O",
+  "mw": "146.23 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Automotive",
+    "Textile, Leather & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Polytetrahydrofuran (CAS 25190-06-1 ), commercially known as PTMEG or Polytetramethylene Ether Glycol, is a difunctional polyether diol used as a building block in high-performance polymer synthesis. It provides the soft-segment component in polyurethane and elastomer systems, directly influencing flexibility, elongation, and low-temperature performance in finished materials. In polyurethane manufacturing, PTMEG reacts with diisocyanates to produce elastic fibers such as spandex and Lycra, where its molecular weight grade determines the stretch-recovery characteristics. Thermoplastic polyurethane (TPU) producers use it to engineer elastomers for automotive seals, hoses, and flexible tubing that must retain performance across a wide temperature range. In the textile and apparel sector, PTMEG-based polyurethane urea is the standard intermediate for high-elasticity fabrics used in activewear and hosiery applications worldwide. Lubricant formulators incorporate it as a plasticizing and carrier component in specialty greases and metalworking fluids where controlled viscosity and compatibility are required. PTMEG is supplied as a waxy solid or viscous liquid depending on molecular weight, with common commercial grades at 650, 1000, 1800, and 2000 g/mol for industrial use. Technical and industrial grades are standard; higher-purity grades are available for fiber and medical-grade polyurethane applications. Bulk supply is typically offered in heated drums. Contact us for supply of Polytetrahydrofuran Request Quote",
+  "physicalProperties": "Melting Point: 20 °C; Boiling Point: >204; Density: 0.978 g/cm³ @ Temp: 23 °C; Flash Point: >230 °F; Form: Fused mass; Water Solubility: <10g/L; Vapor Pressure: <0.01 mm Hg ( 25 °C); Refractive Index: n 20/D 1.465; pH: 7 (H2O, 20℃)Aqueous solution",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation H412 Harmful to aquatic life with long lasting effects Precautionary Statements P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 3907 20 20; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "(2S)-2-butoxybutan-1-ol | Polytetramethylene ether glycol (ptmeg) | Polytetramethylene glycol | PTMEG",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "3907 20 20",
+  "similarProducts": [
+    "cas-23783-42-8",
+    "cas-25036-33-3",
+    "cas-112-60-7",
+    "cas-25322-69-4",
+    "cas-25498-49-1",
+    "cas-9004-74-4",
+    "cas-25322-68-3",
+    "cas-24991-55-7",
+    "cas-107-21-1",
+    "cas-9038-95-3",
+    "cas-504-63-2",
+    "cas-77-99-6",
+    "cas-112-27-6",
+    "cas-144-19-4",
+    "cas-24991-55-7",
+    "cas-107-21-1",
+    "cas-9038-95-3",
+    "cas-504-63-2",
+    "cas-77-99-6",
+    "cas-112-27-6",
+    "cas-144-19-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-25190-06-1/"
+}

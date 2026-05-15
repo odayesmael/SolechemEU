@@ -1,0 +1,62 @@
+{
+  "id": "1971",
+  "name": "Chloramine-T trihydrate",
+  "slug": "cas-7080-50-4",
+  "cas": "7080-50-4",
+  "ec": "615-172-8",
+  "formula": "C7H8ClNO2S.3H2O.Na",
+  "mw": "281.69 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Chloramine-T trihydrate (CAS 7080-50-4 ), also known as Sodium p-toluenesulfonchloramide, is an active chlorine-releasing compound used commercially as a biocide, disinfectant, and oxidizing agent. It delivers controlled antimicrobial action across regulated industries where precise, stable halogen release is required. In water treatment, it functions as a disinfection agent for potable water systems and process water. Its slower chlorine release reduces disinfection byproduct formation compared to free chlorine. Pharmaceutical and healthcare manufacturers use it to sanitize equipment, surfaces, and production environments under validated cleaning protocols. In food processing facilities, it serves as a surface disinfectant for food-contact materials, helping meet hygiene compliance requirements. Personal care formulators incorporate it as a preservative and bleaching agent. This chemical is utilized in select topical and oral hygiene product lines. The product is supplied as a white crystalline powder with standardized active chlorine content, typically around 25%. It is available in technical and pharmaceutical grades, with pharmaceutical-grade material commonly meeting BP or Ph. Eur. specifications. Packaging ranges from small laboratory quantities to bulk industrial formats. Contact us for supply of Chloramine-T trihydrate Request Quote",
+  "physicalProperties": "Melting Point: 167-170 °C(lit.); Density: 1.43; Flash Point: 92 °C; Appearance: White to off-white crystalline powder; Color: White to off-white; Odor: Chlorine like; Form: Crystalline Powder; Water Solubility: Soluble in water and ethyl alcohol. Insoluble in benzene and ethers.; pH: 8-10 (50g/l, H2O, 20℃); Log P: 2.111 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H412 Harmful to aquatic life with long lasting effects Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P342+P316 Get emergency medical help immediately. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29350090; UN Number: 3263; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "Sodium p-toluenesulfonchloramide | Sodium;chloro-(4-methylphenyl)sulfonylazanide;trihydrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29350090",
+  "similarProducts": [
+    "cas-127-65-1",
+    "cas-144-86-5",
+    "cas-87-90-1",
+    "cas-70-55-3",
+    "cas-17766-26-6",
+    "cas-7758-19-2",
+    "cas-15733-22-9",
+    "cas-593-81-7",
+    "cas-64665-57-2",
+    "cas-10102-17-7",
+    "cas-51229-78-8",
+    "cas-32718-18-6",
+    "cas-101-20-2",
+    "cas-7681-52-9",
+    "cas-593-81-7",
+    "cas-64665-57-2",
+    "cas-10102-17-7",
+    "cas-51229-78-8",
+    "cas-32718-18-6",
+    "cas-101-20-2",
+    "cas-7681-52-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7080-50-4/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "741",
+  "name": "Benzethonium chloride",
+  "slug": "cas-121-54-0",
+  "cas": "121-54-0",
+  "ec": "204-479-9",
+  "formula": "C27H42NO2.Cl",
+  "mw": "448.1 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Home Care & Industrial Cleaning",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzethonium chloride (CAS 121-54-0 ), commonly abbreviated as BZT, is a quaternary ammonium compound used as a broad-spectrum antimicrobial and preservative across pharmaceutical, personal care, and industrial applications. It functions by disrupting microbial cell membranes, making it effective against bacteria, fungi, and some viruses at low use concentrations. In pharmaceutical formulations, BZT is used as a preservative in topical antiseptics. It is also found in ophthalmic preparations and wound care products where microbial contamination control is critical. Personal care manufacturers incorporate it into hand sanitizers, skin cleansers, and cosmetic preservative systems. It can be used as a primary or co-preservative. In industrial and institutional cleaning, it serves as the active biocidal agent in surface disinfectants and sanitizing concentrates targeting healthcare and food-processing environments. Water treatment and industrial process applications use BZT as a biocide to control microbial growth in recirculating systems and cooling towers. Benzethonium chloride is supplied as a white crystalline powder and as aqueous solutions. Standard grades include USP , BP , and technical grade, with USP being the most commonly specified for pharmaceutical and personal care procurement. Bulk quantities are available in fiber drums or multi-layer bags. Powder forms are typically shipped in drums, while liquid grades are available in IBC or drum packaging. This versatile compound remains a staple for manufacturers requiring reliable antimicrobial performance and stability. Contact us for supply of Benzethonium chloride Request Quote",
+  "physicalProperties": "Melting Point: 164-166 °C; Boiling Point: 162°C[at 101 325 Pa]; Density: 0.998 g/mL at 20 °C; Appearance: White Powder; Color: White; Odor: Odorless; Form: Liquid; Water Solubility: 1-5 g/100 mL at 18 ºC; Vapor Pressure: < 0.001 hPa @ 2°C; Refractive Index: 1.5650 (estimate); pH: 5.5-7.5 (25℃, 0.1M in H2O); Log P: 1.08 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS09 Hazard Statements H301 H301 H302 H302 H314 H314 H315 H315 H318 H318 H319 H319 H400 H400 H410 H410 Precautionary Statements P260 P260 P264 P264 P270 P270 P273 P273 P280 P280 P316 P316 P317 P317 P321 P321 P330 P330 P363 P363 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29239000; UN Number: 1759; Storage Class: 6.1A - Combustible, acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "p-tert-octylphenoxyethoxyethyldimethylbenzylammonium chloride | p-diisobutyl phenoxyethoxyethyl dimethyl benzylammonium chloride | diisobutylphenoxyethoxyethyldimethyl benzyl ammonium chloride | BZT | benzyldimethyl-p-(1,1,3,3-tetramethylbutyl)phenoxyethoxy-ethylammonium chloride | benzetonium chloride | {2-[2-(4-diisobutylphenoxy)ethoxy]ethyl}dimethylbenzylammonium chloride | Hyamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29239000",
+  "similarProducts": [
+    "cas-68391-01-5",
+    "cas-8001-54-5",
+    "cas-139-07-1",
+    "cas-91080-29-4",
+    "cas-56-93-9",
+    "cas-965-32-2",
+    "cas-68424-85-1",
+    "cas-85409-23-0",
+    "cas-122-18-9",
+    "cas-17301-53-0",
+    "cas-22340-01-8",
+    "cas-37139-99-4",
+    "cas-123-03-5",
+    "cas-138698-36-9",
+    "cas-85409-23-0",
+    "cas-122-18-9",
+    "cas-17301-53-0",
+    "cas-22340-01-8",
+    "cas-37139-99-4",
+    "cas-123-03-5",
+    "cas-138698-36-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-121-54-0/"
+}

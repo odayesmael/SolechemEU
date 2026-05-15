@@ -1,0 +1,62 @@
+{
+  "id": "2102",
+  "name": "Ammonium persulfate",
+  "slug": "cas-7727-54-0",
+  "cas": "7727-54-0",
+  "ec": "231-786-5",
+  "formula": "H3N.1/2H2O8S2",
+  "mw": "228.21 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium persulfate (CAS 7727-54-0 ), also known as APS and approved as E923 , is a strong inorganic oxidizer used across polymer manufacturing, electronics processing, and surface treatment industries. Its high oxidizing potential makes it effective as a polymerization initiator, bleaching agent, and etchant across a broad range of industrial processes. In plastics and polymer production, APS initiates free-radical polymerization. It is used for acrylic, styrene, and vinyl-based monomers, forming the backbone of emulsion and suspension polymerization systems. Printed circuit board manufacturers rely on it as a microetchant to clean copper surfaces. This process ensures consistent adhesion in multilayer board fabrication by roughening surfaces before plating. Textile and paper processors use it to bleach natural fibers and pulp, removing color bodies effectively. The chemical works without degrading substrate integrity during the bleaching process. In water treatment, it functions as an oxidizing agent to break down organic contaminants and support advanced oxidation processes. Ammonium persulfate is supplied as a white crystalline powder or granules. Standard commercial grades include technical grade for industrial applications and food-grade material meeting specific regulatory requirements. Purity levels of 98% and above are typical for electronics and polymer-grade supply. The material is handled according to strict safety protocols due to its strong oxidizing properties and reactivity in various environments. Contact us for supply of Ammonium persulfate Request Quote",
+  "physicalProperties": "Melting Point: 187 °C (monoclinic crystal) (decomp); Density: 1.9 g/cm³; Appearance: Ammonium persulfate is a colorless or white crystalline solid.; Color: White to yellow; Odor: Odorless; Form: powder; Water Solubility: 582 g/L (20 ºC) decomposes; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.50; pH: 1.0-2.5 (25℃, 1M in H2O); Log P: -1 at 20℃",
+  "safetyHandling": "Danger GHS03 GHS07 GHS08 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28334000; UN Number: 1444; ADR Class: 5.1; Packing Group: III; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 1",
+  "otherNames": "Ammonium peroxydisulfate | Diammonium peroxydisulfate | Diammonium peroxydisulphate | Diammonium persulfate | Ammonium persulphate | Persulfate d'ammonium | 22QF6L357F | Peroxydisulfuric acid ([(HO)S(O)2]2O2), ammonium salt (1:2) | APS | E923",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28334000",
+  "similarProducts": [
+    "cas-7727-21-1",
+    "cas-7775-27-1",
+    "cas-10058-23-8",
+    "cas-10361-76-9",
+    "cas-68333-79-9",
+    "cas-70693-62-8",
+    "cas-37222-66-5",
+    "cas-15214-89-8",
+    "cas-7783-20-2",
+    "cas-10196-04-0",
+    "cas-27119-07-9",
+    "cas-631-61-8",
+    "cas-94-36-0",
+    "cas-9003-03-6",
+    "cas-15214-89-8",
+    "cas-7783-20-2",
+    "cas-10196-04-0",
+    "cas-27119-07-9",
+    "cas-631-61-8",
+    "cas-94-36-0",
+    "cas-9003-03-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7727-54-0/"
+}

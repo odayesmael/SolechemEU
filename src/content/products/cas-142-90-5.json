@@ -1,0 +1,60 @@
+{
+  "id": "914",
+  "name": "Lauryl methacrylate",
+  "slug": "cas-142-90-5",
+  "cas": "142-90-5",
+  "ec": "205-570-6",
+  "formula": "C16H30O2",
+  "mw": "254.41 g/mol",
+  "category": "Oils, Fats & Waxes",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lauryl methacrylate (CAS 142-90-5 ), also known as dodecyl methacrylate and abbreviated as LMA, is a long-chain alkyl ester monomer used to build polymer systems requiring flexibility and hydrophobicity. It functions as a reactive building block in copolymer synthesis across lubricant, personal care, and polymer manufacturing sectors. It is valued for its ability to provide low glass transition temperatures. In lubricant additive manufacturing, LMA is copolymerized to produce viscosity index improvers and pour point depressants. These additives keep engine and industrial oils performing across wide temperature ranges. Personal care formulators incorporate LMA-based polymers into film-forming agents for hair fixatives and skin adhesives. It is also used in water-resistant cosmetic coatings for improved durability. In plastics and polymer production, it is used to modify acrylic copolymers, improving flexibility and surface properties. This makes it ideal for high-performance coatings, adhesives, and sealants. Its long alkyl chain also makes it suitable for producing oil-soluble polymers used in metalworking fluid formulations. Lauryl methacrylate is supplied as a clear to slightly yellow liquid for industrial use. The product is typically stabilized with a polymerization inhibitor such as MEHQ for safe handling and storage. It is available in technical and industrial grades, with purity levels commonly at 98% or higher. Bulk quantities are offered in drums and IBC totes, with tanker supply available for large-volume industrial buyers. Our supply chain ensures consistent quality and reliable delivery for all manufacturing needs. Contact us for supply of Lauryl methacrylate Request Quote",
+  "physicalProperties": "Melting Point: -20 °C; Boiling Point: 167 °C @ Press: 10 Torr; Density: 0.868 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: Clear light yellow liquid; Color: Clear light yellow; Form: Liquid; Water Solubility: insoluble; Vapor Pressure: 0.06Pa at 20℃; Refractive Index: n 20/D 1.445(lit.); Log P: 6.68 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29161490; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "Dodecyl methacrylate | Dodecyl 2-methylacrylate | N-Dodecyl methacrylate | 2-Propenoic acid, 2-methyl-, dodecyl ester | Metazene | Dodecyl 2-methyl-2-propenoate | Sipomer LMA | Methacrylic acid, dodecyl ester | LMA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29161490",
+  "similarProducts": [
+    "cas-13945-76-1",
+    "cas-94134-83-5",
+    "cas-111-82-0",
+    "cas-112-18-5",
+    "cas-6283-92-7",
+    "cas-5303-25-3",
+    "cas-112-53-8",
+    "cas-80-62-6",
+    "cas-96-33-3",
+    "cas-120-40-1",
+    "cas-96-05-9",
+    "cas-97-88-1",
+    "cas-79-41-4",
+    "cas-112-54-9",
+    "cas-80-62-6",
+    "cas-96-33-3",
+    "cas-120-40-1",
+    "cas-96-05-9",
+    "cas-97-88-1",
+    "cas-79-41-4",
+    "cas-112-54-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-142-90-5/"
+}

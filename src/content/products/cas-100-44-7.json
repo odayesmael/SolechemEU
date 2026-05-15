@@ -1,0 +1,65 @@
+{
+  "id": "390",
+  "name": "Benzyl chloride",
+  "slug": "cas-100-44-7",
+  "cas": "100-44-7",
+  "ec": "202-853-6",
+  "formula": "C7H7Cl",
+  "mw": "126.58 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Printing & Packaging",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzyl chloride (CAS 100-44-7 ), also known as omega-chlorotoluene, is a reactive chlorinated aromatic compound used as a chemical intermediate and alkylating agent across multiple industrial sectors. It functions primarily as a building block in the synthesis of a broad range of downstream chemicals, from agrochemicals to pharmaceutical actives. In pharmaceuticals, it serves as a key alkylating intermediate. This compound is essential in the production of active pharmaceutical ingredients, including antihistamines and analgesics. Agrochemical manufacturers use it to synthesize herbicides, fungicides, and insecticides where benzyl group introduction is required. In plastics and polymers, it acts as a polymerization initiator and chain modifier, contributing to the production of quaternary ammonium compounds and ion-exchange resins. This versatility makes it a staple in chemical manufacturing. The printing and packaging industry applies it in the manufacture of benzyl-based dyes and pigment intermediates used in inks and coatings. It is supplied as a colorless to pale yellow liquid in standard industrial packaging. Logistics options include drums and ISO tank containers for bulk orders. It is available in technical and high-purity grades, with purity specifications typically ranging from 98% to 99%+ depending on the application. Pharmaceutical and specialty chemical buyers commonly require certificate of analysis documentation confirming low residual toluene and acid content. Our material meets rigorous industrial and USP or BP standards where applicable. Contact us for supply of Benzyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -45 °C; Boiling Point: 179 °C; Density: 1.100 g/cm³ @ Temp: 20 °C; Flash Point: 165 °F; Appearance: Benzyl chloride is a colorless to s lightly yellow liquid with a strong, unpleasant, irritating odor. The Odor Threshold is 0.05 ppm.; Color: Clear colorless to slightly yellow; Odor: Pungent, irritating.; Form: Liquid; Water Solubility: 0.3 g/L (20 ºC); Vapor Pressure: 10.3 mm Hg ( 60 °C); Refractive Index: n 20/D 1.538(lit.); Log P: 2.3 at 20℃ and pH7",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS07 GHS02 GHS09 Hazard Statements H302 Harmful if swallowed [Warning Acute toxicity, oral] H315 Causes skin irritation [Warning Skin corrosion/irritation] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H350 May cause cancer [Danger Carcinogenicity] H227 Combustible liquid [Warning Flammable liquids] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H330 Fatal if inhaled [Danger Acute toxicity, inhalation] H351 Suspected of causing cancer [Warning Carcinogenicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+  "tradeRegulatory": "HS Code: 29039900; UN Number: 1738; ADR Class: 6.1; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "tolyl chloride | omega-chlorotoluene | chloromethyl-benzene | alpha-chlorotoluene | α-chlorotoluene | Chlorure de benzyle | Benzene, (chloromethyl)- | Toluene, α-chloro-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS07",
+    "GHS02",
+    "GHS09"
+  ],
+  "hsCode": "29039900",
+  "similarProducts": [
+    "cas-98-88-4",
+    "cas-98-09-9",
+    "cas-89-98-5",
+    "cas-107-05-1",
+    "cas-100-46-9",
+    "cas-75-36-5",
+    "cas-100-51-6",
+    "cas-71-43-2",
+    "cas-121-54-0",
+    "cas-100-47-0",
+    "cas-139-07-1",
+    "cas-56-93-9",
+    "cas-120-51-4",
+    "cas-76-93-7",
+    "cas-71-43-2",
+    "cas-121-54-0",
+    "cas-100-47-0",
+    "cas-139-07-1",
+    "cas-56-93-9",
+    "cas-120-51-4",
+    "cas-76-93-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-44-7/"
+}

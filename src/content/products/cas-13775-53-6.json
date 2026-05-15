@@ -1,0 +1,60 @@
+{
+  "id": "2732",
+  "name": "Trisodium hexafluoroaluminate",
+  "slug": "cas-13775-53-6",
+  "cas": "13775-53-6",
+  "ec": "237-410-6",
+  "formula": "AlF6.3Na",
+  "mw": "209.941265 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trisodium hexafluoroaluminate (CAS 13775-53-6 ), commercially known as cryolite, is a fluoride-based inorganic salt sourced both from natural mineral deposits and synthesized as a synthetic equivalent. In the aluminum smelting industry, it functions as the primary flux and electrolyte medium that enables the dissolution and electrochemical reduction of alumina into metallic aluminum. In aluminum production, cryolite forms the molten bath in Hall-Héroult electrolytic cells, directly determining process efficiency and metal purity. This makes it a critical procurement input for primary aluminum smelters. In agriculture, it is applied as a contact insecticide under the trade name Cryocide, targeting chewing insects such as grape phylloxera and citrus pests on crops where residue tolerances permit its use. Glass and enamel manufacturers incorporate it as a fluxing agent and opacifier to lower melting temperatures and improve surface finish in specialty coatings. It also serves as a catalyst component in certain systems. Synthetic cryolite is the dominant commercial form, available as a fine white powder or granules. It is supplied in technical and agricultural grades, with the agricultural specification subject to regional registration. Bulk supply is standard for metallurgical buyers, while smaller packaged quantities are available for agricultural and industrial use. The material is handled according to strict safety protocols for fluoride compounds. Contact us for supply of Trisodium hexafluoroaluminate Request Quote",
+  "physicalProperties": "Melting Point: 1009 °C; Density: 1.941 g/cm³; Appearance: Sodium aluminum fluoride is a snow-white crystalline solid, powder or vitreous mass. The crystalline solid (natural product (cryolite) may be colored reddish or brown or even black but loses this discoloration on heating); synthetic product is an amorphous powder. Odorless; Color: White; Form: Crystals; Water Solubility: Sparingly soluble in water(0.602 g/L at 20°C).; Refractive Index: 1.338",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H332 Harmful if inhaled H372 Causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+  "tradeRegulatory": "UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 1",
+  "otherNames": "CRYOLITE | Cryolite (Na3(AlF6)) | Cryocide | Kryocide | Kryolith | ICE Spar | Cryolite (AlNa3F6) | Sodium aluminum fluoride",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-15096-52-3",
+    "cas-7784-18-1",
+    "cas-7789-24-4",
+    "cas-16893-85-9",
+    "cas-7789-75-5",
+    "cas-1333-83-1",
+    "cas-11138-49-1",
+    "cas-7681-49-4",
+    "cas-21645-51-2",
+    "cas-7784-13-6",
+    "cas-13939-25-8",
+    "cas-7446-70-0",
+    "cas-16919-19-0",
+    "cas-7783-49-5",
+    "cas-7681-49-4",
+    "cas-21645-51-2",
+    "cas-7784-13-6",
+    "cas-13939-25-8",
+    "cas-7446-70-0",
+    "cas-16919-19-0",
+    "cas-7783-49-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13775-53-6/"
+}

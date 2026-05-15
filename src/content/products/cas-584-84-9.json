@@ -1,0 +1,62 @@
+{
+  "id": "1166",
+  "name": "Toluene 2,4-diisocyanate",
+  "slug": "cas-584-84-9",
+  "cas": "584-84-9",
+  "ec": "209-544-5",
+  "formula": "C9H6N2O2",
+  "mw": "174.16 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Automotive",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Toluene 2,4-diisocyanate (CAS 584-84-9 ), commonly abbreviated as TDI, is a reactive diisocyanate monomer used as a core building block in polyurethane synthesis. It reacts with polyols to form urethane linkages. This chemical enables the production of flexible foams, coatings, adhesives, and elastomers across multiple industrial sectors. TDI is the primary isocyanate used in flexible polyurethane foam manufacturing processes. Common applications include automotive seating, furniture cushioning, and mattress production. In coatings and lacquers, it functions as a crosslinker that improves hardness, chemical resistance, and adhesion to various substrates. It is particularly effective on metal and wood surfaces. Adhesive and sealant formulators use TDI-based prepolymers to achieve high-strength, flexible bonds in construction and automotive assembly projects. Elastomer producers also rely on TDI to cure cast polyurethane parts requiring abrasion resistance. This is essential for industrial rollers and seals that must withstand significant mechanical stress during operation. TDI is supplied as a liquid, typically as an 80/20 isomer blend of the 2,4- and 2,6-isomers (TDI-80). The pure 2,4-isomer (TDI-100) is available for applications requiring controlled reactivity. The material is offered as technical grade , which is the standard commercial specification. Bulk supply is common in ISO tank containers and drums for large-scale industrial manufacturing requirements. Purity is typically at 99% or above for technical-grade material. This ensures consistent performance and reliable chemical reactions when formulating high-quality polyurethane systems for global distribution. Contact us for supply of Toluene 2,4-diisocyanate Request Quote",
+  "physicalProperties": "Melting Point: 19.5-21.5 °C; Boiling Point: 251 °C @ Press: 760 Torr; Density: 1.2244 g/cm³ @ Temp: 20 °C; Flash Point: 250 °F; Appearance: colourless to light yellow liquid; Color: Colorless; Odor: Sharp, pungent odor detectable at 0.02 to 0.4 ppm; Form: Liquid; Water Solubility: reacts; Vapor Pressure: 0.03 mm Hg ( 25 °C); Refractive Index: n 20/D 1.568(lit.); Log P: 3.43 at 22℃",
+  "safetyHandling": "Danger GHS06 GHS08 GHS05 GHS07 Hazard Statements H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H351 Suspected of causing cancer H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29291010; UN Number: 2078; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "Tolylene-2,4-diisocyanate | Toluylene-2,4-diisocyanate | toluene-2,4-diyl diisocyanate | Isocyanic acid, 4-methyl-m-phenylene ester | 4-Methyl-m-phenylene diisocyanate | 2,4-Tolylene diisocyanate | 2,4-toluene diisocyanate | 2,4-TDI | TDI",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29291010",
+  "similarProducts": [
+    "cas-26471-62-5",
+    "cas-26747-90-0",
+    "cas-26764-44-3",
+    "cas-101-68-8",
+    "cas-4098-71-9",
+    "cas-9016-87-9",
+    "cas-106264-79-3",
+    "cas-4083-64-1",
+    "cas-121-14-2",
+    "cas-108-88-3",
+    "cas-25513-64-8",
+    "cas-2095-02-5",
+    "cas-9081-90-7",
+    "cas-6711-48-4",
+    "cas-4083-64-1",
+    "cas-121-14-2",
+    "cas-108-88-3",
+    "cas-25513-64-8",
+    "cas-2095-02-5",
+    "cas-9081-90-7",
+    "cas-6711-48-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-584-84-9/"
+}

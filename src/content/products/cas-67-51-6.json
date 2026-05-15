@@ -1,0 +1,61 @@
+{
+  "id": "105",
+  "name": "3,5-dimethylpyrazole",
+  "slug": "cas-67-51-6",
+  "cas": "67-51-6",
+  "ec": "200-657-5",
+  "formula": "C5H8N2",
+  "mw": "96.13 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed",
+    "Personal Care & Cosmetics",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3,5-Dimethylpyrazole (CAS 67-51-6 ), commonly abbreviated as DMP, is a nitrogen-containing heterocyclic compound used primarily as a nitrification inhibitor in agricultural and industrial applications. By blocking the enzymatic conversion of ammonium to nitrate in soil, it extends the availability of nitrogen fertilizers and reduces nitrous oxide emissions. In agriculture, DMP is the active component in formulations. These formulations are applied alongside urea and ammonium-based fertilizers to improve nitrogen use efficiency in crops. Pharmaceutical manufacturers use it as a building block for synthesizing pyrazole-containing APIs. Its reactive NH group enables controlled derivatization for various intermediates. In water treatment, DMP-based formulations help manage nitrification in wastewater systems and cooling towers during processing. Personal care formulators incorporate it into select preservation and stabilization systems where heterocyclic nitrogen chemistry is required. The material is supplied as a white to off-white crystalline solid. It is typically available in powder or flake form. Technical grade is the standard commercial offering, with purity specifications commonly ranging from 98% to 99%+ as confirmed by GC or HPLC analysis. Packaging is available in kilogram-scale quantities for laboratory and development use. This scales to bulk drum supply for industrial and agrochemical production to meet high-volume manufacturing requirements. Contact us for supply of 3,5-dimethylpyrazole Request Quote",
+  "physicalProperties": "Melting Point: 107.5 °C; Boiling Point: 105-125 °C; Density: 0,884 g/cm 3; Flash Point: 210°C; Appearance: White crystal powder; Color: White to almost white; Form: Crystalline Powder or Crystals; Water Solubility: Soluble in water, methanol 0.1 g/mL.; Refractive Index: 1.4739 (estimate); pH: 6.7 (14g/l, H2O, 20℃); Log P: 1.010",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29331990; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "1H-Pyrazole, 3,5-dimethyl- | PYRAZOLE, 3,5-DIMETHYL- | 3,5 DMP | TH 564 | U 6245 | H21N865K9J | TRIXENE DP 8692 | DMP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29331990",
+  "similarProducts": [
+    "cas-106-58-1",
+    "cas-77-76-9",
+    "cas-868-85-9",
+    "cas-96-31-1",
+    "cas-131-11-3",
+    "cas-4767-03-7",
+    "cas-77-71-4",
+    "cas-109-55-7",
+    "cas-90-72-2",
+    "cas-7005-47-2",
+    "cas-99-97-8",
+    "cas-598-94-7",
+    "cas-63469-23-8",
+    "cas-108-26-9",
+    "cas-109-55-7",
+    "cas-90-72-2",
+    "cas-7005-47-2",
+    "cas-99-97-8",
+    "cas-598-94-7",
+    "cas-63469-23-8",
+    "cas-108-26-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-67-51-6/"
+}

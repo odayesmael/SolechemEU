@@ -1,0 +1,61 @@
+{
+  "id": "775",
+  "name": "Isoamyl acetate",
+  "slug": "cas-123-92-2",
+  "cas": "123-92-2",
+  "ec": "204-662-3",
+  "formula": "C7H14O2",
+  "mw": "130.18 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isoamyl acetate (CAS 123-92-2 ), also known as isopentyl acetate, is an ester-based solvent and flavoring agent with a characteristic banana-pear aroma profile. It serves dual commercial roles as a functional solvent in industrial coating and printing applications. The compound is also a key flavoring ingredient in food and fragrance formulations. In food manufacturing, it delivers banana and pear notes to confectionery, beverages, and baked goods. It is recognized under FEMA 2055 for use in flavor systems. Printing and packaging operations use it as a fast-evaporating solvent in nitrocellulose-based inks and lacquers. Its evaporation rate supports print quality and adhesion on flexible substrates. Personal care formulators incorporate it into fragrance blends and nail care products. In these applications, it contributes both scent character and solvent function. It also acts as a carrier solvent in aerosol formulations and specialty coatings requiring controlled viscosity and clean evaporation. This versatility makes it a staple in chemical manufacturing. Isoamyl acetate is supplied as a clear liquid in drum and IBC quantities. Food-grade material is available meeting FCC specifications, while technical-grade is offered for industrial solvent applications. Purity levels typically range from 98% to 99%+ depending on the end use. Contact us for supply of Isoamyl acetate Request Quote",
+  "physicalProperties": "Melting Point: -78.5 °C; Boiling Point: 142.5 °C; Density: 0.876 g/cm³ @ Temp: 15 °C; Flash Point: 77 °F; Appearance: All isomers of amyl acetate are highly flammable, colorless to yellow, watery liquids.; Color: Clear Colorless; Odor: Banana-like odor; Form: neat; Water Solubility: 0.20 g/100 mL. Slightly soluble; Vapor Pressure: 5 mm Hg ( 25 °C); Refractive Index: n 20/D 1.4(lit.); pH: 7; Log P: 2.7 at 35℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H316 Causes mild skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153900; UN Number: 1104; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "isopentyl ethanoate | isopentyl acetate | isoamyl ethanoate | i-amyl acetate | CH3C(O)O(CH2)2CH(CH3)2 | beta-methyl butyl acetate | banana oil",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29153900",
+  "similarProducts": [
+    "cas-106-27-4",
+    "cas-110-19-0",
+    "cas-628-63-7",
+    "cas-123-51-3",
+    "cas-108-21-4",
+    "cas-2035-99-6",
+    "cas-102-19-2",
+    "cas-7779-65-9",
+    "cas-2306-91-4",
+    "cas-34377-38-3",
+    "cas-6309-51-9",
+    "cas-97-85-8",
+    "cas-624-54-4",
+    "cas-125-12-2",
+    "cas-7779-65-9",
+    "cas-2306-91-4",
+    "cas-34377-38-3",
+    "cas-6309-51-9",
+    "cas-97-85-8",
+    "cas-624-54-4",
+    "cas-125-12-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-123-92-2/"
+}

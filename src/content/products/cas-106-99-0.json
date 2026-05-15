@@ -1,0 +1,62 @@
+{
+  "id": "487",
+  "name": "1,3-butadiene",
+  "slug": "cas-106-99-0",
+  "cas": "106-99-0",
+  "ec": "203-450-8",
+  "formula": "C4H6",
+  "mw": "54.09 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,3-Butadiene (CAS 106-99-0 ), commonly abbreviated as BD, is a gaseous diene monomer that serves as the primary building block for synthetic rubber and a broad range of polymer systems. Divinyl is an older recognized synonym occasionally encountered in legacy technical literature. Its commercial significance lies almost entirely in large-scale polymerization processes. It forms the backbone of elastomers and copolymer resins consumed across multiple industries. BD is the principal monomer in the production of polybutadiene rubber (PBR) and styrene-butadiene rubber (SBR). Both of these materials are processed into automotive tires, conveyor belts, and mechanical seals. In plastics, it is copolymerized with acrylonitrile and styrene to produce ABS resin. This structural material is used in automotive components, electronics housings, and consumer goods. Nitrile rubber (NBR) is a critical material for fuel-resistant hoses, gaskets, and industrial gloves. Styrene-butadiene latex derived from BD is also used as a binder in paper coatings and carpet backing adhesives. 1,3-Butadiene is supplied as a liquefied gas under pressure. It is typically delivered in cylinders or bulk pressurized tankers for industrial-volume buyers. It is available in polymerization-grade and technical-grade specifications for various uses. Polymerization grade commands strict purity thresholds to prevent inhibitor interference in downstream processes. This ensures high performance in the manufacturing of advanced synthetic materials. Contact us for supply of 1,3-butadiene Request Quote",
+  "physicalProperties": "Melting Point: -108.966 °C; Boiling Point: -4.5 °C @ Press: 760 Torr; Density: 0.6149 g/cm³ @ Temp: 25 °C; Flash Point: −105 °F; Appearance: colourless gas, or pressurised liquid (odour TLV 1.6 ppm); Color: Colorless to Almost colorless; Form: Colorless gas; Water Solubility: 735mg/L(25 ºC); Vapor Pressure: 1863 mm Hg ( 21 °C); Refractive Index: 1.4292; Log P: 1.99 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS04 GHS08 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H340 May cause genetic defects H350 May cause cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29012410; UN Number: 1010; ADR Class: 2.1; Storage Class: 2A - Gases; WGK (Germany): 2",
+  "otherNames": "erythrene | divinyl | bivinyl | alpha,gamma-butadiene | butadiene | buta-1,3-diene | Butadieen | BD",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29012410",
+  "similarProducts": [
+    "cas-9003-17-2",
+    "cas-110-63-4",
+    "cas-107-88-0",
+    "cas-407-70-5",
+    "cas-110-64-5",
+    "cas-2082-81-7",
+    "cas-110-65-6",
+    "cas-1189-08-8",
+    "cas-141-32-2",
+    "cas-9010-85-9",
+    "cas-109-65-9",
+    "cas-87-68-3",
+    "cas-9003-28-5",
+    "cas-9003-55-8",
+    "cas-1189-08-8",
+    "cas-141-32-2",
+    "cas-9010-85-9",
+    "cas-109-65-9",
+    "cas-87-68-3",
+    "cas-9003-28-5",
+    "cas-9003-55-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-99-0/"
+}

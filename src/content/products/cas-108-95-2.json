@@ -1,0 +1,64 @@
+{
+  "id": "544",
+  "name": "Phenol",
+  "slug": "cas-108-95-2",
+  "cas": "108-95-2",
+  "ec": "203-632-7",
+  "formula": "C6H6O",
+  "mw": "94.11 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phenol (CAS 108-95-2 ), also recognized by its FEMA 3223 designation, is a high-volume industrial chemical used as a building block for resins, pharmaceutical intermediates, and specialty chemicals. It functions as a disinfectant, preservative, and reactive intermediate across manufacturing sectors ranging from polymer production to personal care. In pharmaceutical manufacturing, it serves as a key intermediate. It is used in the synthesis of analgesics, antiseptics, and active pharmaceutical ingredients, and is used as a preservative in injectable formulations. Resin and polymer producers rely on it as a primary feedstock. It is used for phenol-formaldehyde resins found in adhesives, laminates, and molded industrial components. In personal care and cosmetics, it functions as a pH buffer and antimicrobial agent in topical formulations. Textile and leather processing operations use phenol-derived compounds for dyestuff synthesis and as a carrier solvent in fiber dyeing processes. Phenol is supplied as a liquefied melt or in solid crystalline flake form. Liquid is the standard for bulk industrial shipment. Available grades include USP , BP , and Ph. Eur. for pharmaceutical applications, as well as technical grade for industrial resin and chemical synthesis use. Bulk quantities are typically shipped in heated ISO tanks or steel drums to maintain product in liquid state. This ensures the material remains ready for immediate use in large-scale manufacturing environments. Contact us for supply of Phenol Request Quote",
+  "physicalProperties": "Melting Point: 40.91 °C; Boiling Point: 181.75 °C @ Press: 760.0 Torr; Density: 1.071 g/cm³; Flash Point: 175 °F; Appearance: Phenol is a colorless to light-pink, crystalline solid. Sweet, acrid odor. Phenol liquefies by mixing with about 8% water. The Odor Threshold in air is 0.04 ppm and in water is 7.9 ppm.; Color: faintly yellow; Odor: Sweet, medicinal odor detectable at 0.06 ppm; Form: liquid; Water Solubility: 8 g/100 mL; Vapor Pressure: 0.09 psi ( 55 °C); Refractive Index: n 20/D 1.53; pH: 3.0-6.0 (25℃, 0.5M in H2O); Log P: 1.47 at 30℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H340 May cause genetic defects H341 Suspected of causing genetic defects H360 May damage fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29071100; UN Number: 2821; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "phenol homopolymer | phenol alcohol | phenic alcohol | phenic acid | phenic | monohydroxy benzene | hydroxy-benzene | carbolic oil",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29071100",
+  "similarProducts": [
+    "cas-92-69-3",
+    "cas-62-44-2",
+    "cas-122-99-6",
+    "cas-1333-39-7",
+    "cas-9004-78-8",
+    "cas-701-64-4",
+    "cas-100-51-6",
+    "cas-60-12-8",
+    "cas-1335-12-2",
+    "cas-15435-29-7",
+    "cas-90-43-7",
+    "cas-770-35-4",
+    "cas-9003-35-4",
+    "cas-77-09-8",
+    "cas-60-12-8",
+    "cas-1335-12-2",
+    "cas-15435-29-7",
+    "cas-90-43-7",
+    "cas-770-35-4",
+    "cas-9003-35-4",
+    "cas-77-09-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-95-2/"
+}

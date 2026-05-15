@@ -1,0 +1,61 @@
+{
+  "id": "1798",
+  "name": "tert-butylaminoethanol",
+  "slug": "cas-4620-70-6",
+  "cas": "4620-70-6",
+  "ec": "225-034-5",
+  "formula": "C6H15NO",
+  "mw": "117.19 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butylaminoethanol (CAS 4620-70-6 ) is a bifunctional amino alcohol combining both amine and hydroxyl reactivity in a single molecule. It functions as a pH regulator, corrosion inhibitor, and reactive intermediate across industrial and specialty chemical formulations. In water treatment and metalworking fluids, it provides corrosion inhibition by neutralizing acidic species and forming protective complexes on metal surfaces. This dual functionality makes it a versatile component for complex chemical systems. Coatings and adhesive formulators use it as a neutralizing amine to adjust pH in waterborne resin systems, improving stability and film formation. This ensures that the final product maintains its integrity and performance over time. Personal care manufacturers incorporate it into emulsion systems where controlled alkalinity and compatibility with surfactant blends are required. Its unique structure allows for precise control over the chemical environment of the formulation. In lubricant formulations, it acts as a functional additive that combines buffering capacity with surface-active behavior to extend fluid service life. This helps in maintaining the efficiency of machinery and reducing maintenance costs. Tert-butylaminoethanol is supplied as a clear liquid in standard drum and IBC packaging suited to industrial procurement volumes. This ensures that large-scale operations can maintain a steady supply of this essential chemical intermediate. Technical grade is the primary commercial offering, with purity specifications typically at 99% or above. High purity levels are critical for ensuring consistent results in demanding industrial and specialty chemical applications. Buyers should confirm concentration and moisture content specifications with suppliers when sourcing for sensitive formulation applications. Proper documentation and quality assurance are vital for maintaining high production standards. Contact us for supply of tert-butylaminoethanol Request Quote",
+  "physicalProperties": "Melting Point: 44 °C; Boiling Point: 81 °C @ Press: 16 Torr; Density: 0.867 g/mL at 25 °C(lit.); Flash Point: 156 °F; Appearance: white solid or crystalline needles; Form: low melting solid; Refractive Index: 1.4444 (estimate)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2922 19 00; UN Number: 2923; ADR Class: 8; Packing Group: II; Storage Class: 6.1A - Combustible, acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "2-(tert-Butylamino)ethanol | Ethanol, 2-[(1,1-dimethylethyl)amino]- | 2-((1,1-Dimethylethyl)amino)ethanol | 72174ZJW10 | Ethanol, 2-(tert-butylamino)- | T-BUTYLAMINOETHANOL",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "2922 19 00",
+  "similarProducts": [
+    "cas-2160-93-2",
+    "cas-75-64-9",
+    "cas-111-75-1",
+    "cas-102-71-6",
+    "cas-75-65-0",
+    "cas-2212-32-0",
+    "cas-102-82-9",
+    "cas-102-81-8",
+    "cas-107-58-4",
+    "cas-102-79-4",
+    "cas-111-41-1",
+    "cas-3775-90-4",
+    "cas-36016-38-3",
+    "cas-139-87-7",
+    "cas-102-81-8",
+    "cas-107-58-4",
+    "cas-102-79-4",
+    "cas-111-41-1",
+    "cas-3775-90-4",
+    "cas-36016-38-3",
+    "cas-139-87-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4620-70-6/"
+}

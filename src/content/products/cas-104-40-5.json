@@ -1,0 +1,66 @@
+{
+  "id": "439",
+  "name": "4-nonylphenol",
+  "slug": "cas-104-40-5",
+  "cas": "104-40-5",
+  "ec": "203-199-4",
+  "formula": "C15H24O",
+  "mw": "220.35 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Water Treatment",
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking",
+    "Printing & Packaging",
+    "Textile, Leather & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Nonylphenol (CAS 104-40-5 ), also known as p-Nonylphenol, is an alkylphenol intermediate used across industrial chemistry as a precursor to nonionic surfactants and as a functional additive in its own right. It serves as a building block for ethoxylated surfactants, antioxidants, and polymer stabilizers in a broad range of manufacturing processes. Its primary industrial role is as a raw material for nonylphenol ethoxylates. These ethoxylates are used as emulsifiers, dispersants, and wetting agents in textile processing, agricultural formulations, and industrial cleaners. In plastics and polymer manufacturing, it is reacted to produce antioxidant stabilizers. These stabilizers protect polyolefins and rubber compounds during processing and service life. Metalworking and lubricant formulators use it as a base for extreme-pressure additive packages and corrosion inhibitors. It is frequently utilized in cutting fluids and gear oils. In leather processing and paper manufacturing, it contributes to emulsification and surface modification steps during wet finishing operations. 4-Nonylphenol is supplied as a liquid at ambient conditions, typically in drum and IBC quantities for industrial buyers. It is available in technical grade, with purity specifications commonly at 99% or above. Purity levels depend on the intended downstream synthesis. Bulk supply in tanker quantities is standard for large-scale surfactant and additive producers requiring consistent chemical feedstock for high-volume manufacturing. Contact us for supply of 4-nonylphenol Request Quote",
+  "physicalProperties": "Melting Point: 42 °C; Boiling Point: 150-152 °C @ Press: 3-4 Torr; Density: 0.9273 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: viscous colourless liquid with a phenol-like smell; Color: Clear colorless; Odor: Phenol like; Form: neat; Water Solubility: 6.35mg/L(25 ºC); Vapor Pressure: 0.109Pa at 25℃; Refractive Index: n 20/D 1.511(lit.); Log P: 5.76",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H361 Suspected of damaging fertility or the unborn child H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 3145; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "para Nonyl phenol | p-Nonylphenol | p-n-Nonylphenol | 4-n-Nonylphenol | Phenol, 4-nonyl- | Phenol, p-nonyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-84852-15-3",
+    "cas-25154-52-3",
+    "cas-26543-97-5",
+    "cas-20427-84-3",
+    "cas-127087-87-0",
+    "cas-1806-26-4",
+    "cas-26027-38-3",
+    "cas-68412-54-4",
+    "cas-9016-45-9",
+    "cas-140-66-9",
+    "cas-53610-02-9",
+    "cas-9014-93-1",
+    "cas-143-08-8",
+    "cas-27458-94-2",
+    "cas-68412-54-4",
+    "cas-9016-45-9",
+    "cas-140-66-9",
+    "cas-53610-02-9",
+    "cas-9014-93-1",
+    "cas-143-08-8",
+    "cas-27458-94-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-104-40-5/"
+}

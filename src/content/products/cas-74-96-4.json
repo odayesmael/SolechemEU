@@ -1,0 +1,62 @@
+{
+  "id": "141",
+  "name": "Ethyl bromide",
+  "slug": "cas-74-96-4",
+  "cas": "74-96-4",
+  "ec": "200-825-8",
+  "formula": "C2H5Br",
+  "mw": "108.97 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Textile, Leather & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethyl bromide (CAS 74-96-4 ), also known as bromic ether, is a low-boiling alkylating and brominating agent used across pharmaceutical synthesis, agrochemical manufacturing, and specialty chemical production. Its reactivity as an ethylating agent makes it a preferred building block where controlled carbon-chain extension is required at industrial scale. In pharmaceutical manufacturing, it functions as a key intermediate. It is particularly useful where N- or O-ethylation reactions are required. Agrochemical producers use it to prepare herbicide and pesticide intermediates, where precise alkylation chemistry determines efficacy. In plastics and polymer processing, it contributes to flame retardant formulations, helping compounders meet fire-resistance specifications in finished materials. This ensures safety in various industrial applications. Textile and leather processors have historically employed it as a solvent carrier in specialty treatment baths. This is especially true where controlled evaporation rates are operationally critical for the process. Ethyl bromide is supplied as a liquid in drums and ISO tank containers, with quantities ranging from laboratory to bulk industrial volumes. Technical grade is the standard commercial offering for most users. High-purity grades are available to meet pharmaceutical intermediate specifications. Buyers should confirm purity thresholds and stabilizer content with suppliers, as these vary by the intended downstream application. Contact us for supply of Ethyl bromide Request Quote",
+  "physicalProperties": "Melting Point: -119 °C; Boiling Point: 38.2 °C; Density: 1.4612 g/cm³ @ Temp: 20 °C; Flash Point: -23 °C; Appearance: Ethyl bromide is a colorless liquid (turns yellow on contact with air) with an ethereal odor and a burning taste. A gas above the boiling point.; Color: Clear colorless to slightly yellow; Form: Liquid; Water Solubility: 0.91 g/100 mL (20 ºC); Vapor Pressure: 25.32 psi ( 55 °C); Refractive Index: n 20/D 1.425(lit.)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H316 Causes mild skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H333 May be harmful if inhaled H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H373 May causes damage to organs through prolonged or repeated exposure H420 Harms public health and the environment by destroying ozone in the upper atmosphere H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P502 Refer to manufacturer/supplier for information on recovery/recycling. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033999; UN Number: 1891; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "1-Bromoethane | Ethane, bromo- | Bromic ether | Hydrobromic ether | Bromure d'ethyle | Etylu bromek",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29033999",
+  "similarProducts": [
+    "cas-105-36-2",
+    "cas-100-41-4",
+    "cas-109-65-9",
+    "cas-106-93-4",
+    "cas-13360-63-9",
+    "cas-60-29-7",
+    "cas-624-78-2",
+    "cas-93-89-0",
+    "cas-106-95-6",
+    "cas-7726-95-6",
+    "cas-75-04-7",
+    "cas-75-26-3",
+    "cas-75-25-2",
+    "cas-637-92-3",
+    "cas-93-89-0",
+    "cas-106-95-6",
+    "cas-7726-95-6",
+    "cas-75-04-7",
+    "cas-75-26-3",
+    "cas-75-25-2",
+    "cas-637-92-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-74-96-4/"
+}

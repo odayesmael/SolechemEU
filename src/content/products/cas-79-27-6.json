@@ -1,0 +1,61 @@
+{
+  "id": "219",
+  "name": "1,1,2,2-tetrabromoethane",
+  "slug": "cas-79-27-6",
+  "cas": "79-27-6",
+  "ec": "201-191-5",
+  "formula": "C2H2Br4",
+  "mw": "345.65 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,1,2,2-Tetrabromoethane (CAS 79-27-6 ), also known as TBE or Muthmann's liquid, is a dense halogenated solvent with a specific gravity significantly above most organic liquids. This property makes it a selective tool for density-based separation and analytical processes across several industrial sectors. In mineral processing and ore analysis, TBE functions as a heavy liquid medium for sink-float separation, allowing laboratories and mining operations to isolate minerals by density without mechanical crushing. Pharmaceutical and chemical manufacturers use it as a solvent in specialized synthesis steps where halogenated media are required for reaction control or intermediate processing. It provides a stable environment for complex chemical transformations. In biotechnology and life sciences, TBE serves as a reference liquid and density gradient medium in laboratory-scale separations and microscopy preparation workflows. Its high density also makes it a calibration reference in analytical instrumentation. The product is used for quality control in research environments where precise density measurements are required. 1,1,2,2-Tetrabromoethane is supplied as a liquid, typically in reagent-grade and technical-grade specifications. Reagent-grade material is available for laboratory and analytical applications, while technical-grade supply supports larger-scale industrial use. It is commonly packaged in smaller quantities reflecting its specialized demand profile. Contact us for supply of 1,1,2,2-tetrabromoethane Request Quote",
+  "physicalProperties": "Melting Point: 0 °C; Boiling Point: 151 °C @ Press: 54 Torr; Density: 2.9656 g/cm³ @ Temp: 20 °C; Flash Point: 118-120°C/15mm; Appearance: Acetylene tetrabromide is a combustible, colorless to yellow liquid. Strong odor.; Color: Clear; Form: Liquid; Water Solubility: 0.63 g/L (20 ºC); Vapor Pressure: 0.1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.637(lit.)",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033036; UN Number: 2504; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "TBE | Symmetrical tetrabromoethane | Muthmann's liquid | Acetylene tetrabromide | sym-Tetrabromoethane | Ethane, 1,1,2,2-tetrabromo- | s-Tetrabromoethane | 1,1,2,2-Tetrabromaethan",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29033036",
+  "similarProducts": [
+    "cas-2311-14-0",
+    "cas-106-93-4",
+    "cas-1634-04-4",
+    "cas-183658-27-7",
+    "cas-637-92-3",
+    "cas-75-25-2",
+    "cas-26040-51-7",
+    "cas-143-22-6",
+    "cas-74-96-4",
+    "cas-79-01-6",
+    "cas-4559-86-8",
+    "cas-97-94-9",
+    "cas-23783-42-8",
+    "cas-55934-93-5",
+    "cas-143-22-6",
+    "cas-74-96-4",
+    "cas-79-01-6",
+    "cas-4559-86-8",
+    "cas-97-94-9",
+    "cas-23783-42-8",
+    "cas-55934-93-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-27-6/"
+}

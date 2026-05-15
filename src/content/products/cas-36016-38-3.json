@@ -1,0 +1,58 @@
+{
+  "id": "3236",
+  "name": "tert-butyl n-hydroxycarbamate",
+  "slug": "cas-36016-38-3",
+  "cas": "36016-38-3",
+  "ec": "252-836-2",
+  "formula": "C5H11NO3",
+  "mw": "133.15 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyl n-hydroxycarbamate (CAS 36016-38-3 ), commonly sourced under the name N-Boc-hydroxylamine, is a protected hydroxylamine reagent used in pharmaceutical synthesis and specialty chemical manufacturing. It provides a stable, handleable form of hydroxylamine functionality, enabling controlled introduction of the N–OH group into target molecules without the hazards associated with free hydroxylamine. In pharmaceutical intermediate synthesis, it serves as a key building block for constructing isoxazolines, hydroxyurea derivatives, and other nitrogen-containing scaffolds found in active pharmaceutical ingredients. Medicinal chemistry programs use it to install protected hydroxylamine groups during multi-step synthesis, with the Boc protecting group removed under standard acidic conditions at a late stage. Catalyst development programs employ it as a precursor to nitroxide-based and N-oxyl catalysts used in oxidation reactions. Specialty formulation research has explored its biocidal activity. Tert-butyl n-hydroxycarbamate is supplied as a white to off-white crystalline solid. It is available in research quantities through to multi-kilogram commercial lots for industrial use. Purity grades typically range from 97% to 99%+ as confirmed by HPLC or titration. Supply is generally positioned for pharmaceutical and fine chemical use with documentation packages including CoA. Spectral data is standard for GMP-adjacent procurement. This material is handled according to strict safety protocols to ensure stability and performance in sensitive chemical reactions. Contact us for supply of tert-butyl n-hydroxycarbamate Request Quote",
+  "physicalProperties": "Melting Point: 54-56 °C; Boiling Point: 245.66°C (rough estimate); Density: 1.2510 (rough estimate); Appearance: White to light pink crystalline powder; Color: White to light pink; Form: Crystalline Powder; Water Solubility: Slightly soluble in water.; Refractive Index: 1.4120 (estimate)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29280090; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "N-Boc-hydroxylamine | N-tert-Butoxycarbonylhydroxylamine | tert-Butyl hydroxycarbamate | Carbamic acid, hydroxy-, 1,1-dimethylethyl ester | GJV9GPX5T3 | n-boc-hydroxyamine | 1,1-dimethylethyl N-hydroxycarbamate | Carbamic acid, N-hydroxy-, 1,1-dimethylethyl ester",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29280090",
+  "similarProducts": [
+    "cas-24424-99-5",
+    "cas-75-64-9",
+    "cas-4620-70-6",
+    "cas-2592-95-2",
+    "cas-15260-10-3",
+    "cas-98-29-3",
+    "cas-955359-35-0",
+    "cas-80029-43-2",
+    "cas-107-58-4",
+    "cas-5470-11-1",
+    "cas-76114-73-3",
+    "cas-75-91-2",
+    "cas-865-48-5",
+    "cas-540-88-5",
+    "cas-80029-43-2",
+    "cas-107-58-4",
+    "cas-5470-11-1",
+    "cas-76114-73-3",
+    "cas-75-91-2",
+    "cas-865-48-5",
+    "cas-540-88-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-36016-38-3/"
+}

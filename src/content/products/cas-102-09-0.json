@@ -1,0 +1,62 @@
+{
+  "id": "418",
+  "name": "Diphenyl carbonate",
+  "slug": "cas-102-09-0",
+  "cas": "102-09-0",
+  "ec": "203-005-8",
+  "formula": "C13H10O3",
+  "mw": "214.22 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diphenyl carbonate (CAS 102-09-0 ), commonly abbreviated as DPC, is a key monomer and reagent used across polymer synthesis, pharmaceutical manufacturing, and specialty chemical production. It functions primarily as a carbonylating agent and transesterification reagent, enabling solvent-free and phosgene-free reaction pathways that are increasingly preferred in industrial processing. In polycarbonate production, DPC reacts with bisphenol A via melt transesterification to produce engineering-grade polycarbonates without the use of phosgene, making this route attractive for manufacturers. Pharmaceutical and agrochemical producers use DPC as a carbonate transfer reagent in the synthesis of carbamates, carbonates, and other active intermediates for various chemical applications. In polycarbonate diol and polyurethane manufacturing, it contributes to building aliphatic carbonate segments that improve hydrolytic stability in the final polymer products and coatings. DPC also appears in fragrance and flavor applications as a low-level fixative and esterification intermediate, though this remains a secondary commercial use for the chemical industry. Diphenyl carbonate is supplied as a white crystalline solid, typically in flake or powder form, and in molten bulk for large-volume polymer-grade supply for industrial facilities. Standard grades include technical and high-purity polymer-grade material, with pharmaceutical-grade material meeting USP or BP standards available for regulated synthesis applications. Contact us for supply of Diphenyl carbonate Request Quote",
+  "physicalProperties": "Melting Point: 80-81 °C; Boiling Point: 302-306 °C; Density: 1.1215 g/cm³ @ Temp: 87 °C; Flash Point: 168 °C; Appearance: white solid; Color: White; Form: Flakes or Crystalline Powder; Water Solubility: Insoluble; Vapor Pressure: 0.014Pa at 20℃; Refractive Index: 1.5090 (estimate); Log P: 3.21 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H371 May cause damage to organs H400 Very toxic to aquatic life H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P308+P316 Get emergency medical help immediately.",
+  "tradeRegulatory": "HS Code: 29209010; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Ph2CO3 | carbonic acid, diphenyl ester | (PhO)2CO | Phenyl carbonate | Phenyl carbonate ((PhO)2CO) | YWV401IDYN | Bisphenyl carbonate | DPC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29209010",
+  "similarProducts": [
+    "cas-108-32-7",
+    "cas-542-52-9",
+    "cas-1680-31-5",
+    "cas-616-38-6",
+    "cas-77-73-6",
+    "cas-101-84-8",
+    "cas-92-52-4",
+    "cas-27138-31-4",
+    "cas-26444-49-5",
+    "cas-701-64-4",
+    "cas-105-58-8",
+    "cas-131-17-9",
+    "cas-96-49-1",
+    "cas-25265-71-8",
+    "cas-27138-31-4",
+    "cas-26444-49-5",
+    "cas-701-64-4",
+    "cas-105-58-8",
+    "cas-131-17-9",
+    "cas-96-49-1",
+    "cas-25265-71-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-102-09-0/"
+}

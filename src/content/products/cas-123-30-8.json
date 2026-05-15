@@ -1,0 +1,61 @@
+{
+  "id": "764",
+  "name": "4-aminophenol",
+  "slug": "cas-123-30-8",
+  "cas": "123-30-8",
+  "ec": "204-616-2",
+  "formula": "C6H7NO",
+  "mw": "109.13 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Aminophenol (CAS 123-30-8 ), also known as p-aminophenol, is a primary aromatic amine used as a key chemical intermediate in pharmaceutical synthesis and specialty chemical manufacturing. Its reactivity toward acylation and coupling reactions makes it a high-demand building block across multiple industrial sectors. In pharmaceuticals, it is the direct precursor to paracetamol. As one of the world's highest-volume analgesic APIs, it is a critical raw material for bulk drug manufacturers. Hair dye formulations rely on it as an oxidative colorant intermediate. It couples with other components to produce permanent color in consumer and professional products. It also functions as a photographic developer intermediate in printing and imaging chemistry. Controlled reduction reactions are essential to image formation in these processes. In rubber and polymer processing, it serves as an antioxidant precursor in the synthesis of stabilizer compounds. These compounds protect against thermal and oxidative degradation. 4-Aminophenol is supplied as an off-white to light brown crystalline powder for various industrial applications. Technical grade is the standard commercial form, with pharmaceutical-grade material available to meet API intermediate specifications including purity requirements aligned with USP standards. Material also meets Ph. Eur. standards for high-purity applications. Packaging typically ranges from small drums to bulk quantities depending on specific customer application requirements. Contact us for supply of 4-aminophenol Request Quote",
+  "physicalProperties": "Melting Point: 189.6-190.2 °C; Boiling Point: 284 °C; Density: 1.29; Flash Point: 189 °C; Appearance: o-Aminophenol appears as colorless needles or as white crystalline substance turning tan to brown on exposure to air.; Color: White to cream; Form: Crystalline Powder; Water Solubility: 1.5 g/100 mL (20 ºC); Vapor Pressure: 0.4 hPa (110 °C); Refractive Index: 1.5444 (estimate); Log P: -0.09-0.04 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed [Warning Acute toxicity, oral] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H341 Suspected of causing genetic defects [Warning Germ cell mutagenicity] H400 Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard] H410 Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H316 Causes mild skin irritation [Warning Skin corrosion/irritation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 28402090; UN Number: 2512; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "p-hydroxyphenylamine | p-hydroxyaniline | 4-hydroxyaniline | 4-aminobenzenol | 4-amino-1-hydroxybenzene | 1-amino-4-hydroxybenzene | p-aminophenol | Phenol, 4-amino-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28402090",
+  "similarProducts": [
+    "cas-591-27-5",
+    "cas-95-55-6",
+    "cas-150-13-0",
+    "cas-106-47-8",
+    "cas-103-90-2",
+    "cas-106-49-0",
+    "cas-62-23-7",
+    "cas-89-63-4",
+    "cas-62-44-2",
+    "cas-106-50-3",
+    "cas-92-69-3",
+    "cas-83949-32-0",
+    "cas-121-87-9",
+    "cas-156-10-5",
+    "cas-89-63-4",
+    "cas-62-44-2",
+    "cas-106-50-3",
+    "cas-92-69-3",
+    "cas-83949-32-0",
+    "cas-121-87-9",
+    "cas-156-10-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-123-30-8/"
+}

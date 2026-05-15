@@ -1,0 +1,63 @@
+{
+  "id": "2735",
+  "name": "Calcium nitrite",
+  "slug": "cas-13780-06-8",
+  "cas": "13780-06-8",
+  "ec": "237-424-2",
+  "formula": "Ca.2HNO2",
+  "mw": "132.09 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Building & Construction"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Calcium nitrite ( CAS 13780-06-8 ) is an inorganic calcium salt used industrially as a corrosion inhibitor and accelerating admixture in construction and infrastructure applications. It is occasionally referenced under the Caswell No. 147 designation in regulatory contexts. Its primary commercial value lies in protecting embedded steel reinforcement from chloride-induced corrosion while simultaneously accelerating early concrete strength development. In reinforced concrete structures, it is dosed as an admixture to extend service life. Bridges, parking decks, marine infrastructure, and below-grade foundations utilize this chemical in chloride-rich environments. Precast concrete producers use it to shorten demolding cycles by accelerating cement hydration at lower temperatures. In oil and gas well cementing, it functions as a set accelerator under cold downhole conditions. The mining sector uses the compound in grouting operations and in corrosion protection treatments for steel ground support elements. Calcium nitrite is supplied primarily as an aqueous solution, with 30% and 35% concentrations being the most commercially standard for concrete admixture use. Solid forms, including powder and granules, are available for specific applications. These solid formats are preferred where liquid handling or freight costs are a constraint. Technical grade is the predominant specification across construction and mining end uses, ensuring reliable performance in heavy industrial settings. Contact us for supply of Calcium nitrite Request Quote",
+  "physicalProperties": "Melting Point: 390 °C; Density: 2.23; Flash Point: 110 °C; Color: white-yellow hexagonal, hexane crystals, crystalline; hygroscopic; Odor: Odorless; Form: white-yellow hexagonal crystals; Water Solubility: slightly soluble alcohol [MER06]; g/100g solution H2O: 38.3 (0°C), 43.0 (18.5°C), 71.2 (91°C); solid phase Ca(NO2)2 · 4H2O (0°C, 18.5°C), Ca(NO2)2 ·2H2O (91°C) [KRU93]; Refractive Index: n 20/D 1.3946; Log P: -2.52 at 20℃",
+  "safetyHandling": "Danger GHS03 GHS05 GHS06 GHS07 GHS09 GHS08 Hazard Statements H272 May intensify fire; oxidizer H301 Toxic if swallowed H302 Harmful if swallowed H318 Causes serious eye damage H319 Causes serious eye irritation H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "calcium dinitrite | Nitrous acid, calcium salt | Caswell No. 147 | Nitrous acid calcium salt (2:1) | EPA Pesticide Chemical Code 076202 | F538343O0T | Calcium nitrite (Ca(NO2)2)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-10124-37-5",
+    "cas-13477-34-4",
+    "cas-156-62-7",
+    "cas-57855-77-3",
+    "cas-7632-00-0",
+    "cas-10043-52-4",
+    "cas-13138-45-9",
+    "cas-7758-09-0",
+    "cas-544-17-2",
+    "cas-7440-70-2",
+    "cas-7789-82-4",
+    "cas-9004-70-0",
+    "cas-10035-04-8",
+    "cas-10141-05-6",
+    "cas-7758-09-0",
+    "cas-544-17-2",
+    "cas-7440-70-2",
+    "cas-7789-82-4",
+    "cas-9004-70-0",
+    "cas-10035-04-8",
+    "cas-10141-05-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13780-06-8/"
+}

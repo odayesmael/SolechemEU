@@ -1,0 +1,61 @@
+{
+  "id": "2536",
+  "name": "Aluminum sulfate",
+  "slug": "cas-10043-01-3",
+  "cas": "10043-01-3",
+  "ec": "233-135-0",
+  "formula": "Al.3/2H2O4S",
+  "mw": "342.2 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Building & Construction",
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Aluminum sulfate (CAS 10043-01-3 ), commonly known as alum, is an inorganic salt used across municipal and industrial sectors primarily as a coagulant and flocculant. It destabilizes suspended particles in water and process streams, enabling their removal through settling or filtration. In water and wastewater treatment, this chemical is dosed into raw water to aggregate colloidal solids, turbidity, and organic matter ahead of clarification stages. This process is essential for ensuring high-quality output in municipal systems. Pulp and paper manufacturers apply it to size paper with rosin, improving water resistance and controlling fiber retention on the wire. This application remains a cornerstone of the industrial manufacturing process for various paper grades. In textile and leather processing, it acts as a mordant and tanning auxiliary, fixing dyes and preparing hides for further treatment. These properties make it indispensable for achieving consistent color and texture in finished goods. Building and construction applications include use as a set accelerator in concrete and cement formulations, reducing cure time under controlled conditions. This allows for faster project completion and improved structural integrity in specific environments. The product is supplied as granules, powder, and liquid solution, with the anhydrous and hydrated forms both commercially available. Standard grades include technical, water treatment, and paper-grade specifications to meet diverse needs. Purity and iron content are tightly controlled depending on the end use to ensure compliance with industrial requirements. Bulk supply in dry or liquid form is standard for high-volume water treatment and industrial buyers globally. Contact us for supply of Aluminum sulfate Request Quote",
+  "physicalProperties": "Melting Point: 770 °C (decomp); Boiling Point: 759.71°C (estimate); Density: 1.61 g/cm³; Appearance: White powder; Color: White; Odor: at 100.00?%. odorless; Form: Powder and/or Chunks; Water Solubility: soluble; Vapor Pressure: 0-0.001Pa at 20-25℃; Log P: -5.08--0.12 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H318 Causes serious eye damage H319 Causes serious eye irritation Precautionary Statements P234 Keep only in original packaging. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P390 Absorb spillage to prevent material damage. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28332200; UN Number: 1760; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "sulfuric acid, aluminum salt (3:2) | sulfuric acid, aluminium salt (3:2) | sulfatodialuminum disulfate | sulfatodialuminium disulfate | papermaker's alum | dialuminum trisulfate | dialuminum sulfate | dialuminium trisulfate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "28332200",
+  "similarProducts": [
+    "cas-7784-25-0",
+    "cas-7784-26-1",
+    "cas-10043-67-1",
+    "cas-7784-24-9",
+    "cas-11138-49-1",
+    "cas-13473-90-0",
+    "cas-10028-22-5",
+    "cas-10102-71-3",
+    "cas-139-12-8",
+    "cas-7784-27-2",
+    "cas-15244-10-7",
+    "cas-7784-13-6",
+    "cas-7446-70-0",
+    "cas-11097-68-0",
+    "cas-10102-71-3",
+    "cas-139-12-8",
+    "cas-7784-27-2",
+    "cas-15244-10-7",
+    "cas-7784-13-6",
+    "cas-7446-70-0",
+    "cas-11097-68-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10043-01-3/"
+}

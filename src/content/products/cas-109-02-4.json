@@ -1,0 +1,62 @@
+{
+  "id": "550",
+  "name": "N-methylmorpholine",
+  "slug": "cas-109-02-4",
+  "cas": "109-02-4",
+  "ec": "203-640-0",
+  "formula": "C5H11NO",
+  "mw": "101.15 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-methylmorpholine (CAS 109-02-4 ), commonly abbreviated as NMM, is a tertiary amine solvent and catalyst used across pharmaceutical synthesis, polymer processing, and specialty coatings. It functions primarily as a base catalyst and reaction solvent where controlled basicity and miscibility with water and organic media are required for process efficiency in industrial settings. In pharmaceutical manufacturing, NMM acts as a non-nucleophilic base in peptide coupling reactions, enabling cleaner synthesis of active pharmaceutical ingredients at scale for global distribution. Polyurethane foam and elastomer producers use it as a catalyst to control gel and blow reaction timing, directly affecting final product density and mechanical performance in various applications. In coatings and adhesive formulations, it promotes crosslinking and improves adhesion to difficult substrates, particularly in industrial and protective coating systems used in harsh environments. Printing ink manufacturers incorporate NMM as a co-solvent to improve pigment dispersion and resin compatibility in high-performance ink systems designed for modern commercial printing needs. N-methylmorpholine is supplied as a liquid in standard bulk quantities including drums and IBC containers, with smaller packaging available for laboratory and specialty use by researchers. Technical grade is the most common commercial specification, with high-purity grades available to meet pharmaceutical manufacturing requirements and specific quality standards for regulated use. Contact us for supply of N-methylmorpholine Request Quote",
+  "physicalProperties": "Melting Point: −66 °C(lit.); Boiling Point: 115 °C; Density: 0.91406 g/cm³ @ Temp: 25.00 °C; Flash Point: 75 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: >500 g/L (20 ºC); Vapor Pressure: 18 mm Hg ( 20 °C); Refractive Index: n 20/D 1.435(lit.); pH: 10.6 (50g/l, H2O, 20℃); Log P: -0.32 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H332 Harmful if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 2535; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "4-Methylmorpholine | Morpholine, 4-methyl- | 1-Methylmorpholine | 11P91ANU5X | RefChem:99901 | NMM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-100-74-3",
+    "cas-7529-22-8",
+    "cas-872-50-4",
+    "cas-4394-85-8",
+    "cas-109-01-3",
+    "cas-110-91-8",
+    "cas-616-47-7",
+    "cas-924-42-5",
+    "cas-109-83-1",
+    "cas-76326-99-3",
+    "cas-105-83-9",
+    "cas-5625-90-1",
+    "cas-75-52-5",
+    "cas-123-00-2",
+    "cas-924-42-5",
+    "cas-109-83-1",
+    "cas-76326-99-3",
+    "cas-105-83-9",
+    "cas-5625-90-1",
+    "cas-75-52-5",
+    "cas-123-00-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-02-4/"
+}

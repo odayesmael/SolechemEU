@@ -1,0 +1,62 @@
+{
+  "id": "2992",
+  "name": "Tert-dodecylmercaptan",
+  "slug": "cas-25103-58-6",
+  "cas": "25103-58-6",
+  "ec": "246-619-1",
+  "formula": "C12H26S",
+  "mw": "202.40 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-dodecylmercaptan (CAS 25103-58-6 ), also known as tert-dodecanethiol and commonly abbreviated as TDM, is a branched-chain aliphatic thiol used primarily as a chain transfer agent in free-radical polymerization. Its ability to control molecular weight during polymer synthesis makes it a critical process chemical across rubber, plastics, and coatings manufacturing. TDM is most extensively used in the production of synthetic rubber. It is particularly vital for styrene-butadiene rubber (SBR) and acrylonitrile-butadiene-styrene (ABS), where it regulates polymer chain length to achieve target mechanical properties. This ensures consistency in industrial manufacturing. In emulsion polymerization for latex coatings and adhesives, it controls viscosity and film-forming characteristics of the final product. Pharmaceutical manufacturers use TDM as a reagent and intermediate in synthesis processes. These processes often require controlled thiol reactivity for precise chemical outcomes. At trace concentrations, it also functions as a flavoring agent in food applications, where sulfur-containing compounds contribute to savory profiles. Tert-dodecylmercaptan is supplied as a liquid, typically in drum and IBC quantities suited to industrial-scale polymerization operations. Technical grade is the standard commercial offering for most industrial buyers. High-purity grades are available for pharmaceutical and specialty applications. Specifications vary by supplier, and buyers should confirm purity thresholds and chain-length distribution profiles when sourcing for polymer-grade use. Contact us for supply of Tert-dodecylmercaptan Request Quote",
+  "physicalProperties": "Melting Point: -7.5°C; Boiling Point: 233 °C (approx); Density: 0.855 g/cm³ @ Temp: 20 °C; Flash Point: 195 °F; Color: Colorless to Almost colorless; Form: clear liquid; Water Solubility: <0.1 g/100 mL at 23 ºC; Vapor Pressure: 1.33 hPa (25.5 °C); Refractive Index: 1.4486 (estimate); Log P: 7.43 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H227 Combustible liquid H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H336 May cause drowsiness or dizziness H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "tert-dodecanethiol | 2,3,3,4,4,5-hexamethylhexane-2-thiol | tert-dodecyl mercaptan | TDM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-112-55-0",
+    "cas-75-66-1",
+    "cas-106264-79-3",
+    "cas-25513-64-8",
+    "cas-137-26-8",
+    "cas-57583-35-4",
+    "cas-103-34-4",
+    "cas-624-92-0",
+    "cas-97-74-5",
+    "cas-111-88-6",
+    "cas-144-19-4",
+    "cas-111-18-2",
+    "cas-18162-48-6",
+    "cas-16215-21-7",
+    "cas-624-92-0",
+    "cas-97-74-5",
+    "cas-111-88-6",
+    "cas-144-19-4",
+    "cas-111-18-2",
+    "cas-18162-48-6",
+    "cas-16215-21-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-25103-58-6/"
+}

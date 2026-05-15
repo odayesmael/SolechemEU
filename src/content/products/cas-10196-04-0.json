@@ -1,0 +1,61 @@
+{
+  "id": "2569",
+  "name": "Ammonium sulfite",
+  "slug": "cas-10196-04-0",
+  "cas": "10196-04-0",
+  "ec": "233-484-9",
+  "formula": "H3N.1/2H2O3S",
+  "mw": "116.14 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Food & Nutrition",
+    "Water Treatment",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium sulfite (CAS 10196-04-0 ), also referenced as diammonium sulfite, is an inorganic salt used industrially as a reducing and oxygen-scavenging agent. It functions primarily as a preservative and process chemical. In pulp and paper processing, it acts as a delignification aid, helping break down lignin during chemical pulping to improve fiber yield and paper quality. This ensures high-performance material output. Textile and leather operations use it as a reducing agent in dyeing and tanning processes. Controlled reduction chemistry is critical to achieving consistent color and material finish across large production batches. In water treatment, it serves as an oxygen scavenger to protect boiler systems and pipelines from oxidative corrosion. This application is vital for maintaining the longevity of industrial infrastructure and equipment. Food and nutrition applications include its use as a preservative and antioxidant to inhibit microbial growth. It prevents oxidative degradation in certain processed food products to maintain shelf stability and safety. Ammonium sulfite is typically supplied as a white crystalline powder or in aqueous solution form. Technical grade is the most common specification for industrial applications requiring high-volume chemical processing. Food-grade material is available for use in regulated food processing environments. Buyers should confirm purity levels and solution concentration with suppliers, as these vary significantly by the intended application. Compliance with international quality standards such as FCC or USP may be required depending on the region. Always review the technical data sheet to ensure the material meets your specific requirements. Contact us for supply of Ammonium sulfite Request Quote",
+  "physicalProperties": "Melting Point: 60°C; Density: 1.41（25℃）; Appearance: Ammonium sulfite is a colorless to yellow crystalline (sand-like or sugar-like) solid, normally sold or used in a 40% solution.; Form: solid (rough estimate); Water Solubility: 642g/L at 25℃; pH: 7.5-7.6 (20°C in H2O); Log P: -1.591 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "",
+  "otherNames": "Ammonium sulphite | Diammonium sulfite | Diammonium sulfonate | 8LF589Y5GD | Sulfurous acid, diammonium salt | Sulfurous acid, ammonium salt | RefChem:112210 | Sulfurous acid, ammonium salt (1:2)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-12135-76-1",
+    "cas-7783-20-2",
+    "cas-7757-83-7",
+    "cas-7787-39-5",
+    "cas-5329-14-6",
+    "cas-8061-53-8",
+    "cas-14808-79-8",
+    "cas-7631-90-5",
+    "cas-7446-09-5",
+    "cas-7784-25-0",
+    "cas-10257-55-3",
+    "cas-10039-54-0",
+    "cas-16919-19-0",
+    "cas-16731-55-8",
+    "cas-7631-90-5",
+    "cas-7446-09-5",
+    "cas-7784-25-0",
+    "cas-10257-55-3",
+    "cas-10039-54-0",
+    "cas-16919-19-0",
+    "cas-16731-55-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10196-04-0/"
+}

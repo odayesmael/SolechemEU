@@ -1,0 +1,61 @@
+{
+  "id": "205",
+  "name": "2-butanol",
+  "slug": "cas-78-92-2",
+  "cas": "78-92-2",
+  "ec": "201-158-5",
+  "formula": "C4H10O",
+  "mw": "74.12 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Food & Nutrition",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Butanol (CAS 78-92-2 ), also sold as sec-butanol and sec-butyl alcohol, is a mid-chain secondary alcohol used primarily as an industrial solvent and chemical intermediate. Its secondary hydroxyl structure makes it a practical building block for producing methyl ethyl ketone (MEK) and other downstream chemicals. Buyers source it across food, personal care, and polymer manufacturing. In flavor applications, 2-butanol contributes to the production of FEMA -listed flavor compounds and serves as a solvent carrier in fragrance formulations. Polymer and coatings manufacturers use it as a reactive solvent in curing and cross-linking systems, where controlled evaporation rate affects film formation. Personal care formulators incorporate it as a solvent for resins, fixatives, and active ingredients in aerosol and leave-on products for various applications. It also functions as a stabilizer in certain chemical processes where secondary alcohols are preferred over primary alternatives to limit over-oxidation during the reaction. 2-Butanol is supplied as a clear liquid in drum, IBC, and bulk tanker quantities. Technical grade is the most common commercial specification for industrial use. Food-grade material is available for flavor and fragrance applications. Buyers should confirm grade suitability against FCC standards depending on end-use requirements. Contact us for supply of 2-butanol Request Quote",
+  "physicalProperties": "Melting Point: -114 °C; Boiling Point: 99.5 °C; Density: 0.8063 g/cm³ @ Temp: 20 °C; Flash Point: 80 °F; Appearance: Colourless liquid; Color: Colorless; Odor: Strong, pleasant.; Form: Liquid; Water Solubility: 12.5 g/100 mL (20 ºc); Vapor Pressure: 12.5 mm Hg ( 20 °C); Refractive Index: n 20/D 1.397(lit.); pH: 7 (20°C); Log P: 0.610",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H303 May be harmful if swallowed H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051490; UN Number: 1120; ADR Class: 3; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "sec-butyl alcohol | sec-butanol | s-butyl alcohol | methyl ethyl carbinol | ethyl methyl carbinol | butanol-2 | 2-hydroxybutane | 2-butyl alcohol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29051490",
+  "similarProducts": [
+    "cas-71-36-3",
+    "cas-137-32-6",
+    "cas-75-65-0",
+    "cas-78-83-1",
+    "cas-110-64-5",
+    "cas-123-86-4",
+    "cas-3913-02-8",
+    "cas-590-01-2",
+    "cas-2517-43-3",
+    "cas-56539-66-3",
+    "cas-111-76-2",
+    "cas-6169-06-8",
+    "cas-107-88-0",
+    "cas-138-22-7",
+    "cas-590-01-2",
+    "cas-2517-43-3",
+    "cas-56539-66-3",
+    "cas-111-76-2",
+    "cas-6169-06-8",
+    "cas-107-88-0",
+    "cas-138-22-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-78-92-2/"
+}

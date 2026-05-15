@@ -1,0 +1,63 @@
+{
+  "id": "469",
+  "name": "p-Cresol",
+  "slug": "cas-106-44-5",
+  "cas": "106-44-5",
+  "ec": "203-398-6",
+  "formula": "C7H8O",
+  "mw": "108.14 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Food & Nutrition",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "p-Cresol (CAS 106-44-5 ), also known by its FEMA 2337 designation in flavor applications, is a methylphenol derivative used across fragrance, pharmaceutical, and industrial chemistry. It acts as a chemical building block and functional additive, serving as a precursor, preservative, and stabilizer depending on the specific formulation context and industrial requirements. In flavors and fragrances, it contributes phenolic, smoky, and medicinal character to food flavorings and fine fragrance compositions at controlled use levels for optimal sensory profiles. Pharmaceutical manufacturers use it as an intermediate in synthesizing antioxidants, disinfectants, and active pharmaceutical ingredients, ensuring high performance in medical applications. In coatings and polymer systems, it functions as an antioxidant stabilizer to protect resins and elastomers from oxidative degradation during processing and throughout their service life. Personal care formulators incorporate it at low concentrations for its preservative and antimicrobial properties in select cosmetic systems, maintaining product integrity and safety. The product is supplied as a liquid or low-melting solid, depending on temperature conditions during handling. It is available in technical grade for industrial and coating applications. Higher-purity grades are available for pharmaceutical intermediate and flavor use. Packaging typically ranges from drums to ISO containers for bulk procurement and global distribution. Contact us for supply of p-Cresol Request Quote",
+  "physicalProperties": "Melting Point: 35.5 °C; Boiling Point: 201.8 °C; Density: 1.0185 g/cm³ @ Temp: 40 °C; Flash Point: 193 °F; Appearance: Cresol is a mixture of the three isomeric cresols, o-, m-, and p-cresol. Cresols are slightly soluble in water. m-Isomer: Colorless or yellow liquid with characteristic odor.; Color: Colorless to light yellow, may darken on exposure to light; Odor: at 0.10 % in dipropylene glycol. phenolic narcissus animal mimosa; Form: Crystalline Solid or Liquid; Water Solubility: 20 g/L (20 ºC); Vapor Pressure: 1 mm Hg ( 20 °C); Refractive Index: nD20 1.5395; Log P: 1.94",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS07 GHS09 Hazard Statements H301 Toxic if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H351 Suspected of causing cancer H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H301+H311 Toxic if swallowed or in contact with skin Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29071200; UN Number: 3455; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 1",
+  "otherNames": "para-cresol | 4-methylphenol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29071200",
+  "similarProducts": [
+    "cas-1319-77-3",
+    "cas-15733-22-9",
+    "cas-108-95-2",
+    "cas-59-50-7",
+    "cas-90-05-1",
+    "cas-100-09-4",
+    "cas-68610-51-5",
+    "cas-118-55-8",
+    "cas-92-69-3",
+    "cas-108-46-3",
+    "cas-100-66-3",
+    "cas-93-58-3",
+    "cas-7400-08-0",
+    "cas-98-86-2",
+    "cas-118-55-8",
+    "cas-92-69-3",
+    "cas-108-46-3",
+    "cas-100-66-3",
+    "cas-93-58-3",
+    "cas-7400-08-0",
+    "cas-98-86-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-44-5/"
+}

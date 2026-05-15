@@ -1,0 +1,59 @@
+{
+  "id": "1110",
+  "name": "Ammonium formate",
+  "slug": "cas-540-69-2",
+  "cas": "540-69-2",
+  "ec": "208-753-9",
+  "formula": "CH2O2.H3N",
+  "mw": "63.056 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium formate (CAS 540-69-2 ), commonly abbreviated HCOONH4, is the ammonium salt of formic acid used across pharmaceutical, food, and cosmetic manufacturing. It functions primarily as a pH buffer and mobile phase reagent. This chemical serves as a catalytic hydrogen donor in industrial and laboratory-scale processes. In pharmaceutical manufacturing, it is a standard additive in HPLC and LC-MS mobile phases to improve peak resolution. It enhances ionization efficiency for analytical method development and acts as a catalytic hydrogen source in transfer hydrogenation reactions. This enables selective reduction of organic compounds without high-pressure hydrogen gas. Food-grade applications include use as a preservative and pH-regulating agent in certain processed food systems. In personal care formulations, it supports buffering and stability in products where controlled acidity is critical. The compound ensures shelf life and ingredient compatibility in various cosmetic applications. It is supplied as a white crystalline solid, typically in powder or granular form for easy handling and processing. It is available in analytical-reagent (AR) and HPLC-grade specifications for laboratory and pharmaceutical use. Technical and food-grade variants are also produced for large-scale industrial applications and manufacturing. Standard purity levels range from 97% technical grade through to ≥99% high-purity grades. These products are suited to regulated manufacturing environments and meet rigorous industry quality requirements. Contact us for supply of Ammonium formate Request Quote",
+  "physicalProperties": "Melting Point: 116 °C; Boiling Point: 103.28°C (rough estimate); Density: 1.280 g/cm³; Flash Point: 104°C; Appearance: colourless crystals; Color: White; Odor: Slight formic acid odour; Form: Solid; Water Solubility: soluble; Vapor Pressure: 0.033Pa at 25℃; Refractive Index: 1.4164 (estimate); pH: 6.0-8.0 (25℃, 10M in H2O); Log P: -3.34 at 25℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29151200; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "formic acid, ammonium salt (1:1) | formic acid, ammonium salt | ammonium formiate | Mravencan amonny | 3801F9644E | RefChem:5549 | HCOONH4",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29151200",
+  "similarProducts": [
+    "cas-631-61-8",
+    "cas-590-29-4",
+    "cas-14548-85-7",
+    "cas-141-53-7",
+    "cas-75-12-7",
+    "cas-107-31-3",
+    "cas-12125-01-8",
+    "cas-35249-89-9",
+    "cas-17496-08-1",
+    "cas-544-17-2",
+    "cas-515-98-0",
+    "cas-506-87-6",
+    "cas-12125-02-9",
+    "cas-64-18-6",
+    "cas-35249-89-9",
+    "cas-17496-08-1",
+    "cas-544-17-2",
+    "cas-515-98-0",
+    "cas-506-87-6",
+    "cas-12125-02-9",
+    "cas-64-18-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-540-69-2/"
+}

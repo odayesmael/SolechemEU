@@ -1,0 +1,61 @@
+{
+  "id": "2981",
+  "name": "Pinacolborane",
+  "slug": "cas-25015-63-8",
+  "cas": "25015-63-8",
+  "ec": "607-485-3",
+  "formula": "C6H13BO2",
+  "mw": "126.97 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Home Care & Industrial Cleaning",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pinacolborane (CAS 25015-63-8 ), commonly abbreviated as HBpin, is a selective hydroboration reagent used across pharmaceutical synthesis and specialty chemical manufacturing. It delivers boron functionality to unsaturated substrates under mild, controllable conditions. This reagent enables efficient access to organoboron intermediates that would otherwise require multi-step routes. In pharmaceutical and API synthesis, HBpin is the reagent of choice for catalytic hydroboration of alkenes and alkynes. It produces pinacol boronate esters that feed directly into Suzuki-Miyaura cross-coupling sequences. Medicinal chemistry and process chemistry teams rely on it to install boronic ester handles on complex scaffolds with high regioselectivity. This high level of control reduces the downstream purification burden for manufacturers. Biotechnology researchers use HBpin in the preparation of boron-tagged probes and labeled building blocks for biological screening applications. In specialty monomer production, it supports the synthesis of boron-functionalized monomers for controlled polymerization platforms. Pinacolborane is supplied as a colorless to pale yellow liquid, typically at purities of 95% and above. High-purity grades are available for sensitive synthetic applications. It is offered in research quantities through to multi-kilogram industrial packaging to meet various production scales. Moisture-sensitive handling requirements are reflected in inert-atmosphere packaging formats. Technical and synthesis-grade specifications are standard across the market for this versatile chemical intermediate. Contact us for supply of Pinacolborane Request Quote",
+  "physicalProperties": "Boiling Point: 42-43 °C; Density: 0.882 g/mL at 25 °C(lit.); Flash Point: 41 °F; Appearance: Clear colorless liquid; Color: Clear colorless to light yellow; Form: Liquid; Vapor Pressure: 29-119.9hPa at 20-50℃; Refractive Index: n 20/D 1.396(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H220 Extremely flammable gas H225 Highly Flammable liquid and vapor H260 In contact with water releases flammable gases which may ignite spontaneously H261 In contact with water releases flammable gas H315 Causes skin irritation H318 Causes serious eye damage Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P223 Do not allow contact with water. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P501 Dispose of contents/container in accordance with local regulations. P231+P232 Handle and store contents under inert gas/… . P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P402+P404 Store in a dry place. Store in a closed container. P403+P235 Store in a well-ventilated place. Keep cool. P302+P335+P334 IF ON SKIN: Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209090; UN Number: 3398; ADR Class: 4.3; Packing Group: II; Storage Class: 4.3 - Hazardous materials which set free flammable gases upon contact with water; WGK (Germany): 3",
+  "otherNames": "4,4,5,5-tetramethyl-1,3,2-dioxaborolane | 1,3,2-Dioxaborolane, 4,4,5,5-tetramethyl- | RefChem:863303 | 2,3-Butanediol, 2,3-dimethyl-, cyclic ester with boronic acid | HBpin",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29209090",
+  "similarProducts": [
+    "cas-73183-34-3",
+    "cas-110-51-0",
+    "cas-274-07-7",
+    "cas-280-64-8",
+    "cas-28324-52-9",
+    "cas-4856-95-5",
+    "cas-13774-81-7",
+    "cas-1113-78-6",
+    "cas-13289-97-9",
+    "cas-38050-71-4",
+    "cas-14047-29-1",
+    "cas-14044-65-6",
+    "cas-16940-66-2",
+    "cas-10035-10-6",
+    "cas-1113-78-6",
+    "cas-13289-97-9",
+    "cas-38050-71-4",
+    "cas-14047-29-1",
+    "cas-14044-65-6",
+    "cas-16940-66-2",
+    "cas-10035-10-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-25015-63-8/"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2138",
+  "name": "Sodium persulfate",
+  "slug": "cas-7775-27-1",
+  "cas": "7775-27-1",
+  "ec": "231-892-1",
+  "formula": "H2O8S2.2Na",
+  "mw": "238.11 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Water Treatment",
+    "Mining & Metals",
+    "Electronics",
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium persulfate (CAS 7775-27-1 ), also sold as sodium peroxydisulfate, is a strong inorganic oxidizing salt used across industrial manufacturing and treatment processes. It functions primarily as a polymerization initiator, bleaching agent, and oxidative treatment chemical in demanding production environments. In plastics and polymer manufacturing, it initiates reactions. It is used for emulsion and suspension polymerization reactions for acrylic, vinyl, and styrene-based resins. Printed circuit board fabrication relies on it as a micro-etchant to clean surfaces. It is used to roughen copper surfaces before lamination or plating. Textile and paper producers use it to bleach fibers and pulp without the residue concerns associated with chlorine-based alternatives. In groundwater and soil remediation, it oxidizes organic contaminants in situ. This makes it a practical choice for environmental treatment projects where controlled reactivity is required. The product is supplied as a white crystalline powder or granule, with granular forms preferred where dust control is a handling priority. Standard commercial grades include technical grade. High-purity grades meeting electronics and PCB industry specifications are also available. Packaging typically ranges from 25 kg bags to bulk quantities depending on application volume. Contact us for supply of Sodium persulfate Request Quote",
+  "physicalProperties": "Melting Point: 100 °C; Density: 1.1 g/cm³; Appearance: white crystalline powder; Color: White to yellow; Odor: Odorless; Form: Solid; Water Solubility: 550 g/L (20 ºC); Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.43; pH: 3.5-3.8 (100g/l, H2O, 20℃); Log P: -1 at 20℃",
+  "safetyHandling": "Danger GHS03 GHS07 GHS08 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H315 Causes skin irritation H316 Causes mild skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28334000; UN Number: 1505; ADR Class: 5.1; Packing Group: III; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 1",
+  "otherNames": "sodium peroxydisulfate | Sodium peroxodisulfate | Peroxydisulfuric acid, disodium salt | Persulfate de sodium | Disodium peroxydisulfate | J49FYF16JE | ORISTAR SP | Peroxydisulfuric acid ([(HO)S(O)2]2O2), sodium salt (1:2)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28334000",
+  "similarProducts": [
+    "cas-7727-21-1",
+    "cas-7727-54-0",
+    "cas-10058-23-8",
+    "cas-10361-76-9",
+    "cas-7632-04-4",
+    "cas-7790-28-5",
+    "cas-15630-89-4",
+    "cas-10332-33-9",
+    "cas-10486-00-7",
+    "cas-7601-89-0",
+    "cas-70693-62-8",
+    "cas-37222-66-5",
+    "cas-7757-82-6",
+    "cas-7789-38-0",
+    "cas-10332-33-9",
+    "cas-10486-00-7",
+    "cas-7601-89-0",
+    "cas-70693-62-8",
+    "cas-37222-66-5",
+    "cas-7757-82-6",
+    "cas-7789-38-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7775-27-1/"
+}

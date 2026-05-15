@@ -1,0 +1,62 @@
+{
+  "id": "2054",
+  "name": "Sodium nitrite",
+  "slug": "cas-7632-00-0",
+  "cas": "7632-00-0",
+  "ec": "231-555-9",
+  "formula": "HNO2.Na",
+  "mw": "68.995 g/mol",
+  "category": "Sweeteners & Food Additives",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium nitrite (CAS 7632-00-0 ), also recognized in food labeling as E250 , is an inorganic salt used industrially as a curing agent, preservative, and color fixative. It controls microbial growth and stabilizes the characteristic pink color in processed meat products, while also serving preservation functions in pharmaceutical and industrial contexts. In meat processing, sodium nitrite is the active curing agent in products such as bacon, ham, hot dogs, and deli meats, inhibiting Clostridium botulinum growth while fixing myoglobin. This process delivers the cured color consumers expect. Pharmaceutical manufacturers use it as an intermediate and active ingredient in certain antidote formulations for medical applications. In food production more broadly, it functions as an antioxidant to retard rancidity and extend shelf life in cured and preserved products. This ensures product stability over time. Industrial applications include its use as a corrosion inhibitor in metalworking fluids and heat transfer systems, though food and pharma remain the primary commercial demand drivers. Sodium nitrite is supplied as a white to pale yellow crystalline powder or granules. Standard grades include food-grade and pharmaceutical-grade meeting USP and BP standards. Technical-grade material is available for industrial end uses, with purity levels typically ranging from 97% to 99%+ depending on the specific requirements of the application. Contact us for supply of Sodium nitrite Request Quote",
+  "physicalProperties": "Melting Point: 271 °C; Boiling Point: 320 °C; Density: 2.26 g/cm³; Appearance: white to off-white powder; Color: White or colorless; Odor: Odorless; Form: powder; Water Solubility: 820 g/L (20 ºC); Vapor Pressure: <0.0001 hPa ( 25 °C); Refractive Index: 1.65; pH: 9 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS03 GHS06 GHS09 GHS07 GHS08 Hazard Statements H272 May intensify fire; oxidizer H301 Toxic if swallowed H319 Causes serious eye irritation H330 Fatal if inhaled H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H362 May cause harm to breast-fed children H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28341000; UN Number: 3219; ADR Class: 5.1; Packing Group: III; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 3",
+  "otherNames": "nitrous acid, sodium salt | NaNO2 | E250 | Nitrite, sodium | Erinitrit | Filmerine | Natrium nitrit | Nitrito sodico",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28341000",
+  "similarProducts": [
+    "cas-7631-99-4",
+    "cas-7758-09-0",
+    "cas-7757-79-1",
+    "cas-7757-83-7",
+    "cas-6381-77-7",
+    "cas-7631-90-5",
+    "cas-532-32-1",
+    "cas-126-96-5",
+    "cas-127-09-3",
+    "cas-13780-06-8",
+    "cas-7647-14-5",
+    "cas-7681-57-4",
+    "cas-141-53-7",
+    "cas-134-03-2",
+    "cas-126-96-5",
+    "cas-127-09-3",
+    "cas-13780-06-8",
+    "cas-7647-14-5",
+    "cas-7681-57-4",
+    "cas-141-53-7",
+    "cas-134-03-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7632-00-0/"
+}

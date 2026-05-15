@@ -1,0 +1,62 @@
+{
+  "id": "733",
+  "name": "Butylated Hydroxyanisole",
+  "slug": "cas-121-00-6",
+  "cas": "121-00-6",
+  "ec": "204-442-7",
+  "formula": "C11H16O2",
+  "mw": "180.24 g/mol",
+  "category": "Sweeteners & Food Additives",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Lubricants & Metalworking",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Butylated Hydroxyanisole (CAS 121-00-6 ), commonly known as BHA or E320 , is a synthetic phenolic antioxidant used across food, cosmetic, and industrial manufacturing. It prevents oxidative degradation in fats, oils, and lipid-containing formulations. This versatile additive is essential for extending shelf life and maintaining product quality. In food manufacturing, BHA is added to edible fats, oils, snack foods, and packaging materials to inhibit rancidity and meet regulatory requirements. Cosmetic and personal care formulators incorporate it into creams, lotions, and lip products to protect oil-phase ingredients from oxidative breakdown. This ensures that consumer products remain stable and effective over time. Industrial lubricant producers use BHA to stabilize mineral oils and metalworking fluids against oxidation under high-temperature processing conditions. It is a critical component for maintaining the integrity of industrial fluids. In plastics and polymer compounding, it functions as a processing stabilizer, protecting base resins during extrusion and molding. This prevents the degradation of materials during intense manufacturing cycles. BHA is supplied as a white to off-white waxy solid, typically in flake or powder form. It is available in food-grade specifications conforming to FCC , BP , and Ph. Eur. standards for global compliance. Technical grade options are also available for industrial applications where high-purity food standards are not required. Purity levels of 98.5% and above are standard for food and cosmetic grades to ensure safety. Contact us for supply of Butylated Hydroxyanisole Request Quote",
+  "physicalProperties": "Melting Point: 48-65 °C; Boiling Point: 134-137 °C @ Press: 7 Torr; Density: 1.0587 g/cm³ @ Temp: 20 °C; Flash Point: 110 °C; Color: White to off-white; Form: Powder/Waxy Solid; Water Solubility: 610-3400mg/L at 27-29℃; Vapor Pressure: 1.33 hPa (105 °C); Refractive Index: 1.4708 (estimate); pH: 4.8 (25°C, 10g/L in H2O); Log P: 1-2.82 at 25-27℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 H302 H303 H303 H315 H315 H317 H317 H319 H319 H335 H335 H336 H336 H351 H351 H361 H361 H371 H371 H401 H401 H411 H411 Precautionary Statements P203 P203 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P318 P318 P319 P319 P321 P321 P330 P330 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P333+P317 P333+P317 P337+P317 P337+P317 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 2909500000; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "3-tert-butyl-4-hydroxyanisole | Butyl hydroxy anisole (bha) | Butylated hydroxyanisole (bha) | 2-tert-butyl-4-methoxyphenol | BHA | E320",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2909500000",
+  "similarProducts": [
+    "cas-25013-16-5",
+    "cas-88-32-4",
+    "cas-128-37-0",
+    "cas-1948-33-0",
+    "cas-65-85-0",
+    "cas-2082-79-3",
+    "cas-118-82-1",
+    "cas-50-81-7",
+    "cas-94-26-8",
+    "cas-121-79-9",
+    "cas-1406-66-2",
+    "cas-532-32-1",
+    "cas-136-60-7",
+    "cas-520-45-6",
+    "cas-50-81-7",
+    "cas-94-26-8",
+    "cas-121-79-9",
+    "cas-1406-66-2",
+    "cas-532-32-1",
+    "cas-136-60-7",
+    "cas-520-45-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-121-00-6/"
+}

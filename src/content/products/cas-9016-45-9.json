@@ -1,0 +1,64 @@
+{
+  "id": "2477",
+  "name": "Polyethylene glycol nonylphenyl ether",
+  "slug": "cas-9016-45-9",
+  "cas": "9016-45-9",
+  "ec": "500-024-6",
+  "formula": "(C2H4O)nC15H24O",
+  "mw": "308.5 g/mol",
+  "category": "Surfactants",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed",
+    "Printing & Packaging",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Polyethylene glycol nonylphenyl ether (CAS 9016-45-9 ), commercially known as Nonoxynols or by the abbreviation NPE, is a nonionic surfactant used across industrial and institutional cleaning. The ethoxylate chain length varies across grades, allowing formulators to select specific HLB values suited to their process requirements for emulsification and wetting applications. In textile processing, NPE functions as a scouring and wetting agent, enabling uniform dye penetration and soil removal from fiber substrates during the manufacturing process. Agricultural formulations rely on it as an emulsifier and dispersant in pesticide concentrates, improving active ingredient delivery and tank-mix stability for various crop applications. Industrial and institutional cleaners use NPE for its degreasing performance on hard surfaces, metal parts, and process equipment in heavy-duty environments. In pulp and paper manufacturing, it supports pitch control and acts as a process wetting agent during sheet formation to ensure high-quality finished paper products. NPE is supplied as a liquid or paste depending on the degree of ethoxylation, with lower EO grades typically yielding more viscous or solid forms for industrial use. Standard technical grades are the most common supply form for industrial buyers, with concentrations typically expressed by ethylene oxide mole count such as NPE-9 or NPE-10. Contact us for supply of Polyethylene glycol nonylphenyl ether Request Quote",
+  "physicalProperties": "Melting Point: 42-43 °C; Boiling Point: 250 °C(lit.); Density: 1.06 g/cm³ @ Temp: 10 °C; Flash Point: 535 °F; Color: clear colorless; Form: Clear, colorless liquid; Water Solubility: water: 25mg/mL aqueous buffer: soluble; Vapor Pressure: 1.4hPa at 25℃; Refractive Index: n 20/D 1.495(lit.); pH: 5-8 (5% in H2O); Log P: 3.7-4.48 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 34021300; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "Nonoxynols | 4-nonylphenol diethoxylate | Nonylphenol ethoxylates (npe) | 2-[2-(4-nonylphenoxy)ethoxy]ethanol | Nonylphenol ethoxylate | NPE | E913",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "34021300",
+  "similarProducts": [
+    "cas-26027-38-3",
+    "cas-68412-54-4",
+    "cas-53610-02-9",
+    "cas-9014-93-1",
+    "cas-20427-84-3",
+    "cas-84852-15-3",
+    "cas-25154-52-3",
+    "cas-127087-87-0",
+    "cas-60828-78-6",
+    "cas-26183-52-8",
+    "cas-6540-99-4",
+    "cas-34398-01-1",
+    "cas-104-40-5",
+    "cas-9036-19-5",
+    "cas-127087-87-0",
+    "cas-60828-78-6",
+    "cas-26183-52-8",
+    "cas-6540-99-4",
+    "cas-34398-01-1",
+    "cas-104-40-5",
+    "cas-9036-19-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-9016-45-9/"
+}

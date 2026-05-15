@@ -1,0 +1,64 @@
+{
+  "id": "445",
+  "name": "2-ethylhexylamine",
+  "slug": "cas-104-75-6",
+  "cas": "104-75-6",
+  "ec": "203-233-8",
+  "formula": "C8H19N",
+  "mw": "129.24 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Mining & Metals",
+    "Oil, Gas & Energy",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Ethylhexylamine (CAS 104-75-6 ) is a branched-chain primary amine used as a chemical intermediate and functional additive across several industrial sectors. Its long, branched carbon chain makes it effective where oil-soluble amine character is needed. This chemical is essential for corrosion protection, pH control, and emulsification in non-aqueous systems. In oilfield and refinery operations, it functions as a corrosion inhibitor and neutralizing amine in pipeline treatment and process fluid formulations. Lubricant and metalworking fluid manufacturers use it to build amine-based additives that protect metal surfaces. These additives stabilize emulsions under demanding conditions, ensuring long-term performance in industrial machinery and automotive applications. In coatings and adhesive systems, it acts as a curing agent component or pH modifier. This improves resin compatibility and film performance, making it a versatile choice for high-performance industrial coatings and specialized adhesive products. Water treatment formulators incorporate it into corrosion inhibitor packages for industrial cooling and boiler systems. It is often selected where oil-soluble amines are preferred over water-soluble alternatives to ensure system integrity. The product is supplied as a clear liquid in drums, IBCs, and bulk isotanks for global distribution. It is available primarily in technical grade, with purity levels typically at 99% or higher depending on the specific supplier specification. Buyers should confirm amine content and water specification when sourcing for sensitive formulation or synthesis applications. Proper handling and storage are required to maintain the quality and stability of the material over its shelf life. Contact us for supply of 2-ethylhexylamine Request Quote",
+  "physicalProperties": "Melting Point: -76 °C; Boiling Point: 169 °C; Density: 0.789 g/mL at 25 °C(lit.); Flash Point: 126 °F; Appearance: colourless liquid; Color: Clear colorless; Form: Liquid; Water Solubility: 2.5 g/L (20 ºC); Vapor Pressure: 1.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.431(lit.); Log P: 2.82 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 Flammable liquid and vapor [Warning Flammable liquids] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation]",
+  "tradeRegulatory": "HS Code: 29211980; UN Number: 2276; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "1-Hexanamine, 2-ethyl- | 2-Ethyl-1-hexylamine | 1-Amino-2-ethylhexane | 2-Ethylhexanamine | 2-Ethyl-1-hexanamine | Hexylamine, 2-ethyl- | beta-Ethylhexylamine | 1-Amino-2-ethylhexan",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29211980",
+  "similarProducts": [
+    "cas-106-20-7",
+    "cas-104-76-7",
+    "cas-103-09-3",
+    "cas-75-04-7",
+    "cas-624-78-2",
+    "cas-13360-63-9",
+    "cas-149-57-5",
+    "cas-557-66-4",
+    "cas-12645-31-7",
+    "cas-19961-27-4",
+    "cas-688-84-6",
+    "cas-20193-20-8",
+    "cas-103-11-7",
+    "cas-111-75-1",
+    "cas-557-66-4",
+    "cas-12645-31-7",
+    "cas-19961-27-4",
+    "cas-688-84-6",
+    "cas-20193-20-8",
+    "cas-103-11-7",
+    "cas-111-75-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-104-75-6/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2180",
+  "name": "Beryllium chloride",
+  "slug": "cas-7787-47-5",
+  "cas": "7787-47-5",
+  "ec": "232-116-4",
+  "formula": "BeCl2",
+  "mw": "79.92 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Electronics",
+    "Aerospace & Defense",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Beryllium chloride (CAS 7787-47-5 ) is an inorganic salt used primarily as a catalyst and precursor in specialized chemical synthesis. BeCl2 serves as a key entry point for producing high-purity beryllium metal. This compound is essential for beryllium-based materials required across advanced industrial sectors. In electronics and semiconductor manufacturing, it acts as a precursor for depositing beryllium oxide coatings. These coatings are valued for their thermal management performance in high-power components. Aerospace and defense applications rely on it as a starting material for producing beryllium metal used in structural alloys. It is also utilized in gyroscopes and guidance systems. In metallurgical processing, it functions as a flux and alloying agent precursor for copper-beryllium alloys, which are specified for precision tooling. Organic synthesis operations also employ this chemical as a Lewis acid catalyst in select Friedel-Crafts and related reactions. It is often chosen where conventional catalysts are unsuitable for the process. The product is supplied as an anhydrous crystalline solid, with anhydrous purity being the standard commercial form. This is due to the compound's high reactivity with moisture during storage and handling. Technical and high-purity research grades are available, with purity levels typically ranging from 98% to 99.9%+. Packaging is handled under strict containment protocols given regulatory controls on beryllium. These safety measures are standard in most markets to ensure safe transport and delivery. Our supply chain adheres to rigorous quality standards to maintain the integrity of the material for industrial use. Contact us for supply of Beryllium chloride Request Quote",
+  "physicalProperties": "Melting Point: 399.2 °C; Boiling Point: 482.3 °C; Density: 1.90 g/cm³; Color: Colorless, deliquescent needles, or orthorhombiccrystals; Form: white-yellow orthorhombic crystals; Water Solubility: very soluble H2O with evolution of heat [MER06]: g/100g solution H2O: 40.35 (0°C), 41.72 (25°C); solid phase, BeCl2 · 4H2O [KRU93]; soluble alcohol, benzene, ether [HAW93]",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H301 Toxic if swallowed [Danger Acute toxicity, oral] H315 Causes skin irritation [Warning Skin corrosion/irritation] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H330 Fatal if inhaled [Danger Acute toxicity, inhalation] H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "UN Number: 1566; ADR Class: 6.1; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "BeCl2 | Beryllium dichloride | Beryllium chloride (BeCl2) | 58B7024067",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-10361-37-2",
+    "cas-1304-56-9",
+    "cas-7447-41-8",
+    "cas-98-88-4",
+    "cas-1344-67-8",
+    "cas-10326-27-9",
+    "cas-100-44-7",
+    "cas-10026-11-6",
+    "cas-7758-31-8",
+    "cas-7447-39-4",
+    "cas-7646-79-9",
+    "cas-7646-85-7",
+    "cas-7446-70-0",
+    "cas-10476-85-4",
+    "cas-10026-11-6",
+    "cas-7758-31-8",
+    "cas-7447-39-4",
+    "cas-7646-79-9",
+    "cas-7646-85-7",
+    "cas-7446-70-0",
+    "cas-10476-85-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7787-47-5/"
+}

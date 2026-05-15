@@ -1,0 +1,65 @@
+{
+  "id": "540",
+  "name": "Toluene",
+  "slug": "cas-108-88-3",
+  "cas": "108-88-3",
+  "ec": "203-625-9",
+  "formula": "",
+  "mw": "92.14 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Automotive",
+    "Textile, Leather & Paper",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Oil, Gas & Energy",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Toluene (CAS 108-88-3 ) is an aromatic hydrocarbon solvent used across coatings, adhesives, and chemical manufacturing to dissolve, dilute, and carry a broad range of resins, polymers, and active substances. It delivers fast, controlled evaporation rates that make it a preferred solvent where film formation and dry time are critical process variables. In coatings and industrial paints, it dissolves nitrocellulose, epoxy, and polyurethane resins. This enables smooth application and consistent film build. Adhesive and sealant manufacturers use it to formulate contact cements and pressure-sensitive systems for footwear, automotive interiors, and flexible packaging. In printing inks, it acts as the primary carrier solvent for gravure and flexographic formulations, controlling viscosity and ink transfer onto film substrates. The oil and gas sector uses it as a process solvent. It also serves as a reference compound in octane blending and fuel additive production. The product is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities for industrial use. Standard commercial grades include technical grade and refined grades meeting ASTM specifications, with purity levels typically at 99.5% and above. Reagent and ACS grades are available for laboratory applications. Contact us for supply of Toluene Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor [Danger Flammable liquids] H304 May be fatal if swallowed and enters airways [Danger Aspiration hazard] H315 Causes skin irritation [Warning Skin corrosion/irritation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H362 May cause harm to breast-fed children [Reproductive toxicity, effects on or via lactation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H401 Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H303 May be harmful if swallowed [Warning Acute toxicity, oral] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+  "tradeRegulatory": "",
+  "otherNames": "phenyl-methane | monomethyl benzene | 1-methylbenzene | toluol | methacide | antisal 1a | Benzene, methyl- | Toluen",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-25013-15-4",
+    "cas-1330-20-7",
+    "cas-108-87-2",
+    "cas-26471-62-5",
+    "cas-584-84-9",
+    "cas-26764-44-3",
+    "cas-79-01-6",
+    "cas-95-53-4",
+    "cas-108-44-1",
+    "cas-95-47-6",
+    "cas-71-43-2",
+    "cas-119-64-2",
+    "cas-106-49-0",
+    "cas-67-64-1",
+    "cas-95-53-4",
+    "cas-108-44-1",
+    "cas-95-47-6",
+    "cas-71-43-2",
+    "cas-119-64-2",
+    "cas-106-49-0",
+    "cas-67-64-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-88-3/"
+}

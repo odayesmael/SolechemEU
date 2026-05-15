@@ -1,0 +1,60 @@
+{
+  "id": "2090",
+  "name": "Ferrous sulfate",
+  "slug": "cas-7720-78-7",
+  "cas": "7720-78-7",
+  "ec": "231-753-5",
+  "formula": "Fe.H2O4S",
+  "mw": "151.91 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Mining & Metals",
+    "Water Treatment",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ferrous sulfate (CAS 7720-78-7 ) is an inorganic iron salt supplied as a heptahydrate or anhydrous form, used across water treatment, agriculture, and pharmaceutical manufacturing. It functions primarily as an iron source, reducing agent, and precipitating agent in industrial processes. In municipal water treatment, it acts as a coagulant and phosphate precipitant. This chemical helps remove impurities and control algae in reservoirs. Pharmaceutical manufacturers use it as the active iron source in oral iron-deficiency supplements and fortified food products. In agriculture, it corrects iron chlorosis in soils and turf, and serves as a moss control agent in lawn care formulations. Mining operations apply it in hydrometallurgical processes. Applications include the precipitation of metals from leach solutions and as a reducing agent in chromate treatment of effluent. It is available as a heptahydrate in granular or crystalline form. The product is also offered as a dried or anhydrous powder with lower water content for applications requiring reduced moisture. Recognized grades include USP , BP , and food-grade ( FCC ). These standards ensure suitability for pharmaceutical and nutritional use, alongside technical and agricultural grades for industrial supply. Bulk availability supports high-volume procurement. Packaging options include bags, supersacks, and bulk tanker quantities. This ensures reliable distribution across all major end-use sectors for global manufacturing and processing needs. Contact us for supply of Ferrous sulfate Request Quote",
+  "physicalProperties": "Melting Point: decomposes at 671°C [JAN85]; Density: 2.99-3.08 g/cm³; Appearance: Greenish or yellow-brown crystals or granules; odorless. Soluble in water with saline taste; insoluble in alcohol. hygroscopic.; Color: white orthorhombic crystals, crystalline; hygroscopic; Odor: at 100.00?%. odorless; Form: white orthorhombic crystals; Water Solubility: g/100g solution H2O: 13.6 (0°C), 22.8 (25°C), 24.0 (100°C); solid phase, FeSO4 · 7H2O (0°C, 25°C), FeSO4 ·H2O (100°C) [KRU93]; Vapor Pressure: 0Pa at 20℃; pH: 2.5 (20°C, 50g/L in H2O)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28332910; Storage Class: 12 - Non Combustible Liquids; WGK (Germany): 2",
+  "otherNames": "iron(II) sulphate (1:1) | iron(II) sulphate | iron(II) sulfate (1:1) | iron(2+) sulfate (anh.) | iron sulphate (1:1) | iron sulfate (1:1) | FeSO4 | ferrous sulphate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "28332910",
+  "similarProducts": [
+    "cas-7782-63-0",
+    "cas-13463-43-9",
+    "cas-10028-22-5",
+    "cas-15244-10-7",
+    "cas-141-01-5",
+    "cas-7758-94-3",
+    "cas-7733-02-0",
+    "cas-14808-79-8",
+    "cas-7446-20-0",
+    "cas-20344-49-4",
+    "cas-7785-87-7",
+    "cas-10045-86-0",
+    "cas-299-29-6",
+    "cas-10034-96-5",
+    "cas-14808-79-8",
+    "cas-7446-20-0",
+    "cas-20344-49-4",
+    "cas-7785-87-7",
+    "cas-10045-86-0",
+    "cas-299-29-6",
+    "cas-10034-96-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7720-78-7/"
+}

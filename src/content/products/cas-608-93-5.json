@@ -1,0 +1,61 @@
+{
+  "id": "1190",
+  "name": "Pentachlorobenzene",
+  "slug": "cas-608-93-5",
+  "cas": "608-93-5",
+  "ec": "210-172-0",
+  "formula": "C6HCl5",
+  "mw": "250.3 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pentachlorobenzene (CAS 608-93-5 ) is a fully chlorinated aromatic compound used industrially as a biocide and chemical intermediate. QCB is a recognized alternative name encountered in regulatory and trade documentation. Its primary function is as a preservative and antimicrobial agent in controlled industrial applications. In agricultural chemistry, it serves as a fungicide intermediate in the synthesis of active ingredients. These ingredients target soil-borne pathogens in crop protection formulations. Pharmaceutical manufacturers source it as a synthetic building block for chlorinated aromatic intermediates used in API production. It also appears in research and reference standard applications, where certified analytical grades are required for environmental monitoring and residue testing programs. Regulatory and quality laboratories use it as a calibration reference for pesticide residue analysis in food and environmental matrices. It is supplied as a white to off-white crystalline solid. It is available in technical grade for industrial synthesis and in high-purity analytical reference grades meeting certified standard specifications. Packaging is offered in small quantities and bulk formats. Bulk formats for industrial procurement are subject to applicable regulatory controls in the buyer's jurisdiction. This ensures compliance with safety and environmental standards during transport and storage. Contact us for supply of Pentachlorobenzene Request Quote",
+  "physicalProperties": "Melting Point: 86 °C; Boiling Point: 277 °C; Density: 1.8342 g/cm³ @ Temp: 16.5 °C; Appearance: Pentachlorobenzene is a colorless crystalline solid. Pleasant aroma.; Color: White needles; Form: neat; Water Solubility: 1.332mg/L(25 ºC); Vapor Pressure: 6 x 10 -3 mmHg at 20–30 °C (quoted, Mercer et al., 1990); Refractive Index: 1.5522 (estimate)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS09 GHS08 Hazard Statements H228 Flammable solid [Danger Flammable solids] H302 Harmful if swallowed [Warning Acute toxicity, oral] H400 Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard] H410 Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H362 May cause harm to breast-fed children [Reproductive toxicity, effects on or via lactation] H371 May cause damage to organs [Warning Specific target organ toxicity, single exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 3",
+  "otherNames": "1,2,3,4,5-Pentachlorobenzene | PCB | Benzene, pentachloro- | D62GWO6832 | Benzene, 1,2,3,4,5-pentachloro- | QCB",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-38521-51-6",
+    "cas-106-46-7",
+    "cas-95-50-1",
+    "cas-15435-29-7",
+    "cas-98-88-4",
+    "cas-89-61-2",
+    "cas-71-43-2",
+    "cas-100-44-7",
+    "cas-97-23-4",
+    "cas-98-56-6",
+    "cas-106-51-4",
+    "cas-589-87-7",
+    "cas-87-68-3",
+    "cas-139-07-1",
+    "cas-100-44-7",
+    "cas-97-23-4",
+    "cas-98-56-6",
+    "cas-106-51-4",
+    "cas-589-87-7",
+    "cas-87-68-3",
+    "cas-139-07-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-608-93-5/"
+}

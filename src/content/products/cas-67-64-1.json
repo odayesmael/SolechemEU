@@ -1,0 +1,63 @@
+{
+  "id": "101",
+  "name": "Acetone",
+  "slug": "cas-67-64-1",
+  "cas": "67-64-1",
+  "ec": "200-662-2",
+  "formula": "",
+  "mw": "58.08 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Plastics & Polymers",
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acetone (CAS 67-64-1 ), also known by its FEMA 3326 designation in flavour applications, is one of the most commercially traded ketone solvents in the global chemical market. It dissolves a broad range of resins, oils, waxes, and synthetic polymers, making it a primary solvent choice across manufacturing, formulation, and cleaning operations. In plastics and polymer processing, it is used to dissolve and thin cellulose acetate, polyester resins, and epoxy systems during fabrication and surface preparation. Pharmaceutical manufacturers rely on it as a process solvent for active ingredient extraction, recrystallisation, and equipment cleaning where residue-free evaporation is critical. Printing and packaging operations use acetone-based formulations to clean ink systems and prepare substrates for adhesion to ensure high quality results. In metalworking and precision manufacturing, it removes machining oils, flux residues, and contaminants from metal surfaces prior to coating or assembly. Acetone is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Standard commercial grades include technical grade and pharmaceutical-grade ( USP / BP ) specifications. The latter is required for drug manufacturing and medical device cleaning applications. Industrial-grade supply is widely available with consistent purity levels suited to high-volume solvent applications. Contact us for supply of Acetone Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor [Danger Flammable liquids] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H305 May be harmful if swallowed and enters airways [Warning Aspiration hazard] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "",
+  "otherNames": "propanone | propane-2-one | propan-2-one | ketone propane | dimethyl ketone | beta-ketopropane | 2-propanone | methyl ketone",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-98-86-2",
+    "cas-123-54-6",
+    "cas-79-20-9",
+    "cas-141-78-6",
+    "cas-78-93-3",
+    "cas-108-21-4",
+    "cas-75-05-8",
+    "cas-108-94-1",
+    "cas-109-60-4",
+    "cas-123-42-2",
+    "cas-60-35-5",
+    "cas-108-10-1",
+    "cas-67-63-0",
+    "cas-123-86-4",
+    "cas-108-94-1",
+    "cas-109-60-4",
+    "cas-123-42-2",
+    "cas-60-35-5",
+    "cas-108-10-1",
+    "cas-67-63-0",
+    "cas-123-86-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-67-64-1/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "3034",
+  "name": "UV-328",
+  "slug": "cas-25973-55-1",
+  "cas": "25973-55-1",
+  "ec": "247-384-8",
+  "formula": "C22H29N3O",
+  "mw": "351.5 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Automotive",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "UV-328 (CAS 25973-55-1 ), also marketed as Tinuvin 328, is a benzotriazole-class UV absorber used to protect organic materials from photodegradation caused by UV radiation. It functions by absorbing UV light in the 300–385 nm range. By dissipating this energy as heat, it prevents color fading, embrittlement, and loss of mechanical performance in finished products. In coatings and industrial paints, it extends the service life of exterior finishes on metal, wood, and plastic substrates. Automotive OEM and refinish coatings rely on it to maintain gloss retention and prevent yellowing in clear coat systems. Plastics processors incorporate it into polyolefins, PVC, and engineering polymers where long-term outdoor durability is a requirement. Adhesives, sealants, and elastomers used in construction and glazing applications also use this stabilizer to prevent surface cracking. It is essential for preventing bond failure under prolonged sun exposure in harsh environments. UV-328 is supplied as a pale yellow to off-white crystalline powder. It is available in technical grade, which is the standard specification for industrial and polymer applications. Packaging typically ranges from 25 kg bags to bulk quantities. Purity specifications are commonly at 99% minimum by HPLC. This high level of purity ensures consistent performance across various manufacturing processes. The product remains a staple for manufacturers requiring reliable UV protection. Contact us for supply of UV-328 Request Quote",
+  "physicalProperties": "Melting Point: 84 °C; Boiling Point: >180 °C; Density: 0.958 g/cm³; Color: Off-White to Pale Yellow; Form: Solid; Vapor Pressure: 0Pa at 20℃; Log P: 7.3 at 25℃",
+  "safetyHandling": "Warning GHS08 GHS09 Hazard Statements H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H410 Very toxic to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P319 Get medical advice/attention if you feel unwell. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations.",
+  "tradeRegulatory": "HS Code: 2933.99.8290; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "2-(2H-Benzotriazol-2-yl)-4,6-ditertpentylphenol | Phenol, 2-(2H-benzotriazol-2-yl)-4,6-bis(1,1-dimethylpropyl)- | Tinuvin 328 | VN99CPK4TI | Phenol, 2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentyl- | CHISORB 328 | CYASORB UV 2337 | 2-(2H-Benzotriazol-2-yl)-4,6-bis(1,1-dimethylpropyl)phenol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2933.99.8290",
+  "similarProducts": [
+    "cas-41556-26-7",
+    "cas-70321-86-7",
+    "cas-3147-75-9",
+    "cas-2440-22-4",
+    "cas-125304-04-3",
+    "cas-57834-33-0",
+    "cas-31274-51-8",
+    "cas-6628-37-1",
+    "cas-76656-36-5",
+    "cas-187393-00-6",
+    "cas-1843-05-6",
+    "cas-5232-99-5",
+    "cas-872182-46-2",
+    "cas-131-56-6",
+    "cas-6628-37-1",
+    "cas-76656-36-5",
+    "cas-187393-00-6",
+    "cas-1843-05-6",
+    "cas-5232-99-5",
+    "cas-872182-46-2",
+    "cas-131-56-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-25973-55-1/"
+}

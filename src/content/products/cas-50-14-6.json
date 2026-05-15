@@ -1,0 +1,60 @@
+{
+  "id": "9",
+  "name": "Ergocalciferol",
+  "slug": "cas-50-14-6",
+  "cas": "50-14-6",
+  "ec": "200-014-9",
+  "formula": "C28H44O",
+  "mw": "396.6 g/mol",
+  "category": "Vitamins & Nutrients",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ergocalciferol (CAS 50-14-6 ), commonly sourced and traded as Vitamin D2, is a plant-derived form of vitamin D produced through UV irradiation of ergosterol. Viosterol and Deltalin are established market names recognized in pharmaceutical and nutritional supply chains. It functions as a bioactive nutrient supplement across food fortification, pharmaceutical dosage forms, and cosmetic preparations. In pharmaceutical manufacturing, it is used as the active ingredient in vitamin D deficiency treatments. The material is formulated into capsules, tablets, and oral drops at defined potency levels. Food and beverage producers use Vitamin D2 to fortify dairy alternatives, cereals, and infant formula, where plant-based sourcing is a requirement. Cosmetic and personal care formulators incorporate it into skin-conditioning products targeting barrier support and nutrient delivery. Contract manufacturers in the nutraceutical sector use it to produce softgels and powdered blends. Ergocalciferol is supplied as a crystalline powder or in oil-based dilutions standardized to defined IU/g potencies for easier handling and dosing accuracy. Recognized grades include USP , BP , and Ph. Eur. These standards support regulatory compliance across pharmaceutical and food applications. Resin-coated and spray-dried powder forms are available for dry-blend and fortification applications to ensure stability and performance. Contact us for supply of Ergocalciferol Request Quote",
+  "physicalProperties": "Melting Point: 115-118 °C; Boiling Point: 460.3°C (rough estimate); Density: 0.9784 (rough estimate); Flash Point: 14 °C; Appearance: Crystalline; Color: white to yellowish; Form: powder; Water Solubility: Soluble in ethanol, water, methanol, dimethylformamide, and dimethyl sulfoxide.; Vapor Pressure: 7 x l0 -7 Pa (20 °C), est.); Refractive Index: 1.5100 (estimate); Log P: 10.440 (est)",
+  "safetyHandling": "Danger GHS06 GHS08 Hazard Statements H300 Fatal if swallowed H301 Toxic if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H330 Fatal if inhaled H372 Causes damage to organs through prolonged or repeated exposure H413 May cause long lasting harmful effects to aquatic life H300+H310+H330 Fatal if swallowed, in contact with skin or if inhaled Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 29362910; UN Number: 2811; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "VITAMIN D2 | Viosterol | Deltalin | Ergorone | Oleovitamin D2 | Drisdol | Ostelin | 9,10-Secoergosta-5,7,10(19),22-tetraen-3-ol, (3β,5Z,7E,22E)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29362910",
+  "similarProducts": [
+    "cas-1406-16-2",
+    "cas-67-97-0",
+    "cas-10191-41-0",
+    "cas-1406-18-4",
+    "cas-133-80-2",
+    "cas-52225-20-4",
+    "cas-11032-49-8",
+    "cas-68-26-8",
+    "cas-59-02-9",
+    "cas-12001-79-5",
+    "cas-119-13-1",
+    "cas-84-80-0",
+    "cas-58-95-7",
+    "cas-68-19-9",
+    "cas-68-26-8",
+    "cas-59-02-9",
+    "cas-12001-79-5",
+    "cas-119-13-1",
+    "cas-84-80-0",
+    "cas-58-95-7",
+    "cas-68-19-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-50-14-6/"
+}

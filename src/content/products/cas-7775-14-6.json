@@ -1,0 +1,61 @@
+{
+  "id": "2133",
+  "name": "Sodium dithionite",
+  "slug": "cas-7775-14-6",
+  "cas": "7775-14-6",
+  "ec": "231-890-0",
+  "formula": "H2O4S2.2Na",
+  "mw": "174.11 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Food & Nutrition",
+    "Textile, Leather & Paper",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium dithionite (CAS 7775-14-6 ), also sold as sodium hydrosulfite, is a powerful reducing agent used industrially for bleaching, stripping color, and preventing oxidation across multiple manufacturing sectors. Its strong reducing capacity makes it a go-to reagent wherever controlled decolorization or oxygen scavenging is required at scale. In textile manufacturing, it is the primary reducing agent for vat dye application. It reduces insoluble dyes to their soluble leuco form so they can penetrate fiber, then re-oxidize to fix color. Pulp and paper producers use it to brighten mechanical pulp without the fiber degradation associated with chlorine. In food processing, it functions as an antioxidant and preservative, protecting products such as dried fruits, starches, and wine from discoloration and oxidative spoilage during storage and transport. Water treatment operations apply it for dechlorination and oxygen removal in boiler feed systems and reverse osmosis pretreatment. It is supplied as a white to pale yellow powder or granules for industrial use. Technical-grade material is the dominant commercial form, though food-grade specifications are available for applications in food and beverage processing where strict regulatory compliance is required. Purity levels typically range from 85% to 90% for technical grade, with higher-purity grades available for sensitive applications. All batches are tested to ensure they meet necessary safety and performance metrics. Contact us for supply of Sodium dithionite Request Quote",
+  "physicalProperties": "Melting Point: 166-168 °C; Boiling Point: 1390°C; Density: 2.19 g/cm³; Flash Point: >100°C; Appearance: White solid; Color: White; Odor: None or slight scent of sulfur dioxide; Form: Powder/Solid; Water Solubility: 250 g/L (20 ºC); pH: 5.5-8.5 (50g/l, H2O, 20℃); Log P: -2.756 (est)",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H251 Self-heating; may catch fire H302 Harmful if swallowed H303 May be harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P235 Keep cool. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P330 Rinse mouth. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28311010; UN Number: 1384; ADR Class: 4.2; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "sodium sulfoxylate | sodium hydrosulfite | Sodium hydrosulphite | Vatrolite | Disodium dithionite | Dithionous acid, disodium salt | Blankit | Burmol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "28311010",
+  "similarProducts": [
+    "cas-7772-98-7",
+    "cas-1313-82-2",
+    "cas-10102-17-7",
+    "cas-7757-83-7",
+    "cas-79-25-4",
+    "cas-7631-90-5",
+    "cas-16940-66-2",
+    "cas-1758-73-2",
+    "cas-7758-19-2",
+    "cas-149-44-0",
+    "cas-6035-47-8",
+    "cas-7790-28-5",
+    "cas-7681-57-4",
+    "cas-10039-56-2",
+    "cas-1758-73-2",
+    "cas-7758-19-2",
+    "cas-149-44-0",
+    "cas-6035-47-8",
+    "cas-7790-28-5",
+    "cas-7681-57-4",
+    "cas-10039-56-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7775-14-6/"
+}

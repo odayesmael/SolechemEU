@@ -1,0 +1,59 @@
+{
+  "id": "342",
+  "name": "Ethylene carbonate",
+  "slug": "cas-96-49-1",
+  "cas": "96-49-1",
+  "ec": "202-510-0",
+  "formula": "C3H4O3",
+  "mw": "88.06 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethylene carbonate (CAS 96-49-1 ), also sold as glycol carbonate and abbreviated EC, is a cyclic carbonate ester used as a high-polarity solvent and carrier across pharmaceutical and personal care manufacturing. Its ability to dissolve a broad range of active ingredients and polymers makes it a practical alternative to conventional solvents in formulation-sensitive applications. In pharmaceutical manufacturing, EC functions as a solvent. It acts as a co-solvent for active pharmaceutical ingredients where low toxicity and controlled solvation are priorities. Personal care formulators use it as a carrier in skin-conditioning products to aid delivery. It improves spreadability in creams and lotions while serving as a processing solvent in polymer synthesis and resin formulations. Its high solvating power supports consistent dissolution of film-forming agents. In preservation systems, EC can act as a carrier medium that improves the distribution and efficacy of antimicrobial actives within a formulation. This ensures stability and performance in complex mixtures. Ethylene carbonate is available as a solid flake or low-melting solid at ambient temperature, typically supplied in bags or drums. Pharmaceutical and personal care applications are served by high-purity grades. These grades meet USP or equivalent specifications to ensure safety and compliance. Technical-grade material is also available for industrial and polymer processing uses where high purity is not required. Contact us for supply of Ethylene carbonate Request Quote",
+  "physicalProperties": "Melting Point: 36.4 °C; Boiling Point: 248 °C; Density: 1.3214 g/cm³ @ Temp: 39 °C; Flash Point: 320 °F; Appearance: colourless crystals; Color: White to yellow; Odor: odorless; Form: Crystalline Low Melting Solid; Water Solubility: 214 g/L (20 ºC); Vapor Pressure: 0.02 mm Hg ( 36.4 °C); Refractive Index: 1.4199; pH: 7 (200g/l, H2O, 20℃); Log P: 0.11 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209010; UN Number: 2265; ADR Class: 3; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "1,3-DIOXOLAN-2-ONE | Glycol carbonate | Ethylene glycol carbonate | Dioxolone-2 | Cyclic ethylene carbonate | Ethylene carbonic acid | Carbonic acid, cyclic ethylene ester | Ethylene glycol, cyclic carbonate | EC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29209010",
+  "similarProducts": [
+    "cas-108-32-7",
+    "cas-105-58-8",
+    "cas-623-53-0",
+    "cas-4437-85-8",
+    "cas-872-36-6",
+    "cas-111-55-7",
+    "cas-9004-57-3",
+    "cas-1680-31-5",
+    "cas-107-21-1",
+    "cas-2807-30-9",
+    "cas-928-24-5",
+    "cas-141-78-6",
+    "cas-616-38-6",
+    "cas-112-36-7",
+    "cas-1680-31-5",
+    "cas-107-21-1",
+    "cas-2807-30-9",
+    "cas-928-24-5",
+    "cas-141-78-6",
+    "cas-616-38-6",
+    "cas-112-36-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-96-49-1/"
+}

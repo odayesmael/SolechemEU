@@ -1,0 +1,62 @@
+{
+  "id": "853",
+  "name": "2-naphthol",
+  "slug": "cas-135-19-3",
+  "cas": "135-19-3",
+  "ec": "205-182-7",
+  "formula": "C10H8O",
+  "mw": "144.17 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Naphthol (CAS 135-19-3 ), also known as Developer BN and Naphthol B, is an aromatic alcohol used as a key chemical intermediate in the synthesis of dyes, pigments, and pharmaceutical compounds. It functions as a coupling component in azo chemistry and as a preservative and antioxidant in select industrial formulations. In textile and leather processing, it is applied directly to fiber as a diazo coupling base. This enables the on-fiber formation of fast azo dyes with strong wash resistance. Pigment manufacturers use it to produce azo pigment reds and lakes widely specified in printing inks and packaging coatings. In pharmaceutical manufacturing, it serves as a starting material for synthesis of antifungal actives and other API intermediates. Personal care formulators have historically used it for its preservative properties. It also provides antioxidant properties in specific topical applications, though regulatory acceptance varies by market. The material is supplied as a white to off-white crystalline solid or flake. Technical grade is the standard commercial form, with pharmaceutical-grade material available to meet BP and USP specifications. Packaging typically ranges from 25 kg bags or drums to bulk quantities. Contact us for supply of 2-naphthol Request Quote",
+  "physicalProperties": "Melting Point: 121.6 °C; Boiling Point: 285 °C; Density: 1.28 g/cm³ @ Temp: 20 °C; Flash Point: 153 °C; Appearance: 2-Naphthol is a white, crystalline solid. Slight phenolic odor. Darkens in air and on exposure to light.; Color: White; Odor: faint phenol-like odor; Form: Powder, Crystals or Granules; Water Solubility: 1 g/L (20 ºC); Vapor Pressure: 10 mm Hg ( 145.5 °C); Refractive Index: 1.5762 (estimate); Log P: 1.89 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS05 GHS08 Hazard Statements H302 Harmful if swallowed H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29071590; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "Trimetin | Naphthol b | Developer BN | beta.-Hydroxynaphthalene | beta-Napthol | beta-Naphtol | beta-Naphthyl hydroxide | beta-Naphthyl alcohol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS05",
+    "GHS08"
+  ],
+  "hsCode": "29071590",
+  "similarProducts": [
+    "cas-90-15-3",
+    "cas-91-59-8",
+    "cas-532-02-5",
+    "cas-91-20-3",
+    "cas-81-86-7",
+    "cas-95-55-6",
+    "cas-92-70-6",
+    "cas-35545-57-4",
+    "cas-552-16-9",
+    "cas-84041-77-0",
+    "cas-130-15-4",
+    "cas-130-14-3",
+    "cas-121-87-9",
+    "cas-25154-52-3",
+    "cas-35545-57-4",
+    "cas-552-16-9",
+    "cas-84041-77-0",
+    "cas-130-15-4",
+    "cas-130-14-3",
+    "cas-121-87-9",
+    "cas-25154-52-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-135-19-3/"
+}

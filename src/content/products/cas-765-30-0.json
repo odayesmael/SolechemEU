@@ -1,0 +1,61 @@
+{
+  "id": "1270",
+  "name": "Cyclopropylamine",
+  "slug": "cas-765-30-0",
+  "cas": "765-30-0",
+  "ec": "212-142-2",
+  "formula": "C3H7N",
+  "mw": "57.09 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cyclopropylamine (CAS 765-30-0 ) is a strained-ring primary amine used as a reactive building block in pharmaceutical synthesis and specialty polymer chemistry. The abbreviation CPA appears in procurement and research contexts as a recognized shorthand. Its combination of amine reactivity and ring strain makes it a valued intermediate for constructing complex molecular architectures at scale. In pharmaceutical manufacturing, it is incorporated into active pharmaceutical ingredient synthesis. This chemical is particularly useful in the preparation of kinase inhibitors, antidepressants, and other small-molecule drug candidates where the cyclopropyl motif improves metabolic stability. Polymer chemists use it as a curing agent. It acts as a cross-linker in epoxy and specialty resin systems, where controlled amine reactivity influences final network density and mechanical performance. In agrochemical development, it serves as a key intermediate for herbicide synthesis. Biotech research applications include its use as a building block for probe compounds and enzyme inhibitors in target-based drug discovery programs. It is supplied as a colorless to pale yellow liquid in various packaging. Options range from small research quantities to bulk drums and IBC containers. Technical and high-purity grades are available, with purity specifications typically from 98% up to 99%+ for pharmaceutical intermediate use. Certificate of Analysis documentation aligned with GMP procurement requirements is standard for pharma-grade supply. This ensures the material meets the rigorous demands of modern chemical manufacturing and laboratory research. Contact us for supply of Cyclopropylamine Request Quote",
+  "physicalProperties": "Melting Point: -35.4 °C; Boiling Point: 49-50 °C; Density: 0.824 g/mL at 25 °C(lit.); Flash Point: −14 °F; Appearance: clear colorless to very slightly yellow liquid; Color: Clear colorless; Form: Volatile Liquid; Water Solubility: Miscible with water, ethanol,ether and chloroform.; Vapor Pressure: 4.67 psi ( 20 °C); Refractive Index: n 20/D 1.420(lit.); Log P: 0.070",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H332 Harmful if inhaled H412 Harmful to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29213099; UN Number: 2733; ADR Class: 3; Packing Group: II; WGK (Germany): 2",
+  "otherNames": "8PR8XTH1X1 | RefChem:581232 | CPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29213099",
+  "similarProducts": [
+    "cas-107-10-8",
+    "cas-108-91-8",
+    "cas-20193-20-8",
+    "cas-75-31-0",
+    "cas-78-81-9",
+    "cas-123-00-2",
+    "cas-16728-59-9",
+    "cas-102-69-2",
+    "cas-110-58-7",
+    "cas-27775-00-4",
+    "cas-142-84-7",
+    "cas-74-89-5",
+    "cas-5332-73-0",
+    "cas-100-70-9",
+    "cas-102-69-2",
+    "cas-110-58-7",
+    "cas-27775-00-4",
+    "cas-142-84-7",
+    "cas-74-89-5",
+    "cas-5332-73-0",
+    "cas-100-70-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-765-30-0/"
+}

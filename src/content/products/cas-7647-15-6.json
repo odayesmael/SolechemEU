@@ -1,0 +1,62 @@
+{
+  "id": "2061",
+  "name": "Sodium bromide",
+  "slug": "cas-7647-15-6",
+  "cas": "7647-15-6",
+  "ec": "231-599-9",
+  "formula": "BrNa",
+  "mw": "102.89 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Agriculture & Feed",
+    "Oil, Gas & Energy",
+    "Printing & Packaging",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium bromide (CAS 7647-15-6 ), commonly referenced as NaBr, is an inorganic bromide salt used across industrial and pharmaceutical sectors. It functions primarily as a bromide ion source, enabling its use in completion fluids and synthesis intermediates. In oil and gas, NaBr is a key component of high-density clear brine fluids used in wellbore completion and workover operations. Precise density control is critical in these applications to ensure safety and efficiency during drilling. Pharmaceutical manufacturers use it as an intermediate in the synthesis of active ingredients and sedative-class compounds. This is particularly important where a bromide counterion is required for the final chemical structure. In industrial water treatment and pool sanitation, it activates oxidizing biocides to control microbial growth in recirculating systems. This ensures that water remains clean and free from harmful biological contaminants. Flame retardant formulations for plastics and polymers incorporate NaBr as a bromine source. It acts as a precursor or synergist in halogenated retardant systems to improve the fire safety of various materials. Sodium bromide is supplied as a white crystalline powder or granules, and also in liquid solution form. These solutions are available at various concentrations suited specifically to oilfield brine applications. Standard grades include technical, pharmaceutical ( USP / BP ), and oilfield-grade, each with distinct purity requirements. Packaging ranges from bags and drums to bulk quantities for high-volume industrial users. Contact us for supply of Sodium bromide Request Quote",
+  "physicalProperties": "Melting Point: 755 °C; Boiling Point: 1390 °C; Density: 3.21 g/cm³; Flash Point: 1390°C; Appearance: white powder; Color: White; Form: Powder; Water Solubility: 905 g/L (20 ºC); Vapor Pressure: 1 mm Hg ( 806 °C); Refractive Index: 1.6412; pH: 5.74 (430g/l, H2O, 22.5℃); Log P: 0 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS08 Hazard Statements H319 Causes serious eye irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28275100; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Trisodium tribromide | NaBr | Bromide salt of sodium | Sodium bromide (NaBr) | Natrum bromatum | Caswell No. 750A | Sanibrom 40",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28275100",
+  "similarProducts": [
+    "cas-7789-38-0",
+    "cas-7789-41-5",
+    "cas-7758-02-3",
+    "cas-7726-95-6",
+    "cas-7699-45-8",
+    "cas-7681-82-5",
+    "cas-10035-10-6",
+    "cas-7785-23-1",
+    "cas-12124-97-9",
+    "cas-7789-48-2",
+    "cas-7647-14-5",
+    "cas-7550-35-8",
+    "cas-7440-23-5",
+    "cas-16940-66-2",
+    "cas-7785-23-1",
+    "cas-12124-97-9",
+    "cas-7789-48-2",
+    "cas-7647-14-5",
+    "cas-7550-35-8",
+    "cas-7440-23-5",
+    "cas-16940-66-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7647-15-6/"
+}

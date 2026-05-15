@@ -1,0 +1,60 @@
+{
+  "id": "1785",
+  "name": "Butylene carbonate",
+  "slug": "cas-4437-85-8",
+  "cas": "4437-85-8",
+  "ec": "689-389-1",
+  "formula": "C5H8O3",
+  "mw": "116.11 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Electronics",
+    "Lubricants & Metalworking",
+    "Plastics & Polymers",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Butylene carbonate (CAS 4437-85-8 ), also known as 1,2-butylene carbonate, is a high-boiling cyclic carbonate solvent used across electronics manufacturing, polymer processing, and industrial cleaning. Its low volatility and strong solvating power make it a practical alternative to conventional solvents where reduced evaporation losses are a formulation priority for industrial manufacturers. In lithium-ion battery electrolytes, this compound functions as a co-solvent to improve low-temperature performance and ionic conductivity. Polymer and resin formulators use it as a reactive diluent. It is particularly effective where compatibility with polycarbonate or polyurethane systems is required. Industrial and institutional cleaning formulations incorporate it as a slow-evaporating carrier solvent. This chemical is ideal for heavy-duty degreasing of metal surfaces and electronic components. In lubricant and metalworking fluid development, it supports additive solvation and acts as a base fluid. The product is supplied as a clear liquid in drum and IBC quantities, with bulk availability for larger industrial volumes. Technical grade is the standard commercial offering for most uses. High-purity grades are available for battery electrolyte and electronics applications where moisture and impurity thresholds are tightly controlled to meet specific performance requirements. Contact us for supply of Butylene carbonate Request Quote",
+  "physicalProperties": "Melting Point: -53 °C; Boiling Point: 240 °C; Density: 1.14 g/cm³ @ Temp: 25 °C; Flash Point: 135 °C; Appearance: clear colorless liquid; Refractive Index: 1.426-1.428; Log P: 0.099 (est)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation Precautionary Statements P280 Wear protective gloves/protective clothing/eye protection/face protection. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209010",
+  "otherNames": "1,2-butylene carbonate | 1,3-Dioxolan-2-one, 4-ethyl- | 1,2-Butanediol, cyclic carbonate | Carbonic acid, cyclic ethylethylene ester | I64G2S50OV | JEFFSOL BC | JEFFSOL BUTYLENE CARBONATE | RefChem:571834",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29209010",
+  "similarProducts": [
+    "cas-542-52-9",
+    "cas-108-32-7",
+    "cas-96-49-1",
+    "cas-7397-62-8",
+    "cas-107-88-0",
+    "cas-105-58-8",
+    "cas-554-13-2",
+    "cas-73138-39-3",
+    "cas-872-36-6",
+    "cas-110-63-4",
+    "cas-623-53-0",
+    "cas-24424-99-5",
+    "cas-109-65-9",
+    "cas-136-60-7",
+    "cas-73138-39-3",
+    "cas-872-36-6",
+    "cas-110-63-4",
+    "cas-623-53-0",
+    "cas-24424-99-5",
+    "cas-109-65-9",
+    "cas-136-60-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4437-85-8/"
+}

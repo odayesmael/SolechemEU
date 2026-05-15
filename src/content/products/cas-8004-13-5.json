@@ -1,0 +1,59 @@
+{
+  "id": "2249",
+  "name": "Phenyl ether-biphenyl mixture",
+  "slug": "cas-8004-13-5",
+  "cas": "8004-13-5",
+  "ec": "616-827-0",
+  "formula": "C12H10O.C12H10",
+  "mw": "324.4 g/mol",
+  "category": "Oils, Fats & Waxes",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phenyl ether-biphenyl mixture (CAS 8004-13-5 ), commercially known as Dowtherm A or Diphyl, is a eutectic blend of diphenyl oxide and biphenyl engineered for high-temperature heat transfer applications. It functions as a synthetic thermal fluid capable of operating across an exceptionally broad temperature range in both liquid and vapor phase systems. The primary use is in indirect heating systems for chemical processing. The fluid circulates through jacketed reactors, reboilers, and distillation columns to deliver precise thermal control without pressurized steam infrastructure. In the petrochemical and refining sectors, it serves as the working fluid. It is used in vapor-phase heating loops where uniform, high-temperature heat distribution is critical to process consistency. Specialty chemical and pharmaceutical manufacturers rely on it for temperature-controlled synthesis reactions. These reactions require stable, controllable heat above 200°C. It also functions as a process solvent and carrier in select high-boiling applications where thermal stability under prolonged exposure is a procurement requirement. Phenyl ether-biphenyl mixture is supplied as a clear liquid in bulk quantities, including ISO tank, drum, and IBC formats suited to industrial-scale procurement. It is available in technical grade for various uses. Product specifications are typically aligned to established heat transfer fluid standards covering purity, boiling range, and thermal stability benchmarks. This ensures reliable performance in demanding industrial environments. Contact us for supply of Phenyl ether-biphenyl mixture Request Quote",
+  "physicalProperties": "Melting Point: 12.2 °C; Boiling Point: 257 °C; Density: 1.06 g/cm³ @ Temp: 25 °C; Flash Point: 123 °C; Appearance: clear colorless liquid; Color: Colourless; Odor: Disagreeable aromatic odor; Form: Oil; Water Solubility: Insoluble in water.; Refractive Index: n 20/D 1.590",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29093090; UN Number: 3082; ADR Class: 9; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "Dowtherm A | Diphenyl oxide–diphenyl mixture | Diphyl | Dowtherm | Therminol VP | Phenyl ether, compd with biphenyl | 1,1'-Biphenyl, mixt. with 1,1'-oxybis(benzene) | RefChem:590410",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29093090",
+  "similarProducts": [
+    "cas-101-84-8",
+    "cas-104-68-7",
+    "cas-92-52-4",
+    "cas-108-20-3",
+    "cas-103-50-4",
+    "cas-41593-38-8",
+    "cas-111109-77-4",
+    "cas-61788-32-7",
+    "cas-29911-27-1",
+    "cas-629-82-3",
+    "cas-34590-94-8",
+    "cas-770-35-4",
+    "cas-60-29-7",
+    "cas-111-96-6",
+    "cas-61788-32-7",
+    "cas-29911-27-1",
+    "cas-629-82-3",
+    "cas-34590-94-8",
+    "cas-770-35-4",
+    "cas-60-29-7",
+    "cas-111-96-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-8004-13-5/"
+}

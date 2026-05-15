@@ -1,0 +1,64 @@
+{
+  "id": "1536",
+  "name": "4-octylphenol",
+  "slug": "cas-1806-26-4",
+  "cas": "1806-26-4",
+  "ec": "217-302-5",
+  "formula": "C14H22O",
+  "mw": "206.32 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Lubricants & Metalworking",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Octylphenol (CAS 1806-26-4 ), also known as p-octylphenol, is an alkylphenol intermediate used across industrial chemistry as a monomer, surfactant precursor, and stabilizing agent. Its primary commercial role is as a building block for ethoxylated nonionic surfactants and resin-based formulations. In textile and leather processing, it serves as a precursor to octylphenol ethoxylates. These ethoxylates are used in scouring, dyeing auxiliaries, and emulsification baths. Lubricant and metalworking formulators incorporate it as an antioxidant component and additive intermediate to extend fluid service life. In plastics and polymer manufacturing, it functions as a chain-terminating monomer and co-monomer in phenolic resins and polycarbonate-type systems. This ensures structural stability in various industrial polymers. Water treatment chemical producers also use it as a starting material for dispersant and emulsifier synthesis. 4-Octylphenol is supplied as a liquid or low-melting solid, typically in bulk drums or IBC containers. Technical grade is the standard commercial specification for industrial applications. Buyers should confirm purity levels, commonly 98%+, and the specific isomeric profile required for their unique processes. The linear n-octyl form is specified separately from branched variants in many end-use formulations. Proper handling and storage are essential to maintain the chemical integrity of this versatile industrial intermediate. Contact us for supply of 4-octylphenol Request Quote",
+  "physicalProperties": "Melting Point: 39-40 °C; Boiling Point: 138-140 °C @ Press: 5.5 Torr; Density: 0.9554 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: white crystals or powder; Color: White to Dark Beige; Form: neat; Water Solubility: Insoluble in water.; Refractive Index: 1.5052 (estimate); Log P: 5.633 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29071390; UN Number: 2430; ADR Class: 8; Packing Group: II; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "4-n-Octylphenol | 1-(p-hydroxyphenyl)octane | p-octylphenol | Phenol, 4-octyl- | Phenol, p-octyl- | 7DF2B8LH3P",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29071390",
+  "similarProducts": [
+    "cas-140-66-9",
+    "cas-2315-67-5",
+    "cas-104-40-5",
+    "cas-26543-97-5",
+    "cas-6169-06-8",
+    "cas-84852-15-3",
+    "cas-9002-93-1",
+    "cas-111-87-5",
+    "cas-127087-87-0",
+    "cas-111-86-4",
+    "cas-92-69-3",
+    "cas-25154-52-3",
+    "cas-20427-84-3",
+    "cas-3913-02-8",
+    "cas-111-87-5",
+    "cas-127087-87-0",
+    "cas-111-86-4",
+    "cas-92-69-3",
+    "cas-25154-52-3",
+    "cas-20427-84-3",
+    "cas-3913-02-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1806-26-4/"
+}

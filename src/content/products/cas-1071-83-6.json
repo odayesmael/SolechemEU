@@ -1,0 +1,60 @@
+{
+  "id": "1349",
+  "name": "Glyphosate",
+  "slug": "cas-1071-83-6",
+  "cas": "1071-83-6",
+  "ec": "223-095-1",
+  "formula": "C3H8NO5P",
+  "mw": "169.07 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Glyphosate (CAS 1071-83-6 ) is a broad-spectrum, non-selective herbicide used globally to control annual and perennial weeds across agricultural and non-agricultural settings. Sold under trade names such as Glyfos, it is the active ingredient in some of the most widely distributed herbicide formulations in the world. In row crop agriculture, including corn, soy, and canola, glyphosate is applied pre- and post-emergence to eliminate competing vegetation, particularly in herbicide-tolerant crop systems. Plantation and orchard managers use it for ground cover suppression between tree rows without damaging established crops. It is also used in non-crop applications such as industrial site maintenance, railway corridors, and utility rights-of-way where total vegetation control is required. Formulators producing herbicide concentrates incorporate glyphosate as the primary active substance for improved solubility and uptake. Typically, these formulations utilize the isopropylamine or potassium salt versions of the chemical to ensure maximum efficacy. Glyphosate is supplied as a technical-grade acid, as well as in formulated liquid concentrates most commonly as the isopropylamine salt in aqueous solution. Varying active ingredient concentrations are available to meet specific industrial needs. Dry formulations including soluble granules and soluble powders are also commercially available for diverse application methods. Material is sourced to agricultural technical specifications for global distribution. Purity levels and impurity profiles are typically aligned with FAO/WHO or equivalent regulatory standards. This ensures that the chemical meets the rigorous safety and performance requirements necessary for large-scale agricultural and industrial deployment across international markets. Contact us for supply of Glyphosate Request Quote",
+  "physicalProperties": "Melting Point: 230 °C (decomp); Boiling Point: 465.8±55.0 °C(Predicted); Density: 0.5 g/cm³; Flash Point: 230°C; Appearance: Glyphosate, an organophosphate/carboxylic acid (substituted), is a colorless crystalline powder. Often used as a liquid in a carrier solvent which may change physical and toxicological properties.; Color: White to off-white; Odor: odorless; Form: solid; Water Solubility: 1.2 g/100 mL; Log P: -2.360 (est)",
+  "safetyHandling": "Danger GHS05 GHS09 GHS08 GHS07 Hazard Statements H318 H318 H336 H336 H351 H351 H361 H361 H373 H373 H400 H400 H401 H401 H402 H402 H410 H410 H411 H411 H412 H412 Precautionary Statements P203 P203 P260 P260 P261 P261 P271 P271 P273 P273 P280 P280 P317 P317 P318 P318 P319 P319 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P304+P340 P304+P340 P403+P233 P403+P233 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29319099; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "N-(phosphonomethyl)glycine | Glyfos | N-Phosphomethylglycine | 2-(phosphonomethylamino)acetic acid | Silglif | Glycine, N-(phosphonomethyl)- | MON 2139 | Glialka",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS09",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29319099",
+  "similarProducts": [
+    "cas-1912-24-9",
+    "cas-72619-32-0",
+    "cas-71283-80-2",
+    "cas-72178-02-0",
+    "cas-99129-21-2",
+    "cas-1918-00-9",
+    "cas-105512-06-9",
+    "cas-64700-56-7",
+    "cas-61-82-5",
+    "cas-125401-75-4",
+    "cas-69377-81-7",
+    "cas-79241-46-6",
+    "cas-94-75-7",
+    "cas-142459-58-3",
+    "cas-64700-56-7",
+    "cas-61-82-5",
+    "cas-125401-75-4",
+    "cas-69377-81-7",
+    "cas-79241-46-6",
+    "cas-94-75-7",
+    "cas-142459-58-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1071-83-6/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1257",
+  "name": "2-methylimidazole",
+  "slug": "cas-693-98-1",
+  "cas": "693-98-1",
+  "ec": "211-765-7",
+  "formula": "C4H6N2",
+  "mw": "82.10 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Methylimidazole (CAS 693-98-1 ), commonly abbreviated as 2-MZ, is a heterocyclic amine used as a curing agent and catalyst in epoxy resin systems. It accelerates crosslinking reactions at elevated temperatures. This chemical enables manufacturers to achieve controlled cure profiles across a range of thermoset formulations. In electronics manufacturing, 2-MZ is a standard curing agent for epoxy-based printed circuit board laminates. It is also utilized in underfill compounds and encapsulants where precise Tg control is critical. Powder coating formulators use it to catalyze epoxy-polyester hybrid systems, adjusting cure speed and flow characteristics. These applications are common for industrial and architectural finishes. Structural adhesive producers incorporate it into one-component epoxy systems that require latent reactivity for long-term stability. The material remains stable at room temperature but activates rapidly under heat. It also functions as a pH buffer and intermediate in the synthesis of specialty imidazole derivatives used in pharmaceutical manufacturing. The product is further utilized in agrochemical manufacturing processes. 2-Methylimidazole is supplied as an off-white to pale yellow crystalline powder for various industrial and laboratory requirements. Technical grade is the standard commercial form, with high-purity grades available for electronics and specialty chemical applications. It is typically offered in kilogram-scale bags through to bulk quantities. Contact us for supply of 2-methylimidazole Request Quote",
+  "physicalProperties": "Melting Point: 144 °C; Boiling Point: 270 °C; Density: 1.03 g/cm³ (crystal); Flash Point: 155 °C; Appearance: white to light yellow crystalline powder; Color: White to light yellow; Form: Crystalline Powder; Water Solubility: Soluble in water and ethanol.; Vapor Pressure: <1 mm Hg ( 0 °C); Refractive Index: 1.4970 (estimate); pH: 10.5-11.5 (100g/l, H2O, 20℃); Log P: 0.22 at 25℃",
+  "safetyHandling": "Danger GHS08 GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29332990; UN Number: 3259; ADR Class: 8; Packing Group: II; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "2-Methyl-1H-imidazole | 1H-Imidazole, 2-methyl- | T0049Z45LZ | CUREZOL-2MZ-P | IMICURE-AMI 2 | EPICURE-MI 2 | EPIKURE-MI 2 | Imidazole, 2-methyl- | 2-MZ",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29332990",
+  "similarProducts": [
+    "cas-616-47-7",
+    "cas-288-32-4",
+    "cas-936-49-2",
+    "cas-51-17-2",
+    "cas-3855-32-1",
+    "cas-504-74-5",
+    "cas-6281-42-1",
+    "cas-109-01-3",
+    "cas-1017-56-7",
+    "cas-120-93-4",
+    "cas-136-95-8",
+    "cas-105-83-9",
+    "cas-1761-71-3",
+    "cas-104-19-8",
+    "cas-109-01-3",
+    "cas-1017-56-7",
+    "cas-120-93-4",
+    "cas-136-95-8",
+    "cas-105-83-9",
+    "cas-1761-71-3",
+    "cas-104-19-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-693-98-1/"
+}

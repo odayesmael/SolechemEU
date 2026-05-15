@@ -1,0 +1,61 @@
+{
+  "id": "2077",
+  "name": "Sodium iodide",
+  "slug": "cas-7681-82-5",
+  "cas": "7681-82-5",
+  "ec": "231-679-3",
+  "formula": "INa",
+  "mw": "149.8942 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Food & Nutrition",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium iodide (CAS 7681-82-5 ), commonly referenced as NaI, is an inorganic iodine salt used as an iodine source across pharmaceutical manufacturing, nutritional supplementation, and chemical synthesis. It delivers bioavailable iodine in dosage forms and acts as a catalyst or reagent in organic reactions requiring halide exchange. In pharmaceutical manufacturing, NaI is used to produce iodine-containing active ingredients. It serves as a source compound in thyroid-related drug formulations. The Finkelstein reaction, a standard halide exchange process in organic synthesis, relies on NaI to convert alkyl chlorides or bromides into alkyl iodides. This makes it a routine reagent in fine chemical and API production. In animal feed and agricultural nutrition products, it functions as an iodine fortification agent to address iodine deficiency in livestock. Food-grade NaI also serves as an iodine source in salt iodization programs and dietary supplement formulations targeting human nutritional requirements. Sodium iodide is supplied as a white crystalline powder or granules. Recognized grades include USP , BP , and Ph. Eur. for pharmaceutical applications, as well as food-grade specifications for nutritional and feed uses. Technical grade is available for industrial and synthesis applications. Contact us for supply of Sodium iodide Request Quote",
+  "physicalProperties": "Melting Point: 651 °C; Boiling Point: 1304 °C; Density: 3.67 g/cm³; Flash Point: 1300-1304°C; Appearance: Crystalline; Color: White; Form: beads; Water Solubility: 184 g/100 mL (25 ºC); Vapor Pressure: 1 hPa (767 °C); Refractive Index: 1.7745; pH: 6-9 (50g/l, H2O, 20℃); Log P: -1.301 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28276000; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Sodium monoiodide | NaI | Ioduril | Soiodin | Iodure de sodium | Natrii iodidum | Jodid sodny | Sodium iodide (NaI)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28276000",
+  "similarProducts": [
+    "cas-7681-11-0",
+    "cas-7553-56-2",
+    "cas-7758-05-6",
+    "cas-7647-15-6",
+    "cas-7647-14-5",
+    "cas-7789-80-2",
+    "cas-10102-18-8",
+    "cas-10034-85-2",
+    "cas-7440-23-5",
+    "cas-1562-00-1",
+    "cas-7681-49-4",
+    "cas-54-21-7",
+    "cas-7790-28-5",
+    "cas-7646-69-7",
+    "cas-10034-85-2",
+    "cas-7440-23-5",
+    "cas-1562-00-1",
+    "cas-7681-49-4",
+    "cas-54-21-7",
+    "cas-7790-28-5",
+    "cas-7646-69-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7681-82-5/"
+}

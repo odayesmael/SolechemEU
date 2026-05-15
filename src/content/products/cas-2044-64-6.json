@@ -1,0 +1,59 @@
+{
+  "id": "1560",
+  "name": "N,N-Dimethylacetoacetamide",
+  "slug": "cas-2044-64-6",
+  "cas": "2044-64-6",
+  "ec": "218-059-8",
+  "formula": "C6H11NO2",
+  "mw": "129.16 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N,N-Dimethylacetoacetamide ( CAS 2044-64-6 ), commonly abbreviated as DMAA, is a beta-ketoamide building block used across pharmaceutical synthesis, agrochemical development, and polymer chemistry. It functions as a reactive intermediate and monomer component, enabling the construction of more complex molecular architectures in both fine chemical and industrial contexts. In pharmaceutical manufacturing, DMAA serves as a key intermediate in the synthesis of active pharmaceutical ingredients, particularly where a beta-ketoamide motif is required for cyclization reactions. Agrochemical producers use it in the preparation of herbicide and pesticide intermediates, where its reactivity toward nitrogen and carbon nucleophiles enables efficient route design. In polymer chemistry, it acts as a functional monomer or co-monomer to introduce reactive ketone groups into polymer backbones, influencing crosslinking behavior and adhesion properties. Specialty resin formulators also incorporate it where controlled reactivity during polymerization is a process requirement. DMAA is supplied as a liquid at standard commercial purity levels. Material is typically 97% or higher for synthesis-grade material. Technical and reagent grades are the most commonly available specifications in the market for industrial procurement. It is generally packaged in drums or intermediate bulk containers suited to industrial volumes. This ensures safe handling and transport for large-scale chemical manufacturing operations. Contact us for supply of N,N-Dimethylacetoacetamide Request Quote",
+  "physicalProperties": "Melting Point: 120 °C; Boiling Point: 80-83 °C @ Press: 0.9 Torr; Density: 1.067 g/mL at 25 °C; Flash Point: 252 °F; Appearance: Clear, colorless to yellow liquid; Color: APHA: ≤350; Form: clear liquid; Water Solubility: hydrolysis SLOWLY; Vapor Pressure: 19.84hPa@25°C; Refractive Index: n 20/D 1.447; Log P: 0.91 at 25℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation Precautionary Statements P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2924.19.1150; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids",
+  "otherNames": "N,n-dimethyl-3-oxobutanamide | Dimethylacetoacetamide | DMAA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "2924.19.1150",
+  "similarProducts": [
+    "cas-127-19-5",
+    "cas-124-40-3",
+    "cas-121-69-7",
+    "cas-927-62-8",
+    "cas-2867-47-2",
+    "cas-1704-62-7",
+    "cas-108-01-0",
+    "cas-98-94-2",
+    "cas-68-12-2",
+    "cas-109-55-7",
+    "cas-103-83-3",
+    "cas-2873-97-4",
+    "cas-598-94-7",
+    "cas-96-31-1",
+    "cas-98-94-2",
+    "cas-68-12-2",
+    "cas-109-55-7",
+    "cas-103-83-3",
+    "cas-2873-97-4",
+    "cas-598-94-7",
+    "cas-96-31-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2044-64-6/"
+}

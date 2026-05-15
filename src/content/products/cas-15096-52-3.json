@@ -1,0 +1,61 @@
+{
+  "id": "2792",
+  "name": "Cryolite",
+  "slug": "cas-15096-52-3",
+  "cas": "15096-52-3",
+  "ec": "239-148-8",
+  "formula": "AlF6.3Na",
+  "mw": "209.941265 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pulp & Paper",
+    "Textile, Leather & Paper",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cryolite (CAS 15096-52-3 ), also sold under the trade name Cryocide, is a synthetic sodium aluminum fluoride mineral used primarily as a flux and electrolyte medium in industrial processing. Commercially produced to replace the now-depleted natural mineral deposits, it is a critical input in aluminum smelting and select agrochemical and abrasive applications. In primary aluminum production, cryolite functions as the molten bath electrolyte in Hall-Héroult cells, dissolving alumina at high temperatures to enable electrochemical reduction into metal. This functionality makes it indispensable to smelter operations. Abrasive product manufacturers incorporate it as a filler and grinding aid in resin-bonded grinding wheels and coated abrasives. In these applications, it improves cut rate and extends wheel life. In the pulp and paper industry, it is used as an opacifying agent and filler to improve sheet brightness and printability. Historically applied as an insecticide under the Cryocide trade name, it remains a registered pesticide active ingredient in certain markets for control of chewing insects on crops. Cryolite is supplied as a fine white powder in bulk, supersacks, and bagged formats. Technical and metallurgical grades are the most common, with purity specifications typically aligned to industry standards. Pesticide-grade material is available in select markets where regulatory approvals are maintained. Our supply chain ensures consistent quality and reliable delivery for large-scale industrial requirements. Contact us for supply of Cryolite Request Quote",
+  "physicalProperties": "Melting Point: 960-1027 °C; Boiling Point: decomp; Density: 2.95 g/cm³; Appearance: Sodium aluminum fluoride is a snow-white crystalline solid, powder or vitreous mass. The crystalline solid (natural product (cryolite) may be colored reddish or brown or even black but loses this discoloration on heating); synthetic product is an amorphous powder. Odorless; Odor: Odorless; Form: Colorless, crystalline solid; Refractive Index: 1.338",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H332 Harmful if inhaled H372 Causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+  "tradeRegulatory": "HS Code: 2826300000; UN Number: 3077; ADR Class: 9; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "Trisodium hexafluoroaluminate | Cryolite (Na3(AlF6)) | Cryocide | Kryocide | Kryolith | ICE Spar | Cryolite (AlNa3F6) | Sodium aluminum fluoride",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2826300000",
+  "similarProducts": [
+    "cas-13775-53-6",
+    "cas-7784-18-1",
+    "cas-7789-75-5",
+    "cas-7789-24-4",
+    "cas-7681-49-4",
+    "cas-1333-83-1",
+    "cas-16893-85-9",
+    "cas-7783-49-5",
+    "cas-1344-28-1",
+    "cas-21645-51-2",
+    "cas-143-33-9",
+    "cas-7429-90-5",
+    "cas-11138-49-1",
+    "cas-7782-41-4",
+    "cas-7783-49-5",
+    "cas-1344-28-1",
+    "cas-21645-51-2",
+    "cas-143-33-9",
+    "cas-7429-90-5",
+    "cas-11138-49-1",
+    "cas-7782-41-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-15096-52-3/"
+}

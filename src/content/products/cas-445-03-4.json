@@ -1,0 +1,60 @@
+{
+  "id": "1013",
+  "name": "2-amino-5-chlorobenzotrifluoride",
+  "slug": "cas-445-03-4",
+  "cas": "445-03-4",
+  "ec": "207-151-3",
+  "formula": "C7H5ClF3N",
+  "mw": "195.57 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Textile, Leather & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Amino-5-chlorobenzotrifluoride (CAS 445-03-4 ), also known as 2-Trifluoromethyl-4-chloroaniline, is an aromatic amine intermediate built around a trifluoromethyl group and a reactive primary amine. It serves as a key building block in the synthesis of active pharmaceutical ingredients, agrochemicals, and specialty dyes. In pharmaceutical manufacturing, it is used to construct drug candidates and APIs. The trifluoromethyl group is required to improve metabolic stability and membrane permeability. Dye and pigment producers use it as a coupling component or precursor in the synthesis of azo colorants. These colorants are used for textile and paper applications. Its biocidal profile supports use in formulations targeting preservation applications within personal care and cosmetic products. The compound also appears in agrochemical synthesis, where fluorinated aniline scaffolds are used to build herbicide and fungicide active substances. It is supplied as a liquid or low-melting solid. This depends on purity and handling conditions. It is available in technical and high-purity grades suited to pharmaceutical intermediate and fine chemical manufacturing requirements. Packaging options typically range from small laboratory quantities through to bulk drums for industrial-scale procurement. This ensures flexibility for various production scales and research needs. Contact us for supply of 2-amino-5-chlorobenzotrifluoride Request Quote",
+  "physicalProperties": "Melting Point: 8.8 °C; Boiling Point: 76-78 °C @ Press: 4-5 Torr; Density: 1.386 g/mL at 25 °C(lit.); Flash Point: 203 °F; Appearance: Clear yellow liquid; Color: Colorless to Orange to Green; Form: clear liquid; Vapor Pressure: 48.5-1013hPa at 110.5-208.2℃; Refractive Index: n 20/D 1.507(lit.); pH: 7.4 at 20℃ and 995mg/L; Log P: 2.68",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29214300; UN Number: 2810; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "4-Chloro-alpha,alpha,alpha-trifluoro-o-toluidine | Benzenamine, 4-chloro-2-(trifluoromethyl)- | 2-Trifluoromethyl-4-chloroaniline | RefChem:561881 | 4-Chloro-2-(trifluoromethyl)aniline | o-Toluidine, 4-chloro-α,α,α-trifluoro- | 4-Chloro-2-(trifluoromethyl)benzenamine | C.I. 37055",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29214300",
+  "similarProducts": [
+    "cas-121-50-6",
+    "cas-2401-24-3",
+    "cas-95-79-4",
+    "cas-6358-64-1",
+    "cas-121-87-9",
+    "cas-87-60-5",
+    "cas-95-51-2",
+    "cas-32961-44-7",
+    "cas-106-47-8",
+    "cas-136-95-8",
+    "cas-89-63-4",
+    "cas-95-74-9",
+    "cas-554-00-7",
+    "cas-407-25-0",
+    "cas-32961-44-7",
+    "cas-106-47-8",
+    "cas-136-95-8",
+    "cas-89-63-4",
+    "cas-95-74-9",
+    "cas-554-00-7",
+    "cas-407-25-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-445-03-4/"
+}

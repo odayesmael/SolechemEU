@@ -1,0 +1,60 @@
+{
+  "id": "181",
+  "name": "2,2-dimethoxypropane",
+  "slug": "cas-77-76-9",
+  "cas": "77-76-9",
+  "ec": "201-056-0",
+  "formula": "C5H12O2",
+  "mw": "104.15 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2,2-Dimethoxypropane (CAS 77-76-9 ), commonly known as DMP or acetone dimethyl acetal, is a reactive solvent and dehydrating agent used across pharmaceutical, biotech, and specialty chemical manufacturing. It functions primarily as a water scavenger and protecting group reagent, enabling moisture-sensitive reactions and synthesis steps that require controlled anhydrous conditions. In pharmaceutical synthesis, DMP protects carbonyl and hydroxyl groups during multi-step API manufacturing, reducing side reactions and improving yield consistency for manufacturers. Biotech and life sciences laboratories use it as a rapid chemical dehydrant for biological sample preparation, particularly in electron microscopy tissue processing where water removal must be precise. As a flavoring intermediate, acetone dimethyl acetal contributes to the production of certain aroma compounds where controlled acetal chemistry is required for the final product. It also functions as a solvent in reactions where conventional polar aprotic solvents are unsuitable due to moisture sensitivity. This makes it a versatile tool in complex chemical synthesis. 2,2-Dimethoxypropane is supplied as a clear liquid in standard drum and IBC quantities, with bulk availability for industrial-scale procurement. Technical grade is the most common commercial specification. High-purity grades are available to meet pharmaceutical and analytical laboratory requirements. Buyers should confirm purity thresholds and water content specifications with suppliers as a critical quality parameter. Contact us for supply of 2,2-dimethoxypropane Request Quote",
+  "physicalProperties": "Melting Point: -47 °C; Boiling Point: 83 °C; Density: 0.86199 g/cm³ (solid) @ Temp: 90 °C; Press: 750 Torr; Flash Point: 12 °F; Appearance: colourless liquid; Color: Clear colorless; Form: Liquid; Water Solubility: 18 g/100 mL (25 ºC); Vapor Pressure: 60 mm Hg ( 15.8 °C); Refractive Index: n 20/D 1.378(lit.)",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29110000; UN Number: 1993; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Acetone dimethyl acetal | Propane, 2,2-dimethoxy- | Acetone dimethyl ketal | 66P41R0030 | RefChem:81029 | DMP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29110000",
+  "similarProducts": [
+    "cas-131-11-3",
+    "cas-88917-22-0",
+    "cas-4767-03-7",
+    "cas-868-85-9",
+    "cas-110-71-4",
+    "cas-20324-32-7",
+    "cas-109-87-5",
+    "cas-7005-47-2",
+    "cas-616-38-6",
+    "cas-67-51-6",
+    "cas-106-58-1",
+    "cas-68-12-2",
+    "cas-111109-77-4",
+    "cas-18755-43-6",
+    "cas-7005-47-2",
+    "cas-616-38-6",
+    "cas-67-51-6",
+    "cas-106-58-1",
+    "cas-68-12-2",
+    "cas-111109-77-4",
+    "cas-18755-43-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-77-76-9/"
+}

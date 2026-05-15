@@ -1,0 +1,62 @@
+{
+  "id": "93",
+  "name": "Diethyl sulfate",
+  "slug": "cas-64-67-5",
+  "cas": "64-67-5",
+  "ec": "200-589-6",
+  "formula": "C4H10O4S",
+  "mw": "154.19 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethyl sulfate ( CAS 64-67-5 ), also known as DES, is a reactive diethyl ester of sulfuric acid used industrially as an ethylating agent. It transfers ethyl groups to amines, alcohols, and other nucleophiles. This functionality enables the synthesis of ethylated intermediates across pharmaceutical, agrochemical, and specialty chemical manufacturing. In pharmaceutical synthesis, DES alkylates active pharmaceutical ingredients and intermediates. It is particularly useful where controlled ethylation is required at scale. Agrochemical producers use it to manufacture ethylated herbicide and pesticide intermediates, especially where other agents present disadvantages. In personal care chemistry, DES supports the production of ethylated surfactants and conditioning agents used in finished formulations. It also functions as a solvent and carrier in select chemical processes. The reactivity profile of this compound must be compatible with the target substrate for optimal results. Diethyl sulfate is supplied as a liquid, typically in drum and IBC quantities suited to industrial consumption. Technical grade is the standard commercial offering, with purity specifications commonly at 99% minimum. Buyers sourcing for pharmaceutical intermediate production should confirm supplier documentation carefully. Ensure all materials meet applicable regulatory requirements for your specific jurisdiction. This product is a critical component for high-volume chemical synthesis and industrial manufacturing applications worldwide. Contact us for supply of Diethyl sulfate Request Quote",
+  "physicalProperties": "Melting Point: -25 °C; Boiling Point: 90-91 °C @ Press: 12 Torr; Density: 1.172 g/cm³ @ Temp: 25 °C; Flash Point: 173 °F; Appearance: colourless oily liquid; Color: Clear; Odor: char. faint ether odor, irritating after-effect; Form: Liquid; Water Solubility: 5 g/L (20 ºC); Vapor Pressure: <0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.399(lit.)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS06 Hazard Statements H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H340 May cause genetic defects H350 May cause cancer H371 May cause damage to organs H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209090; UN Number: 1594; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Diethyl sulphate | Sulfuric acid, diethyl ester | Diethyl tetraoxosulfate | Diethylester kyseliny sirove | K0FO4VFA7I | Ethyl sulfate (Et2SO4) | Ethyl sulfate | DES",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29209090",
+  "similarProducts": [
+    "cas-110-40-7",
+    "cas-77-78-1",
+    "cas-123-25-1",
+    "cas-625-22-9",
+    "cas-95-92-1",
+    "cas-109-89-7",
+    "cas-40754-59-4",
+    "cas-15826-16-1",
+    "cas-594-45-6",
+    "cas-36409-57-1",
+    "cas-142-87-0",
+    "cas-126-92-1",
+    "cas-84-66-2",
+    "cas-60-29-7",
+    "cas-15826-16-1",
+    "cas-594-45-6",
+    "cas-36409-57-1",
+    "cas-142-87-0",
+    "cas-126-92-1",
+    "cas-84-66-2",
+    "cas-60-29-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-64-67-5/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "1629",
+  "name": "3-chloropropyltriethoxysilane",
+  "slug": "cas-2530-87-2",
+  "cas": "2530-87-2",
+  "ec": "219-787-9",
+  "formula": "C6H15ClO3Si",
+  "mw": "198.72 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Electronics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Chloropropyltriethoxysilane (CAS 2530-87-2 ), also supplied as (3-chloropropyl)trimethoxysilane, is an organosilane coupling agent used to chemically bridge inorganic substrates and organic polymer matrices. The reactive chloropropyl group serves as a precursor for further functionalization, enabling manufacturers to tailor surface chemistry for specific bonding or crosslinking requirements. In coatings, adhesives, and sealant systems, it improves adhesion to glass, metal, and mineral fillers by creating covalent bonds at the interface. This enhances the overall durability of the bond. Electronics manufacturers use it to treat substrate surfaces and encapsulant formulations where moisture resistance and dielectric stability are procurement priorities for high-performance components. In plastics and polymer compounding, it functions as a coupling agent for silica and glass fiber reinforcements, improving mechanical performance and structural integrity of the finished composite. Textile and leather finishing operations apply it to modify fiber surfaces, enhancing compatibility with functional coatings and improving the long-term durability of the treated materials. Supplied as a clear liquid in standard packaging ranging from drums to IBC containers. Both the ethoxy and methoxy variants are commercially available to meet specific industrial needs. The methoxy form offers faster hydrolysis rates relevant to certain cure-speed requirements. Technical grade is the standard market offering, with purity specifications typically at 97% or higher. Contact us for supply of 3-chloropropyltriethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: -50°C; Boiling Point: 100 °C @ Press: 40 Torr; Density: 1.077 g/cm³ @ Temp: 25 °C; Flash Point: 136 °F; Appearance: Colorless transparent liquid; Color: Clear colorless to slightly yellow; Form: Liquid; Water Solubility: Hydrolyzes in water.; Vapor Pressure: <5 hPa (20 °C); Refractive Index: n 20/D 1.419(lit.); Log P: -1.1-2 at 20℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H320 Causes eye irritation H336 May cause drowsiness or dizziness H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "3-(trimethoxysilyl)propyl chloride | (3-Chloropropyl)trimethoxysilane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-2897-60-1",
+    "cas-2943-75-1",
+    "cas-14513-34-9",
+    "cas-23779-32-0",
+    "cas-23843-64-3",
+    "cas-3179-76-8",
+    "cas-780-69-8",
+    "cas-35141-30-1",
+    "cas-57813-67-9",
+    "cas-5089-72-5",
+    "cas-1185-55-3",
+    "cas-2530-83-8",
+    "cas-17980-47-1",
+    "cas-18395-30-7",
+    "cas-35141-30-1",
+    "cas-57813-67-9",
+    "cas-5089-72-5",
+    "cas-1185-55-3",
+    "cas-2530-83-8",
+    "cas-17980-47-1",
+    "cas-18395-30-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2530-87-2/"
+}

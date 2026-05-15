@@ -1,0 +1,63 @@
+{
+  "id": "324",
+  "name": "o-xylene",
+  "slug": "cas-95-47-6",
+  "cas": "95-47-6",
+  "ec": "202-422-2",
+  "formula": "C8H10",
+  "mw": "106.16 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Home Care & Industrial Cleaning",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "O-xylene (CAS 95-47-6 ), also sold as o-xylol, is an aromatic hydrocarbon solvent and chemical intermediate sourced primarily from catalytic reforming of naphtha. Beyond its solvent function, it serves as the principal feedstock for phthalic anhydride production. This material represents one of the highest-volume downstream uses in the chemical industry. The dominant industrial outlet is oxidation to phthalic anhydride, which feeds directly into plasticizer and alkyd resin manufacturing at scale. In coatings and industrial cleaning formulations, o-xylene functions as a high-solvency aromatic carrier for resins, epoxies, and heavy-duty degreasers. It is particularly effective where slower evaporation rates are required for application. Adhesive and sealant producers use it to dissolve synthetic rubbers and polymer binders during compounding. In oil and gas operations, it appears in specialty solvent blends for pipeline cleaning and hydrocarbon extraction processes. O-xylene is supplied as a clear liquid in bulk tanker, ISO container, and drum formats. Technical grade is the standard commercial specification, with purity levels typically at 98% or higher for industrial use. High-purity grades are available for chemical synthesis applications where isomer contamination must be tightly controlled. Our supply chain ensures consistent quality and reliable delivery for large-scale manufacturing requirements. Contact us for supply of o-xylene Request Quote",
+  "physicalProperties": "Melting Point: -25 °C; Boiling Point: 144.4 °C @ Press: 760 Torr; Density: 0.8801 g/cm³ @ Temp: 20 °C; Flash Point: 90 °F; Appearance: colourless liquid; Color: Yellow to beige; Odor: Benzene-like; characteristic aromatic.; Form: Solid or Crystalline Powder; Water Solubility: Sparingly soluble in water. (0.2g/L); Vapor Pressure: <0.1 atm ( 21.1 °C); Refractive Index: n 20/D 1.505(lit.); Log P: 3.16 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H225 H225 H226 H226 H303 H303 H304 H304 H312 H312 H315 H315 H319 H319 H332 H332 H335 H335 H336 H336 H361 H361 H370 H370 H400 H400 H402 H402 H411 H411 H412 H412 H312+H332 H312+H332 Precautionary Statements P203 P203 P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P317 P317 P318 P318 P319 P319 P321 P321 P331 P331 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29024100; UN Number: 1307; ADR Class: 3; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "ortho-xylene | o-xylol | 3,4-xylene | 2-xylene | 1,2-xylene | 1,2-Dimethylbenzol | 1,2-dimethylbenzene | o-Dimethylbenzene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29024100",
+  "similarProducts": [
+    "cas-1330-20-7",
+    "cas-108-88-3",
+    "cas-110-82-7",
+    "cas-108-87-2",
+    "cas-123-91-1",
+    "cas-31178-70-8",
+    "cas-108-93-0",
+    "cas-95-53-4",
+    "cas-1806-26-4",
+    "cas-108-94-1",
+    "cas-95-50-1",
+    "cas-1477-55-0",
+    "cas-100-41-4",
+    "cas-71-43-2",
+    "cas-95-53-4",
+    "cas-1806-26-4",
+    "cas-108-94-1",
+    "cas-95-50-1",
+    "cas-1477-55-0",
+    "cas-100-41-4",
+    "cas-71-43-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-95-47-6/"
+}

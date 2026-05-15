@@ -1,0 +1,59 @@
+{
+  "id": "501",
+  "name": "Hexylene glycol",
+  "slug": "cas-107-41-5",
+  "cas": "107-41-5",
+  "ec": "203-489-0",
+  "formula": "C6H14O2",
+  "mw": "118.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hexylene glycol (CAS 107-41-5 ), also marketed as MPD, is a multifunctional diol solvent used across coatings, personal care, and polymer manufacturing. It functions as a solvent, humectant, and coupling agent. This versatile chemical helps formulators achieve stable, homogeneous systems across a broad range of industrial formulations. In architectural and industrial coatings, it acts as a coalescing solvent and flow modifier. The product improves film formation and leveling in waterborne systems, ensuring a high-quality finish. Personal care manufacturers incorporate it into skin creams, lotions, and toners as a humectant and preservation booster. It enhances the efficacy of antimicrobial systems at low use levels, providing value in cosmetic formulations. In adhesives and sealants, it functions as a reactive diluent and stabilizer for better performance. The solvent extends open time and improves substrate wetting during application. Polymer processors also use it as a plasticizer intermediate and chain extender in polyurethane and polyester resin production. The material is supplied as a clear, low-viscosity liquid in bulk quantities including IBC totes and tanker loads. Drum packaging is also available for smaller volumes to meet diverse logistical needs. Standard commercial supply meets technical-grade specifications for industrial use. Cosmetic-grade material conforming to established purity requirements is available for sensitive personal care applications. Contact us for supply of Hexylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -50 °C; Boiling Point: 198 °C @ Press: 760 Torr; Density: 0.92 g/cm³; Flash Point: 201 °F; Appearance: liquid; Color: Clear; Odor: Ammonia-like.; Form: Slightly Viscous Liquid; Water Solubility: soluble; Vapor Pressure: 0.02 mm Hg ( 20 °C); Refractive Index: n 20/D 1.427(lit.); pH: 6-8 (25℃, 1M in H2O); Log P: 0 at 20℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H227 Combustible liquid H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29053910; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "alpha,alpha,alpha'-trimethyltrimethylene glycol | 4-Methyl-2,4-pentanediol | 2,4-Dihydroxy-2-methylpentane | 2-Methylpentane-2,4-diol | 2-Methyl-2,4-pentandiol | 1,3,3-trimethyl-1,3-propanediol | 1,3-dimethyl-3-hydroxybutanol | 1,1,3-Trimethyltrimethylenediol | MPD",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29053910",
+  "similarProducts": [
+    "cas-10305-38-1",
+    "cas-6920-22-5",
+    "cas-112-25-4",
+    "cas-112-59-4",
+    "cas-629-11-8",
+    "cas-3031-66-1",
+    "cas-5343-92-0",
+    "cas-2163-42-0",
+    "cas-36675-34-0",
+    "cas-5617-32-3",
+    "cas-106-62-7",
+    "cas-107-21-1",
+    "cas-94-96-2",
+    "cas-108-61-2",
+    "cas-2163-42-0",
+    "cas-36675-34-0",
+    "cas-5617-32-3",
+    "cas-106-62-7",
+    "cas-107-21-1",
+    "cas-94-96-2",
+    "cas-108-61-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-41-5/"
+}

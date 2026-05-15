@@ -1,0 +1,62 @@
+{
+  "id": "1144",
+  "name": "Lithium carbonate",
+  "slug": "cas-554-13-2",
+  "cas": "554-13-2",
+  "ec": "209-062-5",
+  "formula": "CH2O3.2Li",
+  "mw": "73.9 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Electronics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium carbonate (CAS 554-13-2 ), also referred to commercially as Li2CO3, is an inorganic lithium salt used across battery manufacturing, ceramics, and pharmaceutical production. It functions primarily as a lithium source, flux agent, and pH buffer depending on the processing environment. In lithium-ion battery manufacturing, it serves as a precursor for cathode active materials such as lithium iron phosphate and lithium cobalt oxide. This makes it a critical input for EV and energy storage supply chains globally. Ceramic and glass producers use it to lower melting temperatures and improve thermal stability in specialty frits, glazes, and glass-ceramics. These properties are essential for high-performance industrial glass applications. In pharmaceutical manufacturing, it is the active substance in mood-stabilizing formulations for bipolar disorder treatment. The material is processed under strict pharmacopeial controls to ensure patient safety and efficacy. Lubricant formulators incorporate it into lithium-based greases, where it reacts with fatty acids to form the thickener structure. This structure determines grease performance across various industrial temperature ranges. Lithium carbonate is supplied as a white powder in technical, battery, and pharmaceutical grades. Battery-grade material is produced to tight purity specifications, typically exceeding 99.5 percent purity levels. The production process includes controlled limits on sodium, calcium, and sulfate impurities to ensure stability. Pharmaceutical-grade supply conforms to USP , BP , and Ph. Eur. monographs for global compliance. Contact us for supply of Lithium carbonate Request Quote",
+  "physicalProperties": "Melting Point: 723 °C; Boiling Point: 1310 °C; Density: 2.11 g/cm³; Flash Point: 1310°C; Appearance: Lithium carbonate is a white hygroscopic powder.; Color: White; Odor: odorless; Form: wire; Water Solubility: 13 g/L (20 ºC); pH: 10-11 (5g/l, H2O, 20℃); Log P: -0.809 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H360 May damage fertility or the unborn child H362 May cause harm to breast-fed children H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28369100; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 2",
+  "otherNames": "Li2CO3 | dilithium carbonate | carbonic acid, dilithium salt | Lithobid | Lithane | Eskalith | Lithotabs | Carbonic acid lithium salt",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28369100",
+  "similarProducts": [
+    "cas-7439-93-2",
+    "cas-1310-65-2",
+    "cas-1310-66-3",
+    "cas-919-16-4",
+    "cas-10377-48-7",
+    "cas-546-89-4",
+    "cas-513-79-1",
+    "cas-7790-69-4",
+    "cas-7447-41-8",
+    "cas-4437-85-8",
+    "cas-513-78-0",
+    "cas-7789-24-4",
+    "cas-4485-12-5",
+    "cas-21324-40-3",
+    "cas-7790-69-4",
+    "cas-7447-41-8",
+    "cas-4437-85-8",
+    "cas-513-78-0",
+    "cas-7789-24-4",
+    "cas-4485-12-5",
+    "cas-21324-40-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-554-13-2/"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "121",
+  "name": "L-histidine",
+  "slug": "cas-71-00-1",
+  "cas": "71-00-1",
+  "ec": "200-745-3",
+  "formula": "C6H9N3O2",
+  "mw": "155.15 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "L-Histidine (CAS 71-00-1 ), commonly abbreviated as His, is a proteinogenic amino acid sourced for use across pharmaceutical, nutritional, and cosmetic manufacturing. It functions primarily as a buffering agent, stabilizer, and nutritional building block in finished formulations. In biopharmaceutical manufacturing, His is the preferred buffering agent in monoclonal antibody and protein drug formulations, where it maintains pH stability and protects against aggregation during storage. Nutritional supplement producers use it as an active ingredient in amino acid blends, sports nutrition products, and clinical nutrition formulas targeting muscle recovery and metabolic support. Food manufacturers apply it as a flavor precursor — FEMA 3694 — where it contributes to savory and meat-like taste profiles in processed and seasoned products. In cosmetic formulations, it functions as a humectant and antioxidant stabilizer in skin care products, helping to protect active ingredients from oxidative degradation. L-Histidine is supplied as a white crystalline powder in both free base and monohydrochloride salt forms. Standard grades include USP , BP , Ph. Eur. , and food-grade FCC . The pharmaceutical grades are the most commonly specified for injectable and parenteral applications. Bulk supply is available in kilogram and metric ton quantities to meet both development-scale and commercial production requirements. Contact us for supply of L-histidine Request Quote",
+  "physicalProperties": "Melting Point: 287 °C (decomp); Boiling Point: 278.95°C (rough estimate); Density: 1.309 g/cm³; Appearance: White crystalline powder; Color: White to off-white or pale yellow; Odor: odorless; Form: powder; Water Solubility: 41.6 g/L (25 ºC); Refractive Index: 13 ° (C=11, 6mol/L HCl); pH: 7.0-8.0 (25℃, 0.1M in H2O); Log P: -1.27",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29332990; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "(2S)-2-azaniumyl-3-(1H-imidazol-4-yl)propanoate | L-Histidin | L-His | Histidina | (S)-α-amino-1H-Imidazole-4-propanoic acid | (S)-alpha-Amino-1H-imidazole-4-propionic acid | (S)-alpha-amino-1H-Imidazole-4-propanoic acid | (S)-a-Amino-1H-imidazole-4-propanoic acid | His",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29332990",
+  "similarProducts": [
+    "cas-5934-29-2",
+    "cas-645-35-2",
+    "cas-56-87-1",
+    "cas-70-54-2",
+    "cas-70-53-1",
+    "cas-74-79-3",
+    "cas-10098-89-2",
+    "cas-657-27-2",
+    "cas-15595-35-4",
+    "cas-1119-34-2",
+    "cas-3184-13-2",
+    "cas-56-84-8",
+    "cas-51-35-4",
+    "cas-63-91-2",
+    "cas-657-27-2",
+    "cas-15595-35-4",
+    "cas-1119-34-2",
+    "cas-3184-13-2",
+    "cas-56-84-8",
+    "cas-51-35-4",
+    "cas-63-91-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-71-00-1/"
+}

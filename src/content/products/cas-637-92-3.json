@@ -1,0 +1,60 @@
+{
+  "id": "1236",
+  "name": "Ethyl tert-butyl ether",
+  "slug": "cas-637-92-3",
+  "cas": "637-92-3",
+  "ec": "211-309-7",
+  "formula": "C6H14O",
+  "mw": "102.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethyl tert-butyl ether (CAS 637-92-3 ), commonly known as ETBE, is a fuel oxygenate and blending component produced from bioethanol and isobutylene. It is used primarily to raise the octane rating of gasoline and reduce tailpipe emissions. In fuel blending, ETBE is incorporated into gasoline at regulated concentrations to meet octane specifications and comply with clean fuel mandates across European and Asian markets. Refiners favor it over MTBE in regions where bio-derived content requirements apply. Its bioethanol origin supports renewable fuel obligations. In solvent applications, it functions as a low-polarity carrier in specialty coatings, extraction processes, and chemical synthesis where controlled evaporation rate and miscibility are relevant. Its low water solubility compared to ethanol also reduces groundwater contamination risk. This is a key procurement consideration in environmentally regulated markets where strict safety and environmental standards are enforced for chemical handling. ETBE is supplied as a liquid in bulk tanker, ISO container, and drummed formats suited to fuel-grade logistics. Fuel-grade is the primary commercial specification, with purity typically at 99%+ for blending applications. Technical-grade material is available for industrial solvent use, with supply volumes generally tied to refinery or petrochemical production schedules. This ensures a consistent supply chain for large-scale industrial and energy sector operations. Contact us for supply of Ethyl tert-butyl ether Request Quote",
+  "physicalProperties": "Melting Point: -94 °C; Boiling Point: 72.9 °C @ Press: 750 Torr; Density: 0.735 g/cm³ @ Temp: 25 °C; Press: 750 Torr; Flash Point: -19 °C; Appearance: colourless to light yellow liquid; Color: White; Form: Powder/Solid; Water Solubility: Miscible with alcohol, ethyl ether. Slightly miscible with water.; Vapor Pressure: 155 mm Hg ( 25 °C); Refractive Index: n 20/D 1.375(lit.)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H224 Extremely flammable liquid and vapor H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091990; UN Number: 1179; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "ETBE | tert-Butyl ethyl ether | 2-Ethoxy-2-methylpropane | Ethyl tert-butyl oxide | Propane, 2-ethoxy-2-methyl- | Ether, tert-butyl ethyl | Ethyl 1,1-dimethylethyl ether | ETBE (ETHYL TERT.-BUTYL ETHER)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29091990",
+  "similarProducts": [
+    "cas-1634-04-4",
+    "cas-100-41-4",
+    "cas-143-22-6",
+    "cas-55934-93-5",
+    "cas-74-96-4",
+    "cas-4620-70-6",
+    "cas-112-07-2",
+    "cas-64-17-5",
+    "cas-75-65-0",
+    "cas-79-27-6",
+    "cas-112-34-5",
+    "cas-111-76-2",
+    "cas-13360-63-9",
+    "cas-97-94-9",
+    "cas-64-17-5",
+    "cas-75-65-0",
+    "cas-79-27-6",
+    "cas-112-34-5",
+    "cas-111-76-2",
+    "cas-13360-63-9",
+    "cas-97-94-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-637-92-3/"
+}

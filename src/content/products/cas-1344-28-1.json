@@ -1,0 +1,64 @@
+{
+  "id": "1487",
+  "name": "Aluminium Oxide",
+  "slug": "cas-1344-28-1",
+  "cas": "1344-28-1",
+  "ec": "215-691-6",
+  "formula": "Al2O3",
+  "mw": "101.961 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Building & Construction",
+    "Water Treatment",
+    "Electronics",
+    "Automotive",
+    "Aerospace & Defense",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Aluminium Oxide (CAS 1344-28-1 ), commonly known as Alumina, is an inorganic mineral sourced in multiple industrial grades for use across refining, abrasive, and catalytic processes. It functions as a catalyst support, abrasive medium, and surface treatment agent across a broad range of manufacturing and processing industries. In petroleum refining, Alumina serves as a catalyst carrier. It is used for hydrodesulfurization and other fixed-bed reactions, where its high surface area and thermal stability determine catalyst performance. Abrasive operations rely on fused or calcined grades. These grades help to grind, polish, and lap metals, ceramics, and composite materials to tight tolerances. In water treatment, activated Alumina removes fluoride and arsenic from drinking water. This adsorption process helps facilities meet regulatory standards for municipal and industrial systems. Electronics manufacturers use high-purity Alumina as an insulating substrate and thermal barrier. Consistent dielectric properties are critical to component qualification in aerospace. Aluminium Oxide is available as powder, granules, and shaped pellets, with particle size specified to requirements. Established grades include activated, calcined, fused, and tabular forms, each targeting distinct end uses. Supply specifications include technical, refractory, and high-purity grades for industry. Select products meet USP or Ph. Eur. standards for pharmaceutical and analytical applications. This ensures the material meets the rigorous quality benchmarks required for sensitive processes. Contact us for supply of Aluminium Oxide Request Quote",
+  "physicalProperties": "Melting Point: ~2000 °C (approx); Boiling Point: 2980 °C; Density: 4.0 g/cm³ @ Temp: 20 °C; Flash Point: 2980°C; Appearance: Aluminum is a combustible, light, silverywhite, soft, ductile, malleable, amphoteric metal; Color: White to pink; Odor: Odorless; Form: powder; Water Solubility: INSOLUBLE; Vapor Pressure: 17 mm Hg ( 20 °C); Refractive Index: 1.765; pH: 7.0±0.5 ( in H2O)",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 28181010; Storage Class: 11 - Combustible Solids",
+  "otherNames": "dialuminum;tris(oxygen(2-)) | Alumina",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28181010",
+  "similarProducts": [
+    "cas-12042-68-1",
+    "cas-21645-51-2",
+    "cas-7429-90-5",
+    "cas-12141-46-7",
+    "cas-7784-18-1",
+    "cas-10043-01-3",
+    "cas-7446-70-0",
+    "cas-11138-49-1",
+    "cas-13473-90-0",
+    "cas-139-12-8",
+    "cas-7784-30-7",
+    "cas-13939-25-8",
+    "cas-7784-26-1",
+    "cas-1314-23-4",
+    "cas-11138-49-1",
+    "cas-13473-90-0",
+    "cas-139-12-8",
+    "cas-7784-30-7",
+    "cas-13939-25-8",
+    "cas-7784-26-1",
+    "cas-1314-23-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1344-28-1/"
+}

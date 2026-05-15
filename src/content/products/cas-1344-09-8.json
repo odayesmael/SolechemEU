@@ -1,0 +1,64 @@
+{
+  "id": "1483",
+  "name": "Sodium silicate",
+  "slug": "cas-1344-09-8",
+  "cas": "1344-09-8",
+  "ec": "215-687-4",
+  "formula": "Unspecified",
+  "mw": "122.063 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Pulp & Paper",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Textile, Leather & Paper",
+    "Mining & Metals",
+    "Water Treatment",
+    "Building & Construction"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium silicate (CAS 1344-09-8 ), also known as water glass, is an inorganic alkali salt used across heavy industry as a binder, sealant, and reactive flocculant. It functions by forming a rigid silica gel network upon drying or acidification. This mechanism enables bonding, surface hardening, and chemical stabilization across a broad range of substrates. In pulp and paper manufacturing, it stabilizes hydrogen peroxide during bleaching, preventing decomposition and improving whiteness yields. Adhesive and board manufacturers use it as a structural binder in corrugated packaging. Its fast-set properties and compatibility with cellulose substrates reduce reliance on synthetic resins in high-volume production environments. Water treatment facilities dose it as a corrosion inhibitor and coagulation aid. It conditions pipe surfaces and supports floc formation in clarification processes to ensure efficient removal of suspended solids from the water stream. In construction, it penetrates concrete and masonry to densify surfaces. This improves abrasion resistance and reduces permeability without the need for topcoat systems, providing a durable and cost-effective solution for industrial flooring. Sodium silicate is supplied as a liquid solution, most commonly in SiO2:Na2O ratios ranging from 2.0 to 3.5. Solids content typically falls between 30–50% depending on the specific viscosity requirements of the application. Solid forms, including powder, granules, and anhydrous glass cullet, are available for applications requiring dry blending. These formats are ideal for extended shelf life and specialized manufacturing processes that avoid liquid handling. Technical and industrial grades are the standard market offering for most chemical processes. Food-grade and water treatment-certified grades are also available for regulated end uses requiring specific purity and safety compliance. Contact us for supply of Sodium silicate Request Quote",
+  "physicalProperties": "Melting Point: 1410 °C(lit.); Boiling Point: 2355 °C(lit.); Density: 1.4 g/cm³; Appearance: colourless liquid as usually supplied (solution); Color: Colorless; Odor: Odorless; Form: powder; Water Solubility: very slightly soluble cold H2O [MER06]; Refractive Index: 1.520; pH: 13.5 (20°C in H2O)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H371 May cause damage to organs Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28391910; UN Number: 2922; ADR Class: 8; Packing Group: II; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "Silicic acid sodium salt | Sodium orthosilicate | Sodium siliconate | Sodium sesquisilicate | Sodium silicate glass | Sodium water glass | Britesil | Carsil",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28391910",
+  "similarProducts": [
+    "cas-13870-28-5",
+    "cas-6834-92-0",
+    "cas-10213-79-3",
+    "cas-1312-76-1",
+    "cas-16589-43-8",
+    "cas-11138-49-1",
+    "cas-60676-86-0",
+    "cas-16893-85-9",
+    "cas-1310-73-2",
+    "cas-112926-00-8",
+    "cas-54193-36-1",
+    "cas-112945-52-5",
+    "cas-7631-86-9",
+    "cas-7440-23-5",
+    "cas-16893-85-9",
+    "cas-1310-73-2",
+    "cas-112926-00-8",
+    "cas-54193-36-1",
+    "cas-112945-52-5",
+    "cas-7631-86-9",
+    "cas-7440-23-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1344-09-8/"
+}

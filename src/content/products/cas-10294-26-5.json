@@ -1,0 +1,60 @@
+{
+  "id": "2580",
+  "name": "Silver sulfate",
+  "slug": "cas-10294-26-5",
+  "cas": "10294-26-5",
+  "ec": "233-653-7",
+  "formula": "Ag.1/2H2O4S",
+  "mw": "311.80 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silver sulfate (CAS 10294-26-5 ) is an inorganic silver salt used across water treatment, pharmaceutical, and specialty chemical applications. Its controlled release of silver ions underpins its function as a biocidal agent and analytical reagent. In water treatment, this compound acts as a catalyst and masking agent during COD testing, where it suppresses chloride interference in standard analytical procedures. This ensures accurate measurements in environmental monitoring. Pharmaceutical and healthcare formulators use it as an antimicrobial active in wound care preparations and topical treatments targeting bacterial contamination. It provides a reliable source of silver ions for medical applications. Personal care manufacturers incorporate it into preservation systems where sustained silver ion release is required to maintain product integrity. This helps prevent microbial growth in various consumer formulations. It also serves as a precursor in the synthesis of other silver compounds and as a reference standard in laboratory and quality control workflows. Its versatility makes it a staple in chemical synthesis. The product is supplied as a white to off-white crystalline powder. It is available in reagent-grade and ACS -grade specifications, supporting both laboratory and industrial procurement requirements. Packaging is typically offered in small quantities for analytical use through to bulk quantities for industrial-scale water treatment operations. This flexibility allows for efficient supply chain management. Contact us for supply of Silver sulfate Request Quote",
+  "physicalProperties": "Melting Point: 665 °C; Boiling Point: 1085 °C; Density: 5.45; Flash Point: 1085°C; Appearance: Small, colorless, lustrous crystals or crystalline powder. Contains about 69% silver, turns gray on exposure to light.Soluble in ammonium hydroxide, nitric acid, sulfuric acid, hot water; insoluble in alcohol.; Color: White to off-white; Form: Solid; Water Solubility: 7.4 g/L (20 ºC); pH: 5-6 (5g/l, H2O, 25℃)",
+  "safetyHandling": "Danger GHS05 GHS09 Hazard Statements H318 Causes serious eye damage H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28432900; UN Number: 1830; ADR Class: 8; Packing Group: II; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "silver(I) sulphate | silver(I) sulfate | silver sulphate | Sulphuric acid, silver salt | Disilver sulfate | Disilver(1+) sulfate | Disilver monosulfate | Silver sulfate (Ag2SO4)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS09"
+  ],
+  "hsCode": "28432900",
+  "similarProducts": [
+    "cas-14701-21-4",
+    "cas-14808-79-8",
+    "cas-126-45-4",
+    "cas-7761-88-8",
+    "cas-7783-90-6",
+    "cas-10377-48-7",
+    "cas-7758-98-7",
+    "cas-10028-22-5",
+    "cas-7758-99-8",
+    "cas-20667-12-3",
+    "cas-10257-54-2",
+    "cas-10124-43-3",
+    "cas-7733-02-0",
+    "cas-7440-22-4",
+    "cas-10028-22-5",
+    "cas-7758-99-8",
+    "cas-20667-12-3",
+    "cas-10257-54-2",
+    "cas-10124-43-3",
+    "cas-7733-02-0",
+    "cas-7440-22-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10294-26-5/"
+}

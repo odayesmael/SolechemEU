@@ -1,0 +1,57 @@
+{
+  "id": "3262",
+  "name": "9-methoxy-9-borabicyclo[3.3.1]nonane",
+  "slug": "cas-38050-71-4",
+  "cas": "38050-71-4",
+  "ec": "253-758-1",
+  "formula": "C9H17BO",
+  "mw": "152.04 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Home Care & Industrial Cleaning",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "9-Methoxy-9-borabicyclo[3.3.1]nonane (CAS 38050-71-4 ), commonly referenced as 9-MeO-9-BBN or B-methoxy-9-BBN, is a stabilized organoborane reagent used in synthetic chemistry. It serves as a controlled source of the reactive 9-BBN boron center for various industrial applications. Its primary commercial role is enabling selective hydroboration and cross-coupling reactions under conditions that demand greater handling stability than the parent 9-BBN hydride. This makes it a preferred choice for large-scale chemical processing. In pharmaceutical synthesis, it functions as a precursor to boronate esters and boronic acids used in Suzuki-Miyaura cross-coupling steps. These steps are vital during active pharmaceutical ingredient (API) manufacture for global supply chains. Contract research organizations and process chemistry teams use it when building complex carbon frameworks where regioselectivity is critical. It ensures reproducibility across batches, which must be documented according to strict industry protocols. In biotechnology workflows, it supports the preparation of boron-tagged intermediates for probe synthesis and labeling chemistry. Industrial cleaning formulations incorporating boron-based catalytic systems may also utilize it as a catalyst precursor. The reagent is often used in specialized surface-treatment or polymerization-adjacent processes. It is supplied as a liquid or solution in standard organic solvents such as THF or hexanes, with concentration typically specified by the supplier. Available in research quantities through to multi-kilogram lots for process-scale pharmaceutical manufacturing. Technical and synthesis-grade specifications are standard for this material to ensure consistent performance in the laboratory. Buyers should confirm purity by NMR or GC assay per batch documentation provided by the manufacturer. This ensures the material meets the necessary requirements for high-precision chemical synthesis and industrial applications. Contact us for supply of 9-methoxy-9-borabicyclo[3.3.1]nonane Request Quote",
+  "physicalProperties": "Boiling Point: 32-33 °C @ Press: 0.15 Torr; Density: 0.716 g/mL at 25 °C; Flash Point: −9 °F; Form: liquid",
+  "safetyHandling": "",
+  "tradeRegulatory": "UN Number: 1993; ADR Class: 3; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "RefChem:1075007 | b-methoxy-9-bbn | 9-Borabicyclo[3.3.1]nonane, 9-methoxy- | B-Methoxy-9-borabicyclo[3.3.1]nonane | 9-Methoxy-BBN",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-280-64-8",
+    "cas-4856-95-5",
+    "cas-13292-87-0",
+    "cas-73183-34-3",
+    "cas-274-07-7",
+    "cas-955359-35-0",
+    "cas-121-43-7",
+    "cas-25015-63-8",
+    "cas-1113-78-6",
+    "cas-56539-66-3",
+    "cas-1722-26-5",
+    "cas-10377-81-8",
+    "cas-22238-17-1",
+    "cas-74-94-2",
+    "cas-25015-63-8",
+    "cas-1113-78-6",
+    "cas-56539-66-3",
+    "cas-1722-26-5",
+    "cas-10377-81-8",
+    "cas-22238-17-1",
+    "cas-74-94-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-38050-71-4/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "1480",
+  "name": "Ammonium bifluoride",
+  "slug": "cas-1341-49-7",
+  "cas": "1341-49-7",
+  "ec": "215-676-4",
+  "formula": "F2H.H4N",
+  "mw": "57.044 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Mining & Metals",
+    "Building & Construction",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium bifluoride (CAS 1341-49-7 ), also known as ABF, is an inorganic fluoride salt used across metal treatment, surface preparation, and industrial cleaning processes. It delivers controlled fluoride activity in acidic conditions, making it a practical alternative to hydrofluoric acid in applications where handling pure HF is operationally difficult. In metal processing and mining, ABF functions as a flux and etchant for removing oxide layers from aluminum, stainless steel, and other alloys prior to finishing or refining. Electronics manufacturers use it in glass and silicon etching, where precise surface modification is required for component fabrication during the manufacturing process. In textile and paper production, it acts as a pH buffer and flame retardant additive, contributing to fire-resistance treatments in various types of finished goods. Building and construction applications include masonry cleaning and concrete surface treatment, where its fluoride content dissolves silicates and mineral deposits effectively. Ammonium bifluoride is supplied as white crystalline granules or powder. Technical grade is the standard commercial form, with purity levels typically at 95–98%+. Bulk packaging in fiber drums or HDPE containers is common for industrial supply, with smaller quantities available for laboratory or specialty use in research settings. Contact us for supply of Ammonium bifluoride Request Quote",
+  "physicalProperties": "Melting Point: 125.6 °C; Boiling Point: 240 °C (decomp); Density: 1.50 g/cm³; Flash Point: 238°C; Appearance: white scales or flakes; Color: White; Odor: acidic odor; Form: Solid; Water Solubility: 630 g/L (20 ºC); Vapor Pressure: 1 hPa (20 °C); pH: 2 (5.7g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28261900; UN Number: 1727; ADR Class: 8; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "Ammonium difluoride | Ammonium hydrogen difluoride | Ammonium hydrofluoride | Acid ammonium fluoride | Ammonium acid fluoride | Ammonium hydrogen bifluoride | Ammonium fluoride ((NH4)(HF2)) | Fluorure acide d'ammonium | ABF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28261900",
+  "similarProducts": [
+    "cas-12125-01-8",
+    "cas-16919-19-0",
+    "cas-1333-83-1",
+    "cas-7784-18-1",
+    "cas-7664-39-3",
+    "cas-12124-97-9",
+    "cas-16872-11-0",
+    "cas-7789-23-3",
+    "cas-7783-49-5",
+    "cas-7787-32-8",
+    "cas-7789-24-4",
+    "cas-7789-75-5",
+    "cas-7681-49-4",
+    "cas-540-69-2",
+    "cas-7789-23-3",
+    "cas-7783-49-5",
+    "cas-7787-32-8",
+    "cas-7789-24-4",
+    "cas-7789-75-5",
+    "cas-7681-49-4",
+    "cas-540-69-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1341-49-7/"
+}

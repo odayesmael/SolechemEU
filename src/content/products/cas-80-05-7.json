@@ -1,0 +1,63 @@
+{
+  "id": "228",
+  "name": "Bisphenol a",
+  "slug": "cas-80-05-7",
+  "cas": "80-05-7",
+  "ec": "201-245-8",
+  "formula": "C15H16O2",
+  "mw": "228.29 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Automotive",
+    "Electronics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Bisphenol A (CAS 80-05-7 ), commonly abbreviated as BPA, is a high-volume industrial monomer used primarily to manufacture polycarbonate plastics and epoxy resins. It functions as a foundational building block in polymer synthesis. This chemical enables the production of durable, heat-resistant materials across multiple industrial sectors. In epoxy resin formulations, BPA reacts with epichlorohydrin to produce bisphenol A diglycidyl ether (BADGE). This substance serves as the base resin used in protective coatings, adhesives, and industrial laminates. Polycarbonate production accounts for a significant share of BPA consumption globally. The material delivers impact resistance and optical clarity in automotive glazing, electronic housings, and optical media. In coatings for metal substrates, BPA-based epoxies provide corrosion resistance and adhesion. These coatings are essential for industrial pipelines and packaging under demanding conditions. Electronics manufacturers rely on BPA-derived epoxy systems for printed circuit board laminates and encapsulants. These systems are favored for applications requiring high thermal and electrical stability. Bisphenol A is supplied as a white crystalline powder or flake for bulk industrial handling. Technical grade is the predominant commercial specification, though high-purity grades are available for demanding polymer and electronic applications. It is typically traded in 25 kg bags or bulk quantities. The product maintains consistent melt color and purity specifications aligned to major polymer-grade standards. This ensures reliable performance in large-scale manufacturing and chemical synthesis processes. Contact us for supply of Bisphenol a Request Quote",
+  "physicalProperties": "Melting Point: 150-155 °C; Boiling Point: 250 °C @ Press: 13 Torr; Density: 1.195 g/cm³ @ Temp: 25 °C; Flash Point: 227 °C; Appearance: Bisphenol A is a white or tan crystals or flakes with a mild phenolic odor.; Color: Clear light yellow to light orange; Odor: Phenol like; Form: Liquid; Water Solubility: <0.1 g/100 mL at 21.5 ºC; Vapor Pressure: <1 Pa (25 °C); Refractive Index: 1.5542 (estimate); Log P: 3.4 at 21.5℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H303 May be harmful if swallowed H313 May be harmful in contact with skin H317 May cause an allergic skin reaction H318 Causes serious eye damage H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29072300; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "p,p'-isopropylidenediphenol | p,p'-isopropylidenebisphenol | p,p'-dihydroxydiphenylpropane | p,p'-dihydroxydiphenyldimethylmethane | p,p'-bisphenol A | isopropylidenebis(4-hydroxybenzene) | dimethylmethylene-p,p'-diphenol | dimethylbis(p-hydroxyphenyl)methane | BPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29072300",
+  "similarProducts": [
+    "cas-25068-38-6",
+    "cas-80-09-1",
+    "cas-79-94-7",
+    "cas-2930-05-4",
+    "cas-92-52-4",
+    "cas-41637-38-1",
+    "cas-2425-79-8",
+    "cas-102-09-0",
+    "cas-32435-46-4",
+    "cas-106-89-8",
+    "cas-7195-44-0",
+    "cas-94-36-0",
+    "cas-140-31-8",
+    "cas-25767-47-9",
+    "cas-102-09-0",
+    "cas-32435-46-4",
+    "cas-106-89-8",
+    "cas-7195-44-0",
+    "cas-94-36-0",
+    "cas-140-31-8",
+    "cas-25767-47-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-80-05-7/"
+}

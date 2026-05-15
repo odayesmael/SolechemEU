@@ -1,0 +1,62 @@
+{
+  "id": "2559",
+  "name": "Cobalt sulfate",
+  "slug": "cas-10124-43-3",
+  "cas": "10124-43-3",
+  "ec": "233-334-2",
+  "formula": "Co.H2O4S",
+  "mw": "155.00 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Mining & Metals",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cobalt sulfate (CAS 10124-43-3 ), also known as cobalt monosulfate, is an inorganic cobalt salt used across electroplating, battery manufacturing, and agricultural micronutrient applications. It serves as a primary cobalt source in processes requiring controlled cobalt ion delivery at industrial scale. In electroplating and surface finishing, it is used in bath formulations to deposit cobalt. These cobalt-alloy coatings improve hardness and wear resistance on metal components. Battery and energy storage manufacturers use it as a precursor in synthesizing cathode active materials for lithium-ion chemistries. In agriculture, it is applied as a micronutrient supplement in fertilizers and animal feed to address cobalt deficiencies in livestock and soil. This ensures proper health and growth in various environments. Catalyst producers also use this chemical as a precursor for cobalt-based catalysts in hydroprocessing and chemical synthesis operations. It is a versatile component for many high-tech industrial sectors. The material is supplied primarily as a heptahydrate crystalline solid, with the anhydrous form available for specific technical applications. Standard commercial grades include technical grade and battery-grade. Battery-grade material is subject to tighter purity specifications relevant to cathode precursor production. Packaging typically ranges from small drums to bulk quantities for large-volume industrial buyers. Contact us for supply of Cobalt sulfate Request Quote",
+  "physicalProperties": "Melting Point: 735 °C; Density: 3.71 g/cm³ @ Temp: 25 °C; Appearance: Red powder or rose pink crystalline solid. Odorless.; Color: red orthorhombic crystals, crystalline; Odor: Odorless; Form: red orthorhombic crystals; Water Solubility: dissolves slowly in boiling H2O [MER06]; g/100g solution H2O: 19.7 ± 0.1 (0°C), 27.2 ± 0.1 (25°C), 27.8 (100°C); solid phase, CoSO4 · 7H2O (0°C, 25°C), CoSO4 ·H2O (100°C) [KRU93]; Vapor Pressure: 0Pa at 20℃; Refractive Index: 1.639; Log P: -1.031 (est)",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H317 May cause an allergic skin reaction H319 Causes serious eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "CoSO4 | cobalt monosulfate | cobalt brown | cobalt (2+) sulfate | cobaltous sulfate | Cobalt(II) sulfate | Cobalt(II) sulphate | Cobalt sulfate (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-10026-24-1",
+    "cas-513-79-1",
+    "cas-7440-48-4",
+    "cas-21041-93-0",
+    "cas-12672-51-4",
+    "cas-71-48-7",
+    "cas-7786-81-4",
+    "cas-6147-53-1",
+    "cas-10026-22-9",
+    "cas-7646-79-9",
+    "cas-10101-97-0",
+    "cas-7791-13-1",
+    "cas-7758-98-7",
+    "cas-10141-05-6",
+    "cas-6147-53-1",
+    "cas-10026-22-9",
+    "cas-7646-79-9",
+    "cas-10101-97-0",
+    "cas-7791-13-1",
+    "cas-7758-98-7",
+    "cas-10141-05-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10124-43-3/"
+}

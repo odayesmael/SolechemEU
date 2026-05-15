@@ -1,0 +1,63 @@
+{
+  "id": "235",
+  "name": "Methyl methacrylate",
+  "slug": "cas-80-62-6",
+  "cas": "80-62-6",
+  "ec": "201-297-1",
+  "formula": "C5H8O2",
+  "mw": "100.12 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl methacrylate ( CAS 80-62-6 ), commonly known as MMA, is a reactive monomer used as the primary building block for polymerization processes across coatings, plastics, and adhesive systems. It polymerizes readily to form poly(methyl methacrylate) and serves as a co-monomer in a broad range of acrylic polymer formulations. In coatings and surface treatments, MMA is polymerized to produce acrylic resins. These resins deliver optical clarity, UV resistance, and durability in automotive, architectural, and industrial finishes. Adhesive and sealant formulators use MMA-based systems where fast cure and high bond strength are required. These systems include structural acrylic adhesives used for bonding metals and plastics. In plastics manufacturing, MMA is the feedstock for cast and extruded PMMA sheet, used in signage, displays, and optical components. Printing and packaging applications rely on MMA copolymers in UV-curable inks and barrier coatings. These applications are critical where adhesion to film substrates is a primary requirement for the final product. MMA is supplied as a stabilized liquid monomer, typically inhibited with hydroquinone monomethyl ether (MEHQ) to prevent premature polymerization during storage and transport. This ensures product stability. Standard commercial grades are available for industrial and technical applications. Inhibitor levels and purity specifications vary by end-use requirement to meet specific manufacturing standards for industrial buyers. Bulk liquid, IBC, and drum packaging are the standard supply formats for industrial buyers. These logistics options ensure that the monomer is delivered safely and efficiently for large-scale chemical production. Contact us for supply of Methyl methacrylate Request Quote",
+  "physicalProperties": "Melting Point: -48 °C; Boiling Point: 100.5 °C @ Press: 760 Torr; Density: 0.9440 g/cm³ @ Temp: 20 °C; Flash Point: 50 °F; Appearance: Methyl methacrylate is a colorless liquid. Acrid, fruity odor. The odor threshold is 0.050.083 ppm; Color: White to pale yellow; Odor: at 0.10 % in dipropylene glycol. acrylic aromatic fruity; Form: Crystalline Powder or Crystals; Water Solubility: 15.9 g/L (20 ºC); Vapor Pressure: 29 mm Hg ( 20 °C); Refractive Index: n 20/D 1.414(lit.); Log P: 1.38 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H332 Harmful if inhaled H333 May be harmful if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29161410; UN Number: 1247; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "methyl-2-methyl-2-propenoate | methyl methylacrylate | methyl ester of methacrylic acid | methyl alpha-methylacrylate | methyl 2-methylpropenoate | methyl 2-methylacrylate | methacrylic acid methyl ester | 2-methylacrylic acid methyl ester | MMA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29161410",
+  "similarProducts": [
+    "cas-96-33-3",
+    "cas-79-41-4",
+    "cas-9011-14-7",
+    "cas-97-88-1",
+    "cas-9003-21-8",
+    "cas-25035-69-2",
+    "cas-25777-71-3",
+    "cas-97-63-2",
+    "cas-27813-02-1",
+    "cas-106-91-2",
+    "cas-760-93-0",
+    "cas-79-39-0",
+    "cas-96-05-9",
+    "cas-923-26-2",
+    "cas-97-63-2",
+    "cas-27813-02-1",
+    "cas-106-91-2",
+    "cas-760-93-0",
+    "cas-79-39-0",
+    "cas-96-05-9",
+    "cas-923-26-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-80-62-6/"
+}

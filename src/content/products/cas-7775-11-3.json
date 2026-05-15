@@ -1,0 +1,63 @@
+{
+  "id": "2134",
+  "name": "Sodium chromate",
+  "slug": "cas-7775-11-3",
+  "cas": "7775-11-3",
+  "ec": "231-889-5",
+  "formula": "CrH2O4.2Na",
+  "mw": "161.973 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Textile, Leather & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium chromate (CAS 7775-11-3 ) is an inorganic chromium(VI) salt used industrially as a corrosion inhibitor and oxidizing agent across metal processing, textile, and water treatment sectors. Disodium chromate is a recognized alternative name buyers may encounter in technical procurement contexts. In metal finishing and mining operations, it functions as a passivation agent applied to steel surfaces. It is used on non-ferrous surfaces to prevent oxidative degradation in aggressive environments. The textile and leather industries use it as a mordant in dyeing processes, fixing chromium-based dyes to fiber substrates. This application ensures improved color fastness and durability for various materials. In industrial water treatment systems, particularly cooling towers, it inhibits corrosion of metal infrastructure by forming a protective film. This film on pipe surfaces protects recirculating water circuits from damage. Paper manufacturing operations also employ it as an oxidizing agent in certain pulp treatment and surface chemistry processes. The product is supplied as a yellow crystalline powder or anhydrous solid, with the tetrahydrate form also available. Technical grade is the standard commercial offering for most industrial end uses. Buyers should confirm purity specifications and chromium(VI) content with suppliers. These requirements often vary significantly between industrial and process-specific grades depending on the final application. Contact us for supply of Sodium chromate Request Quote",
+  "physicalProperties": "Melting Point: 792 °C; Density: 2.72 g/cm³; Appearance: Sodium chromate, including the hexahydrate, is yellow crystalline solids that can also be used in solution. Disodium dichromate (10588-01-9):; Color: Yellow; Form: Solid; Water Solubility: 530 G/L (20 ºC)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H300 H300 H301 H301 H312 H312 H314 H314 H317 H317 H318 H318 H330 H330 H334 H334 H340 H340 H341 H341 H350 H350 H360 H360 H370 H370 H372 H372 H400 H400 H410 H410 Precautionary Statements P203 P203 P233 P233 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P284 P284 P316 P316 P317 P317 P318 P318 P319 P319 P320 P320 P321 P321 P330 P330 P363 P363 P391 P391 P403 P403 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P333+P317 P333+P317 P342+P316 P342+P316 P362+P364 P362+P364 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28415000; UN Number: 3288; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "sodium chromate(VI) | H2CrO4 | disodium chromate | chromiumsodium oxide | chromium disodium oxide | chromic acid, disodium salt | Chromate of soda | Neutral sodium chromate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "28415000",
+  "similarProducts": [
+    "cas-10588-01-9",
+    "cas-7789-12-0",
+    "cas-7738-94-5",
+    "cas-7778-50-9",
+    "cas-1333-82-0",
+    "cas-7440-47-3",
+    "cas-10102-40-6",
+    "cas-7631-95-0",
+    "cas-13530-65-9",
+    "cas-27115-36-2",
+    "cas-39380-78-4",
+    "cas-7758-19-2",
+    "cas-7775-09-9",
+    "cas-1308-38-9",
+    "cas-7631-95-0",
+    "cas-13530-65-9",
+    "cas-27115-36-2",
+    "cas-39380-78-4",
+    "cas-7758-19-2",
+    "cas-7775-09-9",
+    "cas-1308-38-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7775-11-3/"
+}

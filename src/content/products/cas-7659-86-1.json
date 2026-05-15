@@ -1,0 +1,62 @@
+{
+  "id": "2066",
+  "name": "2-ethylhexyl thioglycolate",
+  "slug": "cas-7659-86-1",
+  "cas": "7659-86-1",
+  "ec": "231-626-4",
+  "formula": "C10H20O2S",
+  "mw": "204.33 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Rubber & Tire",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Ethylhexyl thioglycolate (CAS 7659-86-1 ), commonly abbreviated as EHTG and also known commercially as 2-ethylhexyl mercaptoacetate, is a sulfur-functional ester used as a reactive intermediate. It serves as a processing aid across polymer and rubber manufacturing. Its thiol group enables controlled reactivity in curing, chain transfer, and stabilization processes for various industrial applications. In PVC and vinyl polymer processing, EHTG functions as a co-stabilizer component and plasticizing modifier. This helps formulators balance flexibility and thermal stability in finished compounds. Rubber compounders use it as a crosslinking agent and vulcanization modifier. It is particularly useful where precise control over cure rate and network density is required for the material. In polymer synthesis, EHTG acts as a chain transfer agent. This allows manufacturers to regulate molecular weight distribution during free-radical polymerization to meet specific performance criteria. Metalworking and lubricant formulators incorporate it as a reactive sulfur additive. It is commonly found in extreme-pressure and anti-wear packages for high-performance industrial lubricants. 2-Ethylhexyl thioglycolate is supplied as a clear liquid in standard industrial drum and IBC quantities. Technical grade is the primary commercial specification available to industrial buyers. Purity levels typically range from 95% to 99% for this chemical. Documentation including COA and purity assay results are standard for procurement and quality assurance purposes. Contact us for supply of 2-ethylhexyl thioglycolate Request Quote",
+  "physicalProperties": "Boiling Point: 255-260 °C (lit.); Density: 0.972 g/mL at 20 °C(lit.); Flash Point: 136 °C; Color: Colourless; Form: Oil; Water Solubility: 4.73mg/L at 20℃; Vapor Pressure: 3.6Pa at 25℃; Refractive Index: n 20/D 1.461; Log P: 4.7 at 20℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS09 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 3272; ADR Class: 3; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "2-Ethylhexyl mercaptoacetate | Mercaptoacetic acid 2-ethylhexyl ester | X6P51ASB6H | EHTG | RefChem:897807 | Acetic acid, 2-mercapto-, 2-ethylhexyl ester | Acetic acid, mercapto-, 2-ethylhexyl ester",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-25103-09-7",
+    "cas-2461-15-6",
+    "cas-103-09-3",
+    "cas-103-11-7",
+    "cas-688-84-6",
+    "cas-149-57-5",
+    "cas-94-28-0",
+    "cas-112-25-4",
+    "cas-30618-84-9",
+    "cas-104-76-7",
+    "cas-96-27-5",
+    "cas-22047-49-0",
+    "cas-68-11-1",
+    "cas-29710-25-6",
+    "cas-112-25-4",
+    "cas-30618-84-9",
+    "cas-104-76-7",
+    "cas-96-27-5",
+    "cas-22047-49-0",
+    "cas-68-11-1",
+    "cas-29710-25-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7659-86-1/"
+}

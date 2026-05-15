@@ -1,0 +1,63 @@
+{
+  "id": "23",
+  "name": "Chlorhexidine",
+  "slug": "cas-55-56-1",
+  "cas": "55-56-1",
+  "ec": "200-238-7",
+  "formula": "C22H30Cl2N10",
+  "mw": "505.4 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Food & Nutrition",
+    "Water Treatment",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Chlorhexidine (CAS 55-56-1 ), commonly abbreviated as CHX, is a broad-spectrum antimicrobial agent used across pharmaceutical, personal care, and healthcare manufacturing. It disrupts microbial cell membranes at low concentrations. This characteristic makes it a go-to active ingredient for preservation and surface disinfection in regulated formulations. In pharmaceutical and healthcare products, CHX is the active ingredient in surgical scrubs and wound irrigation solutions. It is also utilized in catheter care protocols where sustained antimicrobial activity is required. Oral care manufacturers incorporate it into prescription-grade mouthwashes and gels targeting periodontal bacteria. In these applications, it remains the clinical benchmark for plaque control. Personal care formulators use it as a preservative and antimicrobial booster in skin cleansers, hand sanitizers, and topical preparations. Water treatment and industrial hygiene applications rely on CHX-based formulations for equipment sanitation. These solutions are essential for surface disinfection in controlled environments and industrial settings. Chlorhexidine is supplied in several salt forms, most commonly as chlorhexidine digluconate, chlorhexidine diacetate, and chlorhexidine dihydrochloride. Pharmaceutical-grade material is available to USP specifications. The material is also available according to BP and Ph. Eur. standards, with digluconate solutions typically offered at 20% concentration. Technical-grade supply is also available for industrial and veterinary applications. Contact us for supply of Chlorhexidine Request Quote",
+  "physicalProperties": "Melting Point: 134 °C; Boiling Point: 641.45°C (rough estimate); Density: 1.07 g/cm³ (Solid crystalline); Appearance: solid; Color: White to off-white; Form: neat; Water Solubility: 0.08 g/100 mL (20 ºC); Refractive Index: 1.6300 (estimate); Log P: 0.080",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29215900; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "N,N'-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide | CHX | 1,1'-hexamethylene bis[5-(p-chlorophenyl)biguanide] | Hexadol | Soretol | Fimeil | Sterilon | Tubulicid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29215900",
+  "similarProducts": [
+    "cas-18472-51-0",
+    "cas-3697-42-5",
+    "cas-56-95-1",
+    "cas-88-04-0",
+    "cas-57028-96-3",
+    "cas-32289-58-0",
+    "cas-97-23-4",
+    "cas-133-53-9",
+    "cas-70775-75-6",
+    "cas-31961-54-3",
+    "cas-123-03-5",
+    "cas-522-51-0",
+    "cas-27083-27-8",
+    "cas-28757-47-3",
+    "cas-133-53-9",
+    "cas-70775-75-6",
+    "cas-31961-54-3",
+    "cas-123-03-5",
+    "cas-522-51-0",
+    "cas-27083-27-8",
+    "cas-28757-47-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-55-56-1/"
+}

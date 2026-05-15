@@ -1,0 +1,62 @@
+{
+  "id": "835",
+  "name": "Dimethyl phthalate",
+  "slug": "cas-131-11-3",
+  "cas": "131-11-3",
+  "ec": "205-011-6",
+  "formula": "C10H10O4",
+  "mw": "194.18 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethyl phthalate (CAS 131-11-3 ), commonly sourced as DMP, is a phthalate ester plasticizer and solvent used across polymer processing, personal care manufacturing, and specialty coatings. It functions primarily as a plasticizer for cellulose-based resins and as a carrier solvent in formulations requiring controlled evaporation and compatibility with polar substrates. In plastics processing, DMP is used to plasticize cellulose acetate and cellulose acetate butyrate, improving flexibility in film, sheet, and molded components for industrial use. Personal care manufacturers incorporate it as a solvent and fixative in nail lacquers and hair sprays, where it supports film formation and fragrance retention during application. In printing inks and coatings, DMP acts as a solvent carrier that aids pigment dispersion and resin dissolution across nitrocellulose-based systems for high-quality finishes. It also functions as a UV stabilizer in certain polymer formulations, helping to extend the service life of finished plastic articles exposed to light in outdoor environments. Dimethyl phthalate is supplied as a clear, low-viscosity liquid in drum and IBC quantities. Technical grade is the standard commercial offering, with purity levels typically at 99% or above. Bulk tanker supply is available from major producers for high-volume industrial buyers. Our logistics network ensures timely delivery of chemical raw materials to your manufacturing facility. Contact us for supply of Dimethyl phthalate Request Quote",
+  "physicalProperties": "Melting Point: 5.5 °C; Boiling Point: 283.7 °C @ Press: 760 Torr; Density: 1.189 g/cm³ @ Temp: 25 °C; Flash Point: 295 °F; Appearance: colourless oily liquid; Color: Clear; Odor: sl. aromatic odor; Form: Liquid; Water Solubility: <0.1 g/100 mL at 20 ºC; Vapor Pressure: 0.008 hPa (20 °C); Refractive Index: n 20/D 1.515(lit.); pH: 7 (H2O, 20℃); Log P: 1.54 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS09 Hazard Statements H242 Heating may cause a fire H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H402 Harmful to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P234 Keep only in original packaging. P235 Keep cool. P240 Ground and bond container and receiving equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P410 Protect from sunlight. P411 Store at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29173490; UN Number: 3082; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "DMP | Dimethyl ester of 1,2-benzenedicarboxylic acid | Avolin | Mipax | Palatinol M | Solvanom | Solvarone | Fermine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29173490",
+  "similarProducts": [
+    "cas-131-18-0",
+    "cas-868-85-9",
+    "cas-77-76-9",
+    "cas-1459-93-4",
+    "cas-627-93-0",
+    "cas-4767-03-7",
+    "cas-18755-43-6",
+    "cas-88917-22-0",
+    "cas-106-79-6",
+    "cas-68-12-2",
+    "cas-131-17-9",
+    "cas-84-74-2",
+    "cas-108-59-8",
+    "cas-616-38-6",
+    "cas-88917-22-0",
+    "cas-106-79-6",
+    "cas-68-12-2",
+    "cas-131-17-9",
+    "cas-84-74-2",
+    "cas-108-59-8",
+    "cas-616-38-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-131-11-3/"
+}

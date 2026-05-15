@@ -1,0 +1,63 @@
+{
+  "id": "772",
+  "name": "Pyrrolidine",
+  "slug": "cas-123-75-1",
+  "cas": "123-75-1",
+  "ec": "204-648-7",
+  "formula": "C4H9N",
+  "mw": "71.12 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pyrrolidine (CAS 123-75-1 ), also known as Azolidine, is a saturated five-membered nitrogen heterocycle used as a flavoring agent and chemical intermediate across food, pharmaceutical, and personal care industries. Assigned FEMA 3523 , it functions as a building block for synthesizing active ingredients and flavor compounds rather than as a finished additive in its own right for most industrial applications. In food and flavor manufacturing, it is used to produce thermally derived flavor compounds that contribute roasted, grain, and savory notes to processed foods and beverages during the production cycle. Pharmaceutical formulators rely on it as a key synthetic intermediate for APIs, where the pyrrolidine ring is incorporated into drug candidates targeting a range of therapeutic categories and medical needs. In personal care, it supports the synthesis of conditioning agents and specialty amines used in hair and skin formulations. Agrochemical producers also use it as an intermediate in fungicide and pesticide synthesis. Pyrrolidine is supplied as a colorless to pale yellow liquid in standard drum and IBC packaging. Technical and reagent grades are the most commonly available for industrial and laboratory procurement needs. High-purity pharmaceutical-grade material is offered for API synthesis applications. Buyers should confirm purity specifications and moisture content with suppliers, as grade requirements vary significantly by end use. Material quality is often verified against internal manufacturer specifications or recognized standards such as USP , Ph.Eur. , BP , EP , FCC , or ACS depending on the specific grade and application. Contact us for supply of Pyrrolidine Request Quote",
+  "physicalProperties": "Melting Point: -63 °C; Boiling Point: 86.71 °C; Density: 0.8520 g/cm³ @ Temp: 22.5 °C; Flash Point: 37 °F; Appearance: colourless to pale yellow liquid with a penetrating; Color: Colorless to Almost colorless; Odor: at 0.10 % in propylene glycol. ammoniacal animal egg amine; Form: Liquid; Water Solubility: Miscible with alcohol, ether, chloroform and water.; Vapor Pressure: 128 mm Hg ( 39 °C); Refractive Index: n 20/D 1.443(lit.); pH: 12.9 (100g/l, H2O, 20℃); Log P: 0.22 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS06 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H332 Harmful if inhaled H370 Causes damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29339900; UN Number: 1922; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Azolidine | Prolamine | 1-Azacyclopentane | Pyrrole, tetrahydro- | 2-Imidazolidone",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-109-97-7",
+    "cas-110-86-1",
+    "cas-616-45-5",
+    "cas-110-89-4",
+    "cas-127-17-3",
+    "cas-16969-45-2",
+    "cas-100-70-9",
+    "cas-22047-25-2",
+    "cas-100-48-1",
+    "cas-109-06-8",
+    "cas-108-89-4",
+    "cas-504-74-5",
+    "cas-100-54-9",
+    "cas-100-55-0",
+    "cas-22047-25-2",
+    "cas-100-48-1",
+    "cas-109-06-8",
+    "cas-108-89-4",
+    "cas-504-74-5",
+    "cas-100-54-9",
+    "cas-100-55-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-123-75-1/"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "1198",
+  "name": "tert-butyl peroxybenzoate",
+  "slug": "cas-614-45-9",
+  "cas": "614-45-9",
+  "ec": "210-382-2",
+  "formula": "C11H14O3",
+  "mw": "194.23 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Rubber & Tire",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyl peroxybenzoate (CAS 614-45-9 ), commonly sourced under the abbreviation TBPB or as tert-butyl perbenzoate, is an organic peroxide used as a free-radical initiator and curing agent across polymer and coatings manufacturing. Its controlled decomposition temperature makes it a practical choice for medium-temperature cure systems where processing window and final product performance must be balanced. In rubber and tire production, TBPB initiates cross-linking of elastomers. This process improves mechanical strength and heat resistance in finished compounds. Unsaturated polyester resins and gel coats in composites manufacturing rely on TBPB as a cure initiator, particularly where surface quality and cure speed are critical. Coatings formulators use it to drive radical polymerization in acrylic and styrenic systems, enabling consistent film formation at elevated cure temperatures. In plastics processing, it functions as a peroxide crosslinker for polyethylene. It also serves as a grafting initiator for modifying polymer backbones. TBPB is supplied as a clear to pale yellow liquid, typically at concentrations of 98% pure or as diluted formulations for safer handling in industrial settings. It is available in technical grade , with supply packaged to meet peroxide transport and storage regulations. Drum and IBC quantities are standard for industrial buyers seeking reliable chemical performance. Contact us for supply of tert-butyl peroxybenzoate Request Quote",
+  "physicalProperties": "Melting Point: 8 °C; Boiling Point: 75-76 °C @ Press: 0.2 Torr; Density: 1.021 g/cm³ @ Temp: 25 °C; Flash Point: 200 °F; Appearance: colourless or slightly yellow liquid; Color: Clear yellow; Odor: mild aromatic odor; Form: Liquid; Water Solubility: Immiscible; Vapor Pressure: 3.36 mm Hg ( 50 °C); Refractive Index: n 20/D 1.499(lit.); Log P: 3 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS09 GHS08 Hazard Statements H227 Combustible liquid H242 Heating may cause a fire H315 Causes skin irritation H317 May cause an allergic skin reaction H320 Causes eye irritation H332 Harmful if inhaled H371 May cause damage to organs H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P234 Keep only in original packaging. P235 Keep cool. P240 Ground and bond container and receiving equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P410 Protect from sunlight. P411 Store at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29163900; UN Number: 3103; ADR Class: 5.2; Storage Class: 4.1A - Other explosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "TBPB | tert-Butyl perbenzoate | Chaloxyd tbpb | Perbutyl Z | Esperox 10 | t-Butyl perbenzoate | Trigonox C | Benzoyl tert-butyl peroxide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29163900",
+  "similarProducts": [
+    "cas-927-07-1",
+    "cas-107-71-1",
+    "cas-110-05-4",
+    "cas-75-91-2",
+    "cas-13122-18-4",
+    "cas-1931-62-0",
+    "cas-98-54-4",
+    "cas-98-73-7",
+    "cas-29240-17-3",
+    "cas-98-29-3",
+    "cas-128-39-2",
+    "cas-75980-60-8",
+    "cas-56803-37-3",
+    "cas-55934-93-5",
+    "cas-98-73-7",
+    "cas-29240-17-3",
+    "cas-98-29-3",
+    "cas-128-39-2",
+    "cas-75980-60-8",
+    "cas-56803-37-3",
+    "cas-55934-93-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-614-45-9/"
+}

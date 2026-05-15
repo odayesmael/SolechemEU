@@ -1,0 +1,62 @@
+{
+  "id": "1296",
+  "name": "Sodium tert-butoxide",
+  "slug": "cas-865-48-5",
+  "cas": "865-48-5",
+  "ec": "212-741-9",
+  "formula": "C4H10O.Na",
+  "mw": "97.11 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium tert-butoxide (CAS 865-48-5 ), commonly abbreviated as NaOtBu and also known as sodium tert-butylate, is a strong, non-nucleophilic base used across pharmaceutical synthesis. It is widely utilized in agrochemical manufacturing and polymer chemistry. Its combination of high basicity and steric bulk makes it the reagent of choice for reactions where competing nucleophilic attack must be suppressed. In pharmaceutical API synthesis, NaOtBu drives deprotonation, condensation, and cyclization steps where milder bases fail to achieve adequate conversion. Agrochemical producers rely on it as a catalyst or base. It is essential in the synthesis of herbicide and pesticide active ingredients. In polymer and specialty materials manufacturing, it initiates anionic polymerization and facilitates the production of functional monomers. Biotechnology and fine chemical workflows use it to generate reactive intermediates under controlled anhydrous conditions. In these settings, reaction selectivity directly impacts the final yield and purity. Sodium tert-butoxide is supplied as a white to off-white free-flowing powder and as solutions in THF or toluene at concentrations typically ranging from 1 M to 2 M for industrial use. Technical and synthesis grades are the standard commercial offerings, with high-purity grades available to meet pharmaceutical manufacturing requirements. Packaging ranges from laboratory-scale quantities to bulk drums. Moisture-sensitive handling requirements are factored into standard supply formats to ensure stability. This ensures the product maintains its chemical integrity during transport and storage for various applications. Contact us for supply of Sodium tert-butoxide Request Quote",
+  "physicalProperties": "Melting Point: 263-270 °C (decomp); Boiling Point: 180 °C @ Press: 1 Torr; Density: 1.104 g/cm³; Flash Point: 12°C; Appearance: white to light tan crystalline powder; Color: white to off-white; Form: Powder; Water Solubility: reacts; Vapor Pressure: 0Pa at 20℃; Refractive Index: n20/D1.413",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H228 Flammable solid H251 Self-heating; may catch fire H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 3206; ADR Class: 4.2; Packing Group: II; Storage Class: 4.2 - Pyrophoric and self-heating hazardous materials; WGK (Germany): 3",
+  "otherNames": "RefChem:1098862 | tert-Butanol (sodium) | sodium tert-butylate | sodium tert-butanol | 2-methylpropan-2-ol sodium | GSVQWRYRPRJOIM-UHFFFAOYSA-N | 2-Propanol, 2-methyl-, sodium salt (1:1) | tert-Butyl alcohol, sodium salt | NaOtBu",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-865-47-4",
+    "cas-141-52-6",
+    "cas-124-41-4",
+    "cas-12068-03-0",
+    "cas-24424-99-5",
+    "cas-75-65-0",
+    "cas-657-84-1",
+    "cas-36016-38-3",
+    "cas-4766-57-8",
+    "cas-5593-70-4",
+    "cas-5324-84-5",
+    "cas-22238-17-1",
+    "cas-7646-69-7",
+    "cas-827-95-2",
+    "cas-36016-38-3",
+    "cas-4766-57-8",
+    "cas-5593-70-4",
+    "cas-5324-84-5",
+    "cas-22238-17-1",
+    "cas-7646-69-7",
+    "cas-827-95-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-865-48-5/"
+}

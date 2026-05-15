@@ -1,0 +1,64 @@
+{
+  "id": "70",
+  "name": "2-mercaptoethanol",
+  "slug": "cas-60-24-2",
+  "cas": "60-24-2",
+  "ec": "200-464-6",
+  "formula": "C2H6OS",
+  "mw": "78.14 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Mercaptoethanol (CAS 60-24-2 ), commonly referred to as β-mercaptoethanol or BME, is a thiol-functional reducing agent used across industrial and research-grade applications. It breaks disulfide bonds in proteins and polymers, enabling controlled denaturation. Fiber modification and chemical synthesis are primary uses for this versatile compound. Procurement demand spans biotechnology, pharmaceuticals, textiles, and personal care manufacturing sectors globally. It is essential for various industrial processes. In biotechnology and protein biochemistry, BME is a standard reagent for denaturing proteins prior to gel electrophoresis. It is also used for maintaining reduced thiol states in cell culture and buffer systems for research. Textile and leather processors use it to cleave disulfide linkages in keratin fibers. This enables permanent wave treatments, fiber softening, and chemical modification of wool during the manufacturing and treatment stages. In pharmaceutical synthesis, it functions as an intermediate in the production of thiol-containing active compounds. It also serves as a stabilizer in certain formulations to ensure product longevity and chemical integrity. Personal care manufacturers incorporate it into depilatory and hair-relaxing formulations where controlled keratin disruption is required. This application relies on the specific chemical properties of the thiol group. 2-Mercaptoethanol is supplied as a clear liquid, typically at 98–99% purity for technical and laboratory-grade applications. Reagent-grade and molecular biology-grade specifications are available to meet strict quality requirements. Bulk quantities are offered for industrial users, with smaller pack sizes standard for research and QC laboratory supply. The product is handled according to rigorous safety protocols to ensure consistent performance. Contact us for supply of 2-mercaptoethanol Request Quote",
+  "physicalProperties": "Melting Point: -100 °C; Boiling Point: 157 °C; Density: 1.1143 g/cm³ @ Temp: 20 °C; Flash Point: 165 °F; Appearance: Clear colorless liquid; Color: Clear colorless to slightly yellow; Odor: Disagreeable odor; Form: liquid; Water Solubility: soluble; Vapor Pressure: 1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.500(lit.); pH: 4.5-6 (500g/l, H2O, 20℃); Log P: -0.20",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H227 Combustible liquid [Warning Flammable liquids] H301 Toxic if swallowed [Danger Acute toxicity, oral] H310 Fatal in contact with skin [Danger Acute toxicity, dermal] H315 Causes skin irritation [Warning Skin corrosion/irritation] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H371 May cause damage to organs [Warning Specific target organ toxicity, single exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 2966; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "β-mercaptoethanol | Beta-Mercaptoethanol | 2-Sulfhydryl-Ethanol | 2-hydroxy-1-ethanethiol | 2-Sulfanylethanol | Ethanol, 2-mercapto- | Thioethylene glycol | 2-Thioethanol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-16215-21-7",
+    "cas-149-30-4",
+    "cas-7659-86-1",
+    "cas-126-97-6",
+    "cas-30618-84-9",
+    "cas-107-96-0",
+    "cas-13292-87-0",
+    "cas-75-66-1",
+    "cas-111-76-2",
+    "cas-96-27-5",
+    "cas-156-57-0",
+    "cas-96-47-9",
+    "cas-1634-04-4",
+    "cas-96-29-7",
+    "cas-75-66-1",
+    "cas-111-76-2",
+    "cas-96-27-5",
+    "cas-156-57-0",
+    "cas-96-47-9",
+    "cas-1634-04-4",
+    "cas-96-29-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-60-24-2/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2515",
+  "name": "Stannous chloride dihydrate",
+  "slug": "cas-10025-69-1",
+  "cas": "10025-69-1",
+  "ec": "600-045-1",
+  "formula": "Cl2Sn.2H2O",
+  "mw": "207.63 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Stannous chloride dihydrate (CAS 10025-69-1 ), also known as tin dichloride, is a tin(II) salt used across industrial manufacturing as a reducing agent, catalyst, and surface treatment chemical. Its ability to donate electrons in controlled reactions makes it a practical choice for processes requiring metal deposition, dye fixation, or polymer stabilization in various sectors. In textile and leather processing, it acts as a mordant to fix dyes onto fiber substrates, improving color fastness and uniformity in finished goods during the manufacturing cycle. Printed circuit board and electroplating operations use it as a tin source and reducing agent for sensitizing non-conductive surfaces prior to the critical metallization phase. In plastics and polymer production, it functions as a catalyst precursor for polymerization reactions and as a stabilizer component in PVC formulations for industrial applications. Paper and packaging manufacturers apply it in flame-retardant treatments, where it contributes to reduced combustibility in coated substrates and specialized paper products. Stannous chloride dihydrate is supplied as white crystalline powder or granules. Standard commercial grades include technical grade and reagent grade, with purity levels ranging from 98% to 99%+. Some suppliers offer it to ACS or BP specifications depending on the end-use requirement. This ensures the material meets the necessary chemical standards for your specific facility. Contact us for supply of Stannous chloride dihydrate Request Quote",
+  "physicalProperties": "Melting Point: 38 °C; Boiling Point: 652 °C(lit.); Density: 2.71 g/cm³; Appearance: Stannous chloride is a white crystalline solid.; Color: White or colorless; Odor: Odorless; Form: Solid; Water Solubility: 1187 g/L (20 ºC); Refractive Index: 1.642; pH: 1-2 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H332 Harmful if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28273910; UN Number: 3260; ADR Class: 8; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "tin(II) chloride dihydrate | tin dichloride.2H2O | stannous chloride hydrate | SnCl2.2H2O | E512 | dihydrated stannous chloride | RefChem:898146 | Tin dichloride dihydrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28273910",
+  "similarProducts": [
+    "cas-7772-99-8",
+    "cas-7646-78-8",
+    "cas-7488-55-3",
+    "cas-12027-70-2",
+    "cas-683-18-1",
+    "cas-12058-66-1",
+    "cas-13355-96-9",
+    "cas-12142-33-5",
+    "cas-814-94-8",
+    "cas-21651-19-4",
+    "cas-7447-39-4",
+    "cas-15578-26-4",
+    "cas-13814-97-6",
+    "cas-7789-12-0",
+    "cas-12142-33-5",
+    "cas-814-94-8",
+    "cas-21651-19-4",
+    "cas-7447-39-4",
+    "cas-15578-26-4",
+    "cas-13814-97-6",
+    "cas-7789-12-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10025-69-1/"
+}

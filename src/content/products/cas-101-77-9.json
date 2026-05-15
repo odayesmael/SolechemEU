@@ -1,0 +1,64 @@
+{
+  "id": "412",
+  "name": "4,4-Diaminodiphenylmethane",
+  "slug": "cas-101-77-9",
+  "cas": "101-77-9",
+  "ec": "202-974-4",
+  "formula": "C13H14N2",
+  "mw": "198.26 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Rubber & Tire",
+    "Textile, Leather & Paper",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4,4-Diaminodiphenylmethane (CAS 101-77-9 ), commercially known as MDA, is an aromatic diamine used as a curing agent and polymer building block across rubber, coatings, and adhesive manufacturing. Its two reactive amine groups enable controlled cross-linking and chain extension in high-performance polymer systems. In polyurethane and epoxy formulations, MDA functions as a hardener. This process produces cured systems with elevated thermal and mechanical resistance suitable for industrial coatings and structural adhesives. Rubber compounders use it as an antioxidant and cross-linking agent. It is frequently utilized in tire components and elastomeric seals where long-term heat stability is required. In polyurea and polyamide synthesis, MDA serves as a diamine monomer. This contributes to the backbone of engineering polymers used in films, fibers, and molded parts. Textile and leather processing operations also apply MDA-derived intermediates in dye chemistry. In these applications, it acts as a precursor to azo colorants for fiber dyeing. MDA is supplied as a solid, typically off-white to tan flakes or pastilles, and in molten form for bulk delivery. Technical grade is the standard commercial specification, with purity levels commonly at 99% or above. Packaging ranges from 25 kg bags to bulk containers depending on volume requirements. Contact us for supply of 4,4-Diaminodiphenylmethane Request Quote",
+  "physicalProperties": "Melting Point: 91.5-92 °C; Boiling Point: 398-399 °C @ Press: 768 Torr; Density: 1.056 g/cm³ @ Temp: 100 °C; Flash Point: 430 °F; Appearance: 4,4’-Diaminodiphenylmethane is a pale yel- low crystalline solid (turns light brown on contact with air) with a faint amine-like odor.; Color: White to Light yellow; Form: neat; Water Solubility: Slightly soluble. <0.1 g/100 mL at 19 ºC; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.5014 (estimate); Log P: 1.55 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 GHS06 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H316 Causes mild skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29215900; UN Number: 2651; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "4-[(4-aminophenyl)methyl]aniline | 4,4'-methylenedianiline | MDA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "29215900",
+  "similarProducts": [
+    "cas-1477-55-0",
+    "cas-101-68-8",
+    "cas-101-80-4",
+    "cas-106264-79-3",
+    "cas-26764-44-3",
+    "cas-124-09-4",
+    "cas-111-18-2",
+    "cas-6864-37-5",
+    "cas-105-83-9",
+    "cas-25513-64-8",
+    "cas-9016-87-9",
+    "cas-121-69-7",
+    "cas-1761-71-3",
+    "cas-99-97-8",
+    "cas-6864-37-5",
+    "cas-105-83-9",
+    "cas-25513-64-8",
+    "cas-9016-87-9",
+    "cas-121-69-7",
+    "cas-1761-71-3",
+    "cas-99-97-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-101-77-9/"
+}

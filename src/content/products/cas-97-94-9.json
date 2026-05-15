@@ -1,0 +1,63 @@
+{
+  "id": "359",
+  "name": "Triethylborane",
+  "slug": "cas-97-94-9",
+  "cas": "97-94-9",
+  "ec": "202-620-9",
+  "formula": "C6H15B",
+  "mw": "98.00 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Aerospace & Defense",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethylborane (CAS 97-94-9 ), commonly referenced in procurement as TEB, is a pyrophoric organoboron compound used as a radical initiator and catalyst in demanding synthesis and polymerization processes. Its reactivity with oxygen makes it a controlled but highly effective trigger for reactions that require precise initiation under low-temperature or inert-atmosphere conditions. In aerospace and defense, TEB is the standard ignition initiator for jet engines and scramjet systems, where reliable ignition at extreme conditions is critical to program qualification. Polymer manufacturers use it to initiate radical polymerization of fluoropolymers and specialty resins, particularly where conventional peroxide initiators fail to perform. Pharmaceutical and biotech synthesis teams employ TEB as a boron source and Lewis acid catalyst in carbon–carbon bond-forming reactions, including hydroboration sequences for chiral intermediate production. It also functions as a co-catalyst with transition metal complexes in Ziegler-Natta and related polymerization systems for polyolefin production across various industrial sectors. Triethylborane is supplied as a liquid, typically in hydrocarbon solvent solutions at concentrations of 1 M in hexane or THF, suited for controlled dispensing in sensitive reactions. Neat material is available for industrial-scale users with appropriate handling infrastructure. Supply is generally positioned at research and high-purity technical grades for global distribution. Contact us for supply of Triethylborane Request Quote",
+  "physicalProperties": "Melting Point: -92.9 °C; Boiling Point: 95-96 °C; Density: 0.697 g/cm³ @ Temp: 20 °C; Flash Point: 1 °F; Appearance: CLEAR COLOURLESS TO LIGHT AMBER SOLUTION; Color: Colorless to light amber; Form: Liquid; Water Solubility: Decomposes; Vapor Pressure: 67hPa at 25℃; Refractive Index: n 20/D 1.380",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H250 Catches fire spontaneously if exposed to air H301 Toxic if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H360 May damage fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P231 Handle and store contents under inert gas/… . P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P335+P334 IF ON SKIN: Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29319090; UN Number: 3399; ADR Class: 4.3; Packing Group: II; WGK (Germany): 2",
+  "otherNames": "TEB | Borane, triethyl- | Boron triethyl | Boron ethyl | Z3S980Z4P3 | RefChem:191525",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29319090",
+  "similarProducts": [
+    "cas-1722-26-5",
+    "cas-1113-78-6",
+    "cas-22238-17-1",
+    "cas-121-44-8",
+    "cas-78-40-0",
+    "cas-122-52-1",
+    "cas-143-22-6",
+    "cas-112-27-6",
+    "cas-122-51-0",
+    "cas-121-43-7",
+    "cas-78-51-3",
+    "cas-637-92-3",
+    "cas-14044-65-6",
+    "cas-17440-81-2",
+    "cas-112-27-6",
+    "cas-122-51-0",
+    "cas-121-43-7",
+    "cas-78-51-3",
+    "cas-637-92-3",
+    "cas-14044-65-6",
+    "cas-17440-81-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-97-94-9/"
+}

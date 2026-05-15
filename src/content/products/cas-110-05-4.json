@@ -1,0 +1,60 @@
+{
+  "id": "571",
+  "name": "di-tert-butyl peroxide",
+  "slug": "cas-110-05-4",
+  "cas": "110-05-4",
+  "ec": "203-733-6",
+  "formula": "C8H18O2",
+  "mw": "146.23 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Rubber & Tire",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Di-tert-butyl peroxide (CAS 110-05-4 ), commonly known as DTBP, is an organic peroxide used as a high-temperature free-radical initiator and cross-linking agent across rubber and polymer manufacturing. Its relatively high decomposition temperature makes it the preferred choice where lower-temperature peroxides would activate prematurely during compounding or processing. In rubber and tire production, DTBP initiates cross-linking. It is used for EPDM, silicone, and natural rubber compounds, delivering vulcanizates with improved heat resistance compared to sulfur-cured alternatives. Polyethylene and polypropylene producers use it to initiate reactions. These reactions include controlled degradation or grafting, modifying melt flow and mechanical properties for film, pipe, and wire insulation grades. It also functions as a polymerization initiator for styrenic and acrylic monomers. A high-temperature kick-off point is required to match reactor conditions. In the production of unsaturated polyester resins, DTBP enables elevated-temperature cure cycles that reduce cycle times in compression molding. Di-tert-butyl peroxide is supplied as a clear liquid, typically at concentrations of 98% or higher for industrial use. It is also available in diluted or blended formulations on inert carriers for transport. Technical grade is the standard commercial specification, with product conforming to relevant peroxide handling classifications for storage and logistics. This ensures safety and stability during the supply chain process. Contact us for supply of di-tert-butyl peroxide Request Quote",
+  "physicalProperties": "Melting Point: -40 °C; Boiling Point: 111 °C; Density: 0.7910 g/cm³ @ Temp: 25 °C; Flash Point: 34 °F; Appearance: colourless liquid; Color: Clear; Odor: distinctive odor; Form: Liquid; Water Solubility: immiscible; Vapor Pressure: 40 mm Hg ( 20 °C); Refractive Index: n 20/D 1.3891(lit.); Log P: 3.2 at 22℃",
+  "safetyHandling": "Danger GHS02 GHS08 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H242 Heating may cause a fire H319 Causes serious eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H341 Suspected of causing genetic defects H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P318 IF exposed or concerned, get medical advice. P403 Store in a well-ventilated place. P405 Store locked up. P410 Protect from sunlight. P411 Store at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29096000; UN Number: 3107; ADR Class: 5.2; Storage Class: 5.2 - Organic peroxides and self-reacting hazardous materials; WGK (Germany): 1",
+  "otherNames": "DTBP | tert-Butyl peroxide | t-Butyl peroxide | Trigonox B | Cadox TBP | Cadox | Kayabutyl D | Perbutyl D",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29096000",
+  "similarProducts": [
+    "cas-614-45-9",
+    "cas-128-39-2",
+    "cas-927-07-1",
+    "cas-75-91-2",
+    "cas-107-71-1",
+    "cas-80-43-3",
+    "cas-13122-18-4",
+    "cas-98-54-4",
+    "cas-1931-62-0",
+    "cas-3006-86-8",
+    "cas-29240-17-3",
+    "cas-818-08-6",
+    "cas-1067-33-0",
+    "cas-3851-87-4",
+    "cas-98-54-4",
+    "cas-1931-62-0",
+    "cas-3006-86-8",
+    "cas-29240-17-3",
+    "cas-818-08-6",
+    "cas-1067-33-0",
+    "cas-3851-87-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-05-4/"
+}

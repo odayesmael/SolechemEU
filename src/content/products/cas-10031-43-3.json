@@ -1,0 +1,65 @@
+{
+  "id": "2523",
+  "name": "Copper nitrate trihydrate",
+  "slug": "cas-10031-43-3",
+  "cas": "10031-43-3",
+  "ec": "600-060-3",
+  "formula": "Cu.3H2O.2HNO3",
+  "mw": "241.60 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Printing & Packaging",
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Mining & Metals",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Copper nitrate trihydrate (CAS 10031-43-3 ), also sold as cupric nitrate trihydrate, is a water-soluble copper salt used across industrial chemistry as a catalyst precursor, oxidizing agent, and surface treatment chemical. Its high solubility and reactive copper content make it a practical source of Cu²⁺ ions in processes where consistent metal delivery matters. In catalyst manufacturing, it serves as a precursor for copper oxide catalysts. These catalysts are used in hydrogenation, oxidation, and exhaust gas treatment systems. Textile and leather processors apply it in dyeing and tanning operations, where it acts as a mordant to fix colorants and improve wash fastness. In printed circuit board and metal finishing operations, it supports etching, patination, and surface oxidation treatments on copper and copper alloys. This versatility makes it essential for modern electronics manufacturing. Agricultural formulators use it as a copper-source micronutrient in foliar sprays and soil correction products targeting copper-deficient crops. It ensures healthy plant growth and improves overall yield in various farming sectors. Copper nitrate trihydrate is supplied as blue crystalline granules or powder. Technical grade is the standard commercial form, with laboratory-grade material available for catalyst and analytical applications. Bulk supply is common in 25 kg bags or drums, with purity specifications typically ranging from 98% to 99%+. The material must be stored in a cool, dry area away from combustible materials due to its oxidizing properties. Contact us for supply of Copper nitrate trihydrate Request Quote",
+  "physicalProperties": "Melting Point: 114 °C; Boiling Point: 170°C; Density: 2,32 g/cm 3; Appearance: Hygroscopic blue crystal with an order of nitric a; Color: Cream to brown; Form: Fine Powder; Water Solubility: soluble; pH: 3-4 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS03 GHS05 GHS07 GHS09 GHS08 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28342930; UN Number: 3085; ADR Class: 5.1; Packing Group: II; WGK (Germany): 2",
+  "otherNames": "Copper(II) nitrate trihydrate | Cupric nitrate trihydrate | Copper dinitrate trihydrate | Copper(2+) nitrate trihydrate | Nitric acid, copper(2+) salt, hydrate (2:1:3) | Nitric acid, copper(2+) salt, trihydrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "28342930",
+  "similarProducts": [
+    "cas-3251-23-8",
+    "cas-6046-93-1",
+    "cas-10402-15-0",
+    "cas-10257-54-2",
+    "cas-866-82-0",
+    "cas-142-71-2",
+    "cas-7758-99-8",
+    "cas-1184-64-1",
+    "cas-7447-39-4",
+    "cas-1344-67-8",
+    "cas-10026-22-9",
+    "cas-13478-00-7",
+    "cas-12069-69-1",
+    "cas-20427-59-2",
+    "cas-1184-64-1",
+    "cas-7447-39-4",
+    "cas-1344-67-8",
+    "cas-10026-22-9",
+    "cas-13478-00-7",
+    "cas-12069-69-1",
+    "cas-20427-59-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10031-43-3/"
+}

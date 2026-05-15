@@ -1,0 +1,60 @@
+{
+  "id": "1113",
+  "name": "tert-butyl acetate",
+  "slug": "cas-540-88-5",
+  "cas": "540-88-5",
+  "ec": "208-760-7",
+  "formula": "C6H12O2",
+  "mw": "116.16 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyl acetate ( CAS 540-88-5 ), commonly abbreviated as TBAc, is a slow-evaporating ester solvent used across pharmaceutical synthesis, coatings, and specialty chemical manufacturing. Its low HAP classification under U.S. EPA regulations makes it a preferred alternative to conventional ketone and aromatic solvents in regulated production environments. In pharmaceutical manufacturing, TBAc functions as a reaction solvent and intermediate in peptide synthesis and API processing, where controlled evaporation rates support yield and purity targets. Coatings and ink formulators use it as a carrier solvent to improve flow, leveling, and film formation in high-solids systems. In fragrance compounding, TBAc contributes a clean, fruity character. This material is suitable for fine fragrance and personal care applications. It also appears in flavor formulations where a mild, apple-like ester note is required at low use levels. TBAc is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for high-volume industrial buyers. Standard commercial grades meet technical specifications. Pharmaceutical-grade material is available to meet USP and BP requirements for API and drug product applications. Buyers should confirm solvent residual class compliance. When sourcing for regulated pharmaceutical use, ensure the material meets EP or Ph.Eur. standards. This ensures the highest level of safety and performance in your manufacturing process. Contact us for supply of tert-butyl acetate Request Quote",
+  "physicalProperties": "Melting Point: <25 °C; Boiling Point: 97.8 °C; Density: 0.8593 g/cm³ @ Temp: 25 °C; Flash Point: 60 °F; Appearance: Butyl acetates are colorless or yellowish liquids with pleasant, fruity odors. There are 4 isomers.; Color: Clear colorless; Odor: Fruity; Form: Liquid; Water Solubility: insoluble; Vapor Pressure: 41 hPa (20 °C); Refractive Index: n 20/D 1.386(lit.); Log P: 1.64 at 21.7℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153990; UN Number: 1123; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "tert-butyl ester of acetic acid | t-butyl acetate | Acetic acid, 1,1-dimethylethyl ester | Texaco lead appreciator | Acetic acid, tert-butyl ester | 1,1-Dimethyl acetate | 76N22HKP3X | TBAc",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29153990",
+  "similarProducts": [
+    "cas-75-65-0",
+    "cas-107-58-4",
+    "cas-123-86-4",
+    "cas-107-71-1",
+    "cas-98-73-7",
+    "cas-77-94-1",
+    "cas-77-90-7",
+    "cas-75-91-2",
+    "cas-141-78-6",
+    "cas-4559-86-8",
+    "cas-103429-90-9",
+    "cas-1643-19-2",
+    "cas-110-19-0",
+    "cas-141-32-2",
+    "cas-75-91-2",
+    "cas-141-78-6",
+    "cas-4559-86-8",
+    "cas-103429-90-9",
+    "cas-1643-19-2",
+    "cas-110-19-0",
+    "cas-141-32-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-540-88-5/"
+}

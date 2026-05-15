@@ -1,0 +1,62 @@
+{
+  "id": "153",
+  "name": "tert-Butanol",
+  "slug": "cas-75-65-0",
+  "cas": "75-65-0",
+  "ec": "200-889-7",
+  "formula": "C4H10O",
+  "mw": "74.12 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Food & Nutrition",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "tert-Butanol (CAS 75-65-0 ), also known as tert-butyl alcohol or TBA, is a tertiary alcohol used across chemical manufacturing, personal care, and food-related applications. It functions primarily as a solvent, process aid, and flavoring agent depending on the grade and end-use sector. In flavor manufacturing, TBA acts as a carrier solvent for flavor concentrates. It is used as a synthetic flavoring substance in food products at controlled levels. Personal care formulators use it as a solvent and viscosity modifier in aerosol systems and deodorants. It is also utilized in topical formulations where controlled evaporation is required. In polymer and chemical synthesis, it serves as a reaction solvent and intermediate in producing isobutylene. It also functions as a denaturant for ethanol in industrial and cosmetic applications, offering a recognized alternative to less palatable denaturants for various manufacturing processes. tert-Butanol is supplied as a liquid above its melting point or as a crystalline solid at ambient temperatures. Standard commercial grades include food-grade ( FCC ) and pharmaceutical-grade. Available quality standards include USP and BP , alongside technical-grade for industrial processing. Bulk liquid supply in drums and ISO tanks is standard for high-volume buyers. Contact us for supply of tert-Butanol Request Quote",
+  "physicalProperties": "Melting Point: 25.7 °C; Boiling Point: 82.41 °C; Density: 0.8 g/cm³; Flash Point: 95 °F; Appearance: clear colourless liquid after melting; Color: APHA: ≤20; Odor: Characteristic; camphor-like; pungent.; Form: Liquid After Melting; Water Solubility: soluble; Vapor Pressure: 31 mm Hg ( 20 °C); Refractive Index: n 20/D 1.399(lit.); pH: 7 (20°C); Log P: 0.350",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS05 Hazard Statements H225 Highly Flammable liquid and vapor H228 Flammable solid H303 May be harmful if swallowed H316 Causes mild skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051410; UN Number: 1120; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "tert-butyl alcohol | 2-methylpropan-2-ol | TBA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS05"
+  ],
+  "hsCode": "29051410",
+  "similarProducts": [
+    "cas-78-92-2",
+    "cas-71-36-3",
+    "cas-540-88-5",
+    "cas-78-83-1",
+    "cas-4620-70-6",
+    "cas-107-58-4",
+    "cas-137-32-6",
+    "cas-75-64-9",
+    "cas-75-91-2",
+    "cas-98-54-4",
+    "cas-75-66-1",
+    "cas-1634-04-4",
+    "cas-2160-93-2",
+    "cas-98-73-7",
+    "cas-75-64-9",
+    "cas-75-91-2",
+    "cas-98-54-4",
+    "cas-75-66-1",
+    "cas-1634-04-4",
+    "cas-2160-93-2",
+    "cas-98-73-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-65-0/"
+}

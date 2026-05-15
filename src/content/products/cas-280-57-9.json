@@ -1,0 +1,62 @@
+{
+  "id": "970",
+  "name": "Triethylenediamine",
+  "slug": "cas-280-57-9",
+  "cas": "280-57-9",
+  "ec": "205-999-9",
+  "formula": "C6H12N2",
+  "mw": "112.17 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Biotechnology & Life Sciences",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethylenediamine (CAS 280-57-9 ), commercially known as DABCO, is a bicyclic diamine used primarily as a tertiary amine catalyst in polyurethane manufacturing. It accelerates the reaction between isocyanates and polyols. This chemical controls foam formation and cure rates across a broad range of formulations. In flexible and rigid polyurethane foam production, it drives the gelling and blowing reactions that determine cell structure. The catalyst is essential for managing density and mechanical performance in industrial applications. Adhesive and sealant formulators use it to accelerate cure in two-component polyurethane and epoxy systems. By reducing open time and improving bond development, it enhances manufacturing efficiency. In coatings, it functions as a crosslinking catalyst for moisture-cure and two-part urethane systems applied to substrates. Life science and biotechnology applications include its use as an antifade mounting medium component. In this role, it inhibits photobleaching in fluorescence microscopy preparations for laboratory research. The product is supplied as a white crystalline solid, typically in powder or granule form. It is also available as pre-dissolved solutions in glycols such as dipropylene glycol for easier handling. Standard commercial grades are available at high purity levels suitable for catalyst applications. Solution concentrations are commonly at 33% active content in glycol carriers for precise dosing. Technical grade is the primary market specification for industrial use. Supply is typically managed in bags, drums, and IBCs to meet the logistical needs of large-scale chemical manufacturing facilities. Contact us for supply of Triethylenediamine Request Quote",
+  "physicalProperties": "Melting Point: 158 °C; Boiling Point: 174 °C; Density: 0.14 g/cm³; Flash Point: 198 °F; Appearance: white crystalline powder; Color: White to pale yellow; Form: Hygroscopic Crystals; Water Solubility: 46 g/100 mL (26 ºC); Vapor Pressure: 2.9 mm Hg ( 50 °C); Refractive Index: n 20/D 1.4634(lit.); Log P: -0.49 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS08 Hazard Statements H228 Flammable solid H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29335920; UN Number: 1325; ADR Class: 4.1; Packing Group: II; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 1",
+  "otherNames": "Dabco | 1,4-ethylenepiperazine | 1,4-diazabicyclo[2.2.2]octane | Dabco 33LV | Dabco crystal | TEDA | Texacat TD 100 | Bicyclo[2.2.2]-1,4-diazaoctane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29335920",
+  "similarProducts": [
+    "cas-6711-48-4",
+    "cas-2212-32-0",
+    "cas-2095-02-5",
+    "cas-111-40-0",
+    "cas-75389-89-8",
+    "cas-68479-98-1",
+    "cas-3855-32-1",
+    "cas-104-19-8",
+    "cas-83016-70-0",
+    "cas-68889-71-4",
+    "cas-56-18-8",
+    "cas-106264-79-3",
+    "cas-10563-29-8",
+    "cas-112-57-2",
+    "cas-104-19-8",
+    "cas-83016-70-0",
+    "cas-68889-71-4",
+    "cas-56-18-8",
+    "cas-106264-79-3",
+    "cas-10563-29-8",
+    "cas-112-57-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-280-57-9/"
+}

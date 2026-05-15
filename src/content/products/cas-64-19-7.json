@@ -1,0 +1,63 @@
+{
+  "id": "92",
+  "name": "Acetic acid",
+  "slug": "cas-64-19-7",
+  "cas": "64-19-7",
+  "ec": "200-580-7",
+  "formula": "C2H4O2",
+  "mw": "60.05 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acetic acid (CAS 64-19-7 ), commercially recognized as E260 , is the primary organic acid used across food, pharmaceutical, and industrial manufacturing. It functions as an acidulant, pH regulator, preservative, and solvent carrier depending on the application sector. Glacial acetic acid, the concentrated and anhydrous form, is a distinct grade relevant to industrial and synthesis buyers. In food and beverage production, E260 controls pH and acts as a preservative and flavoring agent in condiments, pickles, and sauces. Pharmaceutical manufacturers use it as a buffering agent in formulations and as a reagent or solvent in active ingredient synthesis. In textile and leather processing, it regulates dye bath pH to improve fiber uptake and fixation. Personal care formulators incorporate it into hair rinses and toners where controlled acidity affects cuticle conditioning and product stability. Acetic acid is supplied as a liquid in concentrations typically ranging from 56% to 99.5%. Recognized grades include Food Grade ( FCC ), USP / BP for pharmaceutical use, and technical grade for industrial applications. Bulk supply is standard in IBC containers and road tankers for large scale operations. Smaller drum quantities are available for laboratory and specialty use to ensure flexibility for diverse manufacturing needs. This versatile chemical remains a cornerstone for quality control and chemical synthesis across global supply chains. Contact us for supply of Acetic acid Request Quote",
+  "physicalProperties": "Melting Point: 16.6 °C; Boiling Point: 117.9 °C; Density: 1.0446 g/cm³ @ Temp: 25 °C; Flash Point: 104 °F; Appearance: Description: Acetic acid is a colorless liquid or crystals with a sour, vinegar-like odor. Pure compound is a solid below 17 C. Often used in an aqueous solution. Glacial acetic acid contains 99% acid.; Color: colorless; Odor: Strong, pungent, vinegar-like odor detectable at 0.2 to 1.0 ppm; Form: Solution; Water Solubility: miscible; Vapor Pressure: 11.4 mm Hg ( 20 °C); Refractive Index: n 20/D 1.371(lit.); pH: 2.5 (50g/l, H2O, 20℃); Log P: -0.170",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H303 May be harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H370 Causes damage to organs H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29152100; UN Number: 1792; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "methanecarboxylic acid | ethylic acid | ethoic acid | ethanoic acid | Vinegar acid | Acetic acid glacial | Glacial acetic acid | Acetasol | AcOH | E260",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29152100",
+  "similarProducts": [
+    "cas-50-21-5",
+    "cas-77-92-9",
+    "cas-127-09-3",
+    "cas-64-18-6",
+    "cas-127-08-2",
+    "cas-79-09-4",
+    "cas-108-24-7",
+    "cas-141-78-6",
+    "cas-65-85-0",
+    "cas-7664-38-2",
+    "cas-126-96-5",
+    "cas-7647-01-0",
+    "cas-87-69-4",
+    "cas-631-61-8",
+    "cas-141-78-6",
+    "cas-65-85-0",
+    "cas-7664-38-2",
+    "cas-126-96-5",
+    "cas-7647-01-0",
+    "cas-87-69-4",
+    "cas-631-61-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-64-19-7/"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "1894",
+  "name": "n-hydroxysuccinimide",
+  "slug": "cas-6066-82-6",
+  "cas": "6066-82-6",
+  "ec": "228-001-3",
+  "formula": "C4H5NO3",
+  "mw": "115.09 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Hydroxysuccinimide (CAS 6066-82-6 ), commonly abbreviated as NHS, is a key reagent in bioconjugation chemistry used to activate carboxylic acid groups for stable amide bond formation. It enables efficient coupling of proteins, peptides, antibodies, and other biomolecules to surfaces, linkers, or drug payloads. NHS is extensively used in the synthesis of NHS esters. These are reactive intermediates for antibody-drug conjugate (ADC) manufacturing and targeted therapeutic development. In diagnostic kit production, it enables immobilization of biomolecules onto solid supports. Common supports include beads, membranes, and microplates. Peptide synthesis and PEGylation workflows rely on NHS-activated intermediates to achieve controlled, site-specific conjugation under mild aqueous conditions. Cosmetic and personal care formulators also use NHS-based crosslinking chemistry in the development of hyaluronic acid derivatives and biomaterial scaffolds for various medical and aesthetic applications. N-Hydroxysuccinimide is supplied as a white to off-white crystalline powder. It is available in pharmaceutical-grade and research-grade specifications for diverse industrial and laboratory needs. High-purity grades (≥98%, ≥99%) are commonly required for GMP bioconjugation and API intermediate applications. Packaging ranges from laboratory-scale quantities to bulk industrial supply. Contact us for supply of n-hydroxysuccinimide Request Quote",
+  "physicalProperties": "Melting Point: 97-98 °C; Boiling Point: 215.33°C (rough estimate); Density: 1.4769 (rough estimate); Appearance: White to pale yellow; Color: Clear yellow-brown to brown; Form: Liquid or Solid; Water Solubility: SOLUBLE; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.4080 (estimate); pH: 5-7 (50g/l, H2O, 20℃); Log P: -2.01",
+  "safetyHandling": "Warning GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29251995; WGK (Germany): 3",
+  "otherNames": "N -Hydroxysuccinimide，NHS | 1-hydroxypyrrolidine-2,5-dione | 1-Hydroxysuccinimide | 1-Hydroxy-2,5-pyrrolidinedione | 2,5-Pyrrolidinedione, 1-hydroxy- | Succinimide, N-hydroxy- | MJE3791M4T | NHS",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29251995",
+  "similarProducts": [
+    "cas-521-24-4",
+    "cas-36016-38-3",
+    "cas-10039-54-0",
+    "cas-5470-11-1",
+    "cas-98-47-5",
+    "cas-1892-57-5",
+    "cas-7803-49-8",
+    "cas-538-75-0",
+    "cas-606-68-8",
+    "cas-616-91-1",
+    "cas-1071-93-8",
+    "cas-13743-07-2",
+    "cas-71138-97-1",
+    "cas-20702-77-6",
+    "cas-538-75-0",
+    "cas-606-68-8",
+    "cas-616-91-1",
+    "cas-1071-93-8",
+    "cas-13743-07-2",
+    "cas-71138-97-1",
+    "cas-20702-77-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-6066-82-6/"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "1423",
+  "name": "Sodium sulfide",
+  "slug": "cas-1313-82-2",
+  "cas": "1313-82-2",
+  "ec": "215-211-5",
+  "formula": "Na2S",
+  "mw": "79.06 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Mining & Metals",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium sulfide (CAS 1313-82-2 ), also known as disodium sulfide, is an inorganic sulfur compound supplied primarily in hydrated flake form. It functions as a reducing and precipitating agent across several heavy industrial processes. The compound is in particular demand for leather processing, textile dyeing, and metals recovery. In leather tanning, it is the primary unhairing agent used to break down keratin bonds in hides during the beamhouse stage. This chemical directly affects throughput and hide quality in the tanning process. Textile manufacturers use it as a reducing agent to solubilize sulfur dyes, enabling deep, wash-fast coloration on cotton and cellulosic fibers. In mining and hydrometallurgy, it precipitates heavy metal ions from process streams and leachates. This supports both metals recovery and effluent compliance for industrial facilities and large scale mining operations. Paper pulp operations and water treatment facilities apply it for sulfide precipitation and pH adjustment. It is particularly effective in high-alkalinity process environments where precise chemical reactions are required. The product is commercially supplied as yellow to brick-red hydrated flakes, typically at 60% purity. This form usually contains approximately 30 to 40 percent water content to maintain stability during transport. Technical grade is the standard market form, with purity commonly specified at 60% Na2S minimum. Anhydrous and higher-purity grades exist for specialty applications but are less common in bulk industrial trade. Contact us for supply of Sodium sulfide Request Quote",
+  "physicalProperties": "Melting Point: 83 °C; Density: 1.856 g/cm³ @ Temp: 14 °C; Appearance: crystals of varied colour, with a repulsive odour; Color: Yellow; Odor: Rotten egg odor; Form: flakes; Water Solubility: 186 g/L (20 ºC)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS09 GHS02 GHS08 Hazard Statements H251 Self-heating; may catch fire H290 May be corrosive to metals H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H371 May cause damage to organs H400 Very toxic to aquatic life H301+H311 Toxic if swallowed or in contact with skin Precautionary Statements P234 Keep only in original packaging. P235 Keep cool. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28301010; UN Number: 1849; ADR Class: 8; Packing Group: II; Storage Class: 4.2 - Pyrophoric and self-heating hazardous materials; WGK (Germany): 2",
+  "otherNames": "Disodium sulphide | Disodium sulfide (Na2S) | RefChem:887903 | Sodium sulfide (Na2S) | Sodium monosulfide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09",
+    "GHS02",
+    "GHS08"
+  ],
+  "hsCode": "28301010",
+  "similarProducts": [
+    "cas-16721-80-5",
+    "cas-6035-47-8",
+    "cas-7775-14-6",
+    "cas-149-44-0",
+    "cas-7440-23-5",
+    "cas-7757-82-6",
+    "cas-7772-98-7",
+    "cas-20526-58-3",
+    "cas-21109-95-5",
+    "cas-532-02-5",
+    "cas-5462-60-2",
+    "cas-79-25-4",
+    "cas-7757-83-7",
+    "cas-26545-58-4",
+    "cas-20526-58-3",
+    "cas-21109-95-5",
+    "cas-532-02-5",
+    "cas-5462-60-2",
+    "cas-79-25-4",
+    "cas-7757-83-7",
+    "cas-26545-58-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1313-82-2/"
+}

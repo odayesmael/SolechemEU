@@ -1,0 +1,61 @@
+{
+  "id": "563",
+  "name": "n-methylethanolamine",
+  "slug": "cas-109-83-1",
+  "cas": "109-83-1",
+  "ec": "203-710-0",
+  "formula": "C3H9NO",
+  "mw": "75.11 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Methylethanolamine (CAS 109-83-1 ), commercially abbreviated as MMEA, is a secondary amino alcohol used across chemical manufacturing as a pH regulator, buffering agent, and reactive intermediate. Its dual functional groups, a secondary amine and a hydroxyl, make it a building block for surfactants, corrosion inhibitors, and specialty polymers. In coatings and adhesives, MMEA functions as a neutralizing agent. It is used for waterborne resin systems, improving dispersion stability and film formation. Personal care formulators use it to adjust pH in emulsions and creams, where it also contributes mild humectant properties. Pharmaceutical manufacturers employ MMEA as a synthesis intermediate in active ingredient production and as a buffering component in topical preparations. It is a versatile component for many industries. In industrial gas treatment and sealant systems, it acts as an absorbent for acid gases and a reactive modifier for polymer crosslinking. This makes it essential for high-performance industrial applications. N-Methylethanolamine is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for larger procurement volumes. Technical grade is the standard commercial offering. This grade is suitable for industrial and coating applications. Pharmaceutical-grade material meeting USP or BP specifications is available for regulated manufacturing use and specialized applications. Contact us for supply of n-methylethanolamine Request Quote",
+  "physicalProperties": "Melting Point: -4.5 °C; Boiling Point: 155-156 °C @ Press: 760 Torr; Density: 0.937 g/cm³ @ Temp: 20 °C; Flash Point: 163 °F; Appearance: viscous colourless or light yellow liquid; Color: Clear colorless to slightly yellow; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 0.5 mm Hg ( 20 °C); Refractive Index: n 20/D 1.439(lit.); pH: 13.6 (100g/l, H2O, 20℃); Log P: -0.91 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H227 Combustible liquid H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29221980; UN Number: 2735; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "N-Monomethylethanolamine | N-Monomethylaminoethanol | N-Methylmonoethanolamine | N-Methylaminoethanol | N-Methyl-N-(beta-hydroxyethyl)amine | N-Methyl-N-(2-hydroxyethyl)amine | N-Methyl-2-hydroxyethylamine | N-Methyl-2-ethanolamine | MMEA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29221980",
+  "similarProducts": [
+    "cas-141-43-5",
+    "cas-16369-21-4",
+    "cas-105-59-9",
+    "cas-624-78-2",
+    "cas-108-01-0",
+    "cas-111-41-1",
+    "cas-142-26-7",
+    "cas-74-89-5",
+    "cas-105-83-9",
+    "cas-1704-62-7",
+    "cas-5332-73-0",
+    "cas-111-75-1",
+    "cas-2212-32-0",
+    "cas-2867-47-2",
+    "cas-74-89-5",
+    "cas-105-83-9",
+    "cas-1704-62-7",
+    "cas-5332-73-0",
+    "cas-111-75-1",
+    "cas-2212-32-0",
+    "cas-2867-47-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-83-1/"
+}

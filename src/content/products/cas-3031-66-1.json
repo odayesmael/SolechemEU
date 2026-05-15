@@ -1,0 +1,63 @@
+{
+  "id": "1669",
+  "name": "3-Hexyne-2,5-diol",
+  "slug": "cas-3031-66-1",
+  "cas": "3031-66-1",
+  "ec": "221-209-5",
+  "formula": "C6H10O2",
+  "mw": "114.14 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Hexyne-2,5-diol (CAS 3031-66-1 ), also marketed as Golpanol HD, is an acetylenic diol used as a reactive intermediate and functional building block across specialty chemical manufacturing. Its dual hydroxyl groups flanking a triple bond make it a targeted starting material for synthesis routes requiring precise stereo- or regiochemical control in complex chemical reactions. In pharmaceutical manufacturing, it serves as an intermediate in the synthesis of active ingredients and chiral compounds where the acetylenic backbone provides a defined structural scaffold. Polymer chemists use it as a monomer or chain-transfer component in the production of specialty polyurethanes and polyesters, where the alkyne functionality enables post-polymerization modification. In metalworking and lubricant formulations, it functions as a corrosion inhibitor additive and surface-active component in aqueous cutting fluids for industrial machinery. It also acts as a polymerization initiator in controlled synthesis applications requiring hydroxyl-terminated oligomers, providing stability and reactivity in various chemical environments. 3-Hexyne-2,5-diol is typically supplied as a liquid or low-melting solid depending on purity and temperature conditions. Technical and high-purity grades are available for diverse needs. Purity specifications commonly range from 97% to 99%+ for synthesis-grade applications. Packaging options generally include drum and IBC quantities suited to industrial procurement volumes. Contact us for supply of 3-Hexyne-2,5-diol Request Quote",
+  "physicalProperties": "Melting Point: 69-90 °C; Boiling Point: 121 °C @ Press: 13 Torr; Density: 1.0221 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Color: Pale Yellow; Form: Oil; Vapor Pressure: 0.1Pa at 20℃; Refractive Index: n 20/D 1.473(lit.); Log P: -0.24 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H300 Fatal if swallowed H301 Toxic if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H373 May causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 2811; ADR Class: 6.1; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "Hex-3-yne-2,5-diol | Golpanol hd",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-6920-22-5",
+    "cas-629-11-8",
+    "cas-107-41-5",
+    "cas-111-29-5",
+    "cas-110-65-6",
+    "cas-5343-92-0",
+    "cas-10305-38-1",
+    "cas-108-93-0",
+    "cas-32167-31-0",
+    "cas-112-59-4",
+    "cas-3973-18-0",
+    "cas-36675-34-0",
+    "cas-4050-45-7",
+    "cas-111-27-3",
+    "cas-108-93-0",
+    "cas-32167-31-0",
+    "cas-112-59-4",
+    "cas-3973-18-0",
+    "cas-36675-34-0",
+    "cas-4050-45-7",
+    "cas-111-27-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3031-66-1/"
+}

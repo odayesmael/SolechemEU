@@ -1,0 +1,63 @@
+{
+  "id": "610",
+  "name": "2-ethoxyethyl acetate",
+  "slug": "cas-111-15-9",
+  "cas": "111-15-9",
+  "ec": "203-839-2",
+  "formula": "C6H12O3",
+  "mw": "132.16 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Electronics",
+    "Automotive",
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Ethoxyethyl acetate (CAS 111-15-9 ), also known as EGEEA or Glycol monoethyl ether acetate, is a slow-evaporating ester solvent used across coatings, printing, and electronics manufacturing. Its controlled evaporation rate supports film formation and process consistency in demanding industrial applications. In coatings and paints, it dissolves nitrocellulose, epoxy, and alkyd resins. This solvent improves flow and leveling in high-performance architectural and industrial finishes. Printing ink formulators use it as a carrier solvent where extended open time and strong resin solvency are required. It is particularly effective in gravure and screen printing applications. Electronics manufacturers rely on it for cleaning flux residues and degreasing precision components where a slower evaporation profile reduces residue risk. In adhesives and sealants production, it functions as a process solvent to control viscosity and application characteristics during manufacturing. This ensures high-quality results in specialized industrial settings. The product is supplied as a clear liquid in standard industrial drum and IBC quantities. Technical grade is the primary commercial specification available to industrial buyers for large-scale operations. Purity levels typically range from 98% to 99%+, with documentation including COA and standard safety data. These documents support procurement and import compliance for global chemical distribution networks. Contact us for supply of 2-ethoxyethyl acetate Request Quote",
+  "physicalProperties": "Melting Point: -61.7 °C; Boiling Point: 156 °C; Density: 0.975 g/cm³ @ Temp: 20 °C; Flash Point: 135 °F; Appearance: 2-Ethoxyethyl acetate is a colorless liquid with a mild, nonresidual odor. The Odor Threshold is 0.056 ppm in air; Color: Colorless; Form: Colorless liquid; Water Solubility: 230 g/L (20 ºC); Vapor Pressure: 2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.406(lit.); pH: 4-5 (H2O, 20℃)(saturated solution); Log P: 0.449 (est)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS06 Hazard Statements H226 Flammable liquid and vapor [Warning Flammable liquids] H302 Harmful if swallowed [Warning Acute toxicity, oral] H312 Harmful in contact with skin [Warning Acute toxicity, dermal] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H371 May cause damage to organs [Warning Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H303 May be harmful if swallowed [Warning Acute toxicity, oral] H316 Causes mild skin irritation [Warning Skin corrosion/irritation]",
+  "tradeRegulatory": "HS Code: 29153900; UN Number: 1172; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Glycol monoethyl ether acetate | Ethylene glycol monoethyl ether acetate | EGEEA | Cellosolve acetate | Oxitol acetate | Oxytol acetate | 2-Ethoxyethanol acetate | Ethyl cellosolve acetate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29153900",
+  "similarProducts": [
+    "cas-110-80-5",
+    "cas-112-07-2",
+    "cas-7743-94-4",
+    "cas-1569-02-4",
+    "cas-763-69-9",
+    "cas-103-09-3",
+    "cas-141-78-6",
+    "cas-111-55-7",
+    "cas-112-15-2",
+    "cas-52125-53-8",
+    "cas-111-35-3",
+    "cas-1002-67-1",
+    "cas-111-90-0",
+    "cas-109-86-4",
+    "cas-111-55-7",
+    "cas-112-15-2",
+    "cas-52125-53-8",
+    "cas-111-35-3",
+    "cas-1002-67-1",
+    "cas-111-90-0",
+    "cas-109-86-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-15-9/"
+}

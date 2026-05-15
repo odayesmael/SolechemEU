@@ -1,0 +1,60 @@
+{
+  "id": "3852",
+  "name": "1-hydroxybenzotriazole hydrate",
+  "slug": "cas-80029-43-2",
+  "cas": "80029-43-2",
+  "ec": "806-689-1",
+  "formula": "C6H5N3O.H2O",
+  "mw": "153.14 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Hydroxybenzotriazole hydrate (CAS 80029-43-2 ), commonly sourced as HOBt hydrate, is a coupling additive used in peptide synthesis and pharmaceutical manufacturing. It suppresses racemization and activates carboxyl groups during amide bond formation. This chemical directly impacts the purity and yield of active pharmaceutical ingredients. In solid-phase and solution-phase peptide synthesis, HOBt hydrate is used alongside carbodiimide reagents such as DCC or EDC to produce coupling-ready active esters. These reactions result in reduced epimerization during the manufacturing process. API synthesis routes for small-molecule drugs rely on it to achieve high-purity amide intermediates under controlled conditions for various applications. Contract manufacturers and research organizations use it in the preparation of peptide-based therapeutics. Stereochemical integrity at each coupling step is a critical quality parameter for these complex medical products. It also supports the synthesis of peptidomimetics and specialty heterocyclic intermediates in medicinal chemistry programs. HOBt hydrate is supplied as a white to off-white crystalline powder for industrial use. The hydrate form is the standard commercial offering, preferred over the anhydrous grade for its improved handling safety profile in bulk storage and transport. It is available in research quantities through to multi-kilogram lots. Specifications are typically aligned to pharmaceutical-grade purity requirements, often reaching levels of ≥98% by HPLC. This ensures consistency and reliability for sensitive chemical synthesis and large-scale production cycles. Contact us for supply of 1-hydroxybenzotriazole hydrate Request Quote",
+  "physicalProperties": "Melting Point: 155-158 °C(lit.); Color: White to Almost white; Form: powder to crystal",
+  "safetyHandling": "Danger GHS01 GHS02 GHS07 Hazard Statements H203 Explosive; fire, blast or projection hazard H228 Flammable solid H319 Causes serious eye irritation H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P230 Keep wetted with… P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P250 Do not subject to grinding/shock/…/friction. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P372 Explosion risk. P373 DO NOT fight fire when fire reaches explosives. P401 Store in accordance with … . P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P370+P380 Evacuate area. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2933.99.9701; UN Number: 3380; ADR Class: 4.1; Packing Group: I",
+  "otherNames": "HOBT hydrate | 1-hydroxybenzotriazole monohydrate | 1H-Benzotriazole, 1-hydroxy-, monohydrate | S72K7GY45F | 1-Hydroxy-1H-benzotriazole monohydrate [MI] | 1H-Benzotriazole, 1-hydroxy-, hydrate (1:1) | 1-hydroxy-1H-benzotriazole monohydrate | 1H-Benzotriazole, 1-hydroxy-, hydrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS01",
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "2933.99.9701",
+  "similarProducts": [
+    "cas-2592-95-2",
+    "cas-36016-38-3",
+    "cas-148893-10-1",
+    "cas-5470-11-1",
+    "cas-288-94-8",
+    "cas-69102-90-5",
+    "cas-7803-57-8",
+    "cas-7803-49-8",
+    "cas-26021-57-8",
+    "cas-26063-00-3",
+    "cas-75-91-2",
+    "cas-10217-52-4",
+    "cas-621-07-8",
+    "cas-10039-54-0",
+    "cas-7803-49-8",
+    "cas-26021-57-8",
+    "cas-26063-00-3",
+    "cas-75-91-2",
+    "cas-10217-52-4",
+    "cas-621-07-8",
+    "cas-10039-54-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-80029-43-2/"
+}

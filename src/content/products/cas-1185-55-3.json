@@ -1,0 +1,64 @@
+{
+  "id": "1374",
+  "name": "Methyltrimethoxysilane",
+  "slug": "cas-1185-55-3",
+  "cas": "1185-55-3",
+  "ec": "214-685-0",
+  "formula": "C4H12O3Si",
+  "mw": "136.22 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Plastics & Polymers",
+    "Automotive",
+    "Electronics",
+    "Personal Care & Cosmetics",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyltrimethoxysilane ( CAS 1185-55-3 ), commercially known as MTMS, is a reactive organosilane monomer used to modify surfaces, crosslink polymer networks, and improve adhesion between organic and inorganic substrates. It functions as a building block in silicone synthesis and as a coupling agent in composite and coating systems. In coatings and sealants, MTMS acts as a crosslinker and water-repellent surface modifier. This chemical improves durability and adhesion to glass, metal, and mineral substrates. The electronics industry uses it to deposit hydrophobic, dielectric thin films on semiconductor components and circuit boards. In adhesives and elastomers, it contributes to moisture-cure systems and improves the bond strength between polymer matrices and inorganic fillers. This ensures high performance in demanding industrial environments. Personal care formulators incorporate MTMS-derived silicones to achieve water-resistant, smooth-feel finishes in hair and skin products. It is a versatile component for creating high-quality consumer goods. Methyltrimethoxysilane is supplied as a clear, low-viscosity liquid in standard packaging ranging from drums to ISO tank containers for bulk orders. It is available in technical and high-purity grades. Purity levels are typically at 97% or higher depending on application requirements. Buyers in electronics and specialty coatings commonly specify higher-purity lots with controlled moisture content. This ensures consistent reactivity and performance across various manufacturing processes. Our supply chain ensures that all batches meet rigorous industrial specifications for global distribution. Contact us for supply of Methyltrimethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: -78 °C; Boiling Point: 102-103 °C; Density: 0.955 g/cm³; Flash Point: 52 °F; Appearance: Colorless clear liquid; Color: colorless; Odor: Mild odor; Form: liquid; Water Solubility: decomposes; Vapor Pressure: 2990 hPa (20 °C); Refractive Index: n 20/D 1.371(lit.); Log P: -2.4-0.7 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS05 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "MTMS | Trimethoxy(methyl)silane | Silane, trimethoxymethyl- | Z 6070 | 0HI0D71MCI | GLASCA B | A 163",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05",
+    "GHS08"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-75-79-6",
+    "cas-2031-67-6",
+    "cas-4253-34-3",
+    "cas-22984-54-9",
+    "cas-14513-34-9",
+    "cas-2530-83-8",
+    "cas-13822-56-5",
+    "cas-2768-02-7",
+    "cas-18395-30-7",
+    "cas-68909-20-6",
+    "cas-2996-92-1",
+    "cas-67762-90-7",
+    "cas-34206-40-1",
+    "cas-3179-76-8",
+    "cas-2768-02-7",
+    "cas-18395-30-7",
+    "cas-68909-20-6",
+    "cas-2996-92-1",
+    "cas-67762-90-7",
+    "cas-34206-40-1",
+    "cas-3179-76-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1185-55-3/"
+}

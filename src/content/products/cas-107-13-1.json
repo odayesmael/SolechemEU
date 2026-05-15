@@ -1,0 +1,64 @@
+{
+  "id": "497",
+  "name": "Acrylonitrile",
+  "slug": "cas-107-13-1",
+  "cas": "107-13-1",
+  "ec": "203-466-5",
+  "formula": "C3H3N",
+  "mw": "53.06 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Rubber & Tire",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acrylonitrile (CAS 107-13-1 ), also known as vinyl cyanide or by the trade names Ventox and Fumigrain, is a reactive monomer used as a foundational building block in large-scale polymer manufacturing. As AN, it is a primary feedstock for producing acrylic fibers, ABS resins, and nitrile rubber across multiple industrial sectors. In textile manufacturing, AN is polymerized to produce acrylic fibers used in apparel and carpeting. These fibers are also utilized in industrial fabrics. The rubber and tire industry relies on it as a co-monomer in nitrile butadiene rubber (NBR), which is compounded into fuel-resistant hoses, seals, and gaskets. In plastics, it is a key co-monomer in ABS and SAN resins, supplying rigidity and chemical resistance to molded components and packaging. Historically, Ventox and Fumigrain formulations have also been applied as fumigants. These were used as grain and commodity fumigants for pest control in stored agricultural products. Acrylonitrile is supplied as a stabilized liquid, typically inhibited with monomethyl ether of hydroquinone (MEHQ). This inhibitor prevents premature polymerization during storage and transport. It is available in technical and polymerization grades, with purity specifications commonly at 99% or higher to meet industrial needs. Bulk quantities are supplied in ISO tank containers or rail tankers, with drum packaging available for smaller-volume procurement. This ensures flexible logistics for various manufacturing scales and requirements. Contact us for supply of Acrylonitrile Request Quote",
+  "physicalProperties": "Melting Point: -82 °C; Boiling Point: 77.3 °C @ Press: 760 Torr; Density: 0.8004 g/cm³ @ Temp: 25 °C; Flash Point: 32 °F; Appearance: Acrylonitrile is a highly flammable, clear, colorless or light yellowish liquid. Irritating, faint garlicor onion-like odor. Its odor threshold is 17 ppm; odor can only be detected above the PEL; Color: Clear; Odor: Mild pyridine-like odor at 2 to 22 ppm; Form: Liquid; Water Solubility: Soluble. 7.45 g/100 mL; Vapor Pressure: 86 mm Hg ( 20 °C); Refractive Index: n 20/D 1.391(lit.); pH: 6.0-7.5 (50g/l, H2O, 20℃); Log P: 0.017 at 21℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29261000; UN Number: 1093; ADR Class: 3; Packing Group: I; WGK (Germany): 3",
+  "otherNames": "Vinyl cyanide | Ventox | Fumigrain | Carbacryl | Acrylon | Acritet | 2-Propenenitrile | VCN | AN",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29261000",
+  "similarProducts": [
+    "cas-75-05-8",
+    "cas-140-29-4",
+    "cas-79-10-7",
+    "cas-79-06-1",
+    "cas-62-53-3",
+    "cas-100-47-0",
+    "cas-108-05-4",
+    "cas-108-24-7",
+    "cas-10604-69-0",
+    "cas-760-93-0",
+    "cas-83-32-9",
+    "cas-9003-54-7",
+    "cas-924-42-5",
+    "cas-1888-91-1",
+    "cas-108-24-7",
+    "cas-10604-69-0",
+    "cas-760-93-0",
+    "cas-83-32-9",
+    "cas-9003-54-7",
+    "cas-924-42-5",
+    "cas-1888-91-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-13-1/"
+}

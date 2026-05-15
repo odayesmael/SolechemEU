@@ -1,0 +1,59 @@
+{
+  "id": "2087",
+  "name": "Vanadium trichloride",
+  "slug": "cas-7718-98-1",
+  "cas": "7718-98-1",
+  "ec": "231-744-6",
+  "formula": "Cl3V",
+  "mw": "157.30 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Vanadium trichloride (CAS 7718-98-1 ) is an inorganic vanadium salt used primarily as a catalyst precursor in industrial chemical synthesis. It delivers active vanadium(III) centers that initiate and control polymerization reactions. This compound serves as a critical building block for Ziegler-Natta and related coordination catalyst systems. In plastics and polymer manufacturing, it is used to produce ethylene-propylene copolymers like EPM and EPDM rubbers. Precise catalyst activity directly affects molecular weight distribution and product consistency in these materials. It also serves as a precursor for generating vanadium-based homogeneous catalysts used in olefin polymerization. This is particularly important where narrow polydispersity is required for high-performance applications. Beyond polymers, it functions as a starting material for synthesizing other vanadium compounds and coordination complexes. These complexes are frequently used in specialty chemical research and catalyst development programs. Vanadium trichloride is supplied as a solid powder, typically in anhydrous form to preserve its chemical reactivity. Technical and research grades are the most commonly available, with purity specifications generally ranging from 97% upward. Packaging is moisture-sensitive, so it is typically offered in sealed, inert-atmosphere containers. These specialized storage solutions are suited for industrial and laboratory procurement needs. The material must be handled with care to maintain its integrity and performance during the chemical manufacturing process. Contact us for supply of Vanadium trichloride Request Quote",
+  "physicalProperties": "Melting Point: 250 °C; Density: 3 g/mL at 25 °C(lit.); Appearance: Pink, deliquescent crystals. Decomposes on heating. Soluble in absolute alcohol and ether; decomposes in water.; Color: Dark blue to violet to black; Form: Powder; Water Solubility: decomposes in H2O; soluble alcohol, ether [HAW93]",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed [Warning Acute toxicity, oral] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]",
+  "tradeRegulatory": "HS Code: 28273990; UN Number: 2475; ADR Class: 8; Packing Group: III; WGK (Germany): 3",
+  "otherNames": "Vanadium(III) chloride | Vanadium chloride (VCl3) | RefChem:193663 | Vanadium(3+) chloride",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28273990",
+  "similarProducts": [
+    "cas-1314-34-7",
+    "cas-7440-62-2",
+    "cas-10025-91-9",
+    "cas-7550-45-0",
+    "cas-1314-62-1",
+    "cas-10026-11-6",
+    "cas-75-01-4",
+    "cas-14293-78-8",
+    "cas-12604-58-9",
+    "cas-7446-70-0",
+    "cas-27774-13-6",
+    "cas-7803-55-6",
+    "cas-7647-10-1",
+    "cas-7646-78-8",
+    "cas-14293-78-8",
+    "cas-12604-58-9",
+    "cas-7446-70-0",
+    "cas-27774-13-6",
+    "cas-7803-55-6",
+    "cas-7647-10-1",
+    "cas-7646-78-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7718-98-1/"
+}

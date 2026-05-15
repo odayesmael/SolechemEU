@@ -1,0 +1,61 @@
+{
+  "id": "523",
+  "name": "4-Methyl-2-Pentanol",
+  "slug": "cas-108-11-2",
+  "cas": "108-11-2",
+  "ec": "203-481-7",
+  "formula": "C6H14O",
+  "mw": "102.17 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Food & Nutrition",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Methyl-2-Pentanol (CAS 108-11-2 ), commercially known as MIBC (Methyl Isobutyl Carbinol), is a branched-chain aliphatic alcohol used as a solvent and process chemical across multiple industrial sectors. Its selective solvency and low water miscibility make it a practical choice for extraction, froth flotation, and formulation work. In mineral processing, MIBC is the dominant frother in froth flotation circuits. It controls bubble size and stability to improve ore recovery for copper, zinc, and lead concentrates. Polymer and resin manufacturers use it as a process solvent and viscosity modifier during production and coating formulations. In personal care, it functions as a carrier solvent in fragrance compounds and specialty cosmetic formulations where controlled evaporation is required. At flavor-grade specifications, MIBC also appears in flavoring applications. These applications occur where its characteristic odor profile meets regulatory thresholds. MIBC is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities for various industrial needs. Technical grade is the standard for mining and industrial solvent applications, while higher-purity grades are available for cosmetic and flavor end uses. Buyers should confirm purity specifications and water content limits. When sourcing for sensitive formulation work, ensure the product meets necessary FCC or USP requirements. Proper handling and storage are essential to maintain the chemical integrity of the alcohol over time. Contact us for supply of 4-Methyl-2-Pentanol Request Quote",
+  "physicalProperties": "Melting Point: -90 °C; Boiling Point: 133 °C @ Press: 760 Torr; Density: 0.8075 g/cm³ @ Temp: 20 °C; Flash Point: 107 °F; Appearance: MIBC is a colorless liquid with a mild odor. The odor threshold is 0.52 ppm.; Color: Clear colorless; Odor: Sharp; mild and nonresidual.; Form: Liquid; Water Solubility: 2 g/100 mL; Vapor Pressure: 3.7 mm Hg ( 20 °C); Refractive Index: n 20/D 1.415(lit.); Log P: 1.57 at 20℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H303 May be harmful if swallowed H313 May be harmful in contact with skin H315 Causes skin irritation H316 Causes mild skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 2282; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "4-methylpentan-2-ol | Methyl isobutyl carbinol | MIBC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-108-10-1",
+    "cas-137-32-6",
+    "cas-547-63-7",
+    "cas-56539-66-3",
+    "cas-78-83-1",
+    "cas-110-12-3",
+    "cas-1634-04-4",
+    "cas-75-31-0",
+    "cas-2517-43-3",
+    "cas-78-96-6",
+    "cas-78-92-2",
+    "cas-108-87-2",
+    "cas-71-41-0",
+    "cas-68003-13-4",
+    "cas-75-31-0",
+    "cas-2517-43-3",
+    "cas-78-96-6",
+    "cas-78-92-2",
+    "cas-108-87-2",
+    "cas-71-41-0",
+    "cas-68003-13-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-11-2/"
+}

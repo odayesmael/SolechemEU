@@ -1,0 +1,61 @@
+{
+  "id": "2099",
+  "name": "Liquid nitrogen",
+  "slug": "cas-7727-37-9",
+  "cas": "7727-37-9",
+  "ec": "231-783-9",
+  "formula": "N2",
+  "mw": "28.014 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Electronics",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Liquid nitrogen (CAS 7727-37-9 ), also supplied as a cryogenic gas and regulated as E941 in food applications, is produced by fractional distillation of air. It is used industrially as an ultra-low-temperature refrigerant and inert blanketing agent. Its primary commercial function is rapid cooling, freezing, and cryogenic preservation across food processing, pharmaceutical manufacturing, and life sciences. In food production, it enables cryogenic tunnel freezing of meat, seafood, and baked goods. This method delivers faster freeze rates than mechanical systems while reducing product dehydration loss. Pharmaceutical and biotech operations rely on it for cryopreservation of cell lines, biological samples, and vaccines. It is essential for API intermediates requiring storage below −150°C. Electronics and semiconductor manufacturers use it to purge process chambers and cool components during precision machining. It also maintains inert atmospheres during sensitive fabrication steps. In beverage and packaging lines, it is injected into containers before sealing to displace oxygen and extend shelf life. Liquid nitrogen is supplied in bulk dewars, ISO tanks, and cryogenic cylinders, with delivery formats scaled to site volumes. Food-grade supply conforming to E941 specifications and industrial-grade product are the standard commercial distinctions. Purity levels typically range from 99.998% for high-purity applications to standard industrial grades. Supply chain options include on-site generation systems for high-volume users. This ensures a consistent supply for critical manufacturing processes and large-scale industrial cooling requirements across various global sectors. Contact us for supply of Liquid nitrogen Request Quote",
+  "physicalProperties": "Melting Point: -210.01 °C; Boiling Point: -195.79 °C; Density: 4.604 x 10⁻³ g/cm³ (vapor) @ Temp: -195.8 °C; Appearance: Nitrogen is a nonflammable, stable, odorless, cryogenic liquid or a compressed gas.; Color: colorless; Odor: odorless, tasteless; Form: colorless gas; Water Solubility: slightly soluble H2O; insoluble alcohol [HAW93]",
+  "safetyHandling": "Warning GHS04 GHS08 Hazard Statements H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure] H304 May be fatal if swallowed and enters airways [Danger Aspiration hazard] H401 Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard]",
+  "tradeRegulatory": "UN Number: 1066; ADR Class: 2.2",
+  "otherNames": "LN₂ | LN2 | nitrogen gas | diazyne | gaseous signaling molecule | gasocrine signal | nitrogen | Molecular nitrogen | E941",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-10024-97-2",
+    "cas-7440-37-1",
+    "cas-7440-59-7",
+    "cas-124-38-9",
+    "cas-74-98-6",
+    "cas-106-97-8",
+    "cas-7790-69-4",
+    "cas-75-28-5",
+    "cas-7664-41-7",
+    "cas-7758-09-0",
+    "cas-7757-79-1",
+    "cas-78-78-4",
+    "cas-7632-00-0",
+    "cas-7697-37-2",
+    "cas-75-28-5",
+    "cas-7664-41-7",
+    "cas-7758-09-0",
+    "cas-7757-79-1",
+    "cas-78-78-4",
+    "cas-7632-00-0",
+    "cas-7697-37-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7727-37-9/"
+}

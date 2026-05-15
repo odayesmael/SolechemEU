@@ -1,0 +1,62 @@
+{
+  "id": "521",
+  "name": "Isopropyl chloroformate",
+  "slug": "cas-108-23-6",
+  "cas": "108-23-6",
+  "ec": "203-563-2",
+  "formula": "C4H7ClO2",
+  "mw": "122.55 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isopropyl chloroformate ( CAS 108-23-6 ), also known as isopropyl chlorocarbonate, is a reactive acylating agent used in organic synthesis to introduce the isopropoxycarbonyl protecting group onto amines, alcohols, and other nucleophiles. Its primary commercial role is as a building block and activating reagent in the manufacture of active pharmaceutical ingredients and specialty intermediates. In pharmaceutical synthesis, it activates carboxylic acids as mixed anhydrides. This process enables peptide bond formation under mild conditions, a step critical in the production of peptide-based APIs and small-molecule drugs. Agrochemical manufacturers use it to introduce carbamate linkages in crop protection compounds. It also serves in the preparation of isopropyl carbonate esters used as intermediates in fine chemical and biotechnology research workflows. Contract synthesis labs and API producers rely on it for protecting group strategies. These strategies are essential during the multi-step synthesis of complex molecules. Isopropyl chloroformate is supplied as a liquid, typically in stabilized form to control reactivity during storage and transport. It is available in technical and synthesis grades, with purity levels commonly ranging from 97% to 99%+ for pharmaceutical intermediate applications. Packaging is offered in small quantities for laboratory use. Bulk drum supply is also available for industrial-scale synthesis. This chemical is a vital component for manufacturers requiring high-purity reagents for sensitive chemical reactions and large-scale production cycles. Contact us for supply of Isopropyl chloroformate Request Quote",
+  "physicalProperties": "Boiling Point: 104.6 °C @ Press: 761 Torr; Density: 1.08 g/cm³; Flash Point: 43 °F; Appearance: Clear colorless solution; Form: liquid; Vapor Pressure: 27.998hPa at 20℃; Refractive Index: n 20/D 1.485(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159000; UN Number: 3286; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "ISOPROPYL CHLOROCARBONATE | Chloroformic acid isopropyl ester | Carbonochloridic acid, 1-methylethyl ester | Isopropyl chloromethanoate | Formic acid, chloro-, isopropyl ester | 1-methylethyl chloroformate | 2-propyl chloroformate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29159000",
+  "similarProducts": [
+    "cas-543-27-1",
+    "cas-99-63-8",
+    "cas-3282-30-2",
+    "cas-75-26-3",
+    "cas-13361-31-4",
+    "cas-67-66-3",
+    "cas-79-04-9",
+    "cas-108-21-4",
+    "cas-149-73-5",
+    "cas-75-36-5",
+    "cas-5080-22-8",
+    "cas-109-70-6",
+    "cas-2493-02-9",
+    "cas-96-18-4",
+    "cas-108-21-4",
+    "cas-149-73-5",
+    "cas-75-36-5",
+    "cas-5080-22-8",
+    "cas-109-70-6",
+    "cas-2493-02-9",
+    "cas-96-18-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-23-6/"
+}

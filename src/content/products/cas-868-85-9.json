@@ -1,0 +1,63 @@
+{
+  "id": "1299",
+  "name": "Dimethyl Phosphite",
+  "slug": "cas-868-85-9",
+  "cas": "868-85-9",
+  "ec": "212-783-8",
+  "formula": "C2H7O3P",
+  "mw": "110.05 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethyl Phosphite (CAS 868-85-9 ), commonly abbreviated as DMP, is a reactive organophosphorus ester used as a chemical intermediate and stabilizer across multiple industrial sectors. It functions primarily as a building block in the synthesis of phosphonate compounds. In agrochemical manufacturing, DMP serves as a key intermediate in producing organophosphate and phosphonate pesticides, herbicides, and fungicides. Polymer and plastics producers incorporate it as an antioxidant stabilizer in PVC and polyolefin formulations. The compound acts as an effective stabilizer where it inhibits thermal degradation during processing. Pharmaceutical manufacturers use DMP as a synthetic intermediate for active pharmaceutical ingredients, particularly in phosphonate-based drug synthesis. In water treatment chemistry, it contributes to the production of scale inhibitors and corrosion control agents applied in industrial cooling and boiler systems. This versatility makes it a critical component for various chemical processes. Dimethyl Phosphite is supplied as a colorless to pale yellow liquid in standard commercial packaging ranging from drums to ISO tank containers. Technical grade is the most common supply form for industrial and synthesis applications. Purity levels are typically at 98% or higher to ensure consistent performance in manufacturing. Pharmaceutical-intermediate grade material with tighter purity specifications is available for regulated manufacturing environments. Contact us for supply of Dimethyl Phosphite Request Quote",
+  "physicalProperties": "Boiling Point: 72-73 °C @ Press: 25 Torr; Density: 1.200 g/cm³ @ Temp: 20 °C; Flash Point: 71 °C; Appearance: colourless liquid; Form: Colorless liquid with a mild odor; Water Solubility: Soluble in water.; Refractive Index: n 20/D 1.402(lit.)",
+  "safetyHandling": "Danger GHS02 GHS06 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H227 Combustible liquid H311 Toxic in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H341 Suspected of causing genetic defects H351 Suspected of causing cancer H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209013; UN Number: 3278; ADR Class: 6.1; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "Phosphonic acid, dimethyl ester | Methoxyphosphonoyloxymethane | Dimethyl hydrogen phosphite | DMP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29209013",
+  "similarProducts": [
+    "cas-131-11-3",
+    "cas-18755-43-6",
+    "cas-77-76-9",
+    "cas-762-04-9",
+    "cas-1459-93-4",
+    "cas-67-51-6",
+    "cas-616-38-6",
+    "cas-4767-03-7",
+    "cas-90-72-2",
+    "cas-77-78-1",
+    "cas-106-58-1",
+    "cas-101-02-0",
+    "cas-512-56-1",
+    "cas-6640-03-5",
+    "cas-4767-03-7",
+    "cas-90-72-2",
+    "cas-77-78-1",
+    "cas-106-58-1",
+    "cas-101-02-0",
+    "cas-512-56-1",
+    "cas-6640-03-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-868-85-9/"
+}

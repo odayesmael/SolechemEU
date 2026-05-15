@@ -1,0 +1,61 @@
+{
+  "id": "1757",
+  "name": "Hexene",
+  "slug": "cas-4050-45-7",
+  "cas": "4050-45-7",
+  "ec": "223-752-3",
+  "formula": "C6H12",
+  "mw": "84.16 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Plastics & Polymers",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trans-2-Hexene (CAS 4050-45-7 ), also known commercially as Orgal F 4050, is a linear alpha-olefin isomer used as a reactive monomer and process solvent in petrochemical and polymer manufacturing. It serves as a building block in synthesis chains where controlled chain length and double-bond positioning are critical to end-product performance in various industrial sectors. In polyolefin production, it functions as a comonomer to modify the density and mechanical properties of polyethylene grades used in film, pipe, and packaging applications. Refinery and gas processing operations use it as a reference compound and process intermediate in alkylation and isomerization units to ensure high-quality chemical output. In industrial and institutional cleaning formulations, it contributes to solvent blends targeting hydrocarbon-based soils and residues where fast evaporation and low polarity are requirements. Specialty chemical synthesis also draws on it as a C6 olefin intermediate for producing plasticizers, lubricant additives, and surfactant precursors for global manufacturing chains. The product is supplied as a clear liquid, typically in drum, IBC, and bulk tanker quantities suited to industrial procurement volumes and large-scale logistics operations. Technical-grade is the standard commercial specification, with purity levels commonly ranging from 97% upward depending on specific application requirements and catalyst testing needs. Contact us for supply of Hexene Request Quote",
+  "physicalProperties": "Melting Point: -133 °C; Boiling Point: 67.9 °C; Density: 0.67853 g/cm³ @ Temp: 20 °C; Flash Point: −5 °F; Appearance: Clear colorless liquid; Color: Clear colorless; Form: Liquid; Vapor Pressure: 263 mm Hg ( 37.7 °C); Refractive Index: n 20/D 1.396(lit.); Log P: 3.420 (est)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29012990; UN Number: 3295; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Orgal F 4050 | (E)-hex-2-ene | Trans-2-hexene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29012990",
+  "similarProducts": [
+    "cas-6728-26-3",
+    "cas-629-73-2",
+    "cas-26952-14-7",
+    "cas-104-76-7",
+    "cas-110-54-3",
+    "cas-111-27-3",
+    "cas-112-25-4",
+    "cas-3031-66-1",
+    "cas-630-06-8",
+    "cas-6920-22-5",
+    "cas-1599-67-3",
+    "cas-111-25-1",
+    "cas-104-75-6",
+    "cas-112-59-4",
+    "cas-3031-66-1",
+    "cas-630-06-8",
+    "cas-6920-22-5",
+    "cas-1599-67-3",
+    "cas-111-25-1",
+    "cas-104-75-6",
+    "cas-112-59-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4050-45-7/"
+}

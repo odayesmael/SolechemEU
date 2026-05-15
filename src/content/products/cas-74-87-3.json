@@ -1,0 +1,62 @@
+{
+  "id": "137",
+  "name": "Methyl chloride",
+  "slug": "cas-74-87-3",
+  "cas": "74-87-3",
+  "ec": "200-817-4",
+  "formula": "CH3Cl",
+  "mw": "50.49 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl chloride (CAS 74-87-3 ), also known as R-40, is a compressed liquefied gas used as a methylating agent and chemical intermediate across multiple industrial sectors. It serves as a key building block in the synthesis of silicones and agricultural chemicals. In polymer manufacturing, it is the primary methylating agent in the production of methylcellulose and other cellulose ethers. These materials are used as thickeners, binders, and film formers in various industrial applications. The silicone industry relies on this chemical to produce chlorosilane intermediates. This represents the foundational step in manufacturing silicone fluids, resins, and elastomers used in global manufacturing and construction. In agrochemical synthesis, it functions as a methylating reagent for producing herbicides and plant growth regulators. Pharmaceutical manufacturers also use it as a reaction solvent and intermediate in the synthesis of active ingredients. Methyl chloride is supplied as a liquefied gas under pressure, typically in cylinders, drums, or ISO tank containers for bulk orders. It is available in technical and high-purity grades to meet specific requirements. These grades are designed for both industrial synthesis and more demanding pharmaceutical or specialty chemical applications. Purity specifications and packaging configurations vary by supplier and specific end-use requirement. Contact us for supply of Methyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -97 °C; Boiling Point: -23.7 °C; Density: 0.911 g/cm³ @ Temp: 25 °C; Flash Point: <-30 °F; Appearance: Methyl chloride is a colorless gas with a faint, sweet odor which is not noticeable at dangerous concentrations. The odor threshold is 10 ppm. Shipped as a liquefied compressed gas.; Color: Colorless to Almost colorless; Odor: faint sweet ethereal odor; Form: Colorless gas; Water Solubility: 5.347g/L(24.9 ºC); Vapor Pressure: 3796 mm Hg ( 20 °C); Refractive Index: 1.0007",
+  "safetyHandling": "Danger GHS02 GHS04 GHS08 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H302 Harmful if swallowed H332 Harmful if inhaled H336 May cause drowsiness or dizziness H340 May cause genetic defects H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place.",
+  "tradeRegulatory": "HS Code: 2903.11.0010; UN Number: 1993; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "R-40 | Methane, chloro- | Artic | CH3Cl",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "2903.11.0010",
+  "similarProducts": [
+    "cas-74-89-5",
+    "cas-593-51-1",
+    "cas-124-63-0",
+    "cas-75-79-6",
+    "cas-107-31-3",
+    "cas-109-87-5",
+    "cas-108-87-2",
+    "cas-115-10-6",
+    "cas-75-36-5",
+    "cas-79-11-8",
+    "cas-77-78-1",
+    "cas-547-64-8",
+    "cas-74-82-8",
+    "cas-67762-90-7",
+    "cas-115-10-6",
+    "cas-75-36-5",
+    "cas-79-11-8",
+    "cas-77-78-1",
+    "cas-547-64-8",
+    "cas-74-82-8",
+    "cas-67762-90-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-74-87-3/"
+}

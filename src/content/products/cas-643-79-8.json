@@ -1,0 +1,64 @@
+{
+  "id": "1239",
+  "name": "Phthalaldehyde",
+  "slug": "cas-643-79-8",
+  "cas": "643-79-8",
+  "ec": "211-402-2",
+  "formula": "C8H6O2",
+  "mw": "134.13 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "o-Phthalaldehyde (CAS 643-79-8 ), commonly abbreviated as OPA, is an aromatic dialdehyde used across pharmaceutical, personal care, and specialty chemical manufacturing. It functions primarily as a high-level disinfectant and chemical intermediate. This material is highly valued for its reactivity with amine-containing compounds. In healthcare settings, OPA is the active biocidal agent in cold sterilization solutions for heat-sensitive medical instruments, particularly endoscopes. It often outperforms glutaraldehyde in speed and efficacy for clinical applications. Pharmaceutical manufacturers use it as a synthetic building block in the production of APIs and heterocyclic compounds where dual aldehyde groups enable reactions. These dual groups allow for controlled condensation reactions during synthesis. In analytical chemistry and diagnostics, OPA serves as a fluorometric reagent for detecting primary amines and amino acids in HPLC workflows. Personal care formulators have explored its antimicrobial properties in preservation systems for rinse-off and professional-use products. OPA is supplied as a white to off-white crystalline solid for various industrial uses. Liquid solution forms are also available for ready-to-use disinfectant applications. Standard commercial grades include high-purity synthesis-grade material suitable for pharmaceutical intermediates and solution concentrates. These concentrates are formulated to defined active concentrations for medical device disinfection. Buyers should confirm purity specifications against USP or equivalent compendial standards depending on requirements. Contact us for supply of Phthalaldehyde Request Quote",
+  "physicalProperties": "Melting Point: 56 °C; Boiling Point: 83-84 °C (0.7501 mmHg); Density: 1.13; Flash Point: >230 °F; Appearance: Light yellow powder; Color: yellow; Form: powder; Water Solubility: soluble; Vapor Pressure: 0.56Pa at 25℃; Refractive Index: 1.4500 (estimate); pH: 7 (53g/l, H2O, 20℃); Log P: 0.99 at 30℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H228 Flammable solid H301 Toxic if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29122900; UN Number: 2923; ADR Class: 8; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "1,2-benzenedicarboxaldehyde | o-phthalaldehyde | OPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29122900",
+  "similarProducts": [
+    "cas-623-27-8",
+    "cas-85-44-9",
+    "cas-128275-31-0",
+    "cas-88-99-3",
+    "cas-131-17-9",
+    "cas-90-43-7",
+    "cas-111-30-8",
+    "cas-3218-36-8",
+    "cas-101-80-4",
+    "cas-85-43-8",
+    "cas-123-08-0",
+    "cas-94050-90-5",
+    "cas-123-38-6",
+    "cas-28785-06-0",
+    "cas-3218-36-8",
+    "cas-101-80-4",
+    "cas-85-43-8",
+    "cas-123-08-0",
+    "cas-94050-90-5",
+    "cas-123-38-6",
+    "cas-28785-06-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-643-79-8/"
+}

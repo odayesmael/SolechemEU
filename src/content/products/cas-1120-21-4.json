@@ -1,0 +1,62 @@
+{
+  "id": "1371",
+  "name": "Undecane",
+  "slug": "cas-1120-21-4",
+  "cas": "1120-21-4",
+  "ec": "214-300-6",
+  "formula": "C11H24",
+  "mw": "156.31 g/mol",
+  "category": "Oils, Fats & Waxes",
+  "industry": [
+    "Plastics & Polymers",
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Undecane (CAS 1120-21-4 ), also known as hendecane, is a straight-chain alkane hydrocarbon used as a solvent and carrier fluid across industrial processing applications. It functions as a low-polarity diluent and reference standard in hydrocarbon blending. The material offers controlled evaporation behavior relevant to formulation and process design. In lubricant and metalworking fluid formulations, it serves as a hydrocarbon carrier for additive packages where a defined solvent is required. Petroleum and gas laboratories use it as a certified reference component for GC calibration and hydrocarbon fingerprinting in crude oil and condensate analysis. It is essential for precise analytical measurements in these sectors. In polymer processing, it acts as a process solvent or diluent where a non-polar, mid-chain alkane is specified to control viscosity or carrier behavior. This ensures consistent performance during the manufacturing cycle. Specialty solvent blends for industrial cleaning and surface preparation also incorporate this alkane to achieve targeted evaporation profiles. It provides a reliable solution for demanding surface treatment requirements. The product is supplied as a clear, low-viscosity liquid in drum, IBC, and bulk quantities. It is available in high-purity research and analytical grades, typically 98–99%+ purity, for laboratory applications. Technical-grade material is also available for industrial solvent and blending use cases. Our supply chain ensures that the product meets rigorous industry expectations for consistency and performance in every batch. Contact us for supply of Undecane Request Quote",
+  "physicalProperties": "Melting Point: -25.6 °C; Boiling Point: 195.9 °C @ Press: 760 Torr; Density: 0.7402 g/cm³ @ Temp: 20 °C; Flash Point: 140 °F; Appearance: colourless liquid; Color: Colorless; Form: Liquid; Water Solubility: IMMISCIBLE; Vapor Pressure: <0.4 mm Hg ( 20 °C); Refractive Index: n 20/D 1.417(lit.); Log P: 6.312 (est)",
+  "safetyHandling": "Danger GHS08 GHS02 GHS07 GHS09 Hazard Statements H226 Flammable liquid and vapor H227 Combustible liquid H304 May be fatal if swallowed and enters airways H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P331 Do NOT induce vomiting. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29011090; UN Number: 2330; ADR Class: 3; Packing Group: III; WGK (Germany): 3",
+  "otherNames": "n-undecane | hendecane | JV0QT00NUE | RefChem:6337 | Nikko Elace",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS02",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29011090",
+  "similarProducts": [
+    "cas-7045-71-8",
+    "cas-629-50-5",
+    "cas-112-40-3",
+    "cas-112-42-5",
+    "cas-1852-04-6",
+    "cas-112-37-8",
+    "cas-544-76-3",
+    "cas-593-45-3",
+    "cas-629-59-4",
+    "cas-68141-27-5",
+    "cas-112-88-9",
+    "cas-37309-58-3",
+    "cas-31807-55-3",
+    "cas-646-30-0",
+    "cas-593-45-3",
+    "cas-629-59-4",
+    "cas-68141-27-5",
+    "cas-112-88-9",
+    "cas-37309-58-3",
+    "cas-31807-55-3",
+    "cas-646-30-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1120-21-4/"
+}

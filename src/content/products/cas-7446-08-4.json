@@ -1,0 +1,62 @@
+{
+  "id": "2016",
+  "name": "Selenium dioxide",
+  "slug": "cas-7446-08-4",
+  "cas": "7446-08-4",
+  "ec": "231-194-7",
+  "formula": "O2Se",
+  "mw": "110.97 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Electronics",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Selenium dioxide (CAS 7446-08-4 ), also known as selenious anhydride, is an inorganic oxidizing agent used primarily as a catalyst and reagent in chemical synthesis and industrial refining. SeO2 enables selective oxidation reactions that are difficult to achieve with conventional oxidants, making it a targeted choice for specialty chemical production and advanced manufacturing. In organic synthesis, it is the reagent of choice for allylic and benzylic oxidations, converting methylene groups to carbonyl compounds in pharmaceutical and fine chemical intermediates. The electronics industry relies on it as a component in glass and ceramic formulations where controlled selenium incorporation modifies optical and electrical properties for high-tech use. In metallurgy and mining, it functions as a refining agent for copper and other non-ferrous metals, removing impurities during electrorefining processes to ensure high metal purity. It also serves as a precursor in the production of other selenium compounds used across pigment and catalyst manufacturing, supporting a wide range of industrial chemical applications. The product is supplied as a white crystalline powder. Technical and reagent grades are the standard market offerings, with purity levels typically ranging from 99% upward for use. Packaging is available in small quantities for research use through to bulk quantities for industrial procurement, with handling requirements reflecting its oxidizing classification. Contact us for supply of Selenium dioxide Request Quote",
+  "physicalProperties": "Melting Point: 340 °C; Boiling Point: 684.9 °C(lit.); Density: 3.954 g/cm³ @ Temp: 15 °C; Flash Point: 315°C; Appearance: Selenium dioxide is white to slightly reddish crystalline solid or yellow liquid which forms a yellowgreen vapor. It has a sour and pungent odor. Odor threshold in air50.0002 milligram per cubic meter.; Color: white; Form: powder; Water Solubility: 38.4 g/100 mL (14 ºC); Vapor Pressure: 1 mm Hg ( 157 °C); Refractive Index: nD20 <1.76; pH: 2 (10g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H300 Fatal if swallowed H301 Toxic if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H319 Causes serious eye irritation H331 Toxic if inhaled H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28112900; UN Number: 3440; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "Selenous anhydride | Selenium(IV) oxide | Selenious anhydride | Selenium oxide (SeO2) | Selenium dioxide dimer | Selenous acid anhydride | Selenium(IV) dioxide (1:2) | Selenium oxide (Se2O4) | SeO2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "28112900",
+  "similarProducts": [
+    "cas-7782-49-2",
+    "cas-7446-07-3",
+    "cas-10102-18-8",
+    "cas-13410-01-0",
+    "cas-56093-45-9",
+    "cas-7446-09-5",
+    "cas-13597-46-1",
+    "cas-20667-12-3",
+    "cas-13718-59-7",
+    "cas-3211-76-5",
+    "cas-1758-73-2",
+    "cas-1306-38-3",
+    "cas-1314-56-3",
+    "cas-12027-12-2",
+    "cas-20667-12-3",
+    "cas-13718-59-7",
+    "cas-3211-76-5",
+    "cas-1758-73-2",
+    "cas-1306-38-3",
+    "cas-1314-56-3",
+    "cas-12027-12-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7446-08-4/"
+}

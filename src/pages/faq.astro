@@ -1,0 +1,138 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const FAQ_ITEMS = [
+  {
+    question: "What types of chemicals does SoleChem Europe supply?",
+    answer: "SoleChem Europe distributes over 4,483 chemical products across 27 categories, including pharmaceutical intermediates, food-grade additives, industrial solvents, surfactants, organic acids, agrochemicals, and specialty chemicals. We serve 20+ industrial sectors from our facilities in Milan, Italy."
+  },
+  {
+    question: "What is the minimum order quantity (MOQ)?",
+    answer: "Our minimum order quantities vary by product and are flexible based on your needs. We offer packaging ranging from laboratory-scale quantities (as low as 1 kg) to multi-ton bulk shipments. Contact our sales team with your specific product requirements for exact MOQ details."
+  },
+  {
+    question: "Which countries does SoleChem Europe ship to?",
+    answer: "We export to over 50 countries worldwide, with a primary focus on Europe, the Middle East, North Africa (MENA), and Asia. Our logistics network covers the EU, GCC states (UAE, Saudi Arabia, Qatar, Kuwait), Egypt, Turkey, India, and Southeast Asia. We handle all export documentation and regulatory compliance."
+  },
+  {
+    question: "What quality certifications does SoleChem hold?",
+    answer: "SoleChem Europe S.r.l. holds ISO 9001:2015 (Quality Management System), ISO 22000:2018 (Food Safety Management), and GMP+ certification. All certifications are issued by IQR-accredited bodies and renewed annually. Our operations are also REACH compliant for EU chemical regulations."
+  },
+  {
+    question: "Can SoleChem provide custom manufacturing or toll processing?",
+    answer: "Yes. Through our manufacturing division, we offer custom synthesis, toll manufacturing, and contract blending services. Our GMP-certified facilities can handle custom formulations, repackaging, and private-label production. Contact our manufacturing team to discuss your project specifications."
+  },
+  {
+    question: "How do I request a quote or product sample?",
+    answer: "You can request a quote through our website contact form at solechem.eu/contact, by emailing info@solechem.eu, or by calling +39 02 3055 6150. For product samples, please specify the product name and CAS number along with your company details. We typically respond within 24 business hours."
+  },
+  {
+    question: "Does SoleChem provide Certificates of Analysis (CoA) and Safety Data Sheets (SDS)?",
+    answer: "Yes, we provide full documentation for every product shipment, including Certificates of Analysis (CoA), Safety Data Sheets (SDS/MSDS), and technical specifications. For pharmaceutical intermediates, we also offer Drug Master File (DMF) support and regulatory dossiers upon request."
+  },
+  {
+    question: "What are the typical lead times for delivery?",
+    answer: "Lead times depend on product availability and destination. For products in stock at our Milan warehouse, European deliveries typically take 3-7 business days. MENA region deliveries take 7-14 days, and Asian destinations 14-21 days. We also offer expedited shipping for urgent requirements."
+  },
+  {
+    question: "Is SoleChem a B2B-only supplier?",
+    answer: "Yes, SoleChem Europe operates exclusively as a B2B (business-to-business) chemical distributor. We serve verified industrial buyers, manufacturers, pharmaceutical companies, food processors, and other commercial entities. We do not sell to individual consumers or end-users."
+  },
+  {
+    question: "What payment terms does SoleChem accept?",
+    answer: "We accept bank transfers (T/T), letters of credit (L/C), and offer credit terms for established accounts after credit approval. Payment terms are typically 30-60 days net for qualified buyers. We transact in EUR and USD."
+  },
+];
+
+const siteUrl = 'https://www.solechem.eu';
+---
+
+<BaseLayout title="Frequently Asked Questions | SoleChem Europe" description="Find answers to common questions about SoleChem Europe's chemical distribution services, MOQ, shipping, certifications, and ordering process.">
+  <!-- FAQPage Schema -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": FAQ_ITEMS.map(item => ({
+      "@type": "Question",
+      "name": item.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": item.answer
+      }
+    }))
+  })} />
+
+  <!-- BreadcrumbList -->
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": `${siteUrl}/` },
+      { "@type": "ListItem", "position": 2, "name": "FAQ", "item": `${siteUrl}/faq` }
+    ]
+  })} />
+
+  <div class="min-h-screen bg-white pt-28 pb-20">
+    <div class="max-w-4xl mx-auto px-4 lg:px-8">
+      <!-- Breadcrumb -->
+      <div class="flex items-center gap-2 text-[10px] font-bold text-slate-400 uppercase tracking-widest mb-8">
+        <a href="/" class="hover:text-orange-600 transition-colors">Home</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        <span class="text-slate-900">FAQ</span>
+      </div>
+
+      <!-- Header -->
+      <div class="mb-14">
+        <h1 class="text-4xl md:text-5xl font-bold text-slate-900 tracking-tight mb-4">
+          Frequently Asked <span class="text-orange-600">Questions</span>
+        </h1>
+        <p class="text-slate-500 text-[16px] leading-relaxed max-w-2xl">
+          Everything you need to know about working with SoleChem Europe. Can't find what you're looking for?
+          <a href="/contact" class="text-orange-600 font-semibold hover:text-orange-700 transition-colors">Contact our team</a>.
+        </p>
+      </div>
+
+      <!-- FAQ Items -->
+      <div class="space-y-4">
+        {FAQ_ITEMS.map((item, index) => (
+          <details class="group bg-white border border-slate-200 hover:border-orange-500/50 transition-colors overflow-hidden">
+            <summary class="flex items-center justify-between gap-4 px-6 py-5 cursor-pointer list-none select-none">
+              <div class="flex items-start gap-4">
+                <span class="w-8 h-8 bg-orange-50 border border-orange-200 flex items-center justify-center text-orange-600 text-xs font-bold shrink-0 mt-0.5">
+                  {(index + 1).toString().padStart(2, '0')}
+                </span>
+                <h2 class="text-[16px] font-bold text-slate-900 group-hover:text-orange-600 transition-colors leading-snug">
+                  {item.question}
+                </h2>
+              </div>
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400 shrink-0 transition-transform duration-300 group-open:rotate-180"><path d="m6 9 6 6 6-6"/></svg>
+            </summary>
+            <div class="px-6 pb-6 pt-0">
+              <div class="pl-12">
+                <p class="text-[15px] text-slate-600 leading-relaxed">{item.answer}</p>
+              </div>
+            </div>
+          </details>
+        ))}
+      </div>
+
+      <!-- CTA -->
+      <div class="mt-16 bg-slate-50 border border-slate-200 p-8 md:p-10 text-center">
+        <h3 class="text-xl font-bold text-slate-900 mb-2">Still have questions?</h3>
+        <p class="text-slate-500 text-[15px] mb-6 max-w-md mx-auto">
+          Our team of chemical specialists is ready to help. Get in touch and we'll respond within 24 hours.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-3 justify-center">
+          <a href="/contact" class="inline-flex items-center justify-center gap-2 bg-orange-600 hover:bg-orange-700 text-white px-7 py-3 font-bold text-sm uppercase tracking-wider transition-colors">
+            Contact Us
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+          </a>
+          <a href="https://wa.me/393884449559" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 bg-white border-2 border-slate-200 hover:border-green-500 text-slate-700 hover:text-green-600 px-7 py-3 font-bold text-sm uppercase tracking-wider transition-all">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+            WhatsApp
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

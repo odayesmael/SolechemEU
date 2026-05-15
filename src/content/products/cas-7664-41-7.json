@@ -1,0 +1,70 @@
+{
+  "id": "2070",
+  "name": "Ammonia",
+  "slug": "cas-7664-41-7",
+  "cas": "7664-41-7",
+  "ec": "231-635-3",
+  "formula": "H3N",
+  "mw": "17.031 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Plastics & Polymers",
+    "Water Treatment",
+    "Mining & Metals",
+    "Pharmaceuticals & Healthcare",
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Oil, Gas & Energy",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonia (CAS 7664-41-7 ), also supplied as anhydrous ammonia, is one of the highest-volume industrial chemicals in global trade. It functions primarily as a nitrogen source, alkalizing agent, and chemical intermediate across agriculture, manufacturing, and water treatment sectors. In agriculture, it is applied directly as a soil fertilizer and used as a feedstock for producing urea, ammonium nitrate, and other nitrogen-based fertilizers. Water treatment facilities use it to form chloramines during disinfection. This process provides longer-lasting residual protection in municipal distribution systems. Textile and pulp and paper operations rely on it for pH regulation during fiber processing, bleaching, and dyeing stages. In oil refining and gas processing, it neutralizes acidic byproducts in process streams, protecting equipment from corrosion and maintaining stable operating conditions. Ammonia is supplied as a compressed liquefied gas in cylinders. It is also available in ISO tanks and bulk pressurized vessels, with anhydrous grades being the most common commercial form. Aqueous ammonia solutions typically range from 25% to 30% concentration for various uses. These solutions are available for applications where handling liquefied gas is impractical. Grades include technical, industrial, and refrigeration-quality specifications, with purity levels and moisture content defined per application requirements. Contact us for supply of Ammonia Request Quote",
+  "physicalProperties": "Melting Point: -77.7 °C; Boiling Point: -33.35 °C; Density: 0.7 g/cm³ @ Temp: -33 °C; Flash Point: 52 °F; Appearance: Ammonia is a colorless, strongly alkaline, and extremely soluble gas with a pungent, suffocating odor.; Color: Colorless; Odor: Intense pungent odor detectable at 17 ppm; Form: Liquid; Water Solubility: soluble; Vapor Pressure: 8.75 atm ( 21 °C); pH: pKa1= 9.461(25℃); Log P: 0.23 at 20℃",
+  "safetyHandling": "Danger GHS04 GHS05 GHS06 GHS09 GHS07 GHS02 GHS08 Hazard Statements H220 Extremely flammable gas H221 Flammable gas H280 Contains gas under pressure; may explode if heated H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H402 Harmful to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P342+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28141000; UN Number: 1219; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "anhydrous ammonia | volatile alkali | nitrogen hydride | hydrogen nitride | azane | ammine | ammonia gas | Nitro-sil",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS05",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS02",
+    "GHS08"
+  ],
+  "hsCode": "28141000",
+  "similarProducts": [
+    "cas-1336-21-6",
+    "cas-6484-52-2",
+    "cas-7783-20-2",
+    "cas-74-89-5",
+    "cas-13106-76-8",
+    "cas-57-13-6",
+    "cas-35249-89-9",
+    "cas-12125-01-8",
+    "cas-302-01-2",
+    "cas-10604-69-0",
+    "cas-13774-81-7",
+    "cas-12135-76-1",
+    "cas-12125-02-9",
+    "cas-7697-37-2",
+    "cas-12125-01-8",
+    "cas-302-01-2",
+    "cas-10604-69-0",
+    "cas-13774-81-7",
+    "cas-12135-76-1",
+    "cas-12125-02-9",
+    "cas-7697-37-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7664-41-7/"
+}

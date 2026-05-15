@@ -1,0 +1,55 @@
+{
+  "id": "2093",
+  "name": "Thionyl chloride",
+  "slug": "cas-7719-09-7",
+  "cas": "7719-09-7",
+  "ec": "231-748-8",
+  "formula": "Cl2OS",
+  "mw": "118.97 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Thionyl chloride (CAS 7719-09-7 ), also known as sulfurous oxychloride and commonly referenced by its formula SOCl2, is a reactive chlorinating agent used across pharmaceutical synthesis and specialty chemical manufacturing. It converts carboxylic acids, alcohols, and other functional groups into their corresponding acid chlorides or chlorinated derivatives, enabling downstream reactions that would otherwise require more complex reagents. In pharmaceutical manufacturing, SOCl2 is a preferred reagent for producing acid chlorides as activated intermediates in API synthesis, where reaction efficiency and yield directly affect production economics. Agrochemical producers rely on it to chlorinate precursor compounds during the manufacture of herbicides, insecticides, and fungicide active ingredients for the global agricultural market. It also functions as a dehydrating agent in the preparation of sulfonyl chlorides and other specialty intermediates used in dye and fine chemical production across various industrial sectors. Battery electrolyte formulations, particularly in lithium-thionyl chloride primary cells, represent a distinct industrial application where SOCl2 acts as both solvent and active cathode material. Thionyl chloride is supplied as a fuming liquid, typically in drums, ISO tanks, or cylinders depending on volume requirements. Technical and synthesis-grade specifications are standard across the market. Purity levels commonly range from 97% to 99%+ for pharmaceutical and fine chemical applications, ensuring high performance and consistency for demanding chemical synthesis and manufacturing processes. Contact us for supply of Thionyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -104.5 °C; Boiling Point: 76 °C @ Press: 760 Torr; Density: 1.638 g/cm³ @ Temp: 20 °C; Flash Point: 105°C; Appearance: Thionyl chloride is a pale yellow to reddish liquid. Suffocating odor like sulfur dioxide. Fumes form when exposed to moist air.; Color: ≤50(APHA); Odor: Characteristic, pungent odor; Form: Liquid; Water Solubility: REACTS; Vapor Pressure: 97 mm Hg ( 20 °C); Refractive Index: n 20/D 1.518(lit.)",
+  "safetyHandling": "",
+  "tradeRegulatory": "HS Code: 28121095; UN Number: 1836; ADR Class: 8; Packing Group: I; Storage Class: 6.1D - Non-combustible, acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 1",
+  "otherNames": "sulfurous oxychloride | sulfurous dichloride | Sulfur oxychloride | sulfur dichloride oxide | sulfur chloride oxide | Sulfinyl dichloride | sulfinyl chloride | SOCl2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "28121095",
+  "similarProducts": [
+    "cas-7791-25-5",
+    "cas-7790-94-5",
+    "cas-98-09-9",
+    "cas-10025-67-9",
+    "cas-75-36-5",
+    "cas-98-88-4",
+    "cas-124-63-0",
+    "cas-79-04-9",
+    "cas-7782-50-5",
+    "cas-126-33-0",
+    "cas-7447-41-8",
+    "cas-67-66-3",
+    "cas-7758-19-2",
+    "cas-3282-30-2",
+    "cas-79-04-9",
+    "cas-7782-50-5",
+    "cas-126-33-0",
+    "cas-7447-41-8",
+    "cas-67-66-3",
+    "cas-7758-19-2",
+    "cas-3282-30-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7719-09-7/"
+}

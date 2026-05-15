@@ -1,0 +1,64 @@
+{
+  "id": "2100",
+  "name": "Zinc sulfate",
+  "slug": "cas-7733-02-0",
+  "cas": "7733-02-0",
+  "ec": "231-793-3",
+  "formula": "H2O4S.Zn",
+  "mw": "161.4 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Zinc sulfate (CAS 7733-02-0 ) is an inorganic zinc salt supplying bioavailable zinc across agricultural, industrial, and pharmaceutical supply chains. It functions as a micronutrient source, process chemical, and preservation agent depending on the application sector. In agriculture, it corrects zinc deficiency in crops and is incorporated into fertilizer blends and animal feed premixes to support livestock nutrition. Water treatment facilities use it as a coagulation aid and algaecide in municipal and industrial systems. Textile and leather processors apply it during dyeing and tanning operations to fix colorants and control microbial growth in process baths. Pharmaceutical and personal care manufacturers use it as an active ingredient in ophthalmic solutions and astringent formulations. The compound is also utilized in anti-dandruff products and various topical applications. Zinc sulfate is supplied as a white crystalline powder or granules, with the monohydrate and heptahydrate forms being the most commercially traded. Recognized grades include USP , BP , Ph. Eur. , and FCC , covering pharmaceutical, food additive, and industrial procurement requirements. These standards ensure the material meets specific purity levels for sensitive manufacturing processes. Technical grade options are also available for large-scale industrial use. Bulk quantities are standard for agricultural and industrial buyers, with smaller packaged formats available for specialized feed and pharma applications. Contact us for supply of Zinc sulfate Request Quote",
+  "physicalProperties": "Melting Point: 240-243.0 °C; Boiling Point: 105°C (estimate); Density: 3.8 g/cm³ @ Temp: 25 °C; Color: Colorless; Form: Liquid; Water Solubility: Soluble; pH: 4.0±0.5; Log P: -1.031 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H318 Causes serious eye damage H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P308+P316 Get emergency medical help immediately. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2833 29 20; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 12 - Non Combustible Liquids; WGK (Germany): 3",
+  "otherNames": "ZnSO₄ | ZnSO4 | zinc(II) sulfate | zinc(2+) sulfate | white vitriol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "2833 29 20",
+  "similarProducts": [
+    "cas-7446-19-7",
+    "cas-7446-20-0",
+    "cas-5970-45-6",
+    "cas-10196-18-6",
+    "cas-4468-02-4",
+    "cas-7440-66-6",
+    "cas-7720-78-7",
+    "cas-12565-63-8",
+    "cas-7646-85-7",
+    "cas-7785-87-7",
+    "cas-557-34-6",
+    "cas-13597-46-1",
+    "cas-546-46-3",
+    "cas-10034-96-5",
+    "cas-12565-63-8",
+    "cas-7646-85-7",
+    "cas-7785-87-7",
+    "cas-557-34-6",
+    "cas-13597-46-1",
+    "cas-546-46-3",
+    "cas-10034-96-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7733-02-0/"
+}

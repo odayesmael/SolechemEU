@@ -1,0 +1,61 @@
+{
+  "id": "1655",
+  "name": "Bromotrimethylsilane",
+  "slug": "cas-2857-97-8",
+  "cas": "2857-97-8",
+  "ec": "220-672-0",
+  "formula": "C3H9BrSi",
+  "mw": "153.09 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Bromotrimethylsilane ( CAS 2857-97-8 ), commonly abbreviated as TMSBr, is a reactive organosilicon reagent used across pharmaceutical synthesis and specialty chemical manufacturing. It functions primarily as a silylating agent and Lewis acid activator. This versatile compound enables selective protection and deprotection of functional groups in complex molecule construction. In pharmaceutical API synthesis, TMSBr converts phosphonate esters to phosphonic acids for drug manufacturing. This specific transformation is central to antiviral and nucleotide analog drug manufacturing processes. Polymer chemists use it to introduce trimethylsilyl groups onto polymer backbones, modifying surface adhesion and compatibility. These modifications are essential for specialty coatings and adhesives used in industrial applications. In fine chemical and agrochemical synthesis, it activates esters and ethers under mild conditions, reducing harsh catalysts. Cosmetic and personal care formulators apply it in silicone-based systems where controlled surface modification is required. TMSBr is supplied as a liquid, typically at high purity levels of 97% or greater. Anhydrous grades are standard given the compound's sensitivity to moisture. Packaging ranges from small reagent quantities to multi-kilogram drums for industrial synthesis to meet various production demands. Technical and synthesis-grade specifications are the most commonly available across the market. The reagent remains a critical component for laboratories focusing on advanced organic synthesis and material science. Contact us for supply of Bromotrimethylsilane Request Quote",
+  "physicalProperties": "Melting Point: -44 °C; Boiling Point: 80 °C; Density: 1.172 g/cm³; Flash Point: 90 °F; Appearance: Clear yellow liquid; Color: Clear colorless to yellow; Form: Liquid; Water Solubility: DECOMPOSES; Refractive Index: n 20/D 1.424(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H314 Causes severe skin burns and eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 2920; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Trimethylsilyl bromide | Silane, bromotrimethyl- | tmsbr | JHH5G299BX | RefChem:121650 | Trimethylsilicon bromide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-18162-48-6",
+    "cas-27607-77-8",
+    "cas-1185-55-3",
+    "cas-75-79-6",
+    "cas-121-43-7",
+    "cas-68909-20-6",
+    "cas-18395-30-7",
+    "cas-2530-83-8",
+    "cas-13292-87-0",
+    "cas-75-25-2",
+    "cas-2116-84-9",
+    "cas-13822-56-5",
+    "cas-22984-54-9",
+    "cas-4253-34-3",
+    "cas-2530-83-8",
+    "cas-13292-87-0",
+    "cas-75-25-2",
+    "cas-2116-84-9",
+    "cas-13822-56-5",
+    "cas-22984-54-9",
+    "cas-4253-34-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2857-97-8/"
+}

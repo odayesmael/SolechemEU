@@ -1,0 +1,60 @@
+{
+  "id": "2607",
+  "name": "Dimethyldipropylenetriamine",
+  "slug": "cas-10563-29-8",
+  "cas": "10563-29-8",
+  "ec": "234-148-4",
+  "formula": "C8H21N3",
+  "mw": "159.27 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethyldipropylenetriamine (CAS 10563-29-8 ) is a polyamine compound used industrially as a corrosion inhibitor, chelating agent, and pH buffer across water treatment and surface protection applications. Its triamine structure allows it to coordinate with metal ions and interact with surfaces, making it functional across multiple chemistries simultaneously in various industrial environments. In water treatment systems, it controls corrosion in recirculating and industrial cooling circuits by forming protective complexes with metal surfaces and sequestering dissolved metal ions. This sequestration prevents ions that would otherwise accelerate degradation. Coatings formulators incorporate it as a curing agent or adhesion promoter in epoxy-based systems for film integrity. In these systems, its amine groups react with resin components to build durability. In adhesives and sealants, it contributes to crosslink density and substrate bonding performance. This is particularly effective on metal and concrete surfaces. Metalworking fluid formulators use it for pH stabilization and to inhibit ferrous corrosion in cutting and grinding operations. The product is supplied as a liquid at standard commercial concentrations. It is typically available in technical grade , suited to industrial end uses in water treatment and coatings. Packaging options generally include drums and IBC totes for bulk procurement. This ensures efficient handling and storage for large-scale manufacturing and chemical processing facilities. Contact us for supply of Dimethyldipropylenetriamine Request Quote",
+  "physicalProperties": "Boiling Point: 92-93 °C @ Press: 4 Torr; Density: 0.883 g/mL at 25 °C(lit.); Flash Point: 220 °F; Water Solubility: 1000g/L at 25℃; Vapor Pressure: 3Pa at 20℃; Refractive Index: n 20/D 1.4630(lit.); Log P: -0.56 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 2735; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "N,N-Dimethyldipropylenetriamine | B15K0N6194 | RefChem:134341 | N'-(3-Aminopropyl)-N,N-dimethylpropane-1,3-diamine | N'-[3-(dimethylamino)propyl]propane-1,3-diamine | 1,3-Propanediamine, N3-(3-aminopropyl)-N1,N1-dimethyl- | Dipropylamine, 3-amino-3′-(dimethylamino)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-105-83-9",
+    "cas-6711-48-4",
+    "cas-56-18-8",
+    "cas-108-01-0",
+    "cas-42751-79-1",
+    "cas-63469-23-8",
+    "cas-124-28-7",
+    "cas-84649-84-3",
+    "cas-102-83-0",
+    "cas-7396-58-9",
+    "cas-2372-82-9",
+    "cas-123-00-2",
+    "cas-2212-32-0",
+    "cas-25513-64-8",
+    "cas-84649-84-3",
+    "cas-102-83-0",
+    "cas-7396-58-9",
+    "cas-2372-82-9",
+    "cas-123-00-2",
+    "cas-2212-32-0",
+    "cas-25513-64-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10563-29-8/"
+}

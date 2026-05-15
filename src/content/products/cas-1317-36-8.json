@@ -1,0 +1,60 @@
+{
+  "id": "1432",
+  "name": "Lead monoxide",
+  "slug": "cas-1317-36-8",
+  "cas": "1317-36-8",
+  "ec": "215-267-0",
+  "formula": "OPb",
+  "mw": "223 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Rubber & Tire",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lead monoxide (CAS 1317-36-8 ), commonly known as litharge or massicot depending on its crystalline form, is an inorganic lead compound used as a reactive oxide in industrial processing. It functions primarily as a catalyst, curing agent, and flux across rubber manufacturing and metallurgical applications. In rubber and tire production, lead monoxide acts as a vulcanization activator and accelerator co-agent, improving cross-link density and heat resistance in specialty compounds. Metallurgical processors use it as a flux in lead refining and smelting operations. In these smelting operations, it facilitates the separation of impurities from base metal melts. It also serves as a precursor in the production of lead-based glass formulations, contributing to refractive index and density in optical and crystal glass manufacturing. In mining and metals processing, it functions as an intermediate in the recovery and refining of lead from ore concentrates. Lead monoxide is supplied as a fine powder or dense granules, with particle size and purity specifications varying by end-use requirement. Standard commercial grades include technical and industrial purity levels, typically at 99% minimum lead oxide content. Both litharge (alpha-PbO) and massicot (beta-PbO) polymorphic forms are available, with litharge being the predominant commercial form. Contact us for supply of Lead monoxide Request Quote",
+  "physicalProperties": "Melting Point: 888 °C; Boiling Point: 1470 °C; Density: 9.53 g/cm³; Appearance: light yellow-orange powder; Color: yellow; Form: powder; Water Solubility: Soluble in concentrated alkali, hydrochloric acid, and ammonium chloride. Insoluble in water, dilute alkali and alcohol.; Vapor Pressure: 10 mm Hg ( 0 °C); Refractive Index: 2.67; pH: 8-9 (100g/l, H2O, 20℃)(slurry)",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H316 Causes mild skin irritation H332 Harmful if inhaled H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H362 May cause harm to breast-fed children H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help.",
+  "tradeRegulatory": "HS Code: 28241000; UN Number: 2291; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Lead(ii) oxide | Lead oxide (pbo) | Oxolead | Lead oxide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28241000",
+  "similarProducts": [
+    "cas-15696-43-2",
+    "cas-7439-92-1",
+    "cas-7319-86-0",
+    "cas-17570-76-2",
+    "cas-1306-19-0",
+    "cas-1317-38-0",
+    "cas-301-08-6",
+    "cas-1313-27-5",
+    "cas-20667-12-3",
+    "cas-1313-99-1",
+    "cas-1314-13-2",
+    "cas-1072-35-1",
+    "cas-15245-44-0",
+    "cas-1304-76-3",
+    "cas-1313-27-5",
+    "cas-20667-12-3",
+    "cas-1313-99-1",
+    "cas-1314-13-2",
+    "cas-1072-35-1",
+    "cas-15245-44-0",
+    "cas-1304-76-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1317-36-8/"
+}

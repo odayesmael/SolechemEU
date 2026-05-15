@@ -1,0 +1,63 @@
+{
+  "id": "3078",
+  "name": "Diisodecyl phthalate",
+  "slug": "cas-26761-40-0",
+  "cas": "26761-40-0",
+  "ec": "247-955-6",
+  "formula": "C28H46O4",
+  "mw": "446.7 g/mol",
+  "category": "Oils, Fats & Waxes",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Automotive",
+    "Building & Construction",
+    "Printing & Packaging",
+    "Rubber & Tire",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diisodecyl phthalate (CAS 26761-40-0 ), commonly known as DIDP and sold under trade names such as Palatinol Z and Vestinol DZ, is a high-molecular-weight phthalate plasticizer for PVC and related polymer systems. It functions as a primary plasticizer, imparting flexibility and durability to rigid formulations while offering lower volatility than lighter phthalate alternatives in industrial applications. In wire and cable insulation, DIDP delivers the thermal stability and low migration needed for long-service electrical applications. Automotive interior components rely on DIDP for heat resistance and reduced fogging. Dashboards, door panels, and underbody coatings utilize this material for its performance. Flooring, roofing membranes, and wall coverings in building and construction use DIDP to maintain flexibility across a wide service temperature range. Sealants, adhesives, and rubber compounds also incorporate DIDP where low volatility and compatibility with high-filler systems are procurement priorities. It is supplied as a clear, low-viscosity liquid in bulk tankers. IBC containers and drums are also standard packaging options. Technical grade is the standard commercial specification, with product typically meeting ISO and ASTM reference standards relevant to plasticizer purity and color. Buyers should confirm isomer distribution and phthalate content with suppliers when sourcing for regulated end-use markets. This ensures compliance with specific regional safety and environmental requirements for manufacturing. Contact us for supply of Diisodecyl phthalate Request Quote",
+  "physicalProperties": "Melting Point: -50 °C; Boiling Point: 250-257 °C @ Press: 4 Torr; Density: 0.966 g/cm³ @ Temp: 20 °C; Flash Point: 235 °C; Color: Colourless; Odor: Faint.; Form: Oil; Water Solubility: 0.28mg/L(24 ºC); Vapor Pressure: 0.1 hPa (20 °C); Refractive Index: n 20/D 1.486; Log P: 10.554 (est)",
+  "safetyHandling": "Warning GHS09 GHS08 Hazard Statements H361 Suspected of damaging fertility or the unborn child H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations.",
+  "tradeRegulatory": "HS Code: 2917 33 00; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "Palatinol Z | Vestinol DZ | Plasticized ddp | bis(8-methylnonyl) benzene-1,2-dicarboxylate | Sicol 184 | DIDP (plasticizer) | Bis(isodecyl)phthalate | 1,2-Benzenedicarboxylic acid, 1,2-diisodecyl ester | DIDP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "2917 33 00",
+  "similarProducts": [
+    "cas-28553-12-0",
+    "cas-68515-48-0",
+    "cas-27178-16-1",
+    "cas-84-69-5",
+    "cas-117-81-7",
+    "cas-131-18-0",
+    "cas-26401-35-4",
+    "cas-53306-54-0",
+    "cas-117-84-0",
+    "cas-108-63-4",
+    "cas-6422-86-2",
+    "cas-166412-78-8",
+    "cas-6938-94-9",
+    "cas-474919-59-0",
+    "cas-53306-54-0",
+    "cas-117-84-0",
+    "cas-108-63-4",
+    "cas-6422-86-2",
+    "cas-166412-78-8",
+    "cas-6938-94-9",
+    "cas-474919-59-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-26761-40-0/"
+}

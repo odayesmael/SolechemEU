@@ -1,0 +1,61 @@
+{
+  "id": "8",
+  "name": "Piperonyl butoxide",
+  "slug": "cas-51-03-6",
+  "cas": "51-03-6",
+  "ec": "200-076-7",
+  "formula": "C19H30O5",
+  "mw": "338.4 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Piperonyl butoxide (CAS 51-03-6 ), commonly abbreviated as PBO, is a synergist used alongside insecticides to enhance their efficacy by inhibiting the enzymes insects use to break down active ingredients. It does not function as a pesticide on its own but significantly boosts the performance of pyrethrin- and pyrethroid-based formulations, allowing lower active ingredient loadings for various applications. In agricultural and public health pest control, PBO is incorporated into sprays, dusts, and aerosols to increase knockdown speed and residual activity of pyrethrins against a broad range of insects. Home care products, including household insecticide sprays, mosquito coils, and foggers, rely on PBO to improve cost-efficiency while maintaining label claims for consumer safety and effectiveness. In personal care, it appears in lice treatment formulations where it enhances the activity of permethrin or pyrethrin against head lice. Professional pest control operators also use PBO-containing concentrates. These concentrates are used for structural treatments where insecticide resistance is a concern. Piperonyl butoxide is supplied as a liquid, typically in bulk drums or intermediate bulk containers. Technical grade is the standard commercial form, with purity specifications commonly at 90–95% or higher. Refined grades meeting specific purity thresholds are available for pharmaceutical and personal care. These refined grades are used where regulatory compliance requires tighter quality documentation. Our material is handled according to strict industrial protocols to ensure consistent performance in every batch. Contact us for supply of Piperonyl butoxide Request Quote",
+  "physicalProperties": "Melting Point: <25 °C; Boiling Point: 180 °C @ Press: 1 Torr; Density: 1.06 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: Light Yellow Liquid; Color: Clear yellow; Odor: mild odor or odorless; Form: Liquid; Water Solubility: <0.1 g/100 mL at 18 ºC; Vapor Pressure: 0.02 hPa (60 °C); Refractive Index: n 20/D 1.498(lit.); Log P: 4.750",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H317 H317 H319 H319 H335 H335 H373 H373 H400 H400 H410 H410 Precautionary Statements P260 P260 P261 P261 P271 P271 P272 P272 P273 P273 P280 P280 P319 P319 P321 P321 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P302+P352 P302+P352 P304+P340 P304+P340 P333+P317 P333+P317 P337+P317 P337+P317 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29329990; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "5-propyl-4-(2,5,8-trioxa-dodecyl)-1,3-benzodioxole | (butylcarbityl)(6-propylpiperonyl)ether | (3,4-methylenedioxy-6-propylbenzyl) (butyl) diethylene glycol ether | 2-(2-butoxyethoxy)ethyl 6-propylpiperonyl ether | butyl carbitol 6-propylpiperonyl ether | alpha-[2-(2-butoxyethoxy)ethoxy]-4,5-(methylenedioxy)-2-propyltoluene | alpha-(2-(2-n-butoxyethoxy)-ethoxy)-4,5-methylenedioxy-2-propyltoluene | 6-propylpiperonyl butyl diethylene glycol ether | PBO",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29329990",
+  "similarProducts": [
+    "cas-52645-53-1",
+    "cas-597-82-0",
+    "cas-94-36-0",
+    "cas-76114-73-3",
+    "cas-55921-65-8",
+    "cas-75-56-9",
+    "cas-5131-66-8",
+    "cas-614-45-9",
+    "cas-55406-53-6",
+    "cas-56-35-9",
+    "cas-110-89-4",
+    "cas-52304-36-6",
+    "cas-9038-95-3",
+    "cas-927-07-1",
+    "cas-614-45-9",
+    "cas-55406-53-6",
+    "cas-56-35-9",
+    "cas-110-89-4",
+    "cas-52304-36-6",
+    "cas-9038-95-3",
+    "cas-927-07-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-51-03-6/"
+}

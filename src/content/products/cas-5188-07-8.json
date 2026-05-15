@@ -1,0 +1,62 @@
+{
+  "id": "1828",
+  "name": "Sodium methanethiolate",
+  "slug": "cas-5188-07-8",
+  "cas": "5188-07-8",
+  "ec": "225-969-9",
+  "formula": "CH4S.Na",
+  "mw": "70.09 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Oil, Gas & Energy",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium methanethiolate (CAS 5188-07-8 ), also known as sodium thiomethylate, is a reactive organosulfur nucleophile used across pharmaceutical synthesis, agrochemical manufacturing, and polymer chemistry. SMM functions primarily as a methylthiolation reagent, introducing the methylthio group into target molecules under controlled reaction conditions. In pharmaceutical manufacturing, it is a key intermediate. It is used in the synthesis of active pharmaceutical ingredients where selective sulfur alkylation is required, including certain antibiotics and cardiovascular compounds. Agrochemical producers use it for functionality. It introduces methylthio functionality into herbicide and pesticide molecules during multi-step synthesis. In polymer and plastics processing, it acts as a catalyst or chain-transfer agent to control weight. It is used to modify end-group chemistry in various materials. The oil and gas sector applies sodium thiomethylate in scavenger formulations and as a pH-regulating additive in refinery process streams. Sodium methanethiolate is supplied as a liquid solution, typically in aqueous or methanolic form, with concentration ranges commonly between 20% and 40% by weight for industrial use. Technical and synthesis grades are the standard commercial offerings, with pharmaceutical-grade material available from select manufacturers to meet API intermediate specifications for high purity. Packaging ranges from drums to IBC totes depending on volume requirements. This ensures safe handling and transport of the chemical across global supply chains for diverse manufacturing needs. Contact us for supply of Sodium methanethiolate Request Quote",
+  "physicalProperties": "Density: 1.12[at 20℃]; Flash Point: 27°C; Appearance: Very faint yellowish red clear liquid; Color: White to off-white; Form: Powder; Water Solubility: soluble; Vapor Pressure: 29hPa at 25℃; Log P: -2.33 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 Hazard Statements H226 H226 H228 H228 H301 H301 H314 H314 H318 H318 Precautionary Statements P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P264 P264 P270 P270 P280 P280 P316 P316 P317 P317 P321 P321 P330 P330 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P304+P340 P304+P340 P370+P378 P370+P378 P403+P235 P403+P235 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P303+P361+P353 P303+P361+P353 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29309090; UN Number: 3263; ADR Class: 8; Packing Group: III; WGK (Germany): 3",
+  "otherNames": "Sodium thiomethylate | LB29JWW8H7 | RefChem:887680 | Sodium thiomethoxide | Methanethiol sodium salt | Methanethiol, sodium salt (1:1) | Sodium, (methylthio)- | Sodium methylmercaptide | SMM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "29309090",
+  "similarProducts": [
+    "cas-1561-92-8",
+    "cas-124-41-4",
+    "cas-26264-58-4",
+    "cas-3926-62-3",
+    "cas-869737-84-8",
+    "cas-16589-43-8",
+    "cas-12068-03-0",
+    "cas-938063-63-9",
+    "cas-77-78-1",
+    "cas-29908-03-0",
+    "cas-75-75-2",
+    "cas-26545-58-4",
+    "cas-20526-58-3",
+    "cas-5165-97-9",
+    "cas-938063-63-9",
+    "cas-77-78-1",
+    "cas-29908-03-0",
+    "cas-75-75-2",
+    "cas-26545-58-4",
+    "cas-20526-58-3",
+    "cas-5165-97-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-5188-07-8/"
+}

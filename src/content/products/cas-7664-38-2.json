@@ -1,0 +1,64 @@
+{
+  "id": "2067",
+  "name": "Phosphoric acid",
+  "slug": "cas-7664-38-2",
+  "cas": "7664-38-2",
+  "ec": "231-633-2",
+  "formula": "H3O4P",
+  "mw": "97.995 g/mol",
+  "category": "Chelating Agents",
+  "industry": [
+    "Mining & Metals",
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phosphoric acid (CAS 7664-38-2 ), also known as orthophosphoric acid and designated E338 in food applications, is a mineral acid used across industrial, food, and pharmaceutical sectors. It functions primarily as a pH regulator, acidulant, chelating agent, and surface treatment chemical depending on the application. In food and beverage production, it acidifies carbonated soft drinks and acts as a flavor modifier. The FEMA 2902 recognition supports its use in flavoring systems. Metal surface treatment relies on phosphoric acid for rust conversion and phosphate coating prior to painting or galvanizing. Water treatment facilities use it to dose phosphate for corrosion inhibition in distribution pipelines. Pharmaceutical and industrial cleaning formulations incorporate it for pH adjustment and as a sequestrant. These formulations stabilize active ingredients against metal ion interference. Phosphoric acid is supplied as an aqueous solution, with 75%, 80%, and 85% concentrations being the most commercially standard. Food-grade material is available to FCC and E338 specifications, while pharmaceutical-grade supply meets USP and Ph. Eur. requirements for various manufacturing needs. Technical-grade solutions are used in industrial processing where food or pharma compliance is not required. This versatile chemical remains a cornerstone for acidity control and surface preparation globally. Contact us for supply of Phosphoric acid Request Quote",
+  "physicalProperties": "Melting Point: 42.35 °C; Boiling Point: 158 °C; Density: 1.834 g/cm³ @ Temp: 18 °C; Appearance: Phosphoric acid is a colorless, odorless, crystalline solid or a thick syrupy liquid. Physical state is strength and temperature dependent.; Color: ≤10(APHA); Odor: Odorless; Form: Solid or Viscous Liquid; Water Solubility: MISCIBLE; Vapor Pressure: 2.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.433; pH: <0.5 (100g/l, H2O, 20℃); Log P: -2.15",
+  "safetyHandling": "Danger GHS05 GHS07 GHS06 GHS08 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H313 May be harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H402 Harmful to aquatic life Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28092000; UN Number: 3453; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "white phosphoric acid | phosphoric(V) acid | orthophosphoric acid | naval jelly | H3PO4 | E338 | [PO(OH)3] | o-Phosphoric acid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28092000",
+  "similarProducts": [
+    "cas-10294-56-1",
+    "cas-13598-36-2",
+    "cas-77-92-9",
+    "cas-7803-60-3",
+    "cas-2466-09-3",
+    "cas-14265-44-2",
+    "cas-83-86-3",
+    "cas-7664-93-9",
+    "cas-7647-01-0",
+    "cas-5949-29-1",
+    "cas-64-19-7",
+    "cas-8017-16-1",
+    "cas-87-69-4",
+    "cas-10045-86-0",
+    "cas-7664-93-9",
+    "cas-7647-01-0",
+    "cas-5949-29-1",
+    "cas-64-19-7",
+    "cas-8017-16-1",
+    "cas-87-69-4",
+    "cas-10045-86-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7664-38-2/"
+}

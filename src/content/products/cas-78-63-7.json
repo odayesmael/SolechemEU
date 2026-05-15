@@ -1,0 +1,59 @@
+{
+  "id": "199",
+  "name": "2,5-dimethyl-2,5-di(tert-butylperoxy)hexane",
+  "slug": "cas-78-63-7",
+  "cas": "78-63-7",
+  "ec": "201-128-1",
+  "formula": "C16H34O4",
+  "mw": "290.44 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Plastics & Polymers",
+    "Rubber & Tire"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2,5-Dimethyl-2,5-di(tert-butylperoxy)hexane , identified by CAS 78-63-7 , is a high-temperature organic peroxide used as a free-radical initiator and cross-linking agent in polymer processing. Its thermal stability at moderate storage temperatures makes it a preferred choice where controlled decomposition at elevated cure temperatures is required for industrial applications. In rubber compounding, it cross-links EPDM, silicone, and natural rubber to improve heat resistance and compression set performance in seals, gaskets, and automotive components. Polyolefin producers use it to initiate cross-linking in PE and PP, producing materials suited for wire and cable insulation, pipes, and high-performance foam products. It also functions as a polymerization initiator in the production of specialty resins and thermoplastic elastomers where precise molecular weight control is needed for manufacturing. In the tire industry, it supports sulfur-free cure systems where low extractables and improved aging properties are critical for long-term durability and performance standards. Supplied as a liquid or absorbed onto an inert carrier as a diluted paste or powder blend, standard commercial concentrations include 90% active content liquid and diluted grades. The Technical grade is the primary market specification, with purity and active oxygen content confirmed by certificate of analysis for every batch produced. Contact us for supply of 2,5-dimethyl-2,5-di(tert-butylperoxy)hexane Request Quote",
+  "physicalProperties": "Melting Point: 80 °C; Boiling Point: 42 °C @ Press: 0.06 Torr; Density: 0.8728 g/cm³ @ Temp: 28 °C; Flash Point: 149 °F; Appearance: colourless to light yellow liquid; Color: Colourless; Form: Oil; Water Solubility: immiscible; Vapor Pressure: 0.002Pa at 20℃; Refractive Index: n 20/D 1.423(lit.); Log P: 7.34 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H227 Combustible liquid H242 Heating may cause a fire H315 Causes skin irritation H319 Causes serious eye irritation H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P264 Wash … thoroughly after handling. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P410 Protect from sunlight. P411 Store at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29012990; UN Number: 3108; ADR Class: 5.2; WGK (Germany): 1",
+  "otherNames": "Varox | Perhexa 3M40 | Trigonox 101-101/45 | Peroxide, 1,1′-(1,1,4,4-tetramethyl-1,4-butanediyl)bis[2-(1,1-dimethylethyl) | Peroxide, (1,1,4,4-tetramethyltetramethylene)bis[tert-butyl | Peroxide, (1,1,4,4-tetramethyl-1,4-butanediyl)bis[(1,1-dimethylethyl)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29012990",
+  "similarProducts": [
+    "cas-3006-86-8",
+    "cas-3851-87-4",
+    "cas-13122-18-4",
+    "cas-80-43-3",
+    "cas-28324-52-9",
+    "cas-110-05-4",
+    "cas-29240-17-3",
+    "cas-80-15-9",
+    "cas-762-12-9",
+    "cas-614-45-9",
+    "cas-107-71-1",
+    "cas-75-91-2",
+    "cas-1931-62-0",
+    "cas-6683-19-8",
+    "cas-80-15-9",
+    "cas-762-12-9",
+    "cas-614-45-9",
+    "cas-107-71-1",
+    "cas-75-91-2",
+    "cas-1931-62-0",
+    "cas-6683-19-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-78-63-7/"
+}

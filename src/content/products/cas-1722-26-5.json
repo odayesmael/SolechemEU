@@ -1,0 +1,64 @@
+{
+  "id": "1527",
+  "name": "Borane-triethylamine",
+  "slug": "cas-1722-26-5",
+  "cas": "1722-26-5",
+  "ec": "217-022-3",
+  "formula": "C6H18BN",
+  "mw": "112.00 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Electronics",
+    "Plastics & Polymers",
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Borane-triethylamine (CAS 1722-26-5 ), also referred to as triethylamine borane, is a stable, handleable boron-hydrogen complex used as a controlled source of borane in synthetic and industrial chemistry. It delivers reducing and borylating reactivity without the hazards associated with free diborane gas, making it a practical reagent for large-scale operations in various chemical sectors. In pharmaceutical synthesis, it functions as a selective reducing agent and hydroboration reagent for producing chiral intermediates and active pharmaceutical ingredients where precise stereochemical control is required. Polymer manufacturers use it as a radical polymerization initiator, particularly for initiating polymerization of acrylates and other vinyl monomers under mild conditions for specialized material production. In electronics, it supports the production of boron-containing specialty materials and surface modification processes relevant to semiconductor fabrication and advanced component manufacturing. Biotechnology applications include its use in nucleotide chemistry and oligonucleotide synthesis, where controlled borane transfer is needed without side reactions from more reactive boron sources. Borane-triethylamine is supplied as a liquid, typically as a neat reagent or in solution with compatible solvents such as THF, ensuring ease of handling during industrial processes. It is available in research quantities through to bulk industrial volumes, with technical and high-purity grades offered to meet pharmaceutical and electronic manufacturing specifications. Contact us for supply of Borane-triethylamine Request Quote",
+  "physicalProperties": "Melting Point: -4 °C; Boiling Point: 97 °C @ Press: 12 Torr; Density: 0.78 g/cm³; Flash Point: 20 °F; Appearance: clear colourless liquid; Color: Colorless to pale yellow; Form: Liquid; Water Solubility: MAY DECOMPOSE; Refractive Index: n 20/D 1.444",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29299090; UN Number: 2924; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Triethylamine borane | WEA26VJ71E | TRIHYDRO(TRIETHYLAMINE)BORON | BORAZANE, N,N,N-TRIETHYL- | TRIETHYLAMINE BORANE (1:1) | Boron, (N,N-diethylethanamine)trihydro-, (T-4)- | N-Triethyl borazane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29299090",
+  "similarProducts": [
+    "cas-97-94-9",
+    "cas-13289-97-9",
+    "cas-121-44-8",
+    "cas-17440-81-2",
+    "cas-1113-78-6",
+    "cas-554-68-7",
+    "cas-10377-81-8",
+    "cas-4856-95-5",
+    "cas-14044-65-6",
+    "cas-110-51-0",
+    "cas-102-82-9",
+    "cas-13774-81-7",
+    "cas-2160-93-2",
+    "cas-13360-63-9",
+    "cas-4856-95-5",
+    "cas-14044-65-6",
+    "cas-110-51-0",
+    "cas-102-82-9",
+    "cas-13774-81-7",
+    "cas-2160-93-2",
+    "cas-13360-63-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1722-26-5/"
+}

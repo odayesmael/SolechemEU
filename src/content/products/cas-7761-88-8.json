@@ -1,0 +1,65 @@
+{
+  "id": "2127",
+  "name": "Silver nitrate",
+  "slug": "cas-7761-88-8",
+  "cas": "7761-88-8",
+  "ec": "231-853-9",
+  "formula": "",
+  "mw": "169.873 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Electronics",
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silver nitrate (CAS 7761-88-8 ), historically known as Lapis infernalis, is an inorganic silver salt produced by dissolving silver in nitric acid. It functions as a primary source of ionic silver across industrial, analytical, and biomedical processes. Its ability to precipitate halides and deliver controlled antimicrobial action drives demand across various sectors. In electronics and printed circuit board manufacturing, it serves as a precursor for conductive silver coatings and mirror deposition processes. Water treatment operations use it to test for chloride contamination and to calibrate analytical methods for halide detection. Pharmaceutical and healthcare manufacturers incorporate it into topical preparations and medical device coatings. These applications are critical where surface antimicrobial performance is required. In printing and photographic chemistry, it remains a key reagent for silver-based imaging systems and specialty ink formulations. The chemical is supplied as a colorless crystalline solid or as an aqueous solution at various concentrations. Standard grades include USP , BP , and Ph. Eur. for pharmaceutical procurement and compliance. Technical and reagent grades are also available for industrial and laboratory buyers. Packaging is typically in amber glass or light-protected containers to prevent photodegradation during storage and transit. Contact us for supply of Silver nitrate Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS03 GHS05 GHS09 GHS08 GHS06 GHS07 Hazard Statements H272 May intensify fire; oxidizer [Danger Oxidizing liquids; Oxidizing solids] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H400 Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard] H410 Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard] H300 Fatal if swallowed [Danger Acute toxicity, oral] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H302 Harmful if swallowed [Warning Acute toxicity, oral] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure]",
+  "tradeRegulatory": "",
+  "otherNames": "silver(I) nitrate | nitric acid silver(I) salt | Lapis infernalis | Argentous nitrate | AgNO3 | Argenti nitras | Lunar caustic | Nitrate d'argent",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS09",
+    "GHS08",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-126-45-4",
+    "cas-7783-90-6",
+    "cas-7785-23-1",
+    "cas-7440-22-4",
+    "cas-506-64-9",
+    "cas-10294-26-5",
+    "cas-14701-21-4",
+    "cas-506-61-6",
+    "cas-3251-23-8",
+    "cas-13138-45-9",
+    "cas-20667-12-3",
+    "cas-7697-37-2",
+    "cas-7790-69-4",
+    "cas-1304-85-4",
+    "cas-506-61-6",
+    "cas-3251-23-8",
+    "cas-13138-45-9",
+    "cas-20667-12-3",
+    "cas-7697-37-2",
+    "cas-7790-69-4",
+    "cas-1304-85-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7761-88-8/"
+}

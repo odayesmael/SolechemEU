@@ -1,0 +1,60 @@
+{
+  "id": "48",
+  "name": "Theophylline",
+  "slug": "cas-58-55-9",
+  "cas": "58-55-9",
+  "ec": "200-385-7",
+  "formula": "C7H8N4O2",
+  "mw": "180.16 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Theophylline (CAS 58-55-9 ) is a methylxanthine compound used as an active pharmaceutical ingredient in respiratory therapeutics and as a reference standard in analytical and formulation development. Procurement is driven primarily by finished dosage form manufacturers and API suppliers operating under tightly controlled regulatory frameworks. In pharmaceutical manufacturing, it is formulated into bronchodilator tablets. It is also used in capsules and extended-release oral dosage forms targeting obstructive airway conditions. It serves as a buffering and pH-modulating agent in select injectable and liquid formulations. Cosmetic formulators incorporate it into topical products targeting cellulite and skin-firming claims. It functions as an active ingredient in caffeine-adjacent compound systems for specialized skincare. Analytical laboratories source it as a certified reference standard for HPLC method development and pharmacokinetic studies. Theophylline is supplied as a white crystalline powder in various forms. Standard grades include USP , BP , and Ph. Eur. , with anhydrous and hydrate specifications distinguished across pharmacopeias. Bulk quantities are available for API-scale manufacturing. Smaller quantities are offered for R&D and quality control applications. This ensures that both large-scale production and laboratory-scale testing requirements are met with high-purity material. Contact us for supply of Theophylline Request Quote",
+  "physicalProperties": "Melting Point: 270 °C; Boiling Point: 312.97°C (rough estimate); Density: 1.51 g/cm³ (crystal); Flash Point: 11 °C; Appearance: white to light yellow crystal powder; Color: white; Form: powder; Water Solubility: 8.3 g/L (20 ºC); Refractive Index: 1.6700 (estimate); Log P: -0.020",
+  "safetyHandling": "Danger GHS08 GHS06 GHS07 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H362 May cause harm to breast-fed children H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P308+P316 Get emergency medical help immediately.",
+  "tradeRegulatory": "HS Code: 29399900; UN Number: 2811; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "1,3-dimethylxanthine | 1,3-dimethyl-7H-purine-2,6-dione | 1,3-dimethyl-2,3,6,7-tetrahydro-1H-purine-2,6-dione | theophylline anhydrous | Theolair | Nuelin | 1H-Purine-2,6-dione, 3,9-dihydro-1,3-dimethyl- | 1H-Purine-2,6-dione, 3,7-dihydro-1,3-dimethyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29399900",
+  "similarProducts": [
+    "cas-58-08-2",
+    "cas-171596-29-5",
+    "cas-54-05-7",
+    "cas-1972-08-3",
+    "cas-103-90-2",
+    "cas-3081-61-6",
+    "cas-146-48-5",
+    "cas-3737-09-5",
+    "cas-58-61-7",
+    "cas-49562-28-9",
+    "cas-158966-92-8",
+    "cas-118-10-5",
+    "cas-1507370-40-2",
+    "cas-85-01-8",
+    "cas-3737-09-5",
+    "cas-58-61-7",
+    "cas-49562-28-9",
+    "cas-158966-92-8",
+    "cas-118-10-5",
+    "cas-1507370-40-2",
+    "cas-85-01-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-58-55-9/"
+}

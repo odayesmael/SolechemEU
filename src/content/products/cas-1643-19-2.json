@@ -1,0 +1,61 @@
+{
+  "id": "1523",
+  "name": "Tetrabutylammonium bromide",
+  "slug": "cas-1643-19-2",
+  "cas": "1643-19-2",
+  "ec": "216-699-2",
+  "formula": "C16H36N.Br",
+  "mw": "322.37 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetrabutylammonium bromide (CAS 1643-19-2 ), commonly sourced under the abbreviation TBAB, is a quaternary ammonium salt used primarily as a phase-transfer catalyst and reagent in chemical synthesis. Its ability to shuttle anions between immiscible phases makes it a practical tool for improving reaction efficiency and yield in multi-step manufacturing processes across various industrial sectors. In pharmaceutical manufacturing, TBAB accelerates nucleophilic substitution and alkylation reactions, reducing processing time and solvent consumption in active pharmaceutical ingredient (API) synthesis. Personal care formulators use it as a conditioning and antimicrobial agent in rinse-off and leave-on products where quaternary ammonium activity is required for the final formulation. It also functions as a catalyst precursor in polymer and specialty chemical production, where controlled ionic transfer between organic and aqueous phases is critical to process consistency. In research and fine chemical synthesis, TBAB supports the preparation of ionic liquids and serves as a co-catalyst in carbon dioxide fixation reactions for sustainable chemistry. Tetrabutylammonium bromide is supplied as a white crystalline powder or granular solid. It is available in technical and high-purity reagent grades for diverse laboratory and industrial uses. Pharmaceutical-grade material meets specifications relevant to API and excipient manufacturing. Packaging typically ranges from kilogram-scale laboratory quantities to bulk industrial lots. Contact us for supply of Tetrabutylammonium bromide Request Quote",
+  "physicalProperties": "Melting Point: 100-102 °C; Boiling Point: 102 °C; Density: 1.039 g/mL at 25 °C; Flash Point: 100°C; Appearance: white crystals or powder; Color: White to slightly cream; Odor: Amine like; Form: Crystalline Powder; Water Solubility: 600 g/L (20 ºC); Vapor Pressure: 0Pa at 25℃; Refractive Index: n20/D 1.422; pH: 3.5 to 7.0 (50 g/L, 25 ℃); Log P: 0.839 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29239000; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "tetra-N-butylammonium bromide | TBAB | N,N,N-tributyl-1-butanaminium bromide | 1-Butanaminium, N,N,N-tributyl-, bromide (1:1) | N,N,N-tributylbutan-1-aminium bromide | VJZ168I98R | 1-Butanaminium, N,N,N-tributyl-, bromide | TBAB SUMQUAT 6065",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29239000",
+  "similarProducts": [
+    "cas-1941-30-6",
+    "cas-1119-97-7",
+    "cas-14937-42-9",
+    "cas-56-93-9",
+    "cas-75-57-0",
+    "cas-4559-86-8",
+    "cas-57-09-0",
+    "cas-107-58-4",
+    "cas-102-82-9",
+    "cas-75-64-9",
+    "cas-540-88-5",
+    "cas-632-79-1",
+    "cas-18162-48-6",
+    "cas-91080-29-4",
+    "cas-107-58-4",
+    "cas-102-82-9",
+    "cas-75-64-9",
+    "cas-540-88-5",
+    "cas-632-79-1",
+    "cas-18162-48-6",
+    "cas-91080-29-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1643-19-2/"
+}

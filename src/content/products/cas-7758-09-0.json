@@ -1,0 +1,62 @@
+{
+  "id": "2116",
+  "name": "Potassium nitrite",
+  "slug": "cas-7758-09-0",
+  "cas": "7758-09-0",
+  "ec": "231-832-4",
+  "formula": "HNO2.K",
+  "mw": "85.104 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Potassium nitrite (CAS 7758-09-0 ), also designated E249 in food regulation, is an inorganic salt used as a preservative and curing agent across food and pharmaceutical applications. It inhibits microbial growth and stabilizes color in processed meat products, functioning as a direct alternative to sodium nitrite where potassium-based formulations are required. In meat processing, E249 is applied to cured and cooked meat products, including ham, bacon, and sausages, to suppress Clostridium botulinum growth and fix the characteristic pink color. Pharmaceutical manufacturers use potassium nitrite as an intermediate or excipient in specific drug formulations where controlled nitrite activity is required for the final product. Food producers targeting reduced-sodium formulations may select it over sodium nitrite to lower overall sodium content in the finished product while maintaining safety standards. It also appears in certain preservation systems for fish and poultry products under regulatory frameworks that permit its use at defined maximum levels for consumer safety. Potassium nitrite is supplied as a white to pale yellow crystalline powder or granules. Food-grade material conforming to E249 specifications is the primary commercial form. Purity levels are typically at 99% or above. Pharmaceutical-grade material meeting USP or BP standards is available for regulated manufacturing applications. Contact us for supply of Potassium nitrite Request Quote",
+  "physicalProperties": "Melting Point: 441 °C (decomp); Boiling Point: explodes at 537°C [HAW93]; Density: 1.915 g/cm³; Appearance: Potassium nitrite is a white to yellowish crystalline solid.; Color: White to slightly yellow; Odor: Odorless; Form: Solid; Water Solubility: Soluble in water, hot alcohol, liquid NH{3}Soluble in water, alcohol and ammonia.; pH: 7-10 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS03 GHS06 GHS09 GHS08 GHS07 Hazard Statements H272 May intensify fire; oxidizer H301 Toxic if swallowed H311 Toxic in contact with skin H315 Causes skin irritation H320 Causes eye irritation H333 May be harmful if inhaled H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H362 May cause harm to breast-fed children H370 Causes damage to organs H371 May cause damage to organs H400 Very toxic to aquatic life H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28341000; UN Number: 1488; ADR Class: 5.1; Packing Group: II; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 2",
+  "otherNames": "Nitrous acid, potassium salt | Potassium nitrite (1:1) | Nitrous acid potassium salt (1:1) | INS NO.249 | 794654G42L | INS-249 | Klear | E249",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS06",
+    "GHS09",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "28341000",
+  "similarProducts": [
+    "cas-7632-00-0",
+    "cas-7757-79-1",
+    "cas-7631-99-4",
+    "cas-7773-03-7",
+    "cas-16731-55-8",
+    "cas-582-25-2",
+    "cas-127-08-2",
+    "cas-7758-05-6",
+    "cas-327-62-8",
+    "cas-24634-61-5",
+    "cas-7681-11-0",
+    "cas-7447-40-7",
+    "cas-7440-09-7",
+    "cas-13780-06-8",
+    "cas-7758-05-6",
+    "cas-327-62-8",
+    "cas-24634-61-5",
+    "cas-7681-11-0",
+    "cas-7447-40-7",
+    "cas-7440-09-7",
+    "cas-13780-06-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7758-09-0/"
+}

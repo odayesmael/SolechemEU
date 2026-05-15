@@ -1,0 +1,59 @@
+{
+  "id": "1518",
+  "name": "Methyl tert-butyl ether",
+  "slug": "cas-1634-04-4",
+  "cas": "1634-04-4",
+  "ec": "216-653-1",
+  "formula": "C5H12O",
+  "mw": "88.15 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl tert-butyl ether (CAS 1634-04-4 ), commonly known as MTBE, is an ether-based solvent used across chemical processing and specialty formulation industries. It offers fast evaporation and strong solvency for a range of organic compounds. This material is a practical choice where clean solvent recovery is a priority. In personal care and cosmetics manufacturing, it functions as a process solvent for extracting and purifying fragrance ingredients and active compounds. Its low residue profile suits applications where solvent carryover into finished formulations must be minimized. In laboratory and analytical settings, it is a standard extraction solvent for isolating non-polar compounds from aqueous matrices. Flavor and fragrance producers also use it as a carrier solvent during intermediate synthesis steps. In these environments, controlled evaporation aids in precise concentration management during the production cycle. The product is supplied as a liquid in bulk quantities, intermediate bulk containers (IBCs), and drums. Technical grade is the most common commercial specification for industrial use and large-scale processing. High-purity grades are available for analytical and specialty synthesis applications. Buyers should confirm purity thresholds and peroxide content specifications when sourcing for sensitive extraction or formulation processes. Contact us for supply of Methyl tert-butyl ether Request Quote",
+  "physicalProperties": "Melting Point: -108.6 °C; Boiling Point: 55.2 °C; Density: 0.7405 g/cm³ @ Temp: 20 °C; Flash Point: -27 °F; Appearance: Methyl-tert-butyl ether is a colorless liquid.; Color: APHA: ≤10; Odor: Characteristic ethereal odor; Form: Powder or Needles; Water Solubility: 51 g/L (20 ºC); Vapor Pressure: 4.05 psi ( 20 °C); Refractive Index: n 20/D 1.369(lit.); Log P: 1.06 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H303 May be harmful if swallowed H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091900; UN Number: 2398; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "tert-C4H9OCH3 | t-Butyl methyl ether | Methyl tertiary-butyl ether | Methyl 1,1-dimethylethyl ether | 2-Methyl-2-methoxypropane | 2-Methoxy-2-methylpropane | MTBE | Methyl t-butyl ether",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29091900",
+  "similarProducts": [
+    "cas-637-92-3",
+    "cas-108-10-1",
+    "cas-112-35-6",
+    "cas-79-27-6",
+    "cas-56539-66-3",
+    "cas-55934-93-5",
+    "cas-23783-42-8",
+    "cas-25498-49-1",
+    "cas-143-22-6",
+    "cas-75-65-0",
+    "cas-115-10-6",
+    "cas-103429-90-9",
+    "cas-79-20-9",
+    "cas-2517-43-3",
+    "cas-25498-49-1",
+    "cas-143-22-6",
+    "cas-75-65-0",
+    "cas-115-10-6",
+    "cas-103429-90-9",
+    "cas-79-20-9",
+    "cas-2517-43-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1634-04-4/"
+}

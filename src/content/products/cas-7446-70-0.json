@@ -1,0 +1,63 @@
+{
+  "id": "2022",
+  "name": "Aluminum chloride",
+  "slug": "cas-7446-70-0",
+  "cas": "7446-70-0",
+  "ec": "231-208-1",
+  "formula": "AlCl3",
+  "mw": "133.34 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Aluminum chloride anhydrous (CAS 7446-70-0 ), also known as aluminum trichloride, is a high-activity Lewis acid catalyst and inorganic salt used across chemical synthesis, water treatment, and industrial processing. Its strong electrophilic character makes it a preferred reagent wherever controlled catalytic activity or coagulation is required at scale. In petrochemical and organic synthesis, it drives Friedel-Crafts alkylation and acylation reactions. This chemical forms the basis for producing dyes, pharmaceuticals, and specialty chemicals. Water treatment facilities use it as a coagulant to aggregate suspended solids and colloidal matter, improving clarification efficiency. It is effective in both municipal and industrial effluent systems. The textile and leather industries apply it as a preservative and mordant, fixing dyes to fiber substrates and extending material durability. In pharmaceutical manufacturing, it functions as a catalyst intermediate in active ingredient synthesis where precise Lewis acid reactivity is required. This ensures high yields and purity in complex chemical reactions. Aluminum chloride anhydrous is supplied as a granular or lumpy crystalline solid, with powder forms available for specific process requirements. Standard commercial grades include technical grade for industrial catalysis. Handling and packaging specifications typically account for its moisture sensitivity. Supply is provided in sealed, inert-atmosphere containers ranging from drum to bulk quantities to maintain product integrity during transport. Contact us for supply of Aluminum chloride Request Quote",
+  "physicalProperties": "Melting Point: 192.6 °C; Boiling Point: 182.7 °C @ Press: 752 Torr; Density: 2.48 g/cm³; Flash Point: 88 °C; Appearance: Aluminum chloride is a noncombustible but highly reactive whitish-gray, yellow, or green powder or liquid. Strong, acidic, irritating odor like hydrochloric acid; Color: Yellow to gray; Odor: Hydrogen chloride odor detectable when exposed to moist air; Form: powder; Water Solubility: reacts; Vapor Pressure: 1 mm Hg ( 100 °C); pH: 2.4 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28273200; UN Number: 3264; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "aluminum trichloride | aluminium chloride | aluminum chloride anhydrous | Aluminium trichloride | AlCl3 | Pearsall | Aluminum chloride (AlCl3)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28273200",
+  "similarProducts": [
+    "cas-7784-13-6",
+    "cas-7784-18-1",
+    "cas-12042-91-0",
+    "cas-11097-68-0",
+    "cas-10043-01-3",
+    "cas-53026-85-0",
+    "cas-139-12-8",
+    "cas-7705-08-0",
+    "cas-13473-90-0",
+    "cas-1327-41-9",
+    "cas-7784-27-2",
+    "cas-21645-51-2",
+    "cas-7784-26-1",
+    "cas-10025-91-9",
+    "cas-7705-08-0",
+    "cas-13473-90-0",
+    "cas-1327-41-9",
+    "cas-7784-27-2",
+    "cas-21645-51-2",
+    "cas-7784-26-1",
+    "cas-10025-91-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7446-70-0/"
+}

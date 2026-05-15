@@ -1,0 +1,65 @@
+{
+  "id": "2123",
+  "name": "Sodium chlorite",
+  "slug": "cas-7758-19-2",
+  "cas": "7758-19-2",
+  "ec": "231-836-6",
+  "formula": "ClHO2.Na",
+  "mw": "90.44 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Food & Nutrition",
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium chlorite (CAS 7758-19-2 ) is an inorganic oxidizing salt used industrially as a precursor to chlorine dioxide generation and as a direct bleaching and antimicrobial agent. It delivers controlled oxidative action across multiple processing environments where conventional chlorine-based treatments are unsuitable or regulated for specific industrial applications. In water treatment, it is activated with acid or chlorine to generate chlorine dioxide on-site for disinfection of municipal and industrial water systems and cooling towers. Textile and pulp processors use it to bleach fibers and paper stock without the fiber degradation associated with hypochlorite-based systems, ensuring high material integrity. In food processing environments, approved dilute solutions are used for surface sanitation of equipment and antimicrobial treatment of fresh produce and poultry processing lines. Leather processing operations apply it during hide preparation to achieve uniform whitening and to control microbial load during critical wet processing stages in the tannery. The product is supplied as a stabilized aqueous solution, most commonly at 25% and 31% concentrations, and as a dry technical-grade solid for various industrial requirements. Food-grade and water treatment grades are available and must meet applicable regulatory standards for the intended application to ensure safety and compliance in the supply chain. Contact us for supply of Sodium chlorite Request Quote",
+  "physicalProperties": "Melting Point: 190 °C (dec.); Boiling Point: ≥100°C/1013hPa; Density: 2.5 g/cm³; Appearance: white flakes; Color: White; Odor: odorless; Form: Powder; Water Solubility: 39 g/100 mL (17 ºC); Vapor Pressure: 0Pa at 25℃; pH: 12-13 (20°C in H2O); Log P: -2.7 at 25℃",
+  "safetyHandling": "Danger GHS03 GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H271 May cause fire or explosion; strong Oxidizer H272 May intensify fire; oxidizer H301 Toxic if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H341 Suspected of causing genetic defects H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P283 Wear fire-resistant/flame-retardant clothing. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P306+P360 IF ON CLOTHING: Rinse immediately contaminated clothing and skin with plenty of water before removing clothes. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P371+P380+P375 Evacuate area.",
+  "tradeRegulatory": "HS Code: 28289000; UN Number: 2813; ADR Class: 4.3; Packing Group: III; Storage Class: 5.1A - Strongly oxidizing hazardous materials; WGK (Germany): 2",
+  "otherNames": "NaO2Cl | NaClO2 | chlorous acid, sodium salt | chlorite sodium | Textone | Alcide LD | Neo Silox D | G538EBV4VF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "28289000",
+  "similarProducts": [
+    "cas-7681-52-9",
+    "cas-7775-09-9",
+    "cas-10049-04-4",
+    "cas-7782-50-5",
+    "cas-2782-57-2",
+    "cas-7647-14-5",
+    "cas-7772-98-7",
+    "cas-10102-17-7",
+    "cas-2893-78-9",
+    "cas-7790-92-3",
+    "cas-10588-01-9",
+    "cas-7789-38-0",
+    "cas-3811-04-9",
+    "cas-7778-54-3",
+    "cas-10102-17-7",
+    "cas-2893-78-9",
+    "cas-7790-92-3",
+    "cas-10588-01-9",
+    "cas-7789-38-0",
+    "cas-3811-04-9",
+    "cas-7778-54-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7758-19-2/"
+}

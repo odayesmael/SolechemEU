@@ -1,0 +1,62 @@
+{
+  "id": "791",
+  "name": "Sodium methoxide",
+  "slug": "cas-124-41-4",
+  "cas": "124-41-4",
+  "ec": "204-699-5",
+  "formula": "CH4O.Na",
+  "mw": "54.024 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium methoxide (CAS 124-41-4 ), also sold as sodium methylate and abbreviated NaOMe, is a strong alkoxide base used industrially as a catalyst and chemical intermediate. Its reactivity with esters, fats, and acidic compounds drives transesterification, condensation, and neutralization processes across multiple manufacturing sectors. In biodiesel production, NaOMe catalyzes the transesterification of vegetable oils and animal fats, converting triglycerides into fatty acid methyl esters at commercial scale. Pharmaceutical manufacturers rely on it to drive condensation and cyclization reactions in the synthesis of active pharmaceutical ingredients. Controlled basicity is critical to yield and purity in these chemical processes. In polymer processing, it initiates anionic polymerization and acts as a catalyst precursor for producing specialty plastics and resins. These applications require high-purity reagents to ensure consistent results. Food-grade sodium methylate is also used in edible oil refining to remove free fatty acids and adjust the composition of fats and shortenings. This process is essential for the production of high-quality food products and industrial ingredients used globally. Sodium methoxide is supplied as a liquid solution, most commonly at 25% and 30% in methanol, and as a dry powder or granules for applications requiring solvent-free handling. This versatility allows manufacturers to choose the best form for their specific operational needs. Standard grades include technical, food-grade, and pharmaceutical-grade material to meet the purity requirements of each sector. Solution concentrations and moisture specifications vary by grade, with pharmaceutical supply typically held to tighter limits for safety and efficacy. Contact us for supply of Sodium methoxide Request Quote",
+  "physicalProperties": "Melting Point: 127 °C (decomp); Boiling Point: ~80 °C (approx) @ Press: 0.4 Torr; Density: 0.45 g/cm³; Flash Point: 11 °C; Appearance: white powder; Color: clarity; Form: Powder; Water Solubility: reacts; Vapor Pressure: 50 mm Hg ( 20 °C); Refractive Index: 1.3700; pH: 11 (20°C, 20g/L in H2O); Log P: -0.77 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H228 Flammable solid H251 Self-heating; may catch fire H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P234 Keep only in original packaging. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 1431; ADR Class: 4.2; Packing Group: II; Storage Class: 4.2 - Pyrophoric and self-heating hazardous materials; WGK (Germany): 1",
+  "otherNames": "Sodium methanolate | Sodium methylate | Methanol, sodium salt | Feldalat NM | Metilato sodico | Methylate de sodium | IG663U5EMC | Methanol, sodium salt (1:1) | NaOMe",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-865-33-8",
+    "cas-141-52-6",
+    "cas-5188-07-8",
+    "cas-865-48-5",
+    "cas-26264-58-4",
+    "cas-112-62-9",
+    "cas-1561-92-8",
+    "cas-16589-43-8",
+    "cas-7646-69-7",
+    "cas-67-56-1",
+    "cas-3926-62-3",
+    "cas-143-19-1",
+    "cas-93348-22-2",
+    "cas-19766-89-3",
+    "cas-16589-43-8",
+    "cas-7646-69-7",
+    "cas-67-56-1",
+    "cas-3926-62-3",
+    "cas-143-19-1",
+    "cas-93348-22-2",
+    "cas-19766-89-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-124-41-4/"
+}

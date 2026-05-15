@@ -1,0 +1,62 @@
+{
+  "id": "2912",
+  "name": "Silver oxide",
+  "slug": "cas-20667-12-3",
+  "cas": "20667-12-3",
+  "ec": "243-957-1",
+  "formula": "Ag2O",
+  "mw": "231.736 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silver oxide (CAS 20667-12-3 ), also known as silver monoxide, is an inorganic silver compound used across pharmaceutical synthesis, electronics manufacturing, and antimicrobial applications. It functions primarily as a mild oxidizing agent and a source of reactive silver ions, enabling controlled chemical transformations and biocidal action without handling complexity. In pharmaceutical and fine chemical synthesis, it serves as a selective oxidant for converting primary alcohols and aldehydes, and as a reagent for preparing silver salts of organic acids. Electronics manufacturers use it as an active cathode material in silver oxide button cells, where its high energy density relative to cell volume suits hearing aids and precision instruments. Antimicrobial formulations in medical devices and wound care products incorporate it to deliver sustained silver ion release for various clinical and industrial applications. In biotechnology, it functions as a catalyst support and precursor in the preparation of silver nanoparticles for research and diagnostic applications in modern laboratories. Silver oxide is supplied as a dark brown to black powder in technical and reagent grades. High-purity grades meeting ACS or pharmaceutical-grade specifications are available. Packaging ranges from small laboratory quantities to multi-kilogram lots, with moisture-controlled packaging standard due to the compound's inherent light sensitivity during storage. Contact us for supply of Silver oxide Request Quote",
+  "physicalProperties": "Melting Point: 300°C (dec.); Density: 7,143 g/cm 3; Appearance: dark brown or black powder; Color: Dark-brown; Form: Powder/Solid; Water Solubility: slightly soluble",
+  "safetyHandling": "Danger GHS03 GHS05 GHS09 GHS07 Hazard Statements H271 May cause fire or explosion; strong Oxidizer H272 May intensify fire; oxidizer H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P283 Wear fire-resistant/flame-retardant clothing. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P306+P360 IF ON CLOTHING: Rinse immediately contaminated clothing and skin with plenty of water before removing clothes. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P371+P380+P375 Evacuate area.",
+  "tradeRegulatory": "HS Code: 28432900; UN Number: 1479; ADR Class: 5.1; Packing Group: II; Storage Class: 5.1A - Strongly oxidizing hazardous materials; WGK (Germany): 2",
+  "otherNames": "silver(I) oxide | silver monoxide | argentous oxide | Disilver oxide | AG2O | RefChem:56012 | Silver oxide (Ag2O) | disilver;oxygen(2-)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "28432900",
+  "similarProducts": [
+    "cas-1306-19-0",
+    "cas-10294-26-5",
+    "cas-1317-38-0",
+    "cas-7440-22-4",
+    "cas-7761-88-8",
+    "cas-7783-90-6",
+    "cas-126-45-4",
+    "cas-1317-39-1",
+    "cas-14701-21-4",
+    "cas-7446-08-4",
+    "cas-7785-23-1",
+    "cas-18282-10-5",
+    "cas-1313-99-1",
+    "cas-506-64-9",
+    "cas-1317-39-1",
+    "cas-14701-21-4",
+    "cas-7446-08-4",
+    "cas-7785-23-1",
+    "cas-18282-10-5",
+    "cas-1313-99-1",
+    "cas-506-64-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-20667-12-3/"
+}

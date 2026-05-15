@@ -1,0 +1,64 @@
+{
+  "id": "102",
+  "name": "Methanol",
+  "slug": "cas-67-56-1",
+  "cas": "67-56-1",
+  "ec": "200-659-6",
+  "formula": "CH4O",
+  "mw": "32.042 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Automotive",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methanol (CAS 67-56-1 ), also known as wood alcohol or wood naphtha, is a primary alcohol produced at industrial scale and used as a solvent, chemical feedstock, and fuel component across multiple sectors. Its role spans from direct process solvent applications to serving as the foundational building block for downstream chemical synthesis. In the petrochemical and energy sectors, it is blended into fuel formulations. Methanol is used as a feedstock for producing dimethyl ether and other fuel additives. Pharmaceutical manufacturers rely on it as a process solvent for API synthesis, extraction, and chromatography-scale purification. In plastics and polymers, it drives the production of formaldehyde, acetic acid, and methyl methacrylate. These intermediates feed directly into resin and polymer manufacturing for various industrial applications. Printing and packaging operations use methanol-based solvent systems in ink formulations where fast evaporation and resin compatibility are process requirements. This ensures high efficiency in high-speed production lines. Methanol is supplied as a clear liquid in bulk tanker, IBC, and drum formats. Standard commercial grades include technical grade and refined grades meeting ASTM D1152 specifications for industrial use. Pharmaceutical-grade material is available to USP and BP standards for regulated manufacturing environments. These quality benchmarks ensure the material is suitable for sensitive chemical processes. Contact us for supply of Methanol Request Quote",
+  "physicalProperties": "Melting Point: -97.8 °C; Boiling Point: 64.7 °C @ Press: 760 Torr; Density: 0.8100 g/cm³ @ Temp: 0 °C; Flash Point: 52 °F; Appearance: Methyl alcohol is a colorless, volatile liquid with a mild odor.; Color: <10(APHA); Odor: Faint alcohol odor detectable at 4 to 6000 ppm (mean = 160 ppm); Form: Liquid Free From Particulates; Water Solubility: miscible; Vapor Pressure: 410 mm Hg ( 50 °C); Refractive Index: n 20/D 1.329(lit.); pH: 6.8 (20°C in H2O); Log P: -0.770",
+  "safetyHandling": "Danger GHS02 GHS06 GHS08 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor [Danger Flammable liquids] H301 Toxic if swallowed [Danger Acute toxicity, oral] H311 Toxic in contact with skin [Danger Acute toxicity, dermal] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H302 Harmful if swallowed [Warning Acute toxicity, oral] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H303 May be harmful if swallowed [Warning Acute toxicity, oral] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+  "tradeRegulatory": "HS Code: 29051100; UN Number: 1170; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "wood spirits | wood spirit | wood naphtha | wood alcohol | spirit of wood | pyroxylic spirit | pyroligneous spirit | Pyro alcohol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29051100",
+  "similarProducts": [
+    "cas-109-87-5",
+    "cas-463-57-0",
+    "cas-64-17-5",
+    "cas-2517-43-3",
+    "cas-75-52-5",
+    "cas-67-64-1",
+    "cas-74-89-5",
+    "cas-108-87-2",
+    "cas-56539-66-3",
+    "cas-74-82-8",
+    "cas-80-62-6",
+    "cas-79-20-9",
+    "cas-107-31-3",
+    "cas-78-93-3",
+    "cas-108-87-2",
+    "cas-56539-66-3",
+    "cas-74-82-8",
+    "cas-80-62-6",
+    "cas-79-20-9",
+    "cas-107-31-3",
+    "cas-78-93-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-67-56-1/"
+}

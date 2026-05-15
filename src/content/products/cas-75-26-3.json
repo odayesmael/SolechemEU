@@ -1,0 +1,61 @@
+{
+  "id": "150",
+  "name": "2-bromopropane",
+  "slug": "cas-75-26-3",
+  "cas": "75-26-3",
+  "ec": "200-855-1",
+  "formula": "C3H7Br",
+  "mw": "122.99 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Bromopropane (CAS 75-26-3 ), commercially known as isopropyl bromide, is an alkyl halide used as a reactive intermediate in organic synthesis and as a specialty solvent in industrial processing. It functions primarily as an alkylating agent, introducing isopropyl groups into target molecules across pharmaceutical, agrochemical, and polymer manufacturing workflows. In pharmaceutical synthesis, it serves as a key building block. This chemical is essential for producing active pharmaceutical ingredients and intermediates where selective isopropylation is required. Agrochemical manufacturers use it in the synthesis of herbicide and pesticide compounds. Controlled alkylation determines the efficacy profile of the final active ingredient in these agricultural applications. In plastics and polymer chemistry, it contributes to flame retardant formulations and specialty polymer modifications. Textile and leather processing operations use isopropyl bromide as a solvent and chemical intermediate in dyeing auxiliaries and pigment-related formulations. It is supplied as a clear liquid, typically available in technical and reagent grades. These grades meet the purity requirements of industrial and synthesis-scale buyers. Standard packaging includes drums and intermediate bulk containers, with high-purity grades available for pharmaceutical intermediate applications. Buyers should confirm purity specifications and stabilizer content when sourcing for sensitive synthesis processes. This ensures the material meets the specific demands of high-precision chemical manufacturing and laboratory research. Contact us for supply of 2-bromopropane Request Quote",
+  "physicalProperties": "Melting Point: -89.0 °C; Boiling Point: 59.38 °C @ Press: 760 Torr; Density: 1.31 g/cm³ @ Temp: 20 °C; Flash Point: 67 °F; Appearance: colourless liquid; Color: Clear colorless to very light brown; Form: Liquid; Water Solubility: 0.3 g/100 mL; Vapor Pressure: 224 hPa (20 °C); Refractive Index: n 20/D 1.425(lit.)",
+  "safetyHandling": "Danger GHS02 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H316 Causes mild skin irritation H320 Causes eye irritation H350 May cause cancer H360 May damage fertility or the unborn child H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033036; UN Number: 2344; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "ISOPROPYL BROMIDE | Propane, 2-bromo- | sec-Propyl bromide | R651XOV97Z",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS08"
+  ],
+  "hsCode": "29033036",
+  "similarProducts": [
+    "cas-106-94-5",
+    "cas-109-70-6",
+    "cas-109-65-9",
+    "cas-111-25-1",
+    "cas-1569-01-3",
+    "cas-71-23-8",
+    "cas-74-96-4",
+    "cas-96-18-4",
+    "cas-77-76-9",
+    "cas-1003-09-4",
+    "cas-2493-02-9",
+    "cas-106-95-6",
+    "cas-38521-51-6",
+    "cas-75-25-2",
+    "cas-96-18-4",
+    "cas-77-76-9",
+    "cas-1003-09-4",
+    "cas-2493-02-9",
+    "cas-106-95-6",
+    "cas-38521-51-6",
+    "cas-75-25-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-26-3/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2775",
+  "name": "Zinc acrylate",
+  "slug": "cas-14643-87-9",
+  "cas": "14643-87-9",
+  "ec": "238-692-3",
+  "formula": "C3H4O2.1/2Zn",
+  "mw": "207.5 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Plastics & Polymers",
+    "Rubber & Tire",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Zinc acrylate ( CAS 14643-87-9 ), also known as zinc diacrylate or ZDA, is a bifunctional monomer used as a crosslinking agent in polymer and elastomer systems. It introduces ionic and covalent crosslinks into polymer networks, improving mechanical strength, resilience, and heat resistance in finished materials for industrial use. In rubber compounding, ZDA is incorporated into peroxide-cured elastomers, particularly nitrile and EPDM rubbers, to significantly increase tensile strength and hardness. This process occurs without requiring additional fillers. Golf ball cores represent one of the highest-volume end uses, where ZDA crosslinks polybutadiene to deliver energy return. Coatings and UV-curable systems use ZDA as a reactive diluent and crosslinker, improving film hardness and adhesion to metal or plastic substrates in various settings. In adhesive and sealant formulations, it functions as a rheology modifier and network-forming agent, contributing to cohesive strength in demanding structural applications. Zinc acrylate is supplied as a white powder. It is available in technical and polymer grades, with particle size and purity specifications varying by application requirements. Finer grades are preferred for rubber compounding to ensure uniform dispersion. Stabilized grades with inhibitor packages are offered for storage stability during transport. Contact us for supply of Zinc acrylate Request Quote",
+  "physicalProperties": "Melting Point: >250 °C; Density: 1.600 g/cm³; Form: Powder; Water Solubility: Soluble completely in acrylic acid and water (as a salt). Insoluble as a polymer.; Vapor Pressure: 0Pa at 20℃; Log P: 0.46 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS09 Hazard Statements H302 H302 H311 H311 H314 H314 H315 H315 H317 H317 H318 H318 H335 H335 H400 H400 H410 H410 Precautionary Statements P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P316 P316 P317 P317 P319 P319 P321 P321 P330 P330 P363 P363 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P333+P317 P333+P317 P361+P364 P361+P364 P362+P364 P362+P364 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29161100; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "2-Propenoic acid, zinc salt | 4720M0PK19 | RefChem:195987 | 2-Propenoic acid, zinc salt (2:1) | Acrylic acid, zinc salt | ZDA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29161100",
+  "similarProducts": [
+    "cas-14024-63-6",
+    "cas-136-53-8",
+    "cas-136-23-2",
+    "cas-14726-36-4",
+    "cas-5970-45-6",
+    "cas-14324-55-1",
+    "cas-85203-81-2",
+    "cas-2873-97-4",
+    "cas-1314-13-2",
+    "cas-27253-29-8",
+    "cas-57472-68-1",
+    "cas-557-34-6",
+    "cas-4074-88-8",
+    "cas-2452-01-9",
+    "cas-2873-97-4",
+    "cas-1314-13-2",
+    "cas-27253-29-8",
+    "cas-57472-68-1",
+    "cas-557-34-6",
+    "cas-4074-88-8",
+    "cas-2452-01-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-14643-87-9/"
+}

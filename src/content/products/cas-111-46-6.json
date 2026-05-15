@@ -1,0 +1,65 @@
+{
+  "id": "622",
+  "name": "Diethylene glycol",
+  "slug": "cas-111-46-6",
+  "cas": "111-46-6",
+  "ec": "203-872-2",
+  "formula": "C4H10O3",
+  "mw": "106.12 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Building & Construction",
+    "Oil, Gas & Energy",
+    "Textile, Leather & Paper",
+    "Printing & Packaging",
+    "Automotive",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethylene glycol (CAS 111-46-6 ), commonly sourced as DEG, is a hygroscopic diol used across industrial manufacturing as a solvent, plasticizer, and chemical intermediate. Its moderate volatility and water miscibility make it a practical carrier and processing aid in formulations where slower evaporation is commercially advantageous for the manufacturer. In polyester resin and polyurethane production, DEG functions as a monomer or co-monomer, directly influencing the flexibility and softness of the finished polymer during the synthesis process. Natural gas processors use it as a dehydration agent to remove water vapor from gas streams before pipeline transmission. Textile and leather finishing operations apply DEG as a softening agent. These applications improve the hand-feel and workability of treated materials. Printing ink and packaging adhesive formulators incorporate it as a solvent and humectant to control viscosity. This prevents premature drying during processing. Diethylene glycol is supplied as a clear, colorless liquid in bulk quantities, including ISO tank, flexi-tank, and drum packaging options. Technical grade is the standard commercial specification, meeting purity requirements suitable for industrial polymer, solvent, and gas processing applications across various global markets. High-purity grades are available for specialty applications where tighter quality parameters are required by the end formulation to ensure consistent performance and chemical stability. Contact us for supply of Diethylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -6.5 °C; Boiling Point: 244-245 °C; Density: 1.18 g/cm³ @ Temp: 20 °C; Flash Point: 143 °C; Appearance: clear oily liquid; Color: colorless; Odor: Practically odorless.; Form: Oily Liquid; Water Solubility: SOLUBLE; Vapor Pressure: 0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.447(lit.); pH: 5.5-7.0 (25℃, 50mg/mL in H2O); Log P: -1.98 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed [Warning Acute toxicity, oral] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 29094100; WGK (Germany): 1",
+  "otherNames": "DEG | dihydroxy diethyl ether | diglycol | bis(beta-hydroxyethyl) ether | bis(2-hydroxyethyl) ether | beta,beta'-dihydroxydiethyl ether | 2,2'-oxybisethanol | 2,2'-dihydroxydiethyl ether",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29094100",
+  "similarProducts": [
+    "cas-112-36-7",
+    "cas-112-27-6",
+    "cas-1002-67-1",
+    "cas-107-21-1",
+    "cas-111-90-0",
+    "cas-111-55-7",
+    "cas-120-55-8",
+    "cas-112-60-7",
+    "cas-112-34-5",
+    "cas-4074-88-8",
+    "cas-111-77-3",
+    "cas-112-73-2",
+    "cas-104-68-7",
+    "cas-111-96-6",
+    "cas-112-60-7",
+    "cas-112-34-5",
+    "cas-4074-88-8",
+    "cas-111-77-3",
+    "cas-112-73-2",
+    "cas-104-68-7",
+    "cas-111-96-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-46-6/"
+}

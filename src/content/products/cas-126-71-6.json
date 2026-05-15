@@ -1,0 +1,61 @@
+{
+  "id": "803",
+  "name": "Triisobutyl phosphate",
+  "slug": "cas-126-71-6",
+  "cas": "126-71-6",
+  "ec": "204-798-3",
+  "formula": "C12H27O4P",
+  "mw": "266.31 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triisobutyl phosphate (CAS 126-71-6 ), also known as TIBP, is an organophosphate ester used across industrial and specialty chemical applications as a solvent, plasticizer, and defoamer. Its controlled surface activity makes it effective at suppressing foam in process systems, while its solvency profile supports formulation work in coatings and polymer systems. In coatings and adhesives, TIBP functions as a coalescing solvent and plasticizer, improving film formation and flexibility in finished products for various industrial applications. Textile and paper processing operations use it as a defoaming agent in aqueous systems where foam buildup disrupts throughput and product quality during the manufacturing cycle. Printing ink formulators incorporate TIBP as a solvent carrier to control viscosity and pigment dispersion, ensuring consistent application and color quality in high-speed printing. In polymer and elastomer compounding, it acts as a secondary plasticizer and flame-retardant additive, contributing to both processability and compliance with fire performance requirements. Triisobutyl phosphate is supplied as a clear liquid in standard drum and IBC packaging. Technical grade is the primary commercial form, meeting purity specifications for industrial use. Specialty grades aligned to coatings or polymer end-use requirements may be available depending on supplier qualification standards and specific customer technical needs. Contact us for supply of Triisobutyl phosphate Request Quote",
+  "physicalProperties": "Melting Point: <-60°C; Boiling Point: 90-92 °C @ Press: 0.75 Torr; Density: 0.9661 g/cm³ @ Temp: 20 °C; Flash Point: 150 °C; Color: Colourless; Form: Oil; Water Solubility: 264mg/L at 25℃; Vapor Pressure: 0.002 hPa (20 °C); Refractive Index: n 20/D 1.420; Log P: 3.72 at 25℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H317 May cause an allergic skin reaction H412 Harmful to aquatic life with long lasting effects Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P501 Dispose of contents/container in accordance with local regulations. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse.",
+  "tradeRegulatory": "HS Code: 2919 90 00; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "TiBP | Phosphoric acid, tris(2-methylpropyl) ester | Phosphoric acid, triisobutyl ester | 6MKE1AR3GB | RefChem:190784 | Isobutyl phosphate ((C4H9O)3PO)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "2919 90 00",
+  "similarProducts": [
+    "cas-126-73-8",
+    "cas-78-51-3",
+    "cas-126-72-7",
+    "cas-68937-40-6",
+    "cas-56803-37-3",
+    "cas-78-40-0",
+    "cas-115-86-6",
+    "cas-13674-84-5",
+    "cas-101-02-0",
+    "cas-28471-16-1",
+    "cas-68937-41-7",
+    "cas-78-42-2",
+    "cas-1330-78-5",
+    "cas-77-94-1",
+    "cas-13674-84-5",
+    "cas-101-02-0",
+    "cas-28471-16-1",
+    "cas-68937-41-7",
+    "cas-78-42-2",
+    "cas-1330-78-5",
+    "cas-77-94-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-126-71-6/"
+}

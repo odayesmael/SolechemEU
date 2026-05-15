@@ -1,0 +1,59 @@
+{
+  "id": "158",
+  "name": "Carbon tetrafluoride",
+  "slug": "cas-75-73-0",
+  "cas": "75-73-0",
+  "ec": "200-896-5",
+  "formula": "CF4",
+  "mw": "88.004 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Aerospace & Defense",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Carbon tetrafluoride (CAS 75-73-0 ), also supplied under the designations PFC-14 and Freon 14, is a fluorinated gas used primarily as a plasma etching and cleaning agent in semiconductor and electronics manufacturing. Its chemical stability under extreme conditions makes it a process gas of choice where precision and consistency are non-negotiable. In semiconductor fabrication, it functions as a plasma etch gas for silicon dioxide and silicon nitride layers. This gas enables precise patterning in integrated circuit production. Electronics manufacturers also use it for chamber cleaning in CVD equipment, removing deposited residues without damaging sensitive components. In aerospace and defense applications, it serves as a reference gas and dielectric medium in specialized testing and calibration environments. Cryogenic and atmospheric research programs source it as a tracer gas. This is due to its long atmospheric residence time and measurable background concentration. The product is supplied as a compressed gas in high-pressure cylinders and tube trailers, with purity grades ranging from industrial to high-purity. Electronic-grade specifications, typically 99.9% purity and above, are standard requirements for semiconductor process applications. Specialty gas suppliers offer certified reference mixtures for calibration and analytical use. Contact us for supply of Carbon tetrafluoride Request Quote",
+  "physicalProperties": "Melting Point: -183.6 °C; Boiling Point: -127.8 °C; Density: 3.034 g/cm³ @ Temp: 25 °C; Appearance: Tetrafluoromethane is a colorless, odorless gas.; Water Solubility: mL/100mL in H2O: 0.595 (10°C), 0.490 (20°C), 0.366 (40°C) [LAN05]; Refractive Index: 1.1510",
+  "safetyHandling": "Warning GHS04 GHS07 Hazard Statements H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+  "tradeRegulatory": "HS Code: 2903392810; UN Number: 1982; ADR Class: 2.2; WGK (Germany): 3",
+  "otherNames": "PFC-14 | Halon 14 | Freon 14 | CF4 | Methane, tetrafluoro- | Refrigerant 14 | Halocarbon 14 | Arcton 0",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS07"
+  ],
+  "hsCode": "2903392810",
+  "similarProducts": [
+    "cas-407-70-5",
+    "cas-7782-41-4",
+    "cas-811-97-2",
+    "cas-75-15-0",
+    "cas-98-56-6",
+    "cas-7664-39-3",
+    "cas-75-71-8",
+    "cas-124-38-9",
+    "cas-7789-75-5",
+    "cas-127-18-4",
+    "cas-75-38-7",
+    "cas-756-13-8",
+    "cas-7789-23-3",
+    "cas-7440-59-7",
+    "cas-124-38-9",
+    "cas-7789-75-5",
+    "cas-127-18-4",
+    "cas-75-38-7",
+    "cas-756-13-8",
+    "cas-7789-23-3",
+    "cas-7440-59-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-73-0/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "425",
+  "name": "N,N-Dibutylaminopropylamine",
+  "slug": "cas-102-83-0",
+  "cas": "102-83-0",
+  "ec": "203-059-2",
+  "formula": "C11H26N2",
+  "mw": "186.34 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N,N-Dibutylaminopropylamine (CAS 102-83-0 ), also referred to as Dibutylaminopropylamine, is a difunctional aliphatic amine used across industrial formulation and manufacturing. It combines a tertiary and primary amine group in a single molecule, enabling it to act simultaneously as a catalyst, curing agent, and corrosion inhibitor depending on the application. In lubricant and metalworking fluid formulations, it functions as a corrosion inhibitor and pH buffer, protecting ferrous and non-ferrous metal surfaces during machining and storage. Epoxy and polyurethane formulators use it as a curing agent and cross-linker, where its dual amine functionality allows controlled network formation in coatings and adhesives. In sealant and elastomer systems, it supports cure acceleration and adhesion promotion to metal substrates. Polymer producers also incorporate it as a reactive intermediate or catalyst. N,N-Dibutylaminopropylamine is supplied as a liquid in standard drum and IBC quantities. Technical grade is the primary commercial form available from amine manufacturers and distributors. Purity specifications typically range from 98% upward, with documentation including COA and specification sheets aligned to industrial buyer requirements and quality standards. Contact us for supply of N,N-Dibutylaminopropylamine Request Quote",
+  "physicalProperties": "Melting Point: -50 °C; Boiling Point: 119-120 °C @ Press: 19 Torr; Density: 0.827 g/mL at 25 °C(lit.); Flash Point: 219 °F; Appearance: Clear colourless liquid; Color: Colorless to Light yellow; Form: clear liquid; Water Solubility: 10 G/L (20 ºC); Refractive Index: n 20/D 1.4463(lit.)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07",
+  "tradeRegulatory": "HS Code: 2921.29.0055; UN Number: 2922; ADR Class: 8; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "N1,N1-Dibutyl-1,3-propanediamine | Dibutylaminopropylamine | N',n'-dibutylpropane-1,3-diamine | 3-(dibutylamino)propylamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "2921.29.0055",
+  "similarProducts": [
+    "cas-111-92-2",
+    "cas-105-83-9",
+    "cas-67151-63-7",
+    "cas-103-49-1",
+    "cas-102-81-8",
+    "cas-142-84-7",
+    "cas-927-62-8",
+    "cas-102-82-9",
+    "cas-63469-23-8",
+    "cas-2372-82-9",
+    "cas-10563-29-8",
+    "cas-103-83-3",
+    "cas-28454-70-8",
+    "cas-111-75-1",
+    "cas-102-82-9",
+    "cas-63469-23-8",
+    "cas-2372-82-9",
+    "cas-10563-29-8",
+    "cas-103-83-3",
+    "cas-28454-70-8",
+    "cas-111-75-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-102-83-0/"
+}

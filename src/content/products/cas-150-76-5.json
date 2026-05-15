@@ -1,0 +1,62 @@
+{
+  "id": "953",
+  "name": "4-methoxyphenol",
+  "slug": "cas-150-76-5",
+  "cas": "150-76-5",
+  "ec": "205-769-8",
+  "formula": "C7H8O2",
+  "mw": "124.14 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Methoxyphenol (CAS 150-76-5 ), also known commercially as mequinol and 4-hydroxyanisole, functions as a polymerization inhibitor and antioxidant in industrial chemical processing. It prevents premature crosslinking and radical chain reactions in reactive monomer systems, protecting product integrity during storage and transport across various supply chains. In plastics and polymer manufacturing, it stabilizes vinyl and acrylic monomers against unwanted polymerization during bulk storage. Coatings and adhesive formulators use it to extend shelf life. It is particularly effective in UV-curable and reactive resin systems where premature gelation is a critical quality risk. As a pharmaceutical intermediate, mequinol is a direct active ingredient. It is used in topical depigmentation formulations and as a building block for synthesizing complex API structures. In personal care, it is incorporated into skin-lightening products. Regulatory-grade purity is a procurement requirement for these applications. 4-Methoxyphenol is supplied as a white to off-white crystalline solid or flake for industrial use. Technical grade is standard for industrial inhibitor applications, while pharmaceutical and cosmetic buyers typically source material meeting BP or USP specifications. Packaging ranges from kilogram-scale bags to bulk drum quantities depending on application volume. This ensures flexibility for both small-scale labs and large manufacturing plants. Contact us for supply of 4-methoxyphenol Request Quote",
+  "physicalProperties": "Melting Point: 57 °C; Boiling Point: 243 °C @ Press: 760 Torr; Density: 1.55 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: 4-Methoxyphenol is a colorless to white, waxy solid with an odor of caramel and phenol. A combustible solid.; Color: Clear colorless to pale yellow; Odor: at 1.00?%?in?dipropylene glycol. phenolic; Form: Liquid; Water Solubility: 40 g/L (25 ºC); Vapor Pressure: <0.01 mm Hg ( 20 °C); Refractive Index: 1.5286 (estimate); pH: 5.1 (30g/l, H2O, 20℃); Log P: 1.3 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed [Warning Acute toxicity, oral] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H351 Suspected of causing cancer [Warning Carcinogenicity] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H401 Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard] H315 Causes skin irritation [Warning Skin corrosion/irritation] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]",
+  "tradeRegulatory": "HS Code: 29095090; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "4-hydroxyanisole | 1-Hydroxy-4-methoxybenzene | Mequinol | p-hydroxyanisole | p-Guaiacol | Leucodine B | Leucobasal®",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29095090",
+  "similarProducts": [
+    "cas-95-71-6",
+    "cas-92-69-3",
+    "cas-99-93-4",
+    "cas-2401-24-3",
+    "cas-123-31-9",
+    "cas-591-27-5",
+    "cas-134-84-9",
+    "cas-109089-77-2",
+    "cas-955359-35-0",
+    "cas-106-51-4",
+    "cas-108-95-2",
+    "cas-140-66-9",
+    "cas-1806-26-4",
+    "cas-118-82-1",
+    "cas-109089-77-2",
+    "cas-955359-35-0",
+    "cas-106-51-4",
+    "cas-108-95-2",
+    "cas-140-66-9",
+    "cas-1806-26-4",
+    "cas-118-82-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-150-76-5/"
+}

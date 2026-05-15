@@ -1,0 +1,64 @@
+{
+  "id": "2019",
+  "name": "Sulfur dioxide",
+  "slug": "cas-7446-09-5",
+  "cas": "7446-09-5",
+  "ec": "231-195-2",
+  "formula": "O2S",
+  "mw": "64.07 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Food & Nutrition",
+    "Pulp & Paper",
+    "Mining & Metals",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sulfur dioxide (CAS 7446-09-5 ), commonly referenced as SO2 or E220 , is an inorganic gas used across food processing, industrial manufacturing, and water treatment. It serves as a preservative, antioxidant, and reducing agent. Its dual role in microbial control and oxidation prevention makes it a procurement staple across multiple regulated industries. In food and beverage production, SO2 is applied to wines, dried fruits, and fruit juices. This chemical is essential to inhibit microbial growth and prevent browning during storage and processing. Pulp and paper manufacturers use it to bleach cellulose fibers and neutralize excess chlorine in effluent streams. In mining and hydrometallurgy, sulfur dioxide reduces hexavalent chromium and precipitates metals from process liquors during ore refining. Water treatment facilities apply it for dechlorination of potable and wastewater streams. Sulfur dioxide is supplied as a liquefied gas in pressurized cylinders and ISO tank containers. Bulk tonnage is available for high-volume industrial users requiring consistent supply chains for large-scale operations. Food-grade material meeting E220 specifications is available for regulated applications in the food and beverage sector. Technical-grade supply is standard for pulp, paper, mining, and water treatment end uses. Contact us for supply of Sulfur dioxide Request Quote",
+  "physicalProperties": "Melting Point: -75.5 °C; Boiling Point: -10.05 °C; Density: 2.811 x 10<sup>-3</sup> g/cm³; Appearance: Sulfur dioxide is a noncombustible colorless gas at ambient temperatures with a characteristic, strong, suffocating odor. The Odor Threshold is 1.1ppm. Shipped as a liquefied compressed gas.; Color: colorless; Odor: Pungent odor detectable at 0.3 to 5 ppm; Form: colorless gas; Water Solubility: %H2O: 17.7 (0°C), 11.9 (15°C), 8.5 (25°C), 6.4 (35°C); % other solvents: 25, alcohol; 32, methanol [MER06]; Vapor Pressure: 1779 mm Hg ( 21 °C)",
+  "safetyHandling": "Danger GHS04 GHS05 GHS06 GHS08 GHS07 Hazard Statements H280 Contains gas under pressure; may explode if heated H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H319 Causes serious eye irritation H331 Toxic if inhaled H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 2037; ADR Class: 2.3; Storage Class: 2A - Gases; WGK (Germany): 1",
+  "otherNames": "Sulphur dioxide , sulfur dioxide | sulphur dioxide | sulfurous oxide | sulfurous anhydride | sulfurous acid anhydride | sulfur oxide | R-764 | SO2 | E220",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7757-83-7",
+    "cas-7631-90-5",
+    "cas-10257-55-3",
+    "cas-124-38-9",
+    "cas-13780-03-5",
+    "cas-16731-55-8",
+    "cas-7681-57-4",
+    "cas-7773-03-7",
+    "cas-7791-25-5",
+    "cas-10196-04-0",
+    "cas-7664-93-9",
+    "cas-7704-34-9",
+    "cas-14808-79-8",
+    "cas-7446-08-4",
+    "cas-7773-03-7",
+    "cas-7791-25-5",
+    "cas-10196-04-0",
+    "cas-7664-93-9",
+    "cas-7704-34-9",
+    "cas-14808-79-8",
+    "cas-7446-08-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7446-09-5/"
+}

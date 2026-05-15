@@ -1,0 +1,62 @@
+{
+  "id": "160",
+  "name": "Trimethylamine",
+  "slug": "cas-75-50-3",
+  "cas": "75-50-3",
+  "ec": "200-875-0",
+  "formula": "C3H9N",
+  "mw": "59.11 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethylamine (CAS 75-50-3 ), commonly abbreviated as TMA, is a tertiary amine supplied primarily in anhydrous form for industrial and specialty chemical applications. It functions as a key intermediate and reactant across pharmaceutical synthesis and food-grade flavoring. Its strong fishy odor profile is both a target compound and a process marker in various manufacturing sectors. FEMA 3241 status confirms its recognized standing as a flavoring substance in regulated food applications. In food and flavor manufacturing, TMA is used as a reference and active flavoring agent in seafood-type flavor systems. In these environments, its characteristic odor must be precisely controlled or replicated for consistency. Pharmaceutical producers use it as a building block in the synthesis of choline salts and quaternary ammonium compounds. Both of these appear frequently in finished drug formulations and nutritional supplements. It also functions as a catalyst and intermediate in the production of ion exchange resins and specialty chemicals. In preservation-related applications, TMA derivatives contribute to biocidal formulations targeting microbial control. Trimethylamine is supplied as a compressed anhydrous gas or as aqueous solution, typically at concentrations of 30 to 45 percent in water. Food-grade and technical-grade designations are the most commonly available specifications. Packaging ranges from pressurized cylinders for anhydrous supply to drum quantities for aqueous grades. This ensures safe handling and transport according to the specific requirements of the industrial or laboratory facility. Contact us for supply of Trimethylamine Request Quote",
+  "physicalProperties": "Melting Point: -117.1 °C; Boiling Point: 2.8 °C; Density: 0.627 g/cm³ @ Temp: 25 °C; Flash Point: 38 °F; Appearance: Trimethylamine is compressed gas or liquid. Flammable gas. Shipped as a compressed gas, it may be present in an aqueous solution. It has a strong, fishy, ammoniacal odor. The Odor Threshold is 0.00011-0.87 ppm. Warning: The Odor Threshold range is so broad that odor alone should not be used as a warning of potentially hazardous exposures.; Color: Colorless; Odor: smelling like rotting fish, rotting eggs, garbage, or urine.; Form: Liquid; Water Solubility: Soluble In Water, 8.9e+005 mg/L.; Vapor Pressure: 430 mm Hg ( 25 °C); Refractive Index: n 20/D 1.357; pH: a strong base (pH 9.8); Log P: 0.06",
+  "safetyHandling": "Danger GHS02 GHS04 GHS05 GHS07 GHS08 Hazard Statements H220 Extremely flammable gas H224 Extremely flammable liquid and vapor H280 Contains gas under pressure; may explode if heated H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P410+P403 Protect from sunlight. Store in a well-ventilated place. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211100; UN Number: 2924; ADR Class: 3; Packing Group: II; Storage Class: 2A - Gases; WGK (Germany): 1",
+  "otherNames": "trimethylamine anhydrous | NMe3 | N(CH3)3 | N,N,N-trimethylamine | N,N-dimethyl-methanamine | N-trimethylamine | TMA | Methanamine, N,N-dimethyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29211100",
+  "similarProducts": [
+    "cas-593-81-7",
+    "cas-124-40-3",
+    "cas-552-30-7",
+    "cas-102-69-2",
+    "cas-74-89-5",
+    "cas-25513-64-8",
+    "cas-1445-45-0",
+    "cas-2212-32-0",
+    "cas-75-85-4",
+    "cas-624-78-2",
+    "cas-75-04-7",
+    "cas-2459-10-1",
+    "cas-1017-56-7",
+    "cas-121-44-8",
+    "cas-2212-32-0",
+    "cas-75-85-4",
+    "cas-624-78-2",
+    "cas-75-04-7",
+    "cas-2459-10-1",
+    "cas-1017-56-7",
+    "cas-121-44-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-50-3/"
+}

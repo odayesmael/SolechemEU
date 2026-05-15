@@ -1,0 +1,60 @@
+{
+  "id": "234",
+  "name": "1,1,3,3-Tetramethylguanidine",
+  "slug": "cas-80-70-6",
+  "cas": "80-70-6",
+  "ec": "201-302-7",
+  "formula": "C5H13N3",
+  "mw": "115.18 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,1,3,3-Tetramethylguanidine (CAS 80-70-6 ), commonly known as TMG, is a strong, non-nucleophilic organic superbase used as a catalyst and proton acceptor across polymer chemistry and specialty synthesis. Its high basicity without nucleophilic interference makes it a preferred choice where conventional amine catalysts cause unwanted side reactions. In polyurethane and epoxy formulations, TMG accelerates cure by activating isocyanate or epoxide crosslinking reactions. This allows formulators to tune gel times and processing windows effectively. Adhesive and sealant manufacturers use it to promote room-temperature curing in silicone and polyurethane systems for better performance. In coatings, it functions as a neutralizing agent for acid-functional resins, improving dispersion stability and film formation. It achieves this without introducing nucleophilic contamination to the final product. Polymer producers also employ TMG as a base catalyst in ring-opening polymerizations and condensation reactions. These applications are critical where selectivity and controlled initiation are required for quality. TMG is supplied as a clear to pale yellow liquid in standard drum and IBC quantities. Technical grade is the primary commercial form, with purity levels typically at 99% or higher for catalyst-grade applications. Specification requirements should be confirmed with the supplier, as purity thresholds vary by end-use process sensitivity. This ensures the material meets the specific needs of your industrial chemical process. Contact us for supply of 1,1,3,3-Tetramethylguanidine Request Quote",
+  "physicalProperties": "Melting Point: -30 °C; Boiling Point: 160 °C; Density: 0.91 g/cm³ @ Temp: 25 °C; Flash Point: 140 °F; Appearance: Liquid; Color: APHA: ≤150; Odor: mild ammoniacal odor; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 0.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.469; pH: 12.7 (10g/l, H2O, 25℃); Log P: -0.49 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07",
+  "tradeRegulatory": "HS Code: 29252000; UN Number: 2920; ADR Class: 8; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "Tetramethylguanidine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29252000",
+  "similarProducts": [
+    "cas-111-18-2",
+    "cas-25513-64-8",
+    "cas-6711-48-4",
+    "cas-3290-92-4",
+    "cas-75-57-0",
+    "cas-3855-32-1",
+    "cas-2212-32-0",
+    "cas-77-99-6",
+    "cas-1017-56-7",
+    "cas-97-74-5",
+    "cas-15625-89-5",
+    "cas-109-16-0",
+    "cas-110-18-9",
+    "cas-552-30-7",
+    "cas-77-99-6",
+    "cas-1017-56-7",
+    "cas-97-74-5",
+    "cas-15625-89-5",
+    "cas-109-16-0",
+    "cas-110-18-9",
+    "cas-552-30-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-80-70-6/"
+}

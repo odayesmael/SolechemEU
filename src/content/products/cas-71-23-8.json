@@ -1,0 +1,64 @@
+{
+  "id": "122",
+  "name": "1-propanol",
+  "slug": "cas-71-23-8",
+  "cas": "71-23-8",
+  "ec": "200-746-9",
+  "formula": "C3H8O",
+  "mw": "60.10 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Propanol (CAS 71-23-8 ), also known as propylic alcohol, is a short-chain primary alcohol used as a solvent and carrier across pharmaceutical, cosmetic, and industrial manufacturing. Its controlled evaporation rate and broad solvency make it a practical choice where ethanol or isopropanol may be technically or regulatory mismatches for specific industrial processes. In pharmaceutical manufacturing, it functions as a process solvent for active ingredient extraction, recrystallization, and coating formulations to ensure high-quality chemical outputs. Printers and packaging converters use it as a solvent in flexographic and gravure ink systems, where it supports pigment dispersion and controlled drying on various film substrates. In personal care, it serves as a carrier solvent in fragrance concentrates and topical formulations requiring a clean evaporation profile for consumer-facing cosmetic products. At the flavor level, it is approved under FEMA 2928 as a flavoring agent and solvent for flavor delivery in a wide range of food and beverage applications. Pharmaceutical-grade material is available to USP and Ph. Eur. specifications; technical-grade is standard for industrial solvent applications and bulk manufacturing. Food-grade supply aligned with FCC specifications is available for flavor and food processing end uses, supplied in drums, IBCs, and bulk tanker quantities. Contact us for supply of 1-propanol Request Quote",
+  "physicalProperties": "Melting Point: -127 °C; Boiling Point: 97.2 °C; Density: 0.8053 g/cm³ @ Temp: 20 °C; Flash Point: 59 °F; Appearance: Colorless liquid; odor similar to ethanol. Soluble in water, alcohol, and ether.; Color: <10(APHA); Odor: Resembles that of ethyl alcohol.; Form: Liquid; Water Solubility: soluble; Vapor Pressure: 10 mm Hg ( 147 °C); Refractive Index: n 20/D 1.384(lit.); pH: 7 (200g/l, H2O, 20℃); Log P: 0.33",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H303 May be harmful if swallowed H305 May be harmful if swallowed and enters airways H313 May be harmful in contact with skin H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051200; UN Number: 1274; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "propylic alcohol | propionyl alcohol | propionic alcohol | propanol-1 | propanol | n-propylalkohol | n-propyl alcohol | n-propanol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29051200",
+  "similarProducts": [
+    "cas-1569-01-3",
+    "cas-67-63-0",
+    "cas-71-36-3",
+    "cas-111-35-3",
+    "cas-71-41-0",
+    "cas-10215-33-5",
+    "cas-4169-04-4",
+    "cas-106-94-5",
+    "cas-75-26-3",
+    "cas-106-36-5",
+    "cas-1569-02-4",
+    "cas-107-98-2",
+    "cas-123-38-6",
+    "cas-78-83-1",
+    "cas-106-94-5",
+    "cas-75-26-3",
+    "cas-106-36-5",
+    "cas-1569-02-4",
+    "cas-107-98-2",
+    "cas-123-38-6",
+    "cas-78-83-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-71-23-8/"
+}

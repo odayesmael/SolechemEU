@@ -1,0 +1,60 @@
+{
+  "id": "262",
+  "name": "N-nitrosodiphenylamine",
+  "slug": "cas-86-30-6",
+  "cas": "86-30-6",
+  "ec": "201-663-0",
+  "formula": "C12H10N2O",
+  "mw": "198.22 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Plastics & Polymers",
+    "Rubber & Tire"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Nitrosodiphenylamine (CAS 86-30-6 ) is an industrial chemical used primarily as a polymerization inhibitor and retarder in rubber and polymer processing. It controls cure rates and prevents premature vulcanization. This chemical gives manufacturers greater control over processing windows during production. In rubber compounding, it functions as a prevulcanization inhibitor, delaying the onset of cure during mixing and extrusion. This delay helps to reduce scorch risk in tire and technical rubber production. Polymer manufacturers use it to stabilize reactive monomer systems during storage and transport, preventing unwanted polymerization. In plastics processing, it acts as a stabilizer to extend the safe handling window of peroxide-cured compounds. It is also used as an antioxidant additive in certain polymer formulations where degradation is a concern. N-Nitrosodiphenylamine is typically supplied as a solid in powder or crystalline form. Technical grade is the standard commercial specification for industrial rubber and polymer applications. It is available in bulk quantities suited to compounding and manufacturing operations. Packaging options range from bags to bulk containers depending on the specific volume requirements of the facility. Contact us for supply of N-nitrosodiphenylamine Request Quote",
+  "physicalProperties": "Melting Point: 66.5 °C; Boiling Point: 101 °C; Density: 1.23 g/cm³; Flash Point: 11 °C; Appearance: N-Nitrosodiphenylamine is a yellow to orangebrown crystalline solid.; Color: Yellow to brown to orange power or flakes; Form: Yellow to brown or orange powder or flakes; Water Solubility: Insoluble; Vapor Pressure: 0.1 at 25 °C (assigned by analogy, Mabey et al., 1982); Refractive Index: 1.6330 (estimate); Log P: 3.13 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H320 Causes eye irritation H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2921.44.0500; UN Number: 1230; ADR Class: 3; Packing Group: II; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "N,n-diphenylnitrous amide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2921.44.0500",
+  "similarProducts": [
+    "cas-156-10-5",
+    "cas-106-50-3",
+    "cas-91-59-8",
+    "cas-102-83-0",
+    "cas-84041-77-0",
+    "cas-621-07-8",
+    "cas-62-75-9",
+    "cas-102-06-7",
+    "cas-26523-78-4",
+    "cas-121-69-7",
+    "cas-10222-01-2",
+    "cas-62-53-3",
+    "cas-103-49-1",
+    "cas-5080-22-8",
+    "cas-102-06-7",
+    "cas-26523-78-4",
+    "cas-121-69-7",
+    "cas-10222-01-2",
+    "cas-62-53-3",
+    "cas-103-49-1",
+    "cas-5080-22-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-86-30-6/"
+}

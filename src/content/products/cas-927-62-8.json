@@ -1,0 +1,63 @@
+{
+  "id": "1322",
+  "name": "N,N-Dimethylbutylamine",
+  "slug": "cas-927-62-8",
+  "cas": "927-62-8",
+  "ec": "213-156-1",
+  "formula": "C6H15N",
+  "mw": "101.19 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N,N-Dimethylbutylamine (CAS 927-62-8 ), commonly abbreviated as DMBA, is a tertiary aliphatic amine used across chemical manufacturing as a catalyst, pH regulator, and solvent carrier. Its reactivity profile makes it a practical building block and process chemical in synthesis-driven industries. In pharmaceutical manufacturing, DMBA functions as an intermediate in the synthesis of active ingredients. It also serves as a neutralizing agent in salt formation steps. Polymer and resin producers use it as a catalyst in polyurethane and epoxy cure systems, where controlled amine activity influences reaction rates. In agrochemical formulation, it supports the production of herbicide and pesticide intermediates requiring a tertiary amine base. Water treatment chemical manufacturers also employ DMBA as a pH-buffering agent. This chemical is essential in process streams requiring stable alkalinity control. N,N-Dimethylbutylamine is supplied as a clear liquid, typically in drums and IBC containers suited for industrial volumes. It is available in technical grade for industrial synthesis and catalysis applications. Pharmaceutical-grade supply is obtainable from select manufacturers where documented purity specifications are required. Batch traceability is maintained for GMP -compliant processes. This ensures that the material meets the rigorous standards necessary for high-stakes chemical manufacturing and pharmaceutical development. Contact us for supply of N,N-Dimethylbutylamine Request Quote",
+  "physicalProperties": "Melting Point: -60 °C; Boiling Point: 95.0 °C; Density: 0.72 g/cm³; Flash Point: 25 °F; Appearance: colourless liquid; Color: Colorless to Almost colorless; Odor: ammonia-like odor; Form: clear liquid; Water Solubility: 3.4 g/100 mL (20 ºC); Vapor Pressure: 67hPa at 20℃; Refractive Index: n 20/D 1.398(lit.); Log P: 0.5 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H301+H331 Toxic if swallowed or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211990; UN Number: 2733; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "1-(n,n-dimethylamino)butane | N,n-dimethylbutan-1-amine | DMBA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29211990",
+  "similarProducts": [
+    "cas-103-83-3",
+    "cas-2044-64-6",
+    "cas-102-83-0",
+    "cas-111-92-2",
+    "cas-98-94-2",
+    "cas-124-40-3",
+    "cas-10097-02-6",
+    "cas-121-69-7",
+    "cas-103-49-1",
+    "cas-109-55-7",
+    "cas-74-94-2",
+    "cas-99-97-8",
+    "cas-105-83-9",
+    "cas-1120-24-7",
+    "cas-121-69-7",
+    "cas-103-49-1",
+    "cas-109-55-7",
+    "cas-74-94-2",
+    "cas-99-97-8",
+    "cas-105-83-9",
+    "cas-1120-24-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-927-62-8/"
+}

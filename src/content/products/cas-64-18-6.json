@@ -1,0 +1,65 @@
+{
+  "id": "91",
+  "name": "Formic acid",
+  "slug": "cas-64-18-6",
+  "cas": "64-18-6",
+  "ec": "200-579-1",
+  "formula": "CH2O2",
+  "mw": "46.025 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Formic acid (CAS 64-18-6 ), also known by its E-number E236 , is the simplest carboxylic acid and a commercially significant organic acid used across industrial, agricultural, and food applications. It functions as a pH regulator, preservative, and processing aid depending on the sector, and its reducing character makes it useful in catalytic and chemical synthesis contexts. In leather and textile processing, formic acid controls bath pH during dyeing and tanning, directly affecting color uptake and hide quality. This ensures consistent results in large-scale manufacturing. Silage preservation and animal feed acidification represent major agricultural volume, where it inhibits microbial spoilage and extends shelf life without requiring heat treatment or complex additives. Food and beverage producers use it as an approved acidulant and preservative, particularly in baked goods, beverages, and dairy applications. It is a versatile tool for maintaining product stability. In pharmaceuticals and water treatment, it serves as a pH-adjusting agent and intermediate in synthesis. Its chelating capacity supports scale and metal ion control in process water systems. Formic acid is supplied as an aqueous liquid, with 85% and 94% concentrations being the most commercially standard. Food-grade material is available to FCC and E236 specifications. Technical-grade product covers industrial and agricultural end uses where high purity is less critical. Bulk supply is typical in IBC containers and road tankers for efficient logistics. Contact us for supply of Formic acid Request Quote",
+  "physicalProperties": "Melting Point: 8.4 °C; Boiling Point: 100.5 °C; Density: 1.220 g/cm³ @ Temp: 20 °C; Flash Point: 133 °F; Appearance: Colorless, fuming liquid; penetrating odor. strong reducing agent. Soluble in water, alcohol, and ether. Combustible.; Color: APHA: ≤15; Odor: at 0.10 % in water. pungent vinegar formyl; Form: Liquid; Water Solubility: MISCIBLE; Vapor Pressure: 52 mm Hg ( 37 °C); Refractive Index: n 20/D 1.377; pH: 2.2 (10g/l, H2O, 20℃); Log P: -0.540",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29151100; UN Number: 1198; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "methoic acid | methanoic acid | hydrogen carboxylic acid | HCOOH | HCO2H | formylic acid | aminic acid | Bilorin | E236",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29151100",
+  "similarProducts": [
+    "cas-64-19-7",
+    "cas-141-53-7",
+    "cas-110-17-8",
+    "cas-50-00-0",
+    "cas-50-21-5",
+    "cas-590-29-4",
+    "cas-544-17-2",
+    "cas-7647-01-0",
+    "cas-77-92-9",
+    "cas-7664-38-2",
+    "cas-107-31-3",
+    "cas-540-69-2",
+    "cas-10043-35-3",
+    "cas-65-85-0",
+    "cas-7647-01-0",
+    "cas-77-92-9",
+    "cas-7664-38-2",
+    "cas-107-31-3",
+    "cas-540-69-2",
+    "cas-10043-35-3",
+    "cas-65-85-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-64-18-6/"
+}

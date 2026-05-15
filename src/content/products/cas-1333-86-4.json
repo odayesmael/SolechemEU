@@ -1,0 +1,62 @@
+{
+  "id": "1468",
+  "name": "Carbon black",
+  "slug": "cas-1333-86-4",
+  "cas": "1333-86-4",
+  "ec": "215-609-9",
+  "formula": "Unspecified",
+  "mw": "12.011 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Automotive",
+    "Building & Construction",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Rubber & Tire",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Carbon black (CAS 1333-86-4 ), also marketed as furnace black, lamp black, and thermal black depending on production method, is a fine carbon particulate produced through controlled combustion or thermal decomposition of hydrocarbons. In industry, it functions primarily as a reinforcing agent, pigment, and UV stabilizer across rubber, plastics, and coating systems. In tire and rubber manufacturing, it reinforces elastomer matrices to improve abrasion resistance. This mechanical durability accounts for the majority of global consumption. Plastics compounders incorporate it as a UV stabilizer and black colorant in pipe, film, and automotive components requiring long-term outdoor performance. Printing inks and coatings rely on specific particle-size grades to achieve deep black pigmentation and controlled rheology. These are used in offset, flexographic, and industrial coating formulations to ensure consistent quality. Sealants and adhesives use the material to modify surface wetting, improve cohesive strength, and deliver conductivity in electrically functional systems. It is supplied as a dry powder or in pelletized form for industrial use. Pellets are often preferred for dust-controlled handling in high-volume compounding operations. Grades are differentiated by particle size, structure, and surface area, commonly designated under ASTM classifications such as N220. Other common designations include N330 and N550 for rubber applications. Specialty grades meeting food-contact or regulatory standards, including E153 classification in certain markets, are available for specific compliance. These specialty options ensure that manufacturers can meet strict end-use requirements. The versatility of the product makes it a cornerstone material for modern industrial manufacturing and chemical processing globally. Contact us for supply of Carbon black Request Quote",
+  "physicalProperties": "Melting Point: 3550 °C; Boiling Point: 4200 °C; Density: 1.8-2.1 g/cm³; Flash Point: >230 °F; Appearance: Carbon black (essentially elemental carbon), is a black or brown liquid or solid (powder). Odorless solid. Carbon black oil is flammable and has a petroleum odor.; Color: Clear colorless; Form: rod; Water Solubility: Insoluble; Vapor Pressure: <0.1 mm Hg ( 20 °C); Log P: 1.090 (est)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "UN Number: 1325; ADR Class: 4.1; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "thermal black | lamp black | furnace black | channel black | acetylene black | Soot | Carbon Nanotube | Elemental Carbon | E330R",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7440-44-0",
+    "cas-12227-89-3",
+    "cas-7782-42-5",
+    "cas-471-34-1",
+    "cas-64365-11-3",
+    "cas-2519-30-4",
+    "cas-9006-04-6",
+    "cas-1317-80-2",
+    "cas-409-21-2",
+    "cas-7704-34-9",
+    "cas-75-15-0",
+    "cas-7631-86-9",
+    "cas-68855-54-9",
+    "cas-9003-55-8",
+    "cas-1317-80-2",
+    "cas-409-21-2",
+    "cas-7704-34-9",
+    "cas-75-15-0",
+    "cas-7631-86-9",
+    "cas-68855-54-9",
+    "cas-9003-55-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1333-86-4/"
+}

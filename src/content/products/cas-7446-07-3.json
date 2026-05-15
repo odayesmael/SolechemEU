@@ -1,0 +1,59 @@
+{
+  "id": "2017",
+  "name": "Tellurium dioxide",
+  "slug": "cas-7446-07-3",
+  "cas": "7446-07-3",
+  "ec": "231-193-1",
+  "formula": "O2Te",
+  "mw": "159.6 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tellurium dioxide (CAS 7446-07-3 ), also abbreviated as TeO2, is an inorganic oxide of tellurium used primarily in electronics and specialty chemical manufacturing. It functions as a catalyst and optical material, enabling precise control in acousto-optical and electrochemical processes. In acousto-optic devices, TeO2 crystals are used to manufacture deflectors. These crystals are also used for modulators and tunable filters for laser systems and telecommunications equipment. The compound serves as a precursor in the production of tellurite glass. This glass is incorporated into fiber optic amplifiers and infrared-transmitting optical components. In catalysis, it supports selective oxidation reactions in specialty chemical synthesis. This includes the production of fine chemicals and pharmaceutical intermediates. Thin-film deposition processes in semiconductor fabrication also consume TeO2 as a sputtering target material. It is used for phase-change memory applications. Tellurium dioxide is supplied as a white crystalline powder in technical and high-purity grades for electronic and optical applications. Purity levels commonly range from 99% to 99.999% (5N). High-purity sputtering targets are available as pressed and sintered forms to meet semiconductor-grade specifications. Packaging is typically offered in small laboratory quantities through to kilogram-scale lots depending on purity grade. This ensures flexibility for both research and industrial production. Contact us for supply of Tellurium dioxide Request Quote",
+  "physicalProperties": "Melting Point: 733 °C; Boiling Point: 1250 °C; Density: 5.67 g/cm³ (solid); Appearance: white crystalline powder; Color: White to slightly yellow; Form: Powder; Water Solubility: insoluble; Vapor Pressure: 0Pa at 25℃",
+  "safetyHandling": "Danger GHS08 GHS07 GHS09 Hazard Statements H317 May cause an allergic skin reaction H332 Harmful if inhaled H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H362 May cause harm to breast-fed children H373 May causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse.",
+  "tradeRegulatory": "HS Code: 28112900; UN Number: 3284; ADR Class: 6.1; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "Tellurium oxide (TeO2) | 397E9RKE83 | RefChem:187769 | Tellurium(IV) oxide | Telluria | Tellurium oxide | TeO2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "28112900",
+  "similarProducts": [
+    "cas-7446-08-4",
+    "cas-10102-20-2",
+    "cas-20941-65-5",
+    "cas-1306-38-3",
+    "cas-1317-80-2",
+    "cas-18282-10-5",
+    "cas-1758-73-2",
+    "cas-13463-67-7",
+    "cas-78-10-4",
+    "cas-1304-76-3",
+    "cas-1313-27-5",
+    "cas-1314-23-4",
+    "cas-1304-56-9",
+    "cas-1306-19-0",
+    "cas-13463-67-7",
+    "cas-78-10-4",
+    "cas-1304-76-3",
+    "cas-1313-27-5",
+    "cas-1314-23-4",
+    "cas-1304-56-9",
+    "cas-1306-19-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7446-07-3/"
+}

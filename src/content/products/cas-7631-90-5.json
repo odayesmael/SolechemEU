@@ -1,0 +1,62 @@
+{
+  "id": "2049",
+  "name": "Sodium bisulfite",
+  "slug": "cas-7631-90-5",
+  "cas": "7631-90-5",
+  "ec": "231-548-0",
+  "formula": "H2O3S.Na",
+  "mw": "104.06 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium bisulfite (CAS 7631-90-5 ), also sold as sodium bisulphite and designated E222 in food applications, is an inorganic sulfite salt used commercially as a reducing agent, preservative, and oxygen scavenger across multiple industries. SBS delivers reliable antioxidant and antimicrobial action at relatively low use concentrations, making it a cost-effective functional ingredient for formulators and process engineers in various sectors. In food and beverage production, E222 prevents oxidative browning and microbial spoilage in fruit products, wines, dried foods, and seafood processing. Water treatment operations rely on sodium bisulfite to dechlorinate potable water. It is used for treating boiler feedwater, neutralizing residual chlorine before downstream processing or discharge. Textile and paper manufacturers apply it as a bleaching and reducing agent for pulp brightening and dye stripping. In pharmaceutical manufacturing, it functions as an antioxidant stabilizer in injectable formulations and oral liquid preparations where oxygen-sensitive active ingredients require protection from degradation. Sodium bisulfite is supplied as a white to off-white crystalline powder or granules, with liquid solution forms also available for industrial water treatment applications. Standard commercial grades include food-grade material. These grades are FCC and E222-compliant, with purity levels typically ranging from 58% to 65% active SO₂ equivalent. Pharmaceutical-grade material meeting USP or Ph.Eur. specifications is also available. These high-purity options are specifically designed for regulated manufacturing environments. The material remains a versatile chemical essential for maintaining product stability and process efficiency globally. Contact us for supply of Sodium bisulfite Request Quote",
+  "physicalProperties": "Melting Point: 150 °C; Density: 1.48 g/cm³; Appearance: Sodium bisulfite is a white crystalline solid. Slight odor of sulfur dioxide and a disagreeable taste. Slowly oxidized to the sulfate on exposure to air; Color: White; Odor: Slight odor of sulfur dioxide; Form: Powder/Solid; Water Solubility: 300 g/L; Vapor Pressure: 40 hPa ( 20 °C); pH: 4.5 (20°C in H2O)",
+  "safetyHandling": "Warning GHS07 GHS08 GHS05 Hazard Statements H302 Harmful if swallowed H317 May cause an allergic skin reaction H318 Causes serious eye damage H320 Causes eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28323010; UN Number: 2693; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "sodium hydrogensulfite | sodium bisulphite | sodium acid bisulfite | saures Natriumsulfit | primäres Natriumsulfit | monosodium salt of sulfurous acid | Bisulfite de sodium | Monosodium sulfite | SBS | E222",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS05"
+  ],
+  "hsCode": "28323010",
+  "similarProducts": [
+    "cas-7757-83-7",
+    "cas-7681-57-4",
+    "cas-7773-03-7",
+    "cas-13780-03-5",
+    "cas-16731-55-8",
+    "cas-10257-55-3",
+    "cas-7681-38-1",
+    "cas-870-72-4",
+    "cas-7446-09-5",
+    "cas-7775-14-6",
+    "cas-532-32-1",
+    "cas-12232-99-4",
+    "cas-7757-81-5",
+    "cas-7632-00-0",
+    "cas-870-72-4",
+    "cas-7446-09-5",
+    "cas-7775-14-6",
+    "cas-532-32-1",
+    "cas-12232-99-4",
+    "cas-7757-81-5",
+    "cas-7632-00-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7631-90-5/"
+}

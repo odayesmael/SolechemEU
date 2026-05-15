@@ -1,0 +1,60 @@
+{
+  "id": "621",
+  "name": "Ethylene glycol diacetate",
+  "slug": "cas-111-55-7",
+  "cas": "111-55-7",
+  "ec": "203-881-1",
+  "formula": "C6H10O4",
+  "mw": "146.14 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethylene glycol diacetate (CAS 111-55-7 ), also known as glycol diacetate or EGDA, is a diester solvent used across industrial, cosmetic, and flavoring applications. It functions as a slow-evaporating carrier solvent and curing agent, offering controlled release characteristics that suit formulations requiring extended processing windows. In plastics and polymer processing, EGDA acts as a reactive diluent and cross-linking aid in coatings, adhesives, and resin systems where controlled cure rates are critical. Personal care formulators incorporate it as a carrier solvent in fragrance concentrates and cosmetic bases, where its low volatility supports even distribution of active ingredients. The flavor and fragrance industry uses EGDA as a flavoring agent with a mild fruity ester note, suitable for confectionery and beverage applications. Industrial coatings manufacturers also select it as a high-boiling coalescing solvent to improve film formation in water-based and solvent-borne systems. Ethylene glycol diacetate is supplied as a clear liquid in drum and IBC quantities. Technical grade is the standard offering for industrial solvent and coatings applications. Flavor-grade material meeting purity specifications for food and fragrance use is available from select suppliers to ensure compliance with global regulatory requirements. Contact us for supply of Ethylene glycol diacetate Request Quote",
+  "physicalProperties": "Melting Point: -31 °C; Boiling Point: 190-191 °C; Density: 1.104 g/cm³; Flash Point: 198 °F; Appearance: clear liquid; Color: blue; Odor: at 100.00 %. green floral estery alcoholic; Form: Liquid; Water Solubility: 160 g/L (20 ºC); Vapor Pressure: 0.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.431(lit.); Log P: 0.1 at 40℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153900; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "Glycol diacetate | 1,2-Diacetoxyethane | Ethylene diacetate | 1,2-Ethanediol diacetate | Ethanediol diacetate | Ethylene diethanoate | Ethylene acetate | 1,2-Ethanediol, 1,2-diacetate | EGDA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29153900",
+  "similarProducts": [
+    "cas-623-84-7",
+    "cas-112-15-2",
+    "cas-97-90-5",
+    "cas-928-24-5",
+    "cas-111-15-9",
+    "cas-111-46-6",
+    "cas-112-36-7",
+    "cas-111-90-0",
+    "cas-124-17-4",
+    "cas-4074-88-8",
+    "cas-1002-67-1",
+    "cas-112-07-2",
+    "cas-109-86-4",
+    "cas-141-28-6",
+    "cas-111-90-0",
+    "cas-124-17-4",
+    "cas-4074-88-8",
+    "cas-1002-67-1",
+    "cas-112-07-2",
+    "cas-109-86-4",
+    "cas-141-28-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-55-7/"
+}

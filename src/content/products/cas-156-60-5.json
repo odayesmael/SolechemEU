@@ -1,0 +1,61 @@
+{
+  "id": "968",
+  "name": "trans-1,2-dichloroethylene",
+  "slug": "cas-156-60-5",
+  "cas": "156-60-5",
+  "ec": "205-860-2",
+  "formula": "C2H2Cl2",
+  "mw": "96.94 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Electronics",
+    "Lubricants & Metalworking",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trans-1,2-dichloroethylene (CAS 156-60-5 ), also known as trans-acetylene dichloride, is a chlorinated solvent used primarily for precision cleaning and degreasing in industrial settings. Its relatively low boiling point and strong solvency make it a practical choice for removing oils and greases. This chemical is highly effective at removing flux residues from sensitive substrates without aggressive chemical attack. In electronics manufacturing, it is used to clean printed circuit boards and precision components where residue-free surfaces are critical to performance. Metalworking operations use it as a degreasing solvent to prepare parts prior to coating, plating, or assembly. Industrial and institutional cleaning formulations incorporate it as a carrier solvent to improve the penetration and evaporation profile of cleaning concentrates. It also appears in specialty lubricant formulations as a solvent carrier for active ingredients applied to tight-tolerance mechanical components. This versatility makes it a staple in high-performance maintenance and repair operations across various sectors. Trans-1,2-dichloroethylene is supplied as a clear liquid in standard drum and IBC quantities. Technical grade is the primary commercial specification available for industrial solvent applications, ensuring consistent performance in large-scale manufacturing environments. Purity levels typically range from 97% upward, with high-purity grades available for electronics and precision cleaning end uses. These specifications ensure that the solvent meets the rigorous demands of modern industrial cleaning and chemical processing standards. Contact us for supply of trans-1,2-dichloroethylene Request Quote",
+  "physicalProperties": "Melting Point: -49.8 °C; Boiling Point: 48.7 °C @ Press: 760 Torr; Density: 1.2565 g/cm³ @ Temp: 20 °C; Flash Point: 43 °F; Appearance: 1,2-Dichloroethylene exists in three isomers, sym-, cis-60% and trans-40%. There are variations in toxicity between these two forms. At room temperature, these chemicals are colorless liquids with a slightly acrid, ethereal odor. The Odor Threshold in air is 17 ppm. sym-isomer:; Color: Clear colorless; Form: Liquid; Water Solubility: Miscible with ethanol, ethyl ether, acetone, benzene and chloroform. Immiscible with water.; Vapor Pressure: 5.32 psi ( 20 °C); Refractive Index: n 20/D 1.447(lit.); Log P: 2.06",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H336 May cause drowsiness or dizziness H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29032990; UN Number: 1150; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "trans-acetylene dichloride | 1,2-trans-dichloroethylene | (E)-1,2-dichloroethylene | trans-dichloroethylene | trans-1,2-dichloroethene | Ethene, 1,2-dichloro-, (1E)- | Ethene, 1,2-dichloro-, (E)- | RCRA waste number U079",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29032990",
+  "similarProducts": [
+    "cas-79-01-6",
+    "cas-127-18-4",
+    "cas-96-18-4",
+    "cas-111-44-4",
+    "cas-2311-14-0",
+    "cas-106-93-4",
+    "cas-4050-45-7",
+    "cas-95-50-1",
+    "cas-112-27-6",
+    "cas-5197-62-6",
+    "cas-75-09-2",
+    "cas-111-55-7",
+    "cas-112-50-5",
+    "cas-143-24-8",
+    "cas-95-50-1",
+    "cas-112-27-6",
+    "cas-5197-62-6",
+    "cas-75-09-2",
+    "cas-111-55-7",
+    "cas-112-50-5",
+    "cas-143-24-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-156-60-5/"
+}

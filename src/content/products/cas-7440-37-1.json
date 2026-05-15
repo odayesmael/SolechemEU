@@ -1,0 +1,60 @@
+{
+  "id": "2007",
+  "name": "Argon",
+  "slug": "cas-7440-37-1",
+  "cas": "7440-37-1",
+  "ec": "231-147-0",
+  "formula": "Ar",
+  "mw": "39.9 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics",
+    "Automotive",
+    "Aerospace & Defense",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Argon (CAS 7440-37-1 ), also supplied under food-grade designation E938 , is a chemically inert noble gas used across industrial and specialty applications as a protective and carrier medium. Its inertness makes it the preferred choice wherever oxidation, contamination, or reactive atmospheres must be eliminated during processing or storage. In electronics manufacturing, argon provides the inert atmosphere required. This gas is essential for semiconductor fabrication, plasma etching, and sputter deposition of thin films. Automotive and aerospace welding operations rely on argon as a shielding gas to protect weld pools. By preventing atmospheric contamination, it directly influences joint integrity and finish quality. Food and beverage producers use E938-grade argon to blanket packaged products and displace oxygen effectively. This process extends shelf life without chemical additives. In industrial cleaning, argon serves as a carrier gas in plasma surface treatment systems used to prepare substrates before coating or bonding. Argon is supplied as a compressed gas in high-pressure cylinders, dewars, and bulk liquid form via cryogenic tankers for large-volume industrial users. Standard grades include industrial and welding specifications. High-purity (99.999%) options meet the differing requirements of electronics fabrication versus general manufacturing. Food-contact applications require E938-certified supply with documented purity and compliance. Contact us for supply of Argon Request Quote",
+  "physicalProperties": "Melting Point: -189.2 °C; Boiling Point: -185.9 °C; Density: 1.6228 x 10⁻³ g/cm³ (gas); Appearance: With the symbol A, argon is a nonflammable gas; one of the elements in the inert gas category. It is colorless.; Color: colorless; Form: colorless gas; Water Solubility: 33.6mL/1000g H2O (20°C) [KIR78]; Henry’s law constants, k×10?4: 3.974 (25.0°C), 5.359 (65.1°C), 5.342 (91.1°C), 3.812 (222.7°C), 2.541 (267.3°C), 1.870 (287.9°C) [POT78]; Log P: 0.740 (est)",
+  "safetyHandling": "Warning GHS04 Hazard Statements H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+  "tradeRegulatory": "UN Number: 1006; ADR Class: 2.2",
+  "otherNames": "element 18 | 18Ar | Argon-40 | Argon, Elemental | 67XQY1V3KH | KHLADON R 740 | INS NO.938 | Argon, isotope of mass 40 | E938",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7440-59-7",
+    "cas-124-38-9",
+    "cas-7727-37-9",
+    "cas-7440-38-2",
+    "cas-10024-97-2",
+    "cas-74-98-6",
+    "cas-106-97-8",
+    "cas-74-79-3",
+    "cas-7782-41-4",
+    "cas-75-28-5",
+    "cas-75-73-0",
+    "cas-7664-41-7",
+    "cas-7446-09-5",
+    "cas-7440-44-0",
+    "cas-74-79-3",
+    "cas-7782-41-4",
+    "cas-75-28-5",
+    "cas-75-73-0",
+    "cas-7664-41-7",
+    "cas-7446-09-5",
+    "cas-7440-44-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-37-1/"
+}

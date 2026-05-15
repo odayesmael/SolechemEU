@@ -1,0 +1,65 @@
+{
+  "id": "806",
+  "name": "Tributyl phosphate",
+  "slug": "cas-126-73-8",
+  "cas": "126-73-8",
+  "ec": "204-800-2",
+  "formula": "C12H27O4P",
+  "mw": "266.31 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Food & Nutrition",
+    "Lubricants & Metalworking",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tributyl phosphate (TBP, CAS 126-73-8 ) is a phosphoric acid ester used industrially as a solvent, plasticizer, and flame retardant across a broad range of manufacturing sectors. Its ability to dissolve both polar and non-polar compounds makes it a practical choice for extraction, formulation, and process chemistry applications in various industrial environments. In nuclear fuel reprocessing and rare earth metal extraction, TBP functions as a selective solvent for separating metal ions from aqueous streams, a well-established role in hydrometallurgical processing. Printing ink and surface coating formulators use it as a solvent and defoamer, where it reduces surface tension in high-speed application processes to ensure a smooth finish. In plastics and polymer manufacturing, TBP acts as a plasticizer and flame-retardant additive, incorporated into cellulose acetate, PVC, and polyurethane systems to improve flexibility. Lubricant and metalworking fluid producers also use TBP as an anti-wear additive and carrier solvent for active ingredients in cutting and hydraulic fluid formulations for heavy machinery. Tributyl phosphate is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for large-volume industrial buyers requiring consistent supply chains. Standard commercial grades include technical grade and high-purity solvent grade. Specifications vary by end-use, with purity levels typically ranging from 98% to 99%+ for process-sensitive applications. Contact us for supply of Tributyl phosphate Request Quote",
+  "physicalProperties": "Melting Point: <-80 °C; Boiling Point: 177-178 °C @ Press: 27 Torr; Density: 0.976 g/cm³ @ Temp: 25 °C; Flash Point: 380 °F; Appearance: Stable, colorless liquid; odorless. Miscible with most solvents and diluents; soluble in water. Combustible.; Color: Clear; Odor: Odorless; Form: Liquid; Water Solubility: 0.6 g/100 mL; Vapor Pressure: 27 mm Hg ( 178 °C); Refractive Index: n 20/D 1.424(lit.); Log P: 4 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS05 GHS09 GHS06 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H351 Suspected of causing cancer H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29190010; UN Number: 1208; ADR Class: 3; Packing Group: II; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "tributyl ester of phosphoric acid | tri-n-butyl phosphate | Phosphoric acid, tributyl ester | Phosphoric acid tri-n-butyl ester | butyl phosphate | TBP | Celluphos 4 | tbpa",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS05",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "29190010",
+  "similarProducts": [
+    "cas-126-71-6",
+    "cas-78-51-3",
+    "cas-126-72-7",
+    "cas-28471-16-1",
+    "cas-77-94-1",
+    "cas-56803-37-3",
+    "cas-115-86-6",
+    "cas-1330-78-5",
+    "cas-78-42-2",
+    "cas-78-40-0",
+    "cas-4559-86-8",
+    "cas-26040-51-7",
+    "cas-55934-93-5",
+    "cas-13674-84-5",
+    "cas-1330-78-5",
+    "cas-78-42-2",
+    "cas-78-40-0",
+    "cas-4559-86-8",
+    "cas-26040-51-7",
+    "cas-55934-93-5",
+    "cas-13674-84-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-126-73-8/"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1548",
+  "name": "Dicamba",
+  "slug": "cas-1918-00-9",
+  "cas": "1918-00-9",
+  "ec": "217-635-6",
+  "formula": "C8H6Cl2O3",
+  "mw": "221.03 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dicamba (CAS 1918-00-9 ), also known as MDBA, is a selective benzoic acid herbicide used in commercial agriculture to control broadleaf weeds and woody plants. It functions by mimicking natural plant growth hormones. This mechanism causes uncontrolled growth in susceptible species while leaving established grasses largely unaffected. Dicamba is applied in cereal grain crops including wheat, corn, and sorghum to suppress persistent weeds. It is particularly effective against kochia, bindweed, and thistle that resist other herbicide classes. In dicamba-tolerant soybean and cotton programs, it serves as the active ingredient in pre-emergent formulations. These products are designed for genetically modified crop systems. Turf management and non-crop land applications use the chemical to clear rights-of-way, pastures, and rangeland of invasive broadleaf vegetation. It is also incorporated into combination herbicide products alongside active ingredients such as 2,4-D to broaden weed control spectrum. The product is supplied as a technical-grade acid and as formulated salts. Most commonly, the dimethylamine and diglycolamine salt forms are used, which offer improved volatility profiles for field use. Technical material is available in bulk quantities for formulation by manufacturers. Standard purity for technical grade typically falls at 97% or above, with specifications aligned to FAO/WHO quality standards. This ensures high performance and reliability for large-scale agricultural applications. Contact us for supply of Dicamba Request Quote",
+  "physicalProperties": "Melting Point: 114-116 °C; Boiling Point: 316.96°C (rough estimate); Density: 1.57 g/cm³ @ Temp: 25 °C; Flash Point: 2 °C; Color: White; Form: Crystals; Water Solubility: 50 g/100 mL; Refractive Index: 1.5000 (estimate); Log P: 2.210",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 Hazard Statements H302 H302 H318 H318 H332 H332 H335 H335 H336 H336 H400 H400 H402 H402 H410 H410 H411 H411 H412 H412 H302+H332 H302+H332 Precautionary Statements P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P317 P317 P319 P319 P330 P330 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P304+P340 P304+P340 P403+P233 P403+P233 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29189900; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "3,6-dichloro-o-anisic acid | 3,6-Dichloro-2-methoxybenzoic acid | Mdba | Banvel | Dianat | Mediben | Banlen | Velsicol compound R",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29189900",
+  "similarProducts": [
+    "cas-94-75-7",
+    "cas-85-00-7",
+    "cas-10097-02-6",
+    "cas-1071-83-6",
+    "cas-10222-01-2",
+    "cas-314-40-9",
+    "cas-330-54-1",
+    "cas-99129-21-2",
+    "cas-24307-26-4",
+    "cas-101-83-7",
+    "cas-125401-75-4",
+    "cas-10605-21-7",
+    "cas-75-09-2",
+    "cas-2044-64-6",
+    "cas-99129-21-2",
+    "cas-24307-26-4",
+    "cas-101-83-7",
+    "cas-125401-75-4",
+    "cas-10605-21-7",
+    "cas-75-09-2",
+    "cas-2044-64-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1918-00-9/"
+}

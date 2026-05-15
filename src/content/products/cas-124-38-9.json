@@ -1,0 +1,61 @@
+{
+  "id": "786",
+  "name": "Carbon dioxide",
+  "slug": "cas-124-38-9",
+  "cas": "124-38-9",
+  "ec": "204-696-9",
+  "formula": "CO2",
+  "mw": "44.009 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Carbon dioxide (CAS 124-38-9 ), also supplied under the refrigerant designation R744 and approved food additive E-290 , is one of the most broadly sourced industrial gases in global supply chains. It functions as a pH modifier, preservative, carbonation agent, and refrigerant across food processing, energy, and industrial applications. In food and beverage production, CO₂ is injected into soft drinks and beer. This process delivers carbonation and contributes mild acidity to the final product. Cold chain logistics and perishable food packaging rely on it in solid form and as a modified atmosphere gas to suppress microbial growth. In oil and gas operations, it is injected into reservoirs for enhanced oil recovery. It is also used in supercritical extraction processes for natural flavors, hops, and caffeine to ensure high purity and efficiency. Water treatment facilities use it to neutralize alkaline effluent and stabilize pH before discharge or distribution. Carbon dioxide is supplied as a compressed gas in cylinders or as a cryogenic liquid in bulk tankers. It is also available as dry ice in block or pellet form for various cooling needs. Food-grade and beverage-grade specifications are available meeting FCC and E-290 purity standards for safety. Industrial and technical grades are also standard for non-food processing applications. These grades ensure reliable performance across manufacturing, chemical synthesis, and environmental management sectors worldwide. Contact us for supply of Carbon dioxide Request Quote",
+  "physicalProperties": "Melting Point: -79 °C (sublm); Boiling Point: -78.5 °C; Density: 0.79787 g/cm³ (liquid) @ Temp: 50 °C; Press: 1.58 x 10⁵ Torr; Appearance: Carbon dioxide is a colorless, odorless, noncombustible gas.; Color: colorless; Odor: at 100.00?%. odorless; Form: colorless gas; Water Solubility: mL CO2/100mL H2O at 760mm: 171 (0°C), 88 (20°C), 36 (60°C) [MER06]; Vapor Pressure: 56.5 atm ( 20 °C); Refractive Index: 1.0004; Log P: 0.830 (est)",
+  "safetyHandling": "Warning GHS04 GHS07 Hazard Statements H280 Contains gas under pressure; may explode if heated H281 Contains refrigerated gas; may cause cryogenic burns or injury H336 May cause drowsiness or dizziness Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P282 Wear cold insulating gloves and either face shield or eye protection. P319 Get medical advice/attention if you feel unwell. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P336+P317 Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place.",
+  "tradeRegulatory": "HS Code: 28112100; UN Number: 1013; ADR Class: 2.2; Storage Class: 2A - Gases",
+  "otherNames": "R744 | E-290 | CO₂ | carbonic anhydride | carbonic acid gas | carbonic acid anhydride | [CO2] | carbon oxide | E290",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS07"
+  ],
+  "hsCode": "28112100",
+  "similarProducts": [
+    "cas-7446-09-5",
+    "cas-463-79-6",
+    "cas-74-98-6",
+    "cas-7440-37-1",
+    "cas-75-28-5",
+    "cas-10024-97-2",
+    "cas-497-19-8",
+    "cas-7440-44-0",
+    "cas-7440-59-7",
+    "cas-75-15-0",
+    "cas-106-97-8",
+    "cas-7727-37-9",
+    "cas-77-92-9",
+    "cas-75-73-0",
+    "cas-7440-44-0",
+    "cas-7440-59-7",
+    "cas-75-15-0",
+    "cas-106-97-8",
+    "cas-7727-37-9",
+    "cas-77-92-9",
+    "cas-75-73-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-124-38-9/"
+}

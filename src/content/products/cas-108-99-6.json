@@ -1,0 +1,65 @@
+{
+  "id": "546",
+  "name": "3-picoline",
+  "slug": "cas-108-99-6",
+  "cas": "108-99-6",
+  "ec": "203-636-9",
+  "formula": "C6H7N",
+  "mw": "93.13 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Picoline (CAS 108-99-6 ), also known as beta-picoline, is a methylpyridine isomer used primarily as a chemical intermediate in the synthesis of vitamins, agrochemicals, and pharmaceutical actives. It serves as a building block rather than a finished ingredient, making it a procurement priority for manufacturers operating upstream in their supply chains across various industrial sectors. In the pharmaceutical and nutrition industries, this compound is the principal precursor for nicotinamide (Vitamin B3) and nicotinic acid synthesis, ensuring high-quality output for global health markets. Agrochemical producers use it to manufacture pyridine-based herbicides and insecticides, particularly in active ingredient synthesis where chemical stability and reactivity are essential for performance. In flavor chemistry, trace concentrations contribute roasted, nutty, or meaty notes to processed food formulations, while resin formulators employ it as a catalyst in select polymerization processes. The material is supplied as a liquid in bulk quantities, typically in drums or ISO tank containers for large-volume orders to meet the logistical needs of global chemical manufacturing facilities. Technical-grade material is the standard commercial offering, with purity levels commonly at 99% or higher by GC, ensuring consistent results in standard industrial applications and chemical reactions. Pharmaceutical-grade specifications are available from select manufacturers where downstream API synthesis demands tighter impurity profiles and adherence to rigorous quality control protocols during production. Contact us for supply of 3-picoline Request Quote",
+  "physicalProperties": "Melting Point: -18.1 °C; Boiling Point: 143-144 °C; Density: 0.9566 g/cm³ @ Temp: 20 °C; Flash Point: 97 °F; Appearance: Picolines are colorless liquids. Strong, unpleasant, pyridine-like odor.“Picoline” is often used as mixed isomers.; Color: Clear yellow; Odor: Unpleasant; Form: Liquid; Water Solubility: soluble; Vapor Pressure: 4.4 mm Hg ( 20 °C); Refractive Index: n 20/D 1.504(lit.); pH: 10 (100g/l, H2O, 20℃); Log P: 1.2 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H226 H226 H302 H302 H311 H311 H314 H314 H318 H318 H319 H319 H331 H331 H332 H332 H335 H335 H336 H336 H351 H351 H370 H370 H372 H372 H402 H402 H411 H411 H311+H331 H311+H331 Precautionary Statements P203 P203 P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P316 P316 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P363 P363 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P337+P317 P337+P317 P361+P364 P361+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29333999; UN Number: 2313; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "beta-picoline | b-Picoline | 3-methylpyridine | Pyridine, 3-methyl- | m-Picoline | m-Methylpyridine | beta-Methylpyridine | B083J4KF7F",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29333999",
+  "similarProducts": [
+    "cas-109-06-8",
+    "cas-108-89-4",
+    "cas-100-54-9",
+    "cas-104-90-5",
+    "cas-100-55-0",
+    "cas-110-86-1",
+    "cas-100-70-9",
+    "cas-110-89-4",
+    "cas-100-48-1",
+    "cas-123-75-1",
+    "cas-17949-65-4",
+    "cas-14639-25-9",
+    "cas-16969-45-2",
+    "cas-65-23-6",
+    "cas-110-89-4",
+    "cas-100-48-1",
+    "cas-123-75-1",
+    "cas-17949-65-4",
+    "cas-14639-25-9",
+    "cas-16969-45-2",
+    "cas-65-23-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-99-6/"
+}

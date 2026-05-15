@@ -1,0 +1,64 @@
+{
+  "id": "2202",
+  "name": "Hydroxylamine",
+  "slug": "cas-7803-49-8",
+  "cas": "7803-49-8",
+  "ec": "232-259-2",
+  "formula": "H3NO",
+  "mw": "33.030 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed",
+    "Textile, Leather & Paper",
+    "Rubber & Tire",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydroxylamine (CAS 7803-49-8 ), also known as azanol, is an inorganic amine used industrially as a reducing agent, oxime-forming reagent, and pH buffer across chemical manufacturing. It is commercially available primarily as aqueous solutions or as its stable salt forms, hydroxylamine hydrochloride and hydroxylamine sulfate. In pharmaceutical synthesis, it is a critical intermediate. This chemical is essential for producing oximes, caprolactam, and active pharmaceutical ingredients where selective nitrogen functionalization is required. Agrochemical manufacturers use it in the synthesis of herbicides. It is also utilized in fungicides and other crop protection compounds. In textile and paper processing, it functions as a reducing agent to strip dyes and control oxidative degradation during bleaching. Rubber producers apply it as a stabilizer and vulcanization auxiliary, where it moderates cure rates in specialty elastomer formulations. It is supplied as stabilized aqueous solutions, typically at 50% concentration. Solid salt forms include hydroxylamine hydrochloride and hydroxylamine sulfate. Technical and reagent grades are the most commonly stocked, with pharmaceutical-grade material available to meet USP standards. The material also meets Ph. Eur. specifications for high-purity applications. Packaging ranges from drums to IBC totes depending on the specific grade and concentration required for your facility. Contact us for supply of Hydroxylamine Request Quote",
+  "physicalProperties": "Melting Point: 33 °C; Boiling Point: 70 °C @ Press: 60 Torr; Density: 1.227 g/cm³; Appearance: slightly yellow liquid; Color: white orthorhombic flakes or needles; Form: white flakes or needles; Water Solubility: Miscible with water, liquid ammonia and methanol. Slightly miscible with ether, benzene, carbon disulfide and chloroform.; Vapor Pressure: 9 mm Hg ( 40 °C); Refractive Index: n 20/D 1.393; pH: 10.6 (20°C in H2O)",
+  "safetyHandling": "Danger GHS01 GHS05 GHS07 GHS08 GHS09 Hazard Statements H200 Unstable Explosive H290 May be corrosive to metals H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H335 May cause respiratory irritation H351 Suspected of causing cancer H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P201 Obtain special instructions before use. P202 Do not handle until all safety precautions have been read and understood. P203 Obtain, consult and follow expert instructions for use. P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P281 Use personal protective equipment as required. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P372 Explosion risk. P373 DO NOT fight fire when fire reaches explosives. P380 Evacuate area. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P401 Store in accordance with … . P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28251090; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "nitrinous acid | azanol | aminol | NH2OH | azinous acid | 2FP81O2L9Z | RefChem:5894",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS01",
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28251090",
+  "similarProducts": [
+    "cas-5470-11-1",
+    "cas-10039-54-0",
+    "cas-7803-57-8",
+    "cas-302-01-2",
+    "cas-5080-22-8",
+    "cas-10217-52-4",
+    "cas-471-46-5",
+    "cas-79-25-4",
+    "cas-1336-21-6",
+    "cas-118-42-3",
+    "cas-621-07-8",
+    "cas-36016-38-3",
+    "cas-95-55-6",
+    "cas-100418-33-5",
+    "cas-79-25-4",
+    "cas-1336-21-6",
+    "cas-118-42-3",
+    "cas-621-07-8",
+    "cas-36016-38-3",
+    "cas-95-55-6",
+    "cas-100418-33-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7803-49-8/"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1507",
+  "name": "Trimethyl orthoacetate",
+  "slug": "cas-1445-45-0",
+  "cas": "1445-45-0",
+  "ec": "215-892-9",
+  "formula": "C5H12O3",
+  "mw": "120.15 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethyl orthoacetate ( CAS 1445-45-0 ), also known as 1,1,1-trimethoxyethane and abbreviated as TMOA, is an orthoacid ester used as a reactive intermediate and protecting group reagent in organic synthesis. In flavor chemistry, it functions as a precursor and acidulant component in controlled-release formulation work. In pharmaceutical manufacturing, TMOA acts as an acetyl transfer agent and methoxylation reagent. This chemical enables selective protection of hydroxyl and carboxyl groups during multi-step API synthesis. Flavor formulators use it to generate acetic acid esters under mild acidic conditions for food applications. It provides controlled acidulant release in finished food and beverage applications. As a catalyst precursor, it participates in transesterification and condensation reactions where controlled hydrolysis is required. Its role in preservation-related formulations draws on its ability to release acetic acid derivatives gradually. This process extends active compound stability in the end product for industrial users. Trimethyl orthoacetate is supplied as a clear liquid, typically in purity grades of 97–99% for synthesis applications. Technical and reagent-grade specifications are the most commonly available formats. Pharmaceutical-grade material is offered by select suppliers to meet API manufacturing requirements. Packaging ranges from small laboratory quantities through to bulk drum supply for industrial users. Contact us for supply of Trimethyl orthoacetate Request Quote",
+  "physicalProperties": "Boiling Point: 107-109 °C; Density: 0.944 g/mL at 25 °C(lit.); Flash Point: 62 °F; Appearance: CLEAR COLOURLESS TO SLIGHTLY BROWN LIQUID; Color: Clear colorless to slightly brown; Form: Liquid; Water Solubility: HYDROLYSIS; Vapor Pressure: 20 hPa (20 °C); Refractive Index: n 20/D 1.388(lit.); Log P: 1.13 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H317 May cause an allergic skin reaction H319 Causes serious eye irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159080; UN Number: 3272; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "1,1,1-trimethoxyethane | Ethane, 1,1,1-trimethoxy- | CH3C(OCH3)3 | AI3-24332 | 04H7A3FK37 | Orthoacetic acid, trimethyl ester | Methyl orthoacetate | TMOA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29159080",
+  "similarProducts": [
+    "cas-149-73-5",
+    "cas-15625-89-5",
+    "cas-121-43-7",
+    "cas-3290-92-4",
+    "cas-122-51-0",
+    "cas-75-50-3",
+    "cas-2459-10-1",
+    "cas-28961-43-5",
+    "cas-512-56-1",
+    "cas-552-30-7",
+    "cas-105-45-3",
+    "cas-77-99-6",
+    "cas-103429-90-9",
+    "cas-407-25-0",
+    "cas-28961-43-5",
+    "cas-512-56-1",
+    "cas-552-30-7",
+    "cas-105-45-3",
+    "cas-77-99-6",
+    "cas-103429-90-9",
+    "cas-407-25-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1445-45-0/"
+}

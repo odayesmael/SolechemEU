@@ -1,0 +1,60 @@
+{
+  "id": "1742",
+  "name": "2-(tert-butylamino)ethyl methacrylate",
+  "slug": "cas-3775-90-4",
+  "cas": "3775-90-4",
+  "ec": "223-228-4",
+  "formula": "C10H19NO2",
+  "mw": "185.26 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Automotive",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-(tert-Butylamino)ethyl methacrylate (CAS 3775-90-4 ), also known commercially as Ageflex FM-4, is a functional methacrylate monomer carrying a secondary amine group. It is used to introduce amine functionality into polymer backbones, enabling controlled reactivity for adhesion, crosslinking, and surface modification in coating and polymer systems. In automotive and industrial coatings, it is incorporated into acrylic copolymers to improve adhesion to metal substrates and facilitate crosslinking with epoxy or isocyanate curatives. Adhesive and sealant formulators use it to build amine-functional resins where controlled cure response and substrate bonding are critical performance requirements for industrial use. In printing inks and packaging coatings, copolymerization with this monomer improves ink adhesion and film cohesion on difficult substrates during the manufacturing process. Plastics compounders and polymer producers also use it as a reactive building block for designing pH-responsive or amine-functional specialty polymers for various applications. The product is supplied as a liquid monomer, typically with an inhibitor package to maintain stability during storage and transport. It is available in technical grade for industrial use. Bulk and drum quantities are standard supply formats for industrial buyers, with sample quantities available for formulation development and testing in laboratory environments. Contact us for supply of 2-(tert-butylamino)ethyl methacrylate Request Quote",
+  "physicalProperties": "Melting Point: <-70 °C; Boiling Point: 100-105 °C @ Press: 12 Torr; Density: 0.914 g/cm³ @ Temp: 25 °C; Flash Point: 160 °F; Color: Colorless to Light yellow; Form: clear liquid; Water Solubility: 18g/L at 25℃; Vapor Pressure: 6Pa at 20℃; Refractive Index: n 20/D 1.442(lit.); Log P: 2.12 at 20℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2922.19.9690; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "2-(tert-butylamino)ethyl 2-methylprop-2-enoate | tert-Butylaminoethyl methacrylate | Ageflex FM-4 | N-tert-Butylaminoethyl methacrylate | 2-Propenoic acid, 2-methyl-, 2-[(1,1-dimethylethyl)amino]ethyl ester | Methacrylic acid, 2-(tert-butylamino)ethyl ester | Ethanol, 2-(tert-butylamino)-, methacrylate (ester)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "2922.19.9690",
+  "similarProducts": [
+    "cas-21282-97-3",
+    "cas-159666-35-0",
+    "cas-96-05-9",
+    "cas-2867-47-2",
+    "cas-31069-81-5",
+    "cas-97-88-1",
+    "cas-25035-69-2",
+    "cas-97-63-2",
+    "cas-688-84-6",
+    "cas-1852-16-0",
+    "cas-107-58-4",
+    "cas-25212-88-8",
+    "cas-13641-96-8",
+    "cas-2212-32-0",
+    "cas-97-63-2",
+    "cas-688-84-6",
+    "cas-1852-16-0",
+    "cas-107-58-4",
+    "cas-25212-88-8",
+    "cas-13641-96-8",
+    "cas-2212-32-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3775-90-4/"
+}

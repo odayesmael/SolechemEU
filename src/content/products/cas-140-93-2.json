@@ -1,0 +1,62 @@
+{
+  "id": "892",
+  "name": "Sodium isopropyl xanthate",
+  "slug": "cas-140-93-2",
+  "cas": "140-93-2",
+  "ec": "205-443-5",
+  "formula": "C4H8OS2.Na",
+  "mw": "158.2 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium isopropyl xanthate (CAS 140-93-2 ), also known commercially as Proxan-sodium and Aeroxanthate 343, is a selective flotation collector used in the concentration of sulfide ores. It functions by adsorbing onto mineral surfaces, rendering them hydrophobic so they attach to air bubbles and separate from gangue material during froth flotation processes. In copper, lead, and zinc sulfide processing, it selectively collects target minerals at relatively low dosage rates, improving concentrate grade and recovery across the circuit. Gold and silver operations use it to float sulfide-associated precious metals where the ore body requires a short-chain xanthate collector for optimal mineral separation. It is also applied in nickel and molybdenum circuits, where its selectivity over non-sulfide gangue reduces downstream processing costs and improves overall plant efficiency. Blended collector formulations in complex polymetallic ores incorporate it alongside other xanthates or dithiophosphates to broaden mineral response across varying ore grades. The product is supplied as a yellow to pale-green powder or granules, with granular form preferred for safer handling and reduced dust exposure on site during mixing. Standard commercial purity is typically 90% or higher, with technical-grade product the norm for mining applications. Packaging is available in bags and bulk quantities. Contact us for supply of Sodium isopropyl xanthate Request Quote",
+  "physicalProperties": "Boiling Point: 466.98°C[at 101 325 Pa]; Density: 1.35[at 20℃]; Appearance: Light-yellow crystals. Soluble in water. Deliquescent, decomposes 150C.; Color: Light yellow/green; Odor: Mild disagreeable odor; Form: White to yellowish powder; Water Solubility: Complete solubility in water; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.5620; Log P: -1.82 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS09 GHS02 GHS05 GHS08 GHS06 Hazard Statements H228 H228 H251 H251 H302 H302 H311 H311 H314 H314 H315 H315 H317 H317 H318 H318 H373 H373 H411 H411 H412 H412 Precautionary Statements P203 P203 P210 P210 P235 P235 P240 P240 P241 P241 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P272 P272 P273 P273 P280 P280 P316 P316 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P363 P363 P391 P391 P405 P405 P407 P407 P410 P410 P413 P413 P420 P420 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P333+P317 P333+P317 P361+P364 P361+P364 P362+P364 P362+P364 P370+P378 P370+P378 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "",
+  "otherNames": "Proxan-sodium | Aeroxanthate 343 | Proxan-sodium [ISO] | Good-rite NIX | Sodium isopropylxanthogenate | Caswell No. 788 | Carbonodithioic acid, O-(1-methylethyl) ester, sodium salt (1:1) | Carbonic acid, dithio-, O-isopropyl ester, sodium salt",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS02",
+    "GHS05",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-108-25-8",
+    "cas-25306-75-6",
+    "cas-2720-73-2",
+    "cas-928-70-1",
+    "cas-53378-51-1",
+    "cas-140-89-6",
+    "cas-1300-72-7",
+    "cas-55947-46-1",
+    "cas-1322-93-6",
+    "cas-1313-82-2",
+    "cas-16721-80-5",
+    "cas-26447-10-9",
+    "cas-5324-84-5",
+    "cas-2211-98-5",
+    "cas-55947-46-1",
+    "cas-1322-93-6",
+    "cas-1313-82-2",
+    "cas-16721-80-5",
+    "cas-26447-10-9",
+    "cas-5324-84-5",
+    "cas-2211-98-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-140-93-2/"
+}

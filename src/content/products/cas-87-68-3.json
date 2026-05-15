@@ -1,0 +1,62 @@
+{
+  "id": "268",
+  "name": "Hexachlorobutadiene",
+  "slug": "cas-87-68-3",
+  "cas": "87-68-3",
+  "ec": "201-765-5",
+  "formula": "C4Cl6",
+  "mw": "260.8 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hexachlorobutadiene (CAS 87-68-3 ), commonly referred to as HCBD, is a dense chlorinated solvent historically used in industrial cleaning and chemical processing operations. It functions primarily as a solvent for other chlorine-containing compounds and has been applied in high-temperature or chemically aggressive environments where conventional solvents fail. In oil and gas processing, HCBD has been used to recover chlorine-containing byproducts generated during the production of chlorinated solvents such as trichloroethylene and tetrachloroethylene. It serves as a fumigant and grain protectant in legacy agricultural applications, though regulatory restrictions have significantly curtailed this use in modern industrial settings. In lubricant and metalworking contexts, its chemical stability under thermal stress made it a candidate for specialized hydraulic fluids and heat transfer media for various systems. It has also been used as a wash liquid in gas scrubbing systems to remove impurities from chlorine-based process streams, ensuring higher purity levels for downstream manufacturing. Hexachlorobutadiene is supplied as a liquid at ambient conditions. Technical-grade material is the standard commercial form, typically offered in drums or bulk quantities for procurement. Buyers should verify current import, export, and handling regulations, as HCBD is subject to restrictions under international chemical conventions in multiple global jurisdictions. Contact us for supply of Hexachlorobutadiene Request Quote",
+  "physicalProperties": "Melting Point: -21 °C; Boiling Point: 215 °C @ Press: 760 Torr; Density: 1.556 g/cm³ @ Temp: 25 °C; Flash Point: 210-220°C; Appearance: Hexachlorobutadiene is a clear, colorless liquid with a faint, turpentine-like odor.; Odor: faint turpentine odor; Form: neat; Water Solubility: (mg/L): 4.78 at 25 °C (shake flask-LSC, Banerjee et al., 1980) 4 at 20–25 °C (Geyer et al., 1980); Vapor Pressure: 0.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.555(lit.)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H227 Combustible liquid H301 Toxic if swallowed H302 Harmful if swallowed H310 Fatal in contact with skin H312 Harmful in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H341 Suspected of causing genetic defects H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29032990; UN Number: 2279; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "HCBD | 1,3-Hexachlorobutadiene | Hexachloro-1,3-butadiene | Hexachlorobuta-1,3-diene | 1,1,2,3,4,4-hexachlorobuta-1,3-diene | Dolen-pur | 1,3-Butadiene, 1,1,2,3,4,4-hexachloro- | Butadiene, hexachloro-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29032990",
+  "similarProducts": [
+    "cas-3194-55-6",
+    "cas-25637-99-4",
+    "cas-106-99-0",
+    "cas-110-54-3",
+    "cas-13355-96-9",
+    "cas-110-82-7",
+    "cas-95-50-1",
+    "cas-112-59-4",
+    "cas-108-87-2",
+    "cas-112-82-3",
+    "cas-608-93-5",
+    "cas-111-25-1",
+    "cas-407-70-5",
+    "cas-630-06-8",
+    "cas-112-59-4",
+    "cas-108-87-2",
+    "cas-112-82-3",
+    "cas-608-93-5",
+    "cas-111-25-1",
+    "cas-407-70-5",
+    "cas-630-06-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-87-68-3/"
+}

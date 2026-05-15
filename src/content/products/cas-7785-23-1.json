@@ -1,0 +1,58 @@
+{
+  "id": "2170",
+  "name": "Silver bromide",
+  "slug": "cas-7785-23-1",
+  "cas": "7785-23-1",
+  "ec": "232-076-8",
+  "formula": "AgBr",
+  "mw": "187.77 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silver bromide (CAS 7785-23-1 ), commonly referenced as AgBr, is an inorganic silver salt used primarily for its light-sensitive properties in photographic and electronic applications. It forms the basis of light-reactive coatings and surface treatments where controlled photochemical response is required. In traditional and specialty photographic film manufacturing, AgBr is the active emulsion component that captures latent image data upon light exposure. Printed circuit board fabrication uses silver bromide-based chemistry for photoresist and surface modification processes. These processes are essential where precise patterning is critical for high-performance electronics. Specialty optical coatings and infrared-transmitting materials incorporate AgBr for its transparency in specific wavelength ranges, supporting sensor and detector manufacturing. Antimicrobial surface treatments in electronics and medical device components also draw on silver bromide's controlled ion-release behavior. This functionality is used to inhibit microbial growth on contact surfaces in sensitive environments. Silver bromide is supplied as a pale yellow crystalline powder, typically handled and packaged under light-protected conditions to preserve reactivity. Technical and high-purity grades are available to meet various industrial requirements. Purity specifications commonly range from 98% to 99.9%+ to meet the demands of photographic emulsion and electronics manufacturing. Packaging is generally provided in light-proof, moisture-resistant containers for stability. These containers are available in quantities ranging from laboratory-scale to bulk industrial supply. Our logistics team ensures that all shipments maintain the integrity of the light-sensitive material during transit to your facility. Contact us for supply of Silver bromide Request Quote",
+  "physicalProperties": "Melting Point: 432 °C; Boiling Point: 700 °C; Density: 6.47 g/cm³; Appearance: Pale Yellow Powder; Color: Pale Yellow; Form: Powder; Water Solubility: soluble in alkali cyanide solutions. Partially soluble in ammonia. Insoluble in alcohol and acids. Practically insoluble in water.",
+  "safetyHandling": "Danger GHS08 GHS09 Hazard Statements H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations.",
+  "tradeRegulatory": "HS Code: 2843290000; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "silver(I) bromide | AgBr | Silver bromide (AgBr) | NHQ37BJZ2Z | RefChem:183027 | Silver monobromide | Argentous bromide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2843290000",
+  "similarProducts": [
+    "cas-7783-90-6",
+    "cas-7761-88-8",
+    "cas-7758-02-3",
+    "cas-7647-15-6",
+    "cas-10294-26-5",
+    "cas-506-64-9",
+    "cas-7440-22-4",
+    "cas-7789-38-0",
+    "cas-126-45-4",
+    "cas-12124-97-9",
+    "cas-7726-95-6",
+    "cas-20667-12-3",
+    "cas-506-61-6",
+    "cas-14701-21-4",
+    "cas-7789-38-0",
+    "cas-126-45-4",
+    "cas-12124-97-9",
+    "cas-7726-95-6",
+    "cas-20667-12-3",
+    "cas-506-61-6",
+    "cas-14701-21-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7785-23-1/"
+}

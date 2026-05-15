@@ -1,0 +1,61 @@
+{
+  "id": "2555",
+  "name": "Sodium tellurite",
+  "slug": "cas-10102-20-2",
+  "cas": "10102-20-2",
+  "ec": "233-268-4",
+  "formula": "H2O3Te.2Na",
+  "mw": "221.6 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium tellurite (CAS 10102-20-2 ), also referenced as disodium tellurite in reagent catalogs, is an inorganic tellurium salt used primarily as a selective inhibitor. It serves as a trace-element source in microbiological and biochemical applications. Its ability to suppress non-target bacterial growth makes it a valued tool in diagnostic and research workflows. In clinical and pharmaceutical microbiology, it is incorporated into selective culture media to isolate Corynebacterium diphtheriae and other tellurite-tolerant organisms. Biotechnology researchers use it as a tellurium source in studies investigating bacterial tellurite resistance mechanisms and the biosynthesis of tellurium nanoparticles. Pharmaceutical-grade preparations are used in controlled laboratory settings to evaluate antimicrobial susceptibility and screen microbial strains for industrial fermentation programs. It also serves as a reference standard material in analytical chemistry workflows requiring certified tellurium content. The product is supplied as a white to off-white crystalline powder. It is available in reagent-grade and laboratory-grade specifications, with high-purity grades offered for research and pharmaceutical applications. Packaging ranges from small quantities for laboratory use to larger bulk formats for institutional or industrial buyers, ensuring consistent quality for all technical requirements. Contact us for supply of Sodium tellurite Request Quote",
+  "physicalProperties": "Appearance: Sodium tellurite is a white crystalline solid.; Color: White; Form: Powder; Water Solubility: Soluble in water.",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H300 Fatal if swallowed H301 Toxic if swallowed H311 Toxic in contact with skin H317 May cause an allergic skin reaction H330 Fatal if inhaled H331 Toxic if inhaled H332 Harmful if inhaled H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 28429090; UN Number: 3288; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 3",
+  "otherNames": "disodium tellurite | Sodium tellurate(IV) | Disodium trioxotellurate | Tellurous acid, disodium salt | Telluric acid (H2TeO3), disodium salt | Telluric acid, disodium salt | Telluric acid (H2TeO3), sodium salt (1:2) | 0BB57LA23Y",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28429090",
+  "similarProducts": [
+    "cas-7446-07-3",
+    "cas-10102-18-8",
+    "cas-13410-01-0",
+    "cas-12232-99-4",
+    "cas-7772-98-7",
+    "cas-868-18-8",
+    "cas-7631-95-0",
+    "cas-7758-19-2",
+    "cas-7440-23-5",
+    "cas-20941-65-5",
+    "cas-10102-40-6",
+    "cas-64665-57-2",
+    "cas-12068-03-0",
+    "cas-10102-17-7",
+    "cas-7758-19-2",
+    "cas-7440-23-5",
+    "cas-20941-65-5",
+    "cas-10102-40-6",
+    "cas-64665-57-2",
+    "cas-12068-03-0",
+    "cas-10102-17-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10102-20-2/"
+}

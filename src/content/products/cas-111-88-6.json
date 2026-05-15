@@ -1,0 +1,61 @@
+{
+  "id": "630",
+  "name": "1-octanethiol",
+  "slug": "cas-111-88-6",
+  "cas": "111-88-6",
+  "ec": "203-918-1",
+  "formula": "C8H18S",
+  "mw": "146.30 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Lubricants & Metalworking",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Octanethiol (CAS 111-88-6 ), also known commercially as n-octyl mercaptan, is a sulfur-containing organic compound used as a chain transfer agent in polymer synthesis. It serves as a chemical intermediate across specialty chemical manufacturing. Its reactive thiol group makes it a functional building block in pharmaceutical and industrial processes. In polymer production, it controls molecular weight during free-radical polymerization of acrylates, styrene, and vinyl acetate. This directly influences the mechanical properties of the final resin. The pharmaceutical industry uses it as a synthetic intermediate in the preparation of active ingredients and sulfur-containing compounds for various medical applications. In lubricant formulations, it contributes to extreme-pressure additive packages for metalworking fluids. Here, sulfur-based chemistry provides boundary lubrication under high-load conditions to protect machinery and tools. It also functions as a coupling agent and surface modifier for metal nanoparticles and quantum dots in specialty materials applications. This versatility makes it essential for advanced material science and electronics. The product is supplied as a clear liquid in standard packaging ranging from drums to ISO containers, depending on volume requirements. Technical grade is the most common commercial specification for industrial use. High-purity grades are available for pharmaceutical and specialty materials applications. Suppliers typically offer material with purity levels of 98% or higher to meet strict manufacturing requirements. Certificate of analysis documentation is standard for regulated-industry procurement. This ensures that the material meets the necessary safety and performance benchmarks for global chemical distribution and logistics. Contact us for supply of 1-octanethiol Request Quote",
+  "physicalProperties": "Melting Point: -49.2 °C; Boiling Point: 86 °C @ Press: 15 Torr; Density: 0.8433 g/cm³ @ Temp: 20 °C; Flash Point: 55 °F; Appearance: colourless liquid; Color: Clear colorless; Odor: at 0.10?%?in?dipropylene glycol. sulfurous; Form: Liquid; Water Solubility: Not miscible in water.; Vapor Pressure: 0.3 hPa (20 °C); Refractive Index: n 20/D 1.452(lit.); Log P: 4.21 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H227 Combustible liquid H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 1170; ADR Class: 3; Packing Group: II; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "n-octyl mercaptan | 1-octylthiol | 1-mercaptooctane | Octane-1-thiol | Octyl mercaptan | n-Octanethiol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-112-55-0",
+    "cas-25103-09-7",
+    "cas-111-87-5",
+    "cas-111-86-4",
+    "cas-6169-06-8",
+    "cas-1806-26-4",
+    "cas-109-79-5",
+    "cas-629-41-4",
+    "cas-112-88-9",
+    "cas-25103-58-6",
+    "cas-140-66-9",
+    "cas-3913-02-8",
+    "cas-2943-75-1",
+    "cas-2430-22-0",
+    "cas-629-41-4",
+    "cas-112-88-9",
+    "cas-25103-58-6",
+    "cas-140-66-9",
+    "cas-3913-02-8",
+    "cas-2943-75-1",
+    "cas-2430-22-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-88-6/"
+}

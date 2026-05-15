@@ -1,0 +1,63 @@
+{
+  "id": "2060",
+  "name": "Palladium Chloride",
+  "slug": "cas-7647-10-1",
+  "cas": "7647-10-1",
+  "ec": "231-596-2",
+  "formula": "Cl2Pd",
+  "mw": "177.32 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Printing & Packaging",
+    "Mining & Metals",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Palladium Chloride (CAS 7647-10-1 ), commonly referenced as PdCl2, is an inorganic palladium salt used primarily as a catalyst precursor and analytical reagent across chemical manufacturing and industrial processing. It serves as the entry-point compound for producing a broad range of palladium-based catalysts deployed in high-value synthesis and surface treatment applications. In pharmaceutical manufacturing, it is used to prepare catalysts for cross-coupling reactions. These reactions, including Suzuki, Heck, and Sonogashira, are essential for building complex active pharmaceutical ingredients. Printed circuit board and electronics manufacturers use it as a sensitizing agent in electroless plating baths. This application enables copper deposition onto non-conductive substrates. In mining and hydrometallurgy, it functions as a reference material and selective precipitant in precious metal refining and assay processes. Antimicrobial and biocide formulations in industrial water treatment and preservation also draw on its activity against microbial contamination. Palladium Chloride is supplied as a dark brown to red crystalline powder. It is also available as an aqueous hydrochloric acid solution. Standard commercial grades include anhydrous and dihydrate forms, with purity levels ranging from technical grade to high-purity specifications. These grades meet research and catalyst manufacturing requirements. Packaging is typically offered in small quantities due to the material's high unit value and specialized industrial handling needs. Contact us for supply of Palladium Chloride Request Quote",
+  "physicalProperties": "Melting Point: 678-680 °C; Density: 4 x 10<sup>-6</sup> g/cm³ @ Temp: 18 °C; Appearance: Red-brown powder; Color: Yellow; Odor: Odorless; Form: Powder/Solid; Water Solubility: Insoluble; Vapor Pressure: 0Pa at 20℃; pH: 2.15 (30g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS09 Hazard Statements H290 May be corrosive to metals H301 Toxic if swallowed H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P234 Keep only in original packaging. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28439090; UN Number: 1789; ADR Class: 8; Packing Group: III; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "Palladium dichloride | Palladium (ii) chloride | Dichloropalladium | PdCl2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "28439090",
+  "similarProducts": [
+    "cas-3375-31-3",
+    "cas-7783-90-6",
+    "cas-7447-39-4",
+    "cas-1344-67-8",
+    "cas-10026-11-6",
+    "cas-7646-79-9",
+    "cas-7718-54-9",
+    "cas-7550-45-0",
+    "cas-7787-47-5",
+    "cas-3282-30-2",
+    "cas-7446-70-0",
+    "cas-10025-69-1",
+    "cas-7791-13-1",
+    "cas-10099-58-8",
+    "cas-7550-45-0",
+    "cas-7787-47-5",
+    "cas-3282-30-2",
+    "cas-7446-70-0",
+    "cas-10025-69-1",
+    "cas-7791-13-1",
+    "cas-10099-58-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7647-10-1/"
+}

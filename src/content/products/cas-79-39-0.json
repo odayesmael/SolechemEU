@@ -1,0 +1,59 @@
+{
+  "id": "222",
+  "name": "Methacrylamide",
+  "slug": "cas-79-39-0",
+  "cas": "79-39-0",
+  "ec": "201-202-3",
+  "formula": "C4H7NO",
+  "mw": "85.10 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methacrylamide (CAS 79-39-0 ) is a reactive monomer used to build functional polymer networks across specialty chemical manufacturing. It is commercially recognized under the name methacrylic acid amide in some supplier and regulatory contexts. Its primary industrial role is as a co-monomer that introduces amide functionality into polymer backbones, enabling controlled surface chemistry and hydrogel formation. In biotechnology and life sciences, it is a key building block for polyacrylamide-based hydrogels. These hydrogels are used in cell culture scaffolds, drug delivery matrices, and gel electrophoresis systems. Personal care formulators incorporate it into film-forming and conditioning polymers where surface adhesion and moisture retention are critical. It is also used in surface modification coatings for medical devices and diagnostic substrates, where the amide group enables covalent attachment of biomolecules. Industrial polymer producers use it to introduce reactive sites into copolymer systems. These systems are essential for adhesives and specialty coatings requiring tunable crosslink density. The chemical is supplied as a white crystalline solid. Standard commercial grades include technical and high-purity research grades. Purity specifications typically range from 98% to 99%+. Inhibited grades containing a polymerization inhibitor are available for safe handling and storage during transport. This ensures stability throughout the supply chain and manufacturing process. Contact us for supply of Methacrylamide Request Quote",
+  "physicalProperties": "Melting Point: 109-110 °C; Boiling Point: 215 °C; Density: 1,115 g/cm 3; Flash Point: 215°C; Appearance: white to very slightly yellow crystals; Color: White to very slightly yellow; Form: Crystals; Water Solubility: 202 g/L (20 ºC); Vapor Pressure: 0.0015 hPa (20 °C); Refractive Index: 1.3992 (estimate); pH: 7.1 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29241990; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Methacrylic amide | Methacrylic acid amide | alpha-Methyl acrylic amide | 2-Methylacrylamide | 2-methylprop-2-enamide | 2-Methylpropenamide | 2-Propenamide, 2-methyl- | Methylacrylic amide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29241990",
+  "similarProducts": [
+    "cas-760-93-0",
+    "cas-79-41-4",
+    "cas-79-06-1",
+    "cas-924-42-5",
+    "cas-80-62-6",
+    "cas-60-35-5",
+    "cas-96-33-3",
+    "cas-96-05-9",
+    "cas-2867-47-2",
+    "cas-10604-69-0",
+    "cas-2873-97-4",
+    "cas-5039-78-1",
+    "cas-1852-16-0",
+    "cas-74-89-5",
+    "cas-96-05-9",
+    "cas-2867-47-2",
+    "cas-10604-69-0",
+    "cas-2873-97-4",
+    "cas-5039-78-1",
+    "cas-1852-16-0",
+    "cas-74-89-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-39-0/"
+}

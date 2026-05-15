@@ -1,0 +1,62 @@
+{
+  "id": "1584",
+  "name": "o-cresyl glycidyl ether",
+  "slug": "cas-2210-79-9",
+  "cas": "2210-79-9",
+  "ec": "218-645-3",
+  "formula": "C10H12O2",
+  "mw": "164.20 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Automotive",
+    "Aerospace & Defense",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "O-cresyl glycidyl ether (CAS 2210-79-9 ), also identified commercially as o-CGE, is a reactive epoxy monomer used to modify and cure polymer systems. It functions as a reactive diluent, reducing viscosity in epoxy formulations while participating in the curing reaction. By becoming part of the final polymer network, it ensures structural integrity. In epoxy coatings for automotive and aerospace components, o-CGE lowers system viscosity without the performance losses associated with non-reactive diluents. This chemical enables better substrate penetration and film formation in demanding environments. Structural adhesives and sealants incorporate it to improve flexibility and processability in high-performance bonding applications. Formulators in the electrical and industrial coatings sectors use it as a plasticizing co-monomer to reduce brittleness in cured epoxy systems. It also serves as a building block in specialty polymer synthesis. This is particularly useful where controlled crosslink density and chain flexibility are required. O-cresyl glycidyl ether is supplied as a liquid at ambient temperature, suitable for direct blending into epoxy resin systems. It is available in technical grade, with purity specifications typically confirmed by epoxide equivalent weight and GC purity. Packaging options generally include drums and IBC containers for industrial volumes. Contact us for supply of o-cresyl glycidyl ether Request Quote",
+  "physicalProperties": "Boiling Point: 109-111 °C @ Press: 4.00 Torr; Density: 1.08 g/cm³; Flash Point: >230 °F; Form: liquid; Water Solubility: 840mg/L at 21℃; Vapor Pressure: 0.514Pa at 20℃; Refractive Index: n 20/D 1.529(lit.); Log P: 2.5 at 21℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H315 Causes skin irritation H317 May cause an allergic skin reaction H320 Causes eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29109000; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "ortho-cresyl glycidyl ether | o-CGE | ((2-methylphenoxy)methyl)oxirane | Glycidyl 2-methylphenyl ether | Glycidyl o-tolyl ether | 2-Methylphenyl glycidyl ether | Araldite DY 023 | 1,2-Epoxy-3-(2-methylphenoxy)propane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29109000",
+  "similarProducts": [
+    "cas-2461-15-6",
+    "cas-2930-05-4",
+    "cas-68609-97-2",
+    "cas-106-92-3",
+    "cas-14228-73-0",
+    "cas-28064-14-4",
+    "cas-2425-79-8",
+    "cas-109-86-4",
+    "cas-110-80-5",
+    "cas-2807-30-9",
+    "cas-2897-60-1",
+    "cas-71032-90-1",
+    "cas-111-90-0",
+    "cas-104-68-7",
+    "cas-109-86-4",
+    "cas-110-80-5",
+    "cas-2807-30-9",
+    "cas-2897-60-1",
+    "cas-71032-90-1",
+    "cas-111-90-0",
+    "cas-104-68-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2210-79-9/"
+}

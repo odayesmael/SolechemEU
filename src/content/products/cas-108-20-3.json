@@ -1,0 +1,59 @@
+{
+  "id": "520",
+  "name": "Diisopropyl ether",
+  "slug": "cas-108-20-3",
+  "cas": "108-20-3",
+  "ec": "203-560-6",
+  "formula": "C6H14O",
+  "mw": "102.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diisopropyl ether (CAS 108-20-3 ), also known as isopropyl ether or DIPE, is a low-polarity ether solvent used across pharmaceutical, chemical, and flavor extraction processes. Its selective solvency and low water miscibility make it a practical choice for liquid-liquid extraction and azeotropic drying operations in various industrial settings. In pharmaceutical and fine chemical manufacturing, DIPE is used as an extraction solvent to isolate active compounds and intermediates from aqueous reaction mixtures effectively. Flavor and fragrance producers use it to extract and concentrate aromatic compounds from natural raw materials, where clean solvent removal is critical to end-product quality. It also functions as a reaction solvent in organic synthesis, particularly where a low-boiling, recoverable ether is preferred over higher-residue alternatives for the process. In fuel blending, DIPE serves as an oxygenate additive to improve octane ratings in gasoline formulations, demonstrating its versatility across different chemical sectors. Diisopropyl ether is supplied as a liquid in drum and IBC quantities, with bulk tanker options available for large-volume industrial buyers requiring consistent supply chains. Technical grade is the standard commercial offering, with anhydrous and stabilized variants available to meet specific handling and storage requirements for purity above 99%. Contact us for supply of Diisopropyl ether Request Quote",
+  "physicalProperties": "Melting Point: -86.8 °C; Boiling Point: 68.5 °C; Density: 0.7258 g/cm³ @ Temp: 20 °C; Flash Point: −29 °F; Appearance: colourless liquid; Color: APHA: ≤25; Odor: Sweet, slightly sharp; characteristic pungent; ethereal; like amphor and ethyl ether.; Form: Liquid; Water Solubility: 9 g/L (20 ºC); Vapor Pressure: 120 mm Hg ( 20 °C); Refractive Index: n 20/D 1.367(lit.); pH: 7 (20°C); Log P: 2.4 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H316 Causes mild skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091990; UN Number: 1159; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Isopropyl ether | Diisopropyl oxide | 2-Isopropoxy propane | Propane, 2,2'-oxybis- | Ether, isopropyl | Bis(isopropyl) ether | Izopropylowy eter | Ether isopropylique | DIPE",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29091990",
+  "similarProducts": [
+    "cas-60-29-7",
+    "cas-29911-27-1",
+    "cas-111109-77-4",
+    "cas-112-36-7",
+    "cas-629-82-3",
+    "cas-101-84-8",
+    "cas-103-50-4",
+    "cas-20324-32-7",
+    "cas-7778-85-0",
+    "cas-112-73-2",
+    "cas-111-96-6",
+    "cas-104-68-7",
+    "cas-111-44-4",
+    "cas-29911-28-2",
+    "cas-20324-32-7",
+    "cas-7778-85-0",
+    "cas-112-73-2",
+    "cas-111-96-6",
+    "cas-104-68-7",
+    "cas-111-44-4",
+    "cas-29911-28-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-20-3/"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "928",
+  "name": "Heptane",
+  "slug": "cas-142-82-5",
+  "cas": "142-82-5",
+  "ec": "205-563-8",
+  "formula": "C7H16",
+  "mw": "100.20 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Printing & Packaging",
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy",
+    "Plastics & Polymers",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Heptane (CAS 142-82-5 ), also known as n-Heptane, is a straight-chain aliphatic hydrocarbon solvent used across pharmaceutical manufacturing, industrial processing, and laboratory applications. Its controlled evaporation rate and low polarity make it a preferred solvent for extraction, cleaning, and reaction processes where residue-free performance is critical for high-end production. In pharmaceutical manufacturing, heptane is used as a recrystallization solvent and reaction medium for active pharmaceutical ingredient synthesis, where low residual solvent limits are tightly regulated. Rubber and polymer producers use it to dissolve and process elastomers, control polymerization reactions, and prepare adhesive formulations for various industrial and commercial bonding applications. In printing and packaging, it functions as a fast-evaporating carrier solvent in gravure inks and surface coatings. Analytical and calibration laboratories rely on n-heptane as a primary reference standard. It is used for octane rating tests and as a mobile phase component in normal-phase chromatography. Heptane is supplied as a clear, colorless liquid in drums, IBCs, and bulk tanker quantities. Established grades include technical, reagent, HPLC, and pharmaceutical-grade. High-purity anhydrous grades are available for moisture-sensitive synthesis applications and specialized chemical research. Contact us for supply of Heptane Request Quote",
+  "physicalProperties": "Melting Point: -91 °C; Boiling Point: 98 °C; Density: 0.68 g/cm³; Flash Point: 30 °F; Appearance: n-Heptane is a clear liquid which is highly flammable and volatile with a mild, gasoline-like odor. The odor threshold is 40 547 ppm; also reported @ 230 ppm.; Color: ≤10(APHA); Odor: Gasoline.; Form: Liquid; Water Solubility: practically insoluble; Vapor Pressure: 40 mm Hg ( 20 °C); Refractive Index: n 20/D 1.397; Log P: 4.660",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29011000; UN Number: 1206; ADR Class: 3; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "n-Heptane | Heptan | Heptyl hydride | Dipropyl methane | Gettysolve-C | Skellysolve C | Heptanen",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29011000",
+  "similarProducts": [
+    "cas-110-54-3",
+    "cas-111-70-6",
+    "cas-110-82-7",
+    "cas-111-14-8",
+    "cas-5617-32-3",
+    "cas-22767-50-6",
+    "cas-78-78-4",
+    "cas-68141-27-5",
+    "cas-110-43-0",
+    "cas-112-06-1",
+    "cas-111-27-3",
+    "cas-544-76-3",
+    "cas-100231-64-9",
+    "cas-620-67-7",
+    "cas-68141-27-5",
+    "cas-110-43-0",
+    "cas-112-06-1",
+    "cas-111-27-3",
+    "cas-544-76-3",
+    "cas-100231-64-9",
+    "cas-620-67-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-142-82-5/"
+}

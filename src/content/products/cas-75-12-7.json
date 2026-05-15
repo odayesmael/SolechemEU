@@ -1,0 +1,63 @@
+{
+  "id": "146",
+  "name": "Formamide",
+  "slug": "cas-75-12-7",
+  "cas": "75-12-7",
+  "ec": "200-842-0",
+  "formula": "CH3NO",
+  "mw": "45.041 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Electronics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Formamide (CAS 75-12-7 ) is a primary amide solvent used across pharmaceutical synthesis, electronics manufacturing, and specialty chemical processing. It functions both as a high-polarity solvent and as a chemical intermediate in the production of active ingredients and industrial compounds. In pharmaceutical manufacturing, this compound serves as a reaction medium and building block for synthesizing purines, vitamins, and other heterocyclic compounds. The electronics industry relies on it as a solvent in the production of electrolytic capacitors. It is also utilized as a processing aid for certain polymer films. In textile and leather processing, it acts as a softening and conditioning agent, improving flexibility and workability of treated materials during the manufacturing process. Agrochemical producers also use this substance as an intermediate in the synthesis of pesticide and herbicide active substances. It is supplied as a clear, water-miscible liquid in standard bulk and drummed quantities for industrial use. Technical grade is the most common commercial specification, with high-purity grades available to meet pharmaceutical intermediate requirements. Suppliers typically offer material with defined purity thresholds, commonly 99% and above. The material is supported by relevant analytical documentation for regulated industries. This ensures that the product meets the necessary safety and quality benchmarks required for complex chemical synthesis and large-scale industrial applications. Contact us for supply of Formamide Request Quote",
+  "physicalProperties": "Melting Point: 2.55 °C; Boiling Point: 210.5 °C @ Press: 760 Torr; Density: 1.1334 g/cm³ @ Temp: 20 °C; Flash Point: 310 °F; Appearance: Formamide is a colorless, viscous liquid. Faint ammonia-like odor.; Color: clear, colorless; Odor: Odorless; Form: liquid; Water Solubility: miscible; Vapor Pressure: 0.08 mm Hg ( 20 °C); Refractive Index: n 20/D 1.447(lit.); pH: 8-10 (200g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS08 GHS05 GHS07 Hazard Statements H290 May be corrosive to metals [Warning Corrosive to Metals] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H351 Suspected of causing cancer [Warning Carcinogenicity] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H316 Causes mild skin irritation [Warning Skin corrosion/irritation]",
+  "tradeRegulatory": "HS Code: 29241900; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "Formimidic acid | Formic acid, amide | Methanoic acid, amide | Amid kyseliny mravenci",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29241900",
+  "similarProducts": [
+    "cas-68-12-2",
+    "cas-60-35-5",
+    "cas-617-84-5",
+    "cas-540-69-2",
+    "cas-107-31-3",
+    "cas-141-53-7",
+    "cas-50-00-0",
+    "cas-4394-85-8",
+    "cas-471-46-5",
+    "cas-79-39-0",
+    "cas-74-89-5",
+    "cas-617-89-0",
+    "cas-598-94-7",
+    "cas-590-29-4",
+    "cas-4394-85-8",
+    "cas-471-46-5",
+    "cas-79-39-0",
+    "cas-74-89-5",
+    "cas-617-89-0",
+    "cas-598-94-7",
+    "cas-590-29-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-12-7/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2525",
+  "name": "Hydrogen iodide",
+  "slug": "cas-10034-85-2",
+  "cas": "10034-85-2",
+  "ec": "233-109-9",
+  "formula": "HI",
+  "mw": "127.9124 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydrogen iodide ( CAS 10034-85-2 ), commercially supplied as hydroiodic acid, is an inorganic acid used primarily as a reducing agent and iodine source in chemical synthesis. In aqueous solution, it delivers both strong acid activity and iodide ion availability. This makes it a valued reagent across pharmaceutical manufacturing and specialty chemistry. In pharmaceutical synthesis, it serves as a key reagent for dealkylation reactions, particularly in the production of active pharmaceutical ingredients. It is frequently used where methyl ether cleavage is required for complex molecules. Food-grade hydroiodic acid is used in limited acidulant and iodine-fortification applications where precise iodide delivery is needed for specific formulations. In biotechnology and life sciences, it functions as a reagent in nucleotide chemistry and iodination protocols for labeling and analytical workflows. Industrial pH adjustment processes also draw on its strong acid character. This is particularly useful where iodide co-introduction is acceptable or required for the final product. The chemical is supplied as an aqueous solution, with 47% and 57% w/w concentrations being the most commercially standard. Reagent-grade and ACS -grade specifications are typical for laboratory and synthesis supply. Pharmaceutical-grade material is also available to meet API manufacturing requirements and rigorous quality control protocols. Stabilized and unstabilized variants exist for different industrial needs. Stabilized grades include a hypophosphorous acid additive to prevent oxidation and maintain product clarity during long-term storage and transport. Contact us for supply of Hydrogen iodide Request Quote",
+  "physicalProperties": "Melting Point: -51 °C; Boiling Point: -35.5 °C; Density: 2.85 g/cm³ (liquid) @ Temp: -5 °C; Flash Point: 126-127°C; Appearance: Clear liquid, colourless to slightly yellow; Color: Colorless to brown; Odor: Pungent odor; Form: colorless or yellow gas; Water Solubility: soluble; Vapor Pressure: 721.8kPa at 20℃; pH: 3.01(1 mM solution);2.04(10 mM solution);1.08(100 mM solution)",
+  "safetyHandling": "Danger GHS04 GHS05 GHS06 GHS08 Hazard Statements H280 H280 H314 H314 H318 H318 H331 H331 H370 H370 H372 H372 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P316 P316 P317 P317 P319 P319 P321 P321 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P304+P340 P304+P340 P308+P316 P308+P316 P403+P233 P403+P233 P410+P403 P410+P403 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28111990; UN Number: 1787; ADR Class: 8; Packing Group: II; Storage Class: 8B - Non-combustible corrosive hazardous materials",
+  "otherNames": "hydroiodic acid | Hydriodic acid | iodane | Hyriodic acid | Acido yodhidrico | Acide iodhydrique | Hydrogen iodide (HI) | Anhydrous hydriodic acid | HI",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28111990",
+  "similarProducts": [
+    "cas-10035-10-6",
+    "cas-7681-11-0",
+    "cas-7553-56-2",
+    "cas-7681-82-5",
+    "cas-7647-01-0",
+    "cas-7664-39-3",
+    "cas-5470-11-1",
+    "cas-6303-21-5",
+    "cas-5080-22-8",
+    "cas-7803-49-8",
+    "cas-7803-57-8",
+    "cas-302-01-2",
+    "cas-7646-69-7",
+    "cas-7722-84-1",
+    "cas-6303-21-5",
+    "cas-5080-22-8",
+    "cas-7803-49-8",
+    "cas-7803-57-8",
+    "cas-302-01-2",
+    "cas-7646-69-7",
+    "cas-7722-84-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10034-85-2/"
+}

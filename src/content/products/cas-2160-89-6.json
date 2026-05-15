@@ -1,0 +1,61 @@
+{
+  "id": "1577",
+  "name": "Hexafluoroisopropyl acrylate",
+  "slug": "cas-2160-89-6",
+  "cas": "2160-89-6",
+  "ec": "218-479-1",
+  "formula": "C6H4F6O2",
+  "mw": "222.08 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Electronics",
+    "Aerospace & Defense",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hexafluoroisopropyl acrylate (CAS 2160-89-6 ) is a fluorinated acrylic monomer used to introduce extreme hydrophobicity, chemical resistance, and low surface energy into polymer systems. It functions as a reactive building block in specialty coatings, optical materials, and high-performance polymer formulations where standard acrylates cannot meet durability requirements. In electronics and photonics, it is incorporated into UV-curable resins and optical coatings where low refractive index and moisture resistance are critical performance targets. Aerospace and defense coating formulators use it to produce films with exceptional resistance to fuels, solvents, and aggressive atmospheric conditions during operation. In fluoropolymer synthesis, it serves as a comonomer to tune the surface energy and chemical resistance profile of specialty membranes and release coatings for industrial use. Researchers and industrial formulators also apply it in anti-fouling and hydrophobic surface treatments for substrates requiring durable, low-adhesion finishes and protection. Hexafluoroisopropyl acrylate is supplied as a liquid monomer, typically with an inhibitor added to prevent premature polymerization during storage and transport phases. It is available in technical and research-grade specifications, with purity levels commonly ranging from 97% upward for industrial and advanced material applications globally. Contact us for supply of Hexafluoroisopropyl acrylate Request Quote",
+  "physicalProperties": "Boiling Point: 84-85 °C @ Press: 760 Torr; Density: 1.335 g/cm³ @ Temp: 20 °C; Flash Point: 50 °F; Appearance: clear colorless liquid; Color: Colorless to Almost colorless; Form: clear liquid; Water Solubility: Insoluble; Vapor Pressure: 1.22 psi ( 20 °C); Refractive Index: n 20/D 1.319(lit.)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29161290; UN Number: 3272; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "2,2,2-Trifluoro-1-(trifluoromethyl)ethyl acrylate | 2-Propenoic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester | RefChem:786092 | 1,1,1,3,3,3-Hexafluoroisopropyl acrylate | Acrylic acid, 2,2,2-trifluoro-1-(trifluoromethyl)ethyl ester | Ethanol, 2,2,2-trifluoro-1-(trifluoromethyl)-, acrylate | HFIPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29161290",
+  "similarProducts": [
+    "cas-2918-23-2",
+    "cas-27813-02-1",
+    "cas-17439-11-1",
+    "cas-923-26-2",
+    "cas-13171-18-1",
+    "cas-103-11-7",
+    "cas-16961-83-4",
+    "cas-13048-33-4",
+    "cas-55719-33-0",
+    "cas-85-42-7",
+    "cas-818-61-1",
+    "cas-84170-27-4",
+    "cas-13641-96-8",
+    "cas-12021-95-3",
+    "cas-13048-33-4",
+    "cas-55719-33-0",
+    "cas-85-42-7",
+    "cas-818-61-1",
+    "cas-84170-27-4",
+    "cas-13641-96-8",
+    "cas-12021-95-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2160-89-6/"
+}

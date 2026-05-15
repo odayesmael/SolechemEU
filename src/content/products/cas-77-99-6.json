@@ -1,0 +1,59 @@
+{
+  "id": "191",
+  "name": "Trimethylolpropane",
+  "slug": "cas-77-99-6",
+  "cas": "77-99-6",
+  "ec": "201-074-9",
+  "formula": "C6H14O3",
+  "mw": "134.17 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethylolpropane ( CAS 77-99-6 ), commonly abbreviated as TMP, is a trifunctional aliphatic alcohol used as a building block in polymer synthesis and resin manufacturing. Its three hydroxyl groups enable controlled cross-linking and branching, making it a core raw material for producing durable, high-performance polymer networks across coatings and adhesives. In coatings, TMP reacts with isocyanates or melamine resins to produce polyurethane and alkyd systems with improved hardness, flexibility, and chemical resistance for industrial use. Adhesive and sealant formulators use it to build polyurethane prepolymers where controlled cross-link density directly affects bond strength and elasticity in various applications. In plastics, TMP serves as a branching agent in polyester and polycarbonate production, influencing molecular weight distribution and end-product mechanical performance for manufacturers. Personal care formulators incorporate it as a humectant and stabilizer in emollient systems and film-forming preparations to ensure product stability and performance in consumer goods. TMP is supplied as white crystalline flakes or powder, with molten liquid form available for bulk industrial supply. Standard commercial grades include technical and industrial purity levels. These grades are typically at 99%+ purity. Specialty grades meeting stricter quality specifications are available for cosmetic and high-performance polymer applications in the global market. Contact us for supply of Trimethylolpropane Request Quote",
+  "physicalProperties": "Melting Point: 58 °C; Boiling Point: 160 °C @ Press: 5 Torr; Density: 1.176; Flash Point: 172 °C; Appearance: Colorless, hygroscopic crystals. Soluble in water and alcohol. Combustible.; Color: White; Form: Flakes; Water Solubility: soluble; Vapor Pressure: <1 mm Hg ( 20 °C); Refractive Index: 1.4850 (estimate); pH: 6.5 (100g/l, H2O, 20℃)(External MSDS); Log P: -0.975 (est)",
+  "safetyHandling": "Danger GHS08 Hazard Statements H360 May damage fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations.",
+  "tradeRegulatory": "HS Code: 29054100; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "2-ethyl-2-hydroxymethyl-1,3-propanediol | TMP | 1,1,1-TRIS(HYDROXYMETHYL)PROPANE | Ethriol | Etriol | Ettriol | TMP (alcohol) | 1,3-Propanediol, 2-ethyl-2-(hydroxymethyl)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08"
+  ],
+  "hsCode": "29054100",
+  "similarProducts": [
+    "cas-23235-61-2",
+    "cas-3290-92-4",
+    "cas-144-19-4",
+    "cas-512-56-1",
+    "cas-15625-89-5",
+    "cas-1017-56-7",
+    "cas-682-09-7",
+    "cas-2459-10-1",
+    "cas-25513-64-8",
+    "cas-25498-49-1",
+    "cas-552-30-7",
+    "cas-68541-50-4",
+    "cas-28961-43-5",
+    "cas-3851-87-4",
+    "cas-2459-10-1",
+    "cas-25513-64-8",
+    "cas-25498-49-1",
+    "cas-552-30-7",
+    "cas-68541-50-4",
+    "cas-28961-43-5",
+    "cas-3851-87-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-77-99-6/"
+}

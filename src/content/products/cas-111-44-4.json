@@ -1,0 +1,62 @@
+{
+  "id": "619",
+  "name": "Dichloroethyl ether",
+  "slug": "cas-111-44-4",
+  "cas": "111-44-4",
+  "ec": "203-870-1",
+  "formula": "C4H8Cl2O",
+  "mw": "143.01 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Printing & Packaging",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dichloroethyl ether ( CAS 111-44-4 ), also known as Bis(2-chloroethyl)ether or DCEE, is a chlorinated solvent used across industrial manufacturing and chemical processing. It functions as a selective solvent, biocidal agent, and flame-retardant intermediate in demanding industrial applications. In textile and leather processing, it acts as a solvent for fats and greases. This chemical enables effective scouring and finishing operations by dissolving resins that resist conventional solvent systems. Plastics and polymer manufacturers use it as a reactive intermediate. Its chlorine content contributes to fire-suppression performance in finished materials through the synthesis of flame-retardant additives. In printing, it supports ink and coating formulations. The compound provides aggressive solvent action on difficult substrates for the packaging industry. Its biocidal properties also make it relevant as a preservation agent in industrial fluids. It is frequently utilized in paper processing treatments where microbial control is required. DCEE is supplied as a liquid in drum and IBC quantities suited to industrial-scale procurement. It is available primarily in technical grade, reflecting its industrial rather than pharmaceutical or food-related end uses. Buyers should confirm purity specifications and packaging requirements. Concentrations and inhibitor packages may vary by source, so direct consultation with suppliers is recommended. This ensures the material meets the specific needs of your manufacturing process. Contact us for supply of Dichloroethyl ether Request Quote",
+  "physicalProperties": "Melting Point: -51.9 °C; Boiling Point: 178.5 °C; Density: 1.22 g/cm³ @ Temp: 20 °C; Flash Point: 131 °F; Appearance: Dichloroethyl ether is a clear, colorless liquid. Pungent, fruity odor. It is also described as having a chlorinated solvent-like odor.; Color: Colorless to Almost colorless; Odor: Sweet, like chloroform.; Form: Colorless liquid; Water Solubility: Slightly soluble. 1.72 g/100 mL; Vapor Pressure: 0.4 mm Hg ( 20 °C); Refractive Index: n 20/D 1.456(lit.); Log P: 1.12-1.56 at 20℃",
+  "safetyHandling": "Danger GHS06 GHS08 GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H300 Fatal if swallowed H301 Toxic if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H315 Causes skin irritation H320 Causes eye irritation H330 Fatal if inhaled H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H370 Causes damage to organs H300+H310+H330 Fatal if swallowed, in contact with skin or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091900; UN Number: 1916; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "1-chloro-2-(2-chloroethoxy)ethane | Bis(2-chloroethyl)ether | DCEE",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29091900",
+  "similarProducts": [
+    "cas-60-29-7",
+    "cas-629-82-3",
+    "cas-112-36-7",
+    "cas-628-89-7",
+    "cas-6297-03-6",
+    "cas-1002-67-1",
+    "cas-112-73-2",
+    "cas-111-90-0",
+    "cas-103-50-4",
+    "cas-108-20-3",
+    "cas-6425-39-4",
+    "cas-112-34-5",
+    "cas-5274-61-3",
+    "cas-111-96-6",
+    "cas-111-90-0",
+    "cas-103-50-4",
+    "cas-108-20-3",
+    "cas-6425-39-4",
+    "cas-112-34-5",
+    "cas-5274-61-3",
+    "cas-111-96-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-44-4/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "873",
+  "name": "Limonene",
+  "slug": "cas-138-86-3",
+  "cas": "138-86-3",
+  "ec": "231-732-0",
+  "formula": "C10H16",
+  "mw": "136.23 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Limonene (CAS 138-86-3 ), also sold as dipentene in its racemic form, is a naturally derived terpene solvent and fragrance ingredient sourced primarily from citrus peel oils. It functions as a bio-based alternative to petroleum solvents in cleaning and degreasing applications, and as a flavoring and scent ingredient across food and personal care markets. In industrial cleaning and printing, this compound cuts through inks, adhesives, and greases on press equipment and packaging lines, replacing harsher hydrocarbon solvents. Food manufacturers use it as a flavoring agent to deliver citrus character in beverages, confectionery, and baked goods. Personal care formulators incorporate it into fragrance blends. It is used in shampoos and skin cleansers where a fresh citrus scent profile is required. It also functions as a carrier solvent in fragrance concentrates, improving dispersion of active ingredients. The product is supplied as a clear mobile liquid in drum and IBC quantities, with bulk tanker options for high-volume buyers. It is available in food-grade and technical-grade specifications. The food-grade material meets FCC standards. Both the d-limonene and racemic dipentene forms are commercially stocked, with purity levels typically ranging from 95% to 99%+ depending on grade. Contact us for supply of Limonene Request Quote",
+  "physicalProperties": "Melting Point: -95.5 °C; Boiling Point: 175.5-176.5 °C @ Press: 763 Torr; Density: 0.8402 g/cm³ @ Temp: 20.85 °C; Flash Point: 119 °F; Appearance: colourless or light yellow liquid; Color: Clear colorless to pale yellow; Odor: Pleasant, pine-like; lemon-like.; Form: Liquid; Water Solubility: <1 g/100mL; Vapor Pressure: <3 mm Hg ( 14.4 °C); Refractive Index: n 20/D 1.473(lit.); Log P: 4.57",
+  "safetyHandling": "Warning GHS02 GHS07 GHS09 GHS08 Hazard Statements H226 Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29021990; UN Number: 2052; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "dipentene | 4-isopropenyl-1-methylcyclohexene | 1,8-p-menthadiene | 1-methyl-4-(1-methylethenyl)cyclohexene | (+/-)-1-Methyl-4-(1-methylvinyl)cyclohexene | (+-)-(RS)-limonene | 1-methyl-4-prop-1-en-2-ylcyclohexene | RefChem:1055817",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29021990",
+  "similarProducts": [
+    "cas-68917-71-5",
+    "cas-68647-72-3",
+    "cas-8008-56-8",
+    "cas-92346-89-9",
+    "cas-586-62-9",
+    "cas-7785-26-4",
+    "cas-84929-31-7",
+    "cas-78-70-6",
+    "cas-8008-26-2",
+    "cas-13466-78-9",
+    "cas-5392-40-5",
+    "cas-99-85-4",
+    "cas-8008-57-9",
+    "cas-9005-90-7",
+    "cas-78-70-6",
+    "cas-8008-26-2",
+    "cas-13466-78-9",
+    "cas-5392-40-5",
+    "cas-99-85-4",
+    "cas-8008-57-9",
+    "cas-9005-90-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-138-86-3/"
+}

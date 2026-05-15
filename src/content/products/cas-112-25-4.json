@@ -1,0 +1,62 @@
+{
+  "id": "653",
+  "name": "Ethylene glycol monohexyl ether",
+  "slug": "cas-112-25-4",
+  "cas": "112-25-4",
+  "ec": "203-951-1",
+  "formula": "C8H18O2",
+  "mw": "146.23 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Printing & Packaging",
+    "Automotive",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethylene glycol monohexyl ether (CAS 112-25-4 ), also known as 2-hexoxyethanol, is a slow-evaporating glycol ether solvent used across coatings, cleaning, and industrial formulation. Its controlled evaporation rate makes it a practical choice for applications where extended open time or surface leveling is required. In architectural and industrial coatings, it improves flow and leveling. This solvent works in waterborne and solvent-based systems, reducing surface defects in the final film. Printing ink formulations use it to control drying speed and maintain printhead performance in packaging. Adhesive and sealant manufacturers incorporate it to adjust viscosity and extend working time during application. Industrial cleaning and degreasing compounds rely on it to solubilize oils and greases. It is highly effective for residues in automotive maintenance and parts-washing products. Ethylene glycol monohexyl ether is supplied as a clear liquid in drum and IBC quantities for various needs. Bulk tanker options are available for larger-volume procurement. Technical grade is the standard commercial specification for industrial and formulation use, ensuring consistent performance in all batches. Purity levels typically range from 98% upward, with certificates of analysis available to support QA and regulatory compliance requirements. This ensures the highest quality for your manufacturing processes. Contact us for supply of Ethylene glycol monohexyl ether Request Quote",
+  "physicalProperties": "Melting Point: -45.1 °C; Boiling Point: 208 °C @ Press: 760 Torr; Density: 0.8894 g/cm³ @ Temp: 20 °C; Flash Point: 98-99°C/0.15mm; Color: Colorless to Light yellow; Form: clear liquid; Water Solubility: Soluble in alcohol and ether, water (9.46 g/L ).; Vapor Pressure: 10Pa at 20℃; Refractive Index: n 20/D 1.431; Log P: 1.97 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS06 GHS08 Hazard Statements H227 Combustible liquid H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H320 Causes eye irritation H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091990; UN Number: 2922; ADR Class: 8; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "ethylene glycol hexyl ether | 2-hexoxyethanol | 2-(Hexyloxy)ethanol | Ethanol, 2-(hexyloxy)- | Hexyl cellosolve | n-Hexyl cellosolve | Glycol monohexyl ether | Cellosolve, N-hexyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29091990",
+  "similarProducts": [
+    "cas-112-59-4",
+    "cas-2807-30-9",
+    "cas-110-80-5",
+    "cas-2461-15-6",
+    "cas-52125-53-8",
+    "cas-5274-61-3",
+    "cas-109-86-4",
+    "cas-1569-02-4",
+    "cas-107-41-5",
+    "cas-1002-67-1",
+    "cas-10305-38-1",
+    "cas-104-76-7",
+    "cas-111-90-0",
+    "cas-112-50-5",
+    "cas-1569-02-4",
+    "cas-107-41-5",
+    "cas-1002-67-1",
+    "cas-10305-38-1",
+    "cas-104-76-7",
+    "cas-111-90-0",
+    "cas-112-50-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-25-4/"
+}

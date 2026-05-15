@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import NewsPage from '../../components/react/NewsPage.tsx';
+import { NEWS_ITEMS } from '../../data/news';
+
+// Pass lightweight news data (strip full content for listing page)
+const newsLite = NEWS_ITEMS.map(n => ({
+  id: n.id,
+  slug: n.slug,
+  title: n.title,
+  excerpt: n.excerpt,
+  content: '',
+  category: n.category,
+  date: n.date,
+  readTime: n.readTime,
+  featured: n.featured,
+  image: n.image,
+  author: n.author,
+}));
+---
+
+<BaseLayout title="News & Insights | SoleChem Europe" description="Stay informed with the latest company announcements, industry analysis, product launches, and upcoming events from SoleChem Europe.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.solechem.eu/" },
+      { "@type": "ListItem", "position": 2, "name": "News", "item": "https://www.solechem.eu/news" }
+    ]
+  })} />
+  <NewsPage client:idle news={newsLite} />
+</BaseLayout>

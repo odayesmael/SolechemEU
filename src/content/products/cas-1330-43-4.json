@@ -1,0 +1,61 @@
+{
+  "id": "1460",
+  "name": "Sodium tetraborate",
+  "slug": "cas-1330-43-4",
+  "cas": "1330-43-4",
+  "ec": "215-540-4",
+  "formula": "B4Na2O7",
+  "mw": "201.2 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Agriculture & Feed",
+    "Textile, Leather & Paper",
+    "Building & Construction",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium tetraborate ( CAS 1330-43-4 ), also known by its E-number E285 , is the anhydrous form of borax — a mineral salt used across industrial and food-contact applications as a preservative and buffering agent. It also functions as a flame retardant and cleaning booster. Its anhydrous form offers a higher boron content and lower moisture contribution compared to hydrated grades, which matters for formulators managing water activity. In building and construction, it is applied to wood treatments and insulation materials to provide flame retardancy and resistance to fungal degradation. Textile and leather processors use it in bath formulations to control pH. This chemical helps improve the uptake of dyes and finishing agents. Water treatment operations rely on it as a buffering compound to stabilize pH in industrial process water, ensuring consistent chemical reactions. At permitted levels under the E285 designation, it functions as a preservative in certain food contact and packaging applications in regulated markets. Sodium tetraborate anhydrous is supplied as a white powder. It is also available as fine granules. Standard commercial grades include technical and food-grade specifications, with purity typically at 99% or higher. Packaging ranges from 25 kg bags to bulk quantities. Contact us for supply of Sodium tetraborate Request Quote",
+  "physicalProperties": "Melting Point: 741 °C; Boiling Point: 1571 °C; Density: 2.367 g/cm³; Flash Point: 1575°C; Appearance: Borax is a noncombustible (an inherent fire retardant), bluish-gray or green, odorless crystalline powder or granules.; Color: White; Form: Solid; Water Solubility: 26 g/L (20 ºC); Vapor Pressure: 7.3 hPa (1200 °C); Refractive Index: 1.501; pH: 9.0-10.5 (25℃, 0.1M in H2O)",
+  "safetyHandling": "Danger GHS08 GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H360 May damage fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28401100; UN Number: 1760; ADR Class: 8; Packing Group: II; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 1",
+  "otherNames": "sodium borate anhydrous | disodium tetraborate, anhydrous | anhydrous borax | Boron sodium oxide (B4Na2O7) | Borax glass | Sodium Tetraborate, Anhydrous | Sodium biborate | Borax Anhydrous | E285",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "28401100",
+  "similarProducts": [
+    "cas-1303-96-4",
+    "cas-12179-04-3",
+    "cas-10043-35-3",
+    "cas-1332-77-0",
+    "cas-10555-76-7",
+    "cas-7775-19-1",
+    "cas-10486-00-7",
+    "cas-7632-04-4",
+    "cas-6834-92-0",
+    "cas-127-09-3",
+    "cas-144-55-8",
+    "cas-1332-07-6",
+    "cas-10332-33-9",
+    "cas-7757-81-5",
+    "cas-7632-04-4",
+    "cas-6834-92-0",
+    "cas-127-09-3",
+    "cas-144-55-8",
+    "cas-1332-07-6",
+    "cas-10332-33-9",
+    "cas-7757-81-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1330-43-4/"
+}

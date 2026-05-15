@@ -1,0 +1,64 @@
+{
+  "id": "548",
+  "name": "2-methylpyridine",
+  "slug": "cas-109-06-8",
+  "cas": "109-06-8",
+  "ec": "203-643-7",
+  "formula": "C6H7N",
+  "mw": "93.13 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Methylpyridine (CAS 109-06-8 ), commercially known as alpha-picoline, is a nitrogen-containing heterocyclic compound used as a key building block in pharmaceutical synthesis, agrochemical production, and specialty chemical manufacturing. It functions primarily as a chemical intermediate, enabling the construction of more complex active molecules across multiple regulated industries. In pharmaceutical manufacturing, alpha-picoline serves as a precursor to vinylpyridine derivatives. It is essential for the production of antihistamines and vitamins including B6 and melatonin-related compounds. Agrochemical producers use it to synthesize herbicides and insecticides, particularly chloropyrifos-related intermediates. In flavor and fragrance applications, 2-picoline contributes to the synthesis of specific aroma compounds where its reactivity at the methyl group is commercially exploited. It also functions as a catalyst or co-solvent. The material is utilized in select organic synthesis processes, including resin and polymer production. 2-Methylpyridine is supplied as a liquid in standard industrial drum and IBC quantities, with bulk tanker options available. Technical grade is the predominant commercial specification, with purity levels typically at 99% or higher confirmed by GC analysis. Pharmaceutical-grade material meeting relevant compendial standards is available for regulated synthesis. Select manufacturers provide material that adheres to USP or BP standards for specific applications. This ensures high-quality performance across diverse industrial sectors and chemical manufacturing processes. Contact us for supply of 2-methylpyridine Request Quote",
+  "physicalProperties": "Melting Point: -70 °C; Boiling Point: 128-129 °C; Density: 0.9443 g/cm³ @ Temp: 20 °C; Flash Point: 79 °F; Appearance: Picolines are colorless liquids. Strong, unpleasant, pyridine-like odor.“Picoline” is often used as mixed isomers.; Color: Clear pale yellow; Odor: Unpleasant; Form: Liquid; Water Solubility: MISCIBLE; Vapor Pressure: 10 mm Hg ( 24.4 °C); Refractive Index: n 20/D 1.500(lit.); pH: 8.5 (100g/l, H2O, 20℃); Log P: 1.11 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS05 GHS06 GHS08 Hazard Statements H226 H226 H302 H302 H311 H311 H312 H312 H314 H314 H318 H318 H319 H319 H331 H331 H332 H332 H335 H335 H361 H361 H370 H370 H371 H371 H372 H372 Precautionary Statements P203 P203 P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P280 P280 P316 P316 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P337+P317 P337+P317 P361+P364 P361+P364 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29333999; UN Number: 2313; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "alpha-picoline | a-Picoline | 2-Picoline | o-Picoline | Pyridine, 2-methyl- | alpha-Methylpyridine | o-Methylpyridine | PICOLINE, ALPHA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29333999",
+  "similarProducts": [
+    "cas-108-89-4",
+    "cas-108-99-6",
+    "cas-104-90-5",
+    "cas-100-70-9",
+    "cas-110-86-1",
+    "cas-100-55-0",
+    "cas-123-75-1",
+    "cas-110-89-4",
+    "cas-109-01-3",
+    "cas-109-97-7",
+    "cas-100-54-9",
+    "cas-100-48-1",
+    "cas-16969-45-2",
+    "cas-108-26-9",
+    "cas-110-89-4",
+    "cas-109-01-3",
+    "cas-109-97-7",
+    "cas-100-54-9",
+    "cas-100-48-1",
+    "cas-16969-45-2",
+    "cas-108-26-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-06-8/"
+}

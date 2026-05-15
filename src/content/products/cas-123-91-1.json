@@ -1,0 +1,61 @@
+{
+  "id": "776",
+  "name": "1,4-dioxane",
+  "slug": "cas-123-91-1",
+  "cas": "123-91-1",
+  "ec": "204-661-8",
+  "formula": "C4H8O2",
+  "mw": "88.11 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,4-Dioxane (CAS 123-91-1 ) is a cyclic ether solvent used across chemical manufacturing, laboratory research, and industrial processing. It functions as a high-solvency carrier for resins and cellulose derivatives. This versatile compound is effective for a broad range of organic compounds where other solvents underperform. In pharmaceutical and chemical synthesis, it serves as a reaction solvent and extraction medium. It is particularly useful in processes requiring miscibility with both water and organic phases. Personal care manufacturers monitor it as a trace contaminant in ethoxylated ingredients for safety. The chemical acts as a reference standard for quality control and regulatory compliance testing. In laboratory settings, it is used as a scintillation solvent and as a stabilizer carrier. It is also utilized in analytical-grade preparations for various research applications. Food and fragrance applications involve its use as a trace flavoring reference compound for testing. Despite these niche uses, its primary commercial demand remains in industrial solvent and synthesis roles. The product is supplied as a colorless liquid in drums and bulk containers. Standard grades include technical, reagent, and HPLC-grade, with anhydrous specifications available. These are ideal for moisture-sensitive synthesis applications in controlled environments. Stabilized and unstabilized variants are both commercially available for purchase. Grade selection is typically driven by specific end-use process requirements and stability needs. Contact us for supply of 1,4-dioxane Request Quote",
+  "physicalProperties": "Melting Point: 11.80 °C; Boiling Point: 101.1 °C @ Press: 760 Torr; Density: 1.0337 g/cm³ @ Temp: 20 °C; Flash Point: 54 °F; Appearance: colourless liquid; Color: APHA: ≤20; Odor: Mild ether-like odor detectable at 0.8 to 172 ppm (mean = 12 ppm); Form: Solution; Water Solubility: SOLUBLE; Vapor Pressure: 27 mm Hg ( 20 °C); Refractive Index: n 20/D 1.422(lit.); pH: 6-8 (500g/l, H2O, 20℃); Log P: -0.42 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS06 Hazard Statements H225 Highly Flammable liquid and vapor H313 May be harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H350 May cause cancer H351 Suspected of causing cancer H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29329900; UN Number: 1993; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "tetrahydro-para-dioxin | tetrahydro-p-dioxin | tetrahydro-1,4-dioxin | p-Dioxane | glycol ethylene ether | dioxane-1,4 | Dioxan | Diethylene ether",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29329900",
+  "similarProducts": [
+    "cas-556-67-2",
+    "cas-60-29-7",
+    "cas-629-82-3",
+    "cas-89399-28-0",
+    "cas-108-20-3",
+    "cas-110-71-4",
+    "cas-95-92-1",
+    "cas-111109-77-4",
+    "cas-112-36-7",
+    "cas-111-96-6",
+    "cas-112-40-3",
+    "cas-7778-85-0",
+    "cas-4536-30-5",
+    "cas-67-68-5",
+    "cas-111109-77-4",
+    "cas-112-36-7",
+    "cas-111-96-6",
+    "cas-112-40-3",
+    "cas-7778-85-0",
+    "cas-4536-30-5",
+    "cas-67-68-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-123-91-1/"
+}

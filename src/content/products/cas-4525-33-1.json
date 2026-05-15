@@ -1,0 +1,61 @@
+{
+  "id": "1787",
+  "name": "Dimethyl dicarbonate",
+  "slug": "cas-4525-33-1",
+  "cas": "4525-33-1",
+  "ec": "224-859-8",
+  "formula": "C4H6O5",
+  "mw": "134.09 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethyl dicarbonate ( CAS 4525-33-1 ), commercially known as DMDC and approved as E242 , is a cold-sterilization agent used to eliminate spoilage microorganisms in beverages without heat treatment. It reacts rapidly with microbial enzymes and decomposes into trace carbon dioxide and methanol, leaving no functional residue in the finished product. DMDC is the standard antimicrobial treatment for still and sparkling wines. This allows producers to stabilize product without altering flavor profiles through thermal processing. In ready-to-drink teas, juices, and isotonic sports beverages, it controls yeast and mold at dosage levels compliant with regulatory limits. Craft brewers and commercial breweries use it to treat non-alcoholic and low-alcohol beers where conventional pasteurization would compromise sensory quality. In biotechnology, DMDC functions as a nuclease inhibitor in RNA extraction workflows. It protects RNA integrity during sample processing. Dimethyl dicarbonate is supplied as a clear liquid, typically in small sealed containers for laboratory use and in larger drums or intermediate bulk containers for production. Food-grade material conforming to FCC specifications is the primary commercial grade, with purity levels generally at or above 99%. Technical-grade material is available for non-food biotechnology and research applications. Contact us for supply of Dimethyl dicarbonate Request Quote",
+  "physicalProperties": "Melting Point: 15.2 °C; Boiling Point: 46-47 °C @ Press: 5 Torr; Density: 1.258 g/cm³ @ Temp: 20 °C; Flash Point: 80 °C; Color: Colourless; Form: Oil; Water Solubility: 35g/L (decomposition); Vapor Pressure: 0.7 hPa (20 °C); Refractive Index: n 20/D 1.392(lit.); Log P: 0.082 (est)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2920 90 10; UN Number: 2927; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible, acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "methoxycarbonyl methyl carbonate | dicarbonic acid dimethyl ester | DMDC | Velcorin | Dimethyl pyrocarbonate | Methyl pyrocarbonate | Dimethyl oxydiformate | Formic acid, oxydi-, dimethyl ester | E242",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "2920 90 10",
+  "similarProducts": [
+    "cas-616-38-6",
+    "cas-6864-37-5",
+    "cas-118-52-5",
+    "cas-108-59-8",
+    "cas-75-09-2",
+    "cas-148788-55-0",
+    "cas-624-92-0",
+    "cas-77-71-4",
+    "cas-105-58-8",
+    "cas-77-78-1",
+    "cas-68-12-2",
+    "cas-32718-18-6",
+    "cas-126-06-7",
+    "cas-128-04-1",
+    "cas-77-71-4",
+    "cas-105-58-8",
+    "cas-77-78-1",
+    "cas-68-12-2",
+    "cas-32718-18-6",
+    "cas-126-06-7",
+    "cas-128-04-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4525-33-1/"
+}

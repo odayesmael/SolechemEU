@@ -1,0 +1,57 @@
+{
+  "id": "2797",
+  "name": "N-Boc-O-benzyl-L-threonine",
+  "slug": "cas-15260-10-3",
+  "cas": "15260-10-3",
+  "ec": "239-304-5",
+  "formula": "C16H23NO5",
+  "mw": "309.36 g/mol",
+  "category": "Amino Acids & Peptides",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Boc-O-benzyl-L-threonine , also known as Boc-Thr(Bzl)-OH with CAS 15260-10-3 , is a dual-protected threonine derivative used in solid-phase and solution-phase peptide synthesis. The Boc group shields the alpha-amine while the benzyl group protects the hydroxyl side chain, enabling selective deprotection during multi-step assembly of complex peptide sequences. The primary application is as a building block in the synthesis of pharmaceutical peptides, where orthogonal protection strategies are required to construct threonine-containing sequences. This prevents side-chain racemization or unwanted cyclization during the manufacturing of peptide-based active pharmaceutical ingredients, including research compounds and GMP intermediates. Biotechnology researchers incorporate it into custom peptide libraries for receptor binding studies and enzyme substrate profiling to ensure high-fidelity sequence construction. Cosmetic peptide formulators sourcing actives for anti-aging or skin-conditioning products may also specify this building block when the target peptide sequence contains threonine residues. Boc-Thr(Bzl)-OH is supplied as a white to off-white crystalline powder and is available in research quantities through to multi-kilogram lots for process-scale synthesis. Purity specifications typically range from 98% to 99%+ by HPLC, with optical purity confirmed by specific rotation to meet rigorous industrial and laboratory requirements. Contact us for supply of N-Boc-O-benzyl-L-threonine Request Quote",
+  "physicalProperties": "Melting Point: 80-82 °C(lit.); Boiling Point: 461.5±45.0 °C(Predicted); Density: 1.152±0.06 g/cm3(Predicted); Color: White to Almost white; Form: powder to crystal; Refractive Index: 16.5 ° (C=1, MeOH)",
+  "safetyHandling": "",
+  "tradeRegulatory": "HS Code: 29242990; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "L-Threonine, N-[(1,1-dimethylethoxy)carbonyl]-O-(phenylmethyl)- | N-tert-Butoxycarbonyl-O-benzylthreonine | L-threonine | (2S,3R)-2-[(2-methylpropan-2-yl)oxycarbonylamino]-3-phenylmethoxybutanoic acid | Boc-thr(bn)-oh | Boc-Thr(Bzl)-OH",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "29242990",
+  "similarProducts": [
+    "cas-24424-99-5",
+    "cas-36016-38-3",
+    "cas-35737-15-6",
+    "cas-72-19-5",
+    "cas-938063-63-9",
+    "cas-2682-49-7",
+    "cas-955359-35-0",
+    "cas-1003-09-4",
+    "cas-24587-41-5",
+    "cas-38050-71-4",
+    "cas-14047-29-1",
+    "cas-2144-08-3",
+    "cas-18162-48-6",
+    "cas-2592-95-2",
+    "cas-1003-09-4",
+    "cas-24587-41-5",
+    "cas-38050-71-4",
+    "cas-14047-29-1",
+    "cas-2144-08-3",
+    "cas-18162-48-6",
+    "cas-2592-95-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-15260-10-3/"
+}

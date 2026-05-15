@@ -1,0 +1,61 @@
+{
+  "id": "2729",
+  "name": "Ammonia borane",
+  "slug": "cas-13774-81-7",
+  "cas": "13774-81-7",
+  "ec": "642-983-4",
+  "formula": "BH6N",
+  "mw": "30.87 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Home Care & Industrial Cleaning",
+    "Electronics",
+    "Aerospace & Defense"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonia borane (CAS 13774-81-7 ), also known as borazane, is a solid hydrogen storage compound that releases hydrogen gas at relatively low temperatures through controlled decomposition. It functions as a chemical hydrogen carrier and reducing agent in research, specialty synthesis, and emerging energy applications. In hydrogen storage and fuel cell development, it serves as a solid-state hydrogen source. This material enables compact, high-capacity storage systems for aerospace and defense platforms where weight and volume constraints are critical. Pharmaceutical and fine chemical manufacturers use it as a selective reducing agent. It is utilized in the synthesis of complex intermediates, particularly where milder conditions are required than conventional borohydride reagents offer. In electronics, it supports the deposition of boron-containing thin films. The compound acts as a precursor in chemical vapor deposition processes for semiconductor fabrication. Industrial cleaning formulations targeting specialized surface treatment applications also draw on its reducing chemistry. Ammonia borane is supplied as a white crystalline powder, typically in research and specialty quantities reflecting its current stage of commercial development. It is available in technical and high-purity grades. Purity specifications commonly range from 97% to 99%+ for laboratory and advanced materials applications. Packaging is generally offered under inert atmosphere conditions to preserve stability during storage and transit. Contact us for supply of Ammonia borane Request Quote",
+  "physicalProperties": "Melting Point: 98 °C; Appearance: white powder or flakes; Color: White to Off-White; Form: Solid",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H228 Flammable solid H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28530090; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "borazane | borane ammine | RefChem:53344 | Borane, monoammoniate | Boron, amminetrihydro-, (T-4)- | Borane, ammoniate | Borine, ammoniate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "28530090",
+  "similarProducts": [
+    "cas-110-51-0",
+    "cas-1722-26-5",
+    "cas-74-94-2",
+    "cas-4856-95-5",
+    "cas-302-01-2",
+    "cas-7664-41-7",
+    "cas-13289-97-9",
+    "cas-16940-66-2",
+    "cas-7803-57-8",
+    "cas-10217-52-4",
+    "cas-1341-49-7",
+    "cas-12124-97-9",
+    "cas-25015-63-8",
+    "cas-7803-49-8",
+    "cas-16940-66-2",
+    "cas-7803-57-8",
+    "cas-10217-52-4",
+    "cas-1341-49-7",
+    "cas-12124-97-9",
+    "cas-25015-63-8",
+    "cas-7803-49-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13774-81-7/"
+}

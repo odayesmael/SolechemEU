@@ -1,0 +1,60 @@
+{
+  "id": "1002",
+  "name": "Trifluoromethanesulfonic anhydride",
+  "slug": "cas-358-23-6",
+  "cas": "358-23-6",
+  "ec": "206-616-8",
+  "formula": "C2F6O5S2",
+  "mw": "282.14 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trifluoromethanesulfonic anhydride (CAS 358-23-6 ), commercially known as triflic anhydride or Tf₂O, is one of the most powerful electrophilic triflating agents available for synthetic chemistry. It activates hydroxyl groups and other nucleophilic sites for downstream coupling and functionalization steps that milder reagents cannot achieve efficiently. In pharmaceutical synthesis, Tf₂O converts phenols and enols into vinyl triflates. These are key intermediates in palladium-catalyzed cross-coupling reactions used to build complex active pharmaceutical ingredients. Polymer chemists use it to initiate cationic polymerization of cyclic monomers. This enables precise molecular weight control in specialty polymer production. It also functions as an activating agent in the synthesis of glycosyl triflates, supporting carbohydrate-based drug and excipient manufacturing. In fine chemical production, Tf₂O generates highly reactive triflate intermediates that allow selective C–O and C–N bond formation under conditions where conventional sulfonating agents fail. Triflic anhydride is supplied as a colorless to pale yellow liquid, typically in sealed, moisture-protected packaging due to its reactivity with atmospheric moisture. It is available in research quantities through to multi-kilogram lots for process-scale synthesis. Standard commercial offerings are high-purity technical and synthesis grades. Purity specifications are commonly at 99% or above as confirmed by GC or titration methods, ensuring reliability for sensitive industrial applications and laboratory research. Contact us for supply of Trifluoromethanesulfonic anhydride Request Quote",
+  "physicalProperties": "Melting Point: -80°C; Boiling Point: 84 °C; Density: 1.677 g/mL at 25 °C(lit.); Flash Point: 81-83°C; Appearance: clear colorless to light brown liquid; Color: Clear colorless to light brown; Form: Liquid; Water Solubility: reacts violently with water; Vapor Pressure: 8 mm Hg ( 20 °C); Refractive Index: n 20/D 1.321(lit.); Log P: 0.3 at 25℃",
+  "safetyHandling": "Danger GHS03 GHS05 GHS07 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29049020; UN Number: 3265; ADR Class: 8; Packing Group: II; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 3",
+  "otherNames": "Trifluoromethylsulfonyl trifluoromethanesulfonate | Triflic anhydride | Tf2O",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29049020",
+  "similarProducts": [
+    "cas-1493-13-6",
+    "cas-407-25-0",
+    "cas-27607-77-8",
+    "cas-76-05-1",
+    "cas-144026-79-9",
+    "cas-121-50-6",
+    "cas-149-73-5",
+    "cas-445-03-4",
+    "cas-104-15-4",
+    "cas-1445-45-0",
+    "cas-7788-97-8",
+    "cas-122-51-0",
+    "cas-597-82-0",
+    "cas-108-24-7",
+    "cas-445-03-4",
+    "cas-104-15-4",
+    "cas-1445-45-0",
+    "cas-7788-97-8",
+    "cas-122-51-0",
+    "cas-597-82-0",
+    "cas-108-24-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-358-23-6/"
+}

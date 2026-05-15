@@ -1,0 +1,64 @@
+{
+  "id": "1417",
+  "name": "Sodium hydroxide",
+  "slug": "cas-1310-73-2",
+  "cas": "1310-73-2",
+  "ec": "215-185-5",
+  "formula": "HNaO",
+  "mw": "39.997 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Mining & Metals",
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment",
+    "Food & Nutrition",
+    "Textile, Leather & Paper",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium hydroxide (CAS 1310-73-2 ), also sold as caustic soda or lye, is a strong inorganic base used across industrial and food-grade processing to control pH and neutralize acids. As E524 , it is approved for direct food contact applications. Demand for this versatile chemical spans water treatment, pulp and paper, textiles, and chemical manufacturing. In pulp and paper production, it breaks down lignin during the kraft process, enabling cellulose separation at scale. Water treatment plants use it to raise pH, precipitate heavy metals, and condition water for safe distribution. Food processors apply it for curing olives, pretzel glazing, and pH adjustment in cocoa processing. In textile and leather operations, it drives mercerization of cotton and assists in dehairing hides. These processes improve fiber uptake and surface finish, ensuring high-quality results in industrial manufacturing environments. Sodium hydroxide is supplied as white flakes, micropearls, and solid pellets, as well as aqueous solution. The most common liquid format is the 50% concentration, which is widely used for bulk industrial applications. Standard grades include food-grade ( FCC ), pharmaceutical ( USP / BP / Ph. Eur. ), and technical grade for industrial use. These certifications ensure the material meets the rigorous safety requirements of each specific industry. Membrane cell grades with low chloride content are available for applications requiring high purity. This ensures that sensitive chemical reactions and high-end manufacturing processes maintain consistent quality and performance. Contact us for supply of Sodium hydroxide Request Quote",
+  "physicalProperties": "Melting Point: 323 °C; Boiling Point: 1388 °C; Density: 2.13 g/cm³ @ Temp: 25 °C; Flash Point: 176-178°C; Appearance: NaOH is a white, odorless, deliquescent material sold as pellets, flakes, lumps, or sticks. Aqueous solutions are known as soda lye; Color: White; Odor: Odorless; Form: beads; Water Solubility: SOLUBLE; Vapor Pressure: 1 mm Hg ( 745 °C); Refractive Index: 1,473-1,475; pH: >14 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H290 May be corrosive to metals H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H370 Causes damage to organs Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2815 11 00; UN Number: 1824; ADR Class: 8; Packing Group: II; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "white caustic | sodium hydrate | soda lye | caustic soda | lye | Soda, caustic | Rohrputz | Sodium hydroxide (Na(OH)) | NaOH | E524",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "2815 11 00",
+  "similarProducts": [
+    "cas-1310-58-3",
+    "cas-1305-62-0",
+    "cas-144-55-8",
+    "cas-497-19-8",
+    "cas-7681-52-9",
+    "cas-1310-65-2",
+    "cas-1344-09-8",
+    "cas-7646-69-7",
+    "cas-7647-14-5",
+    "cas-1336-21-6",
+    "cas-72-17-3",
+    "cas-17194-00-2",
+    "cas-6834-92-0",
+    "cas-7757-82-6",
+    "cas-7646-69-7",
+    "cas-7647-14-5",
+    "cas-1336-21-6",
+    "cas-72-17-3",
+    "cas-17194-00-2",
+    "cas-6834-92-0",
+    "cas-7757-82-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1310-73-2/"
+}

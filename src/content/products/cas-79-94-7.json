@@ -1,0 +1,63 @@
+{
+  "id": "227",
+  "name": "Tetrabromobisphenol a",
+  "slug": "cas-79-94-7",
+  "cas": "79-94-7",
+  "ec": "201-236-9",
+  "formula": "C15H12Br4O2",
+  "mw": "543.9 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Electronics",
+    "Building & Construction",
+    "Automotive",
+    "Aerospace & Defense",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetrabromobisphenol A (CAS 79-94-7 ), commonly abbreviated as TBBPA, is the most commercially produced brominated flame retardant in the world. It functions as a reactive or additive flame retardant in polymer systems. The chemical interrupts combustion cycles to prevent ignition and limit fire spread in finished materials. In electronics manufacturing, TBBPA is reacted directly into epoxy resin matrices during the production of FR-4 printed circuit boards. It becomes a permanent part of the cured laminate in these applications. Automotive and aerospace components use TBBPA-containing polymers to meet stringent flammability standards in interior panels, housings, and structural parts. In building and construction, it is incorporated into ABS, HIPS, and polycarbonate compounds. These materials are used for insulation panels, cable sheathing, and electrical enclosures across the global infrastructure sector. Plastics compounders also use TBBPA as a precursor to produce derivative flame retardants. These include TBBPA-based epoxy oligomers and carbonate oligomers for use across multiple industrial end markets. TBBPA is supplied as a white to off-white crystalline powder for industrial use. Standard commercial grades include technical-grade material, with purity typically specified at 97% or higher for consistent performance. Supply is available in bulk bags and fiber drums to suit various manufacturing scales. Specifications are strictly aligned to industrial and electronics-sector requirements for high-performance chemical additives. Contact us for supply of Tetrabromobisphenol a Request Quote",
+  "physicalProperties": "Melting Point: 179-181 °C; Boiling Point: 316 °C; Density: 220 g/cm³ @ Temp: 4 °C; Appearance: white to pale cream or pale yellow crystalline; Color: White to Almost white; Form: neat; Water Solubility: Insoluble; Vapor Pressure: 0Pa@20°C; Refractive Index: 1.5000 (estimate); Log P: 5.903-6.31 at 12-25℃",
+  "safetyHandling": "Danger GHS08 GHS09 GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H362 May cause harm to breast-fed children H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29081990; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "4,4'-Isopropylidenebis(2,6-dibromophenol) | 4,4'-(2,2-propanediyl) bis[2,6-dibromo]phenol | 4,4'-(1-Methylethylidene)bis(2,6-dibromophenol) | 2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol | 2,6-dibromo-4-[1-(3,5-dibromo-4-hydroxyphenyl)-1-methylethyl]phenol | 2,2-Bis(3,5-dibromo-4-hydroxyphenyl)propane | 2,2',6,6'-Tetrabromobisphenol A | 3,3',5,5'-Tetrabromobisphenol A | TBBPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29081990",
+  "similarProducts": [
+    "cas-632-79-1",
+    "cas-183658-27-7",
+    "cas-26040-51-7",
+    "cas-36483-57-5",
+    "cas-38521-51-6",
+    "cas-126-72-7",
+    "cas-56803-37-3",
+    "cas-78-51-3",
+    "cas-1163-19-5",
+    "cas-84852-53-9",
+    "cas-13674-84-5",
+    "cas-3194-55-6",
+    "cas-13674-87-8",
+    "cas-80-05-7",
+    "cas-78-51-3",
+    "cas-1163-19-5",
+    "cas-84852-53-9",
+    "cas-13674-84-5",
+    "cas-3194-55-6",
+    "cas-13674-87-8",
+    "cas-80-05-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-94-7/"
+}

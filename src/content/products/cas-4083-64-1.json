@@ -1,0 +1,61 @@
+{
+  "id": "1762",
+  "name": "p-toluenesulfonyl isocyanate",
+  "slug": "cas-4083-64-1",
+  "cas": "4083-64-1",
+  "ec": "223-810-8",
+  "formula": "C8H7NO3S",
+  "mw": "197.21 g/mol",
+  "category": "Surfactants",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Textile, Leather & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "p-Toluenesulfonyl isocyanate (CAS 4083-64-1 ), commonly known as tosyl isocyanate or PTSI, is a reactive isocyanate reagent used across coatings, adhesives, and polymer systems. It functions primarily as a crosslinking agent and moisture scavenger, reacting with hydroxyl and amine groups to build or stabilize polymer networks in various industrial applications. In polyurethane coatings and adhesives, PTSI acts as a crosslinker that improves chemical resistance and film hardness without requiring elevated cure temperatures for the final product. Sealant and elastomer formulators use it to scavenge residual moisture from systems sensitive to premature gelation, extending pot life and improving shelf stability during storage. In textile and leather finishing, it enables durable bonding of functional coatings to fiber substrates by reacting with surface hydroxyl groups to create a strong chemical bond. Plastic and polymer manufacturers incorporate PTSI as a reactive building block in specialty monomers where controlled isocyanate functionality is required for specific material properties. p-Toluenesulfonyl isocyanate is supplied as a clear to pale yellow liquid. Technical grade is the standard commercial form, with purity specifications typically ranging from 97% upward. Packaging options generally include small reagent quantities through to drum-scale volumes for industrial procurement, ensuring flexibility for both laboratory and large-scale manufacturing needs. Contact us for supply of p-toluenesulfonyl isocyanate Request Quote",
+  "physicalProperties": "Melting Point: 188-189 °C; Boiling Point: 75-80 °C @ Press: 0.05-0.1 Torr; Density: 3.877 g/cm³ @ Temp: 827 °C; Flash Point: >230 °F; Appearance: clear liquid; Color: Clear colorless to yellow; Odor: acrid odor; Form: Liquid; Water Solubility: reacts; Vapor Pressure: 1 mm Hg ( 100 °C); Refractive Index: n 20/D 1.534(lit.); Log P: 0.6 at 30℃",
+  "safetyHandling": "Danger GHS07 GHS08 GHS06 Hazard Statements H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H330 Fatal if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309090; UN Number: 2206; ADR Class: 6.1; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "Tosyl isocyanate | 4-Methylbenzenesulfonyl isocyanate | p-Toluenesulphonyl isocyanate | Benzenesulfonyl isocyanate, 4-methyl- | Additive ti | H9004FJX6V | p-Toluenesulfonic acid, anhydride with isocyanic acid | PTSI",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29309090",
+  "similarProducts": [
+    "cas-104-15-4",
+    "cas-6192-52-5",
+    "cas-70-55-3",
+    "cas-657-84-1",
+    "cas-26471-62-5",
+    "cas-584-84-9",
+    "cas-24801-88-5",
+    "cas-40372-72-3",
+    "cas-12068-03-0",
+    "cas-9016-87-9",
+    "cas-106-49-0",
+    "cas-104-85-8",
+    "cas-27607-77-8",
+    "cas-17865-07-5",
+    "cas-40372-72-3",
+    "cas-12068-03-0",
+    "cas-9016-87-9",
+    "cas-106-49-0",
+    "cas-104-85-8",
+    "cas-27607-77-8",
+    "cas-17865-07-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4083-64-1/"
+}

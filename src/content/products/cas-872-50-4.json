@@ -1,0 +1,61 @@
+{
+  "id": "1310",
+  "name": "n-methyl-2-pyrrolidone",
+  "slug": "cas-872-50-4",
+  "cas": "872-50-4",
+  "ec": "212-828-1",
+  "formula": "C5H9NO",
+  "mw": "99.13 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Electronics",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Methyl-2-Pyrrolidone (CAS 872-50-4 ), commonly abbreviated as NMP, is a high-boiling polar aprotic solvent used across demanding industrial and specialty chemical applications. It dissolves a broad range of polymers, resins, and active compounds that resist conventional solvents, making it a preferred choice where solvent strength and thermal stability both matter. In lithium-ion battery manufacturing, NMP is the standard solvent for slurry preparation, dispersing electrode binders like PVDF onto current collectors during cell production. Pharmaceutical formulators use it as a carrier solvent in topical drug delivery systems and as a processing aid in API synthesis where high solvency and controlled evaporation are critical. Electronics manufacturers rely on NMP for photoresist stripping and semiconductor cleaning, where residue-free performance directly affects yield in high-tech environments. In polymer processing, it functions as the process solvent for producing aramid fibers, polyimide films, and engineering membranes used in gas separation and water treatment. NMP is supplied as a clear liquid, typically in drums, IBCs, and bulk tankers. Standard commercial grades include technical, electronic, and pharmaceutical-grade material. Purity levels are commonly at 99.5% and above. Electronic-grade NMP meets tighter specifications for metal ion content and water, reflecting the sensitivity of semiconductor fabrication. Contact us for supply of n-methyl-2-pyrrolidone Request Quote",
+  "physicalProperties": "Melting Point: -25 °C; Boiling Point: 202 °C @ Press: 760 Torr; Density: 1.027 g/cm³ @ Temp: 25 °C; Flash Point: 187 °F; Appearance: colourless or light yellow liquid with an amine odour; Color: ≤20(APHA); Odor: Slight amine odor; Form: Liquid; Water Solubility: >=10 g/100 mL at 20 ºC; Vapor Pressure: 0.29 mm Hg ( 20 °C); Refractive Index: n 20/D 1.479; pH: 8.5-10.0 (100g/l, H2O, 20℃); Log P: -0.46 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS08 Hazard Statements H227 Combustible liquid H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29339900; UN Number: 1268; ADR Class: 3; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "N-methylpyrrolidone | N-methyl-gamma-butyrolactam | N-methyl-alpha-pyrrolidone | N-methyl-alpha-pyrrolidinone | Methyl pyrrolidone | 1-methylpyrrolidinone | 1-methylpyrrolidin-2-one | 1-methylazacyclopentan-2-one | NMP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-109-02-4",
+    "cas-2687-91-4",
+    "cas-7529-22-8",
+    "cas-616-45-5",
+    "cas-109-01-3",
+    "cas-2687-94-7",
+    "cas-4394-85-8",
+    "cas-68-12-2",
+    "cas-75-52-5",
+    "cas-88-12-0",
+    "cas-67-51-6",
+    "cas-77-76-9",
+    "cas-106-94-5",
+    "cas-100-74-3",
+    "cas-68-12-2",
+    "cas-75-52-5",
+    "cas-88-12-0",
+    "cas-67-51-6",
+    "cas-77-76-9",
+    "cas-106-94-5",
+    "cas-100-74-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-872-50-4/"
+}

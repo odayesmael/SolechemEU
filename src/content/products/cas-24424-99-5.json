@@ -1,0 +1,62 @@
+{
+  "id": "2963",
+  "name": "di-tert-butyl dicarbonate",
+  "slug": "cas-24424-99-5",
+  "cas": "24424-99-5",
+  "ec": "246-240-1",
+  "formula": "C10H18O5",
+  "mw": "218.25 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Food & Nutrition",
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Di-tert-butyl dicarbonate (CAS 24424-99-5 ), commonly known as Boc₂O or BOC-anhydride, is a reagent used across pharmaceutical synthesis and biotechnology to introduce the tert-butoxycarbonyl protecting group onto amines. This function is central to controlled peptide assembly and API manufacturing, where selective protection of reactive sites determines synthetic yield and product purity in complex chemical processes. In pharmaceutical manufacturing, Boc₂O is used to protect amine groups during multi-step synthesis of active pharmaceutical ingredients, preventing unwanted side reactions at critical stages of development. Peptide synthesis relies heavily on Boc chemistry, particularly in solid-phase and solution-phase processes producing therapeutic peptides and amino acid derivatives for various medical applications. Biotechnology workflows use it to modify proteins, linkers, and bioconjugates where reversible amine protection is required. It also appears in agrochemical and specialty chemical synthesis for clean transformations. Di-tert-butyl dicarbonate is supplied as a liquid or low-melting solid, with liquid form being the standard commercial presentation for bulk handling and efficient industrial processing. It is available in reagent-grade and high-purity pharmaceutical-grade specifications suited to GMP manufacturing environments. Packaging ranges from laboratory quantities up to drum-scale supply for operations. Contact us for supply of di-tert-butyl dicarbonate Request Quote",
+  "physicalProperties": "Melting Point: 22-24 °C; Boiling Point: 65-66 °C @ Press: 1 Torr; Density: 0.95 g/mL at 25 °C(lit.); Flash Point: 99 °F; Appearance: White to off-white microcrystalline powder; Color: White; Form: Low Melting Crystalline Solid; Water Solubility: Miscible with decalin, toluene, carbon tetrachloride, tetrahydrofuran, dioxane, alcohols, acetone, acetonitrile and dimethylformamide. Immiscible with water.; Vapor Pressure: 3.85Pa at 25℃; Refractive Index: n 20/D 1.409(lit.); Log P: 1.87 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H228 Flammable solid H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209010; UN Number: 2929; ADR Class: 6.1; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Boc₂O | BOC-anhydride | bis(tert-butoxycarbonyl)oxide | Di(tert-butyl) carbonate | di-tert-Butyl pyrocarbonate | Boc2O | Dicarbonic acid, bis(1,1-dimethylethyl) ester | Z10Q236C3G",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29209010",
+  "similarProducts": [
+    "cas-36016-38-3",
+    "cas-542-52-9",
+    "cas-15260-10-3",
+    "cas-2050-60-4",
+    "cas-865-48-5",
+    "cas-98-29-3",
+    "cas-22238-17-1",
+    "cas-4437-85-8",
+    "cas-955359-35-0",
+    "cas-865-47-4",
+    "cas-110-05-4",
+    "cas-102-09-0",
+    "cas-540-88-5",
+    "cas-110-63-4",
+    "cas-4437-85-8",
+    "cas-955359-35-0",
+    "cas-865-47-4",
+    "cas-110-05-4",
+    "cas-102-09-0",
+    "cas-540-88-5",
+    "cas-110-63-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-24424-99-5/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "964",
+  "name": "Trimethyl orthoformate",
+  "slug": "cas-149-73-5",
+  "cas": "149-73-5",
+  "ec": "205-745-7",
+  "formula": "C4H10O3",
+  "mw": "106.12 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethyl orthoformate ( CAS 149-73-5 ), commonly abbreviated as TMOF and also known as methyl orthoformate, is a reactive orthoacid ester used as a protecting group reagent and synthetic building block. It serves as a vital solvent across pharmaceutical and specialty chemical manufacturing. Its primary commercial role is enabling controlled reactions in sensitive synthesis environments where conventional reagents would cause unwanted side reactions. In pharmaceutical synthesis, TMOF acts as a methoxymethylating agent and carbonyl-protecting reagent. This enables the construction of complex active pharmaceutical ingredient intermediates with high selectivity during the manufacturing process. Agrochemical and fine chemical producers use it as a formylation reagent to introduce formate functionality into target molecules under mild conditions. This versatility makes it a staple in modern industrial chemistry. In flavor and fragrance manufacturing, it functions as a precursor to orthoester-based aroma compounds. It also serves as a stabilizing carrier solvent for sensitive fragrance ingredients that require specific chemical environments. Biotechnology applications include its use as a low-water solvent medium for enzymatic reactions. This is particularly useful where aqueous conditions would compromise yield or selectivity in delicate biological processes. The product is supplied as a colorless liquid in standard packaging ranging from small laboratory quantities to bulk drum shipments. Technical and synthesis-grade specifications are the most commonly available for industrial use. Purity levels are typically at 98% or higher for pharmaceutical and fine chemical applications. High-purity reagent-grade material is also available to meet the stricter quality requirements of API synthesis and analytical workflows. Contact us for supply of Trimethyl orthoformate Request Quote",
+  "physicalProperties": "Melting Point: 15 °C; Boiling Point: 100.6 °C @ Press: 760 Torr; Density: 0.9676 g/cm³ @ Temp: 20 °C; Flash Point: 60 °F; Appearance: Colorless liquid; Color: Clear colorless; Form: Liquid; Water Solubility: 10 g/L (hydrolysis); Vapor Pressure: 23.5 mm Hg ( 20 °C); Refractive Index: n 20/D 1.379(lit.); Log P: -0.03-0.09 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159080; UN Number: 3272; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Methyl orthoformate | Methane, trimethoxy- | Orthoformic acid methyl ester | Orthoformic acid, trimethyl ester | Orthomravencan methylnaty | TMOF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29159080",
+  "similarProducts": [
+    "cas-1445-45-0",
+    "cas-122-51-0",
+    "cas-107-31-3",
+    "cas-27607-77-8",
+    "cas-121-43-7",
+    "cas-512-56-1",
+    "cas-3290-92-4",
+    "cas-77-99-6",
+    "cas-75-50-3",
+    "cas-2459-10-1",
+    "cas-108-23-6",
+    "cas-15625-89-5",
+    "cas-80-70-6",
+    "cas-358-23-6",
+    "cas-77-99-6",
+    "cas-75-50-3",
+    "cas-2459-10-1",
+    "cas-108-23-6",
+    "cas-15625-89-5",
+    "cas-80-70-6",
+    "cas-358-23-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-149-73-5/"
+}

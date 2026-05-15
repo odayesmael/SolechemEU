@@ -1,0 +1,60 @@
+{
+  "id": "595",
+  "name": "Pyridine-borane",
+  "slug": "cas-110-51-0",
+  "cas": "110-51-0",
+  "ec": "203-773-4",
+  "formula": "C5H8BN",
+  "mw": "92.94 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Electronics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pyridine-borane (CAS 110-51-0 ) is a stabilized borane complex that delivers controlled hydride-reducing activity under mild conditions. It functions as a selective reducing agent in synthetic chemistry. This reagent offers greater handling safety and solution stability than free borane reagents. In pharmaceutical manufacturing, it reduces imines and iminium ions in reductive amination reactions. This is a critical step in producing active pharmaceutical ingredients and chiral intermediates. Electronics manufacturers use it in electroless plating baths and surface treatment processes. It is utilized where controlled boron deposition is required. Biotechnology researchers rely on it for reductive amination of biomolecules including proteins, peptides, and oligosaccharides. Selectivity and aqueous compatibility are priorities in these applications. It also serves synthetic chemistry workflows requiring mild reduction of aldehydes and ketones without over-reduction. This prevents the degradation of sensitive functional groups during the process. The product is supplied as a colorless to pale yellow liquid, typically in concentrations around 8 M in solution. It is available in research quantities through to multi-kilogram lots for process-scale use. Technical and high-purity grades are offered to meet synthetic and manufacturing requirements. Purity specifications are commonly at 97% or above. This ensures the material meets the rigorous standards necessary for pharmaceutical and industrial chemical production cycles. Contact us for supply of Pyridine-borane Request Quote",
+  "physicalProperties": "Melting Point: 46-47 °C; Boiling Point: 102 °C (0.37505 mmHg); Density: 0.929 g/mL at 20 °C; Flash Point: 70 °F; Appearance: clear to slightly hazy colorless to amber liquid; Color: Clear to slightly hazy colorless to amber; Form: Liquid; Water Solubility: reacts slowly; Refractive Index: n 20/D 1.532(lit.)",
+  "safetyHandling": "Danger GHS02 GHS06 Hazard Statements H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H330 Fatal if inhaled H310+H330 Fatal in contact with skin or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29333990; UN Number: 1992; ADR Class: 3; Packing Group: II; WGK (Germany): 2",
+  "otherNames": "Pyridine-borane (1:1) | Trihydro(pyridine)boron | Borane-pyridine (1:1) | 8JXE4C7UEX | RefChem:177566 | Boron, trihydro(pyridine)-, (T-4)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06"
+  ],
+  "hsCode": "29333990",
+  "similarProducts": [
+    "cas-13289-97-9",
+    "cas-4856-95-5",
+    "cas-110-86-1",
+    "cas-16940-66-2",
+    "cas-25015-63-8",
+    "cas-13774-81-7",
+    "cas-1722-26-5",
+    "cas-74-94-2",
+    "cas-14044-65-6",
+    "cas-73183-34-3",
+    "cas-16969-45-2",
+    "cas-280-64-8",
+    "cas-13292-87-0",
+    "cas-274-07-7",
+    "cas-74-94-2",
+    "cas-14044-65-6",
+    "cas-73183-34-3",
+    "cas-16969-45-2",
+    "cas-280-64-8",
+    "cas-13292-87-0",
+    "cas-274-07-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-51-0/"
+}

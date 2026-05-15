@@ -1,0 +1,60 @@
+{
+  "id": "215",
+  "name": "Methyl acetate",
+  "slug": "cas-79-20-9",
+  "cas": "79-20-9",
+  "ec": "201-185-2",
+  "formula": "C3H6O2",
+  "mw": "74.08 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl acetate (CAS 79-20-9 ), also known by its FEMA 2676 designation, is a fast-evaporating ester solvent used across food flavoring and personal care manufacturing. Tereton is a recognized trade name encountered in certain European markets. Its rapid evaporation rate makes it a preferred carrier in formulations where residual solvent presence must be minimized. In food and beverage production, methyl acetate functions as a FEMA-approved flavoring agent. It contributes fruity, apple-like top notes to confectionery, beverages, and baked goods. Personal care manufacturers use it as a solvent in nail polish removers, aerosol formulations, and fragrance delivery systems. In these applications, clean evaporation is critical. In flavor compounding, it acts as a carrier solvent that helps disperse and stabilize aromatic ingredients without masking the target flavor profile. It also appears in cosmetic sprays and hair care aerosols where a low-residue solvent is required for finish quality. Methyl acetate is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Food-grade material conforming to FEMA and FCC specifications is available for flavoring applications, while technical-grade is standard for industrial solvent use. Purity levels typically range from 99% and above for commercial supply. This high level of purity ensures consistent performance across both food-grade and industrial manufacturing processes. Contact us for supply of Methyl acetate Request Quote",
+  "physicalProperties": "Melting Point: -98 °C; Boiling Point: 56.8 °C; Density: 0.9342 g/cm³ @ Temp: 20 °C; Flash Point: 3.2 °F; Appearance: Methyl acetate is a colorless liquid with a fruity odor.; Color: Clear colorless to slightly pale yellow; Odor: Slightly acrid, sweet; fragrant.; Form: Solution; Water Solubility: 250 g/L (20 ºC); Vapor Pressure: 165 mm Hg ( 20 °C); Refractive Index: n 20/D 1.361(lit.); pH: 7; Log P: 0.18 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153900; UN Number: 1231; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Tereton | Octan metylu | Metile (acetato di) | Metile | Methylester kiseliny octove | Methyle (acetate de) | Methylacetat (german) | Methyl ethanoate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29153900",
+  "similarProducts": [
+    "cas-105-45-3",
+    "cas-141-78-6",
+    "cas-623-42-7",
+    "cas-547-63-7",
+    "cas-108-21-4",
+    "cas-103429-90-9",
+    "cas-93-58-3",
+    "cas-107-31-3",
+    "cas-110-19-0",
+    "cas-7452-79-1",
+    "cas-123-86-4",
+    "cas-109-60-4",
+    "cas-628-63-7",
+    "cas-96-33-3",
+    "cas-107-31-3",
+    "cas-110-19-0",
+    "cas-7452-79-1",
+    "cas-123-86-4",
+    "cas-109-60-4",
+    "cas-628-63-7",
+    "cas-96-33-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-20-9/"
+}

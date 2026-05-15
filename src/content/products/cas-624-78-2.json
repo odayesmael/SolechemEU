@@ -1,0 +1,62 @@
+{
+  "id": "1209",
+  "name": "Ethylmethylamine",
+  "slug": "cas-624-78-2",
+  "cas": "624-78-2",
+  "ec": "210-862-1",
+  "formula": "C3H9N",
+  "mw": "59.11 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethylmethylamine (CAS 624-78-2 ), also referred to as N-methylethylamine, is a secondary aliphatic amine used as a reactive building block and process chemical across pharmaceutical, personal care, and specialty chemical manufacturing. Its secondary amine functionality makes it a practical intermediate for synthesizing active compounds and functional additives. In pharmaceutical synthesis, it serves as an alkylating agent or amine source in the preparation of API intermediates. This chemical is essential where controlled reactivity and defined nitrogen substitution are required. Personal care formulators use it in the development of conditioning agents and buffering components where pH management is critical. In flavor chemistry, it contributes to the construction of nitrogen-containing aroma compounds targeting specific taste profiles. It also finds use as a curing agent or crosslinker in specialty resin and coating formulations. These applications require secondary amine reactivity to ensure product stability and performance. Ethylmethylamine is supplied as a liquid, typically in bulk drums or isotanks suited for industrial quantities. Technical grade is the standard commercial offering, with high-purity grades available for pharmaceutical and flavor applications. Buyers should confirm concentration and stabilizer content with suppliers before purchase. The product is often handled under inert conditions due to its volatility and reactive nature. Ensuring proper storage and handling protocols is vital for maintaining the integrity of the chemical during transport. Contact us for supply of Ethylmethylamine Request Quote",
+  "physicalProperties": "Melting Point: -70.99°C (estimate); Boiling Point: 36.5 °C; Density: 0.688 g/mL at 25 °C(lit.); Flash Point: <−30 °F; Appearance: clear colorless to light yellow liquid; Color: Clear colorless to light yellow; Form: Liquid; Vapor Pressure: 8.53 psi ( 20 °C); Refractive Index: n 20/D 1.374(lit.); Log P: 0.15",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H224 Extremely flammable liquid and vapor H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H332 Harmful if inhaled H335 May cause respiratory irritation H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211990; UN Number: 2733; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "n-methylethylamine | n-ethyl-n-methylamine | n-methylethanamine | n-ethylmethylamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29211990",
+  "similarProducts": [
+    "cas-75-04-7",
+    "cas-13360-63-9",
+    "cas-19961-27-4",
+    "cas-20193-20-8",
+    "cas-74-89-5",
+    "cas-557-66-4",
+    "cas-109-83-1",
+    "cas-104-75-6",
+    "cas-109-89-7",
+    "cas-97-63-2",
+    "cas-139-87-7",
+    "cas-121-44-8",
+    "cas-84649-84-3",
+    "cas-105-83-9",
+    "cas-104-75-6",
+    "cas-109-89-7",
+    "cas-97-63-2",
+    "cas-139-87-7",
+    "cas-121-44-8",
+    "cas-84649-84-3",
+    "cas-105-83-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-624-78-2/"
+}

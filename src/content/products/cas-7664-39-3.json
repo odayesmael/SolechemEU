@@ -1,0 +1,64 @@
+{
+  "id": "2069",
+  "name": "Hydrofluoric acid",
+  "slug": "cas-7664-39-3",
+  "cas": "7664-39-3",
+  "ec": "231-634-8",
+  "formula": "FH",
+  "mw": "20.0064 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Mining & Metals",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydrofluoric acid (CAS 7664-39-3 ), also supplied as anhydrous hydrogen fluoride (HF), is an inorganic acid with exceptional ability to dissolve silica, oxides, and mineral scales that resist other acids. This property drives its use across electronics fabrication, metal surface treatment, and chemical synthesis at industrial scale. In semiconductor and flat-panel display manufacturing, HF etches silicon dioxide layers. It cleans wafer surfaces with precision tolerances that other acids cannot achieve. Metal processing operations use it to pickle stainless steel and titanium, removing oxide scale and activating surfaces ahead of finishing. Fluorochemical synthesis relies on HF as a primary fluorinating agent in the production of refrigerants, fluoropolymers, and pharmaceutical intermediates. In mining and hydrometallurgy, it dissolves silicate gangue minerals. The acid assists in uranium conversion processes during ore processing. Hydrofluoric acid is supplied as aqueous solution, with 40%, 49%, and 70% concentrations being the most commercially standard grades. Anhydrous hydrogen fluoride is available for industrial fluorination processes where water content must be minimized. Grades include technical, electronic, and reagent specifications for various industrial needs. Electronic-grade material is subject to strict trace metal and particle limits. Our supply meets rigorous quality standards to ensure performance in high-precision manufacturing and chemical synthesis applications. Contact us for supply of Hydrofluoric acid Request Quote",
+  "physicalProperties": "Melting Point: -83.36 °C; Boiling Point: 20 °C; Density: 0.991 g/cm³ @ Temp: 19.54 °C; Flash Point: 112°C; Appearance: colourless gas with a pungent odour; Color: max. 10; Odor: Acrid, irritating odor; Form: Liquid, Double Sub-Boiling Quartz Distillation; Water Solubility: soluble; Vapor Pressure: 25 mm Hg ( 20 °C); pH: 3.27(1 mM solution);2.65(10 mM solution);2.12(100 mM solution); Log P: 0.1 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS04 GHS08 GHS07 Hazard Statements H280 Contains gas under pressure; may explode if heated H290 May be corrosive to metals H300 Fatal if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H341 Suspected of causing genetic defects H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28111100; UN Number: 1790; ADR Class: 8; Packing Group: II; Storage Class: 6.1B - Non-combustible, acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "[HF] | Hydrogen fluoride | Fluorhydric acid | Rubigine | Antisal 2B | Hydrofluoricum acidum | Anhydrous hydrofluoric acid | Hydrofluoric acid gas | HF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS04",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "28111100",
+  "similarProducts": [
+    "cas-16961-83-4",
+    "cas-12021-95-3",
+    "cas-7647-01-0",
+    "cas-16872-11-0",
+    "cas-7782-41-4",
+    "cas-17439-11-1",
+    "cas-1341-49-7",
+    "cas-7789-75-5",
+    "cas-12125-01-8",
+    "cas-1333-83-1",
+    "cas-7789-23-3",
+    "cas-10035-10-6",
+    "cas-7784-18-1",
+    "cas-7783-49-5",
+    "cas-7789-75-5",
+    "cas-12125-01-8",
+    "cas-1333-83-1",
+    "cas-7789-23-3",
+    "cas-10035-10-6",
+    "cas-7784-18-1",
+    "cas-7783-49-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7664-39-3/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "192",
+  "name": "Tetraethyl silicate",
+  "slug": "cas-78-10-4",
+  "cas": "78-10-4",
+  "ec": "201-083-8",
+  "formula": "C8H20O4Si",
+  "mw": "208.33 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics",
+    "Electronics",
+    "Building & Construction",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetraethyl silicate (CAS 78-10-4 ), commonly known as TEOS or ethyl silicate, is a silicon alkoxide used as a reactive binder, crosslinker, and silica precursor across industrial and specialty chemical applications. On hydrolysis, it deposits amorphous silica, enabling durable surface treatments, protective coatings, and ceramic structures without requiring high-temperature sintering. In zinc-rich and inorganic coatings, it acts as the silicate binder. This material cures at ambient temperature to form hard, corrosion-resistant films on steel structures and industrial equipment. Semiconductor and display manufacturers use it as a CVD/sol-gel precursor to deposit silicon dioxide dielectric layers. In building and construction, it consolidates porous stone, concrete, and masonry by penetrating the substrate. It forms a silica network that restores structural integrity and protects against environmental degradation over time. Formulators of heat-resistant adhesives and sealants incorporate it as a crosslinking agent to improve thermal stability. This enhances adhesion to glass and metal surfaces in demanding industrial environments and high-heat applications. Tetraethyl silicate is supplied as a clear liquid, available in both pure form and as partially pre-hydrolyzed grades. Most notably, Ethyl Silicate 40 offers higher silica content for specialized coating applications. Standard purity grades range from technical to high-purity electronic grade for semiconductor use. Packaging typically covers drums, IBCs, and bulk tanker quantities to meet various industrial supply chain requirements. Contact us for supply of Tetraethyl silicate Request Quote",
+  "physicalProperties": "Melting Point: -82.5 °C; Boiling Point: 168.8 °C @ Press: 760 Torr; Density: 0.933 g/cm³ @ Temp: 20 °C; Flash Point: 116 °F; Appearance: Ethyl silicate is a colorless, flammable liquid with a sharp odor detectable @ 85 ppm; Color: Colorless; Form: Liquid; Water Solubility: Hydrolysis; Vapor Pressure: <1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.382(lit.); pH: 7 (20°C)",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209090; UN Number: 1292; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "tetraethyl orthosilicate | ethyl silicate | ethyl orthosilicate | TEOS | Dynasil A | Silicon ethoxide | Silicon tetraethoxide | Silikan L",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29209090",
+  "similarProducts": [
+    "cas-4766-57-8",
+    "cas-78-08-0",
+    "cas-17689-77-9",
+    "cas-34206-40-1",
+    "cas-2031-67-6",
+    "cas-2943-75-1",
+    "cas-17980-47-1",
+    "cas-17861-60-8",
+    "cas-780-69-8",
+    "cas-2224-33-1",
+    "cas-40372-72-3",
+    "cas-2554-06-5",
+    "cas-919-30-2",
+    "cas-22984-54-9",
+    "cas-17861-60-8",
+    "cas-780-69-8",
+    "cas-2224-33-1",
+    "cas-40372-72-3",
+    "cas-2554-06-5",
+    "cas-919-30-2",
+    "cas-22984-54-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-78-10-4/"
+}

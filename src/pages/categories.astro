@@ -1,0 +1,126 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { PRODUCTS_INDEX } from '../data';
+
+const CATEGORIES = [
+  { name: "Agrochemicals", image: "/categories/Agrochemicals.webp" },
+  { name: "Alcohols & Glycols", image: "/categories/Alcohols & Glycols.webp" },
+  { name: "Alkalis & Bases", image: "/categories/Alkalis & Bases.webp" },
+  { name: "Amines", image: "/categories/Amines.webp" },
+  { name: "Amino Acids & Peptides", image: "/categories/Amino Acids & Peptides.webp" },
+  { name: "Catalysts & Catalyst Precursors", image: "/categories/Catalysts & Catalyst Precursors.webp" },
+  { name: "Chelating Agents", image: "/categories/Chelating Agents.webp" },
+  { name: "Flame Retardants", image: "/categories/Flame Retardants.webp" },
+  { name: "Flavors & Fragrances", image: "/categories/Flavors & Fragrances.webp" },
+  { name: "Heterocyclic Compounds", image: "/categories/Heterocyclic Compounds.webp" },
+  { name: "Inorganic Acids", image: "/categories/Inorganic Acids.webp" },
+  { name: "Monomers & Building Blocks", image: "/categories/Monomers & Building Blocks.webp" },
+  { name: "Nucleosides & Nucleotides", image: "/categories/Nucleosides & Nucleotides.webp" },
+  { name: "Oils, Fats & Waxes", image: "/categories/Oils, Fats & Waxes.webp" },
+  { name: "Organic Acids", image: "/categories/Organic Acids.webp" },
+  { name: "Organometallic Compounds", image: "/categories/Organometallic Compounds.webp" },
+  { name: "Oxidizers & Peroxides", image: "/categories/Oxidizers & Peroxides.webp" },
+  { name: "Pharmaceutical Intermediates", image: "/categories/Pharmaceutical Intermediates.webp" },
+  { name: "Pigments & Colorants", image: "/categories/Pigments & Colorants.webp" },
+  { name: "Polymers & Resins", image: "/categories/Polymers & Resins.webp" },
+  { name: "Salts & Minerals", image: "/categories/Salts & Minerals.webp" },
+  { name: "Silicones & Silicates", image: "/categories/Silicones & Silicates.webp" },
+  { name: "Solvents", image: "/categories/Solvents.webp" },
+  { name: "Surfactants", image: "/categories/Surfactants.webp" },
+  { name: "Sweeteners & Food Additives", image: "/categories/Sweeteners & Food Additives.webp" },
+  { name: "UV Absorbers & Stabilizers", image: "/categories/UV Absorbers & Stabilizers.webp" },
+  { name: "Vitamins & Nutrients", image: "/categories/Vitamins & Nutrients.webp" }
+];
+
+const getCategoryCount = (categoryName: string) => {
+  return PRODUCTS_INDEX.filter(p => p.category === categoryName).length;
+};
+---
+
+<BaseLayout title="Chemical Categories | SoleChem Europe" description="Browse our comprehensive catalog of high-quality chemical products organized by category.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.solechem.eu/" },
+      { "@type": "ListItem", "position": 2, "name": "Categories", "item": "https://www.solechem.eu/categories" }
+    ]
+  })} />
+  <div class="min-h-screen bg-gray-50 pt-28 pb-20 transition-colors duration-300">
+    <div class="max-w-[1400px] mx-auto px-4">
+      <!-- Breadcrumb -->
+      <div class="flex items-center gap-2 text-xs font-bold text-slate-400 mb-8 uppercase tracking-widest">
+        <a href="/" class="hover:text-orange-600 transition-colors">Home</a>
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+        <span class="text-slate-900">Categories</span>
+      </div>
+
+      <!-- Page Header -->
+      <div class="mb-12">
+        <h1 class="text-4xl md:text-5xl font-black text-slate-900 tracking-tight">
+          Chemical <span class="text-orange-600">Categories</span>
+        </h1>
+        <p class="text-slate-500 mt-3 text-[15px] leading-relaxed max-w-2xl">
+          Browse our comprehensive catalog of {PRODUCTS_INDEX.length.toLocaleString()}+ high-quality chemical products, organized by category.
+        </p>
+      </div>
+
+      <!-- Stats Bar -->
+      <div class="bg-white border border-slate-200 p-4 mb-8 flex flex-wrap items-center gap-6">
+        <div class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-orange-600"><path d="M11 21.73a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73z"/></svg>
+          <span class="text-[13px] font-medium text-slate-600">
+            <span class="text-slate-900 font-bold">{CATEGORIES.length}</span> Categories
+          </span>
+        </div>
+        <div class="h-4 w-px bg-slate-200"></div>
+        <div class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-orange-600"><path d="M4.5 3h15"/><path d="M6 3v16a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V3"/><path d="M6 14h12"/></svg>
+          <span class="text-[13px] font-medium text-slate-600">
+            <span class="text-slate-900 font-bold">{PRODUCTS_INDEX.length.toLocaleString()}</span> Products
+          </span>
+        </div>
+      </div>
+
+      <!-- Categories Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        {CATEGORIES.map((category) => {
+          const count = getCategoryCount(category.name);
+          return (
+            <a
+              href={`/products?category=${encodeURIComponent(category.name)}`}
+              class="group block rounded bg-white border border-slate-200 hover:border-orange-500/50 transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 overflow-hidden"
+            >
+              <!-- Image -->
+              <div class="relative h-36 overflow-hidden bg-slate-100">
+                <img
+                  src={category.image}
+                  alt={category.name}
+                  class="w-full h-full object-cover opacity-80 group-hover:opacity-100 group-hover:scale-105 transition-all duration-500"
+                  referrerpolicy="no-referrer"
+                />
+                <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 via-transparent to-transparent"></div>
+                {count > 0 && (
+                  <div class="absolute top-3 right-3 bg-white/90 backdrop-blur-sm px-2 py-0.5 text-[10px] font-bold text-slate-700 uppercase tracking-wider">
+                    {count} Products
+                  </div>
+                )}
+              </div>
+
+              <!-- Content -->
+              <div class="p-4">
+                <h3 class="text-sm font-bold text-slate-900 group-hover:text-orange-600 transition-colors leading-snug">
+                  {category.name}
+                </h3>
+                <div class="flex items-center gap-1.5 mt-2 text-[11px] font-semibold text-slate-400 group-hover:text-orange-500 transition-colors uppercase tracking-wider">
+                  Browse Products
+                  <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="transform group-hover:translate-x-1 transition-transform"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </div>
+</BaseLayout>

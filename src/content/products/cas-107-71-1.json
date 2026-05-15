@@ -1,0 +1,62 @@
+{
+  "id": "511",
+  "name": "tert-butyl peroxyacetate",
+  "slug": "cas-107-71-1",
+  "cas": "107-71-1",
+  "ec": "203-514-5",
+  "formula": "C6H12O3",
+  "mw": "132.16 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Rubber & Tire",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyl peroxyacetate (CAS 107-71-1 ), also known as tert-butyl peracetate and sold under the trade name Lupersol 70, is an organic peroxide used as a free-radical source in polymer manufacturing. It delivers controlled radical generation across a defined temperature range, supporting both polymerization initiation and cross-linking processes for various industrial applications. In plastics and polymer production, it initiates free-radical polymerization of vinyl monomers including styrene, acrylates, and vinyl acetate, enabling consistent molecular weight control. Rubber and tire manufacturers use it as a cross-linking agent to cure elastomers, improving mechanical strength and heat resistance in finished compounds and specialty materials. It also functions as a co-initiator in high-temperature polymerization systems where precise radical flux is required to meet specific product performance requirements and specifications. Formulators working with polyethylene and specialty resins select it for grafting reactions where other peroxides would decompose too rapidly for the intended chemical process. Tert-butyl peroxyacetate is supplied as a liquid solution, typically at 75% active concentration in a diluent to reduce handling hazards associated with the pure form. Technical grade is the standard commercial offering, with supply governed by peroxide-specific transport and storage regulations. Packaging ranges from small drums to IBC containers. Contact us for supply of tert-butyl peroxyacetate Request Quote",
+  "physicalProperties": "Melting Point: -20 °C; Boiling Point: 1.405 °C @ Press: 20 Torr; Density: 0.9415 g/cm³ @ Temp: 20 °C; Flash Point: 99 °F; Appearance: clear solution; Color: Clear; Form: Solution; Water Solubility: 3.878g/L at 25℃; Vapor Pressure: 1.966Pa at 25℃; Refractive Index: n 20/D 1.412; Log P: 1.6 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS06 GHS07 GHS09 GHS01 Hazard Statements H201 (Deleted) Explosive; mass explosion hazard [Danger Explosives] H240 Heating may cause an explosion [Danger Self-reactive substances and mixtures; Organic peroxides] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+  "tradeRegulatory": "HS Code: 29159000; UN Number: 3103; ADR Class: 5.2; Storage Class: 5.2 - Organic peroxides and self-reacting hazardous materials; WGK (Germany): 2",
+  "otherNames": "tert-Butyl peracetate | t-Butyl peracetate | Lupersol 70 | t-Butyl peroxyacetate | Trigonox F-C50 | ETHANEPEROXOIC ACID, 1,1-DIMETHYLETHYL ESTER | Peroxyacetic acid, tert-butyl ester | FJ3F3S50CS",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06",
+    "GHS07",
+    "GHS09",
+    "GHS01"
+  ],
+  "hsCode": "29159000",
+  "similarProducts": [
+    "cas-614-45-9",
+    "cas-927-07-1",
+    "cas-29240-17-3",
+    "cas-1931-62-0",
+    "cas-13122-18-4",
+    "cas-75-91-2",
+    "cas-110-05-4",
+    "cas-540-88-5",
+    "cas-98-73-7",
+    "cas-98-54-4",
+    "cas-107-58-4",
+    "cas-3851-87-4",
+    "cas-98-29-3",
+    "cas-15625-89-5",
+    "cas-540-88-5",
+    "cas-98-73-7",
+    "cas-98-54-4",
+    "cas-107-58-4",
+    "cas-3851-87-4",
+    "cas-98-29-3",
+    "cas-15625-89-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-71-1/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "325",
+  "name": "2-chloroaniline",
+  "slug": "cas-95-51-2",
+  "cas": "95-51-2",
+  "ec": "202-426-4",
+  "formula": "C6H6ClN",
+  "mw": "127.57 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers",
+    "Textile, Leather & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Chloroaniline (CAS 95-51-2 ), also known as o-Chloroaniline, is an aromatic amine intermediate used across dye manufacturing, agrochemical synthesis, and pharmaceutical production. It functions as a building block for constructing complex organic molecules, particularly azo dyes, pigments, and active ingredient precursors for various industrial sectors. In textile and printing industries, it serves as a key precursor in azo dye synthesis, enabling the production of colorants applied to fabric, paper, and packaging substrates. Pharmaceutical manufacturers use it to synthesize active intermediates, where the ortho-chloro substitution pattern directs specific reaction pathways during API construction. In polymer and rubber processing, it acts as a curing agent and cross-linker, contributing to the structural integrity of finished elastomeric and plastic components. Agrochemical producers also rely on it as a starting material for herbicide and pesticide synthesis, where chlorinated aniline derivatives define the biological activity of the final compound. 2-Chloroaniline is supplied as a liquid at ambient conditions. It is available in technical grade for industrial synthesis applications, with higher-purity specifications offered to meet requirements. Packaging options typically range from drums to IBC containers, suited to both laboratory-scale procurement and bulk industrial supply for global chemical distribution. Contact us for supply of 2-chloroaniline Request Quote",
+  "physicalProperties": "Melting Point: -14 °C; Boiling Point: 208.84 °C; Density: 1.2114 g/cm³ @ Temp: 22 °C; Flash Point: 98 °C; Appearance: clear pale yellow to brown liquid; Color: Clear pale yellow to brown; Odor: Characteristic odour; Form: Liquid; Water Solubility: 5.13 g/L (20 ºC); Vapor Pressure: 0.5 hPa (20 °C); Refractive Index: n 20/D 1.589; Log P: 1.72 at 20℃ and pH6-8",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H319 Causes serious eye irritation H320 Causes eye irritation H331 Toxic if inhaled H332 Harmful if inhaled H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H301+H311+H331 Toxic if swallowed, in contact with skin or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29214210; UN Number: 2019; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "o-Chloroaniline | 1-Amino-2-chlorobenzene | 2-Chlorophenylamine | Fast Yellow GC Base | Benzenamine, 2-chloro- | o-Aminochlorobenzene | Aniline, o-chloro- | o-Chloroaminobenzene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29214210",
+  "similarProducts": [
+    "cas-121-87-9",
+    "cas-95-79-4",
+    "cas-106-47-8",
+    "cas-89-63-4",
+    "cas-6358-64-1",
+    "cas-2401-24-3",
+    "cas-87-60-5",
+    "cas-554-00-7",
+    "cas-89-98-5",
+    "cas-95-55-6",
+    "cas-121-50-6",
+    "cas-89-61-2",
+    "cas-445-03-4",
+    "cas-95-74-9",
+    "cas-554-00-7",
+    "cas-89-98-5",
+    "cas-95-55-6",
+    "cas-121-50-6",
+    "cas-89-61-2",
+    "cas-445-03-4",
+    "cas-95-74-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-95-51-2/"
+}

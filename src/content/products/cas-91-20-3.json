@@ -1,0 +1,64 @@
+{
+  "id": "291",
+  "name": "Naphthalene",
+  "slug": "cas-91-20-3",
+  "cas": "91-20-3",
+  "ec": "202-049-5",
+  "formula": "C10H8",
+  "mw": "128.17 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Naphthalene (CAS 91-20-3 ), also known commercially as white tar and tar camphor, is a polycyclic aromatic hydrocarbon derived primarily from coal tar and petroleum refining. It functions as a chemical intermediate and precursor feedstock across a broad range of industrial manufacturing processes. In the pharmaceutical and agrochemical sectors, this compound serves as a key intermediate in synthesizing active ingredients, including fungicides and insecticides. It is also essential for producing drug compounds such as beta-blockers for medical applications. Textile and leather processors use naphthalene-derived sulfonates as dispersants and leveling agents in dye baths. These chemical additives are critical for improving color uniformity across various fiber types and leather goods during the manufacturing cycle. In the printing and packaging industries, it contributes to the production of phthalocyanine pigments used in high-quality inks and coatings. These pigments are valued for their stability and vibrant color properties in commercial printing. Moth-repellent blocks and fumigant formulations for storage protection represent a direct end-product application in consumer and industrial pest control. The material acts as an effective biocide to protect fabrics and stored goods from insect damage. The product is supplied as white flakes, pellets, or molten liquid for bulk industrial shipment. Technical grade is the most common specification, with purity levels typically ranging from ninety-six percent to over ninety-nine percent. Refined grades meeting higher purity thresholds are available for pharmaceutical intermediate and specialty chemical manufacturing. These high-purity options ensure compliance with rigorous industrial standards for sensitive chemical synthesis and laboratory use. Contact us for supply of Naphthalene Request Quote",
+  "physicalProperties": "Melting Point: 80.2 °C; Boiling Point: 217.9 °C @ Press: 760 Torr; Density: 1.162 g/cm³ @ Temp: 20 °C; Flash Point: 174 °F; Appearance: Naphthalene is a colorless to brown crystalline solid with a characteristic “moth ball” odor. Shipped as a molten solid.; Color: White to almost white; Odor: at 10.00 % in benzyl benzoate. pungent dry tarry; Form: Faint beige to brown to salmon red powder; Water Solubility: 30 mg/L (25 ºC); Vapor Pressure: 0.03 mm Hg ( 25 °C); Refractive Index: 1.5821; Log P: 3.7 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 GHS02 Hazard Statements H228 Flammable solid H302 Harmful if swallowed H316 Causes mild skin irritation H317 May cause an allergic skin reaction H320 Causes eye irritation H335 May cause respiratory irritation H351 Suspected of causing cancer H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29029010; UN Number: 1334; ADR Class: 4.1; Packing Group: III; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 3",
+  "otherNames": "white tar | tar camphor | Naphthene | Camphor tar | Mothballs | Tolboxane | Moth flakes",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS02"
+  ],
+  "hsCode": "29029010",
+  "similarProducts": [
+    "cas-90-15-3",
+    "cas-135-19-3",
+    "cas-91-59-8",
+    "cas-83-32-9",
+    "cas-532-02-5",
+    "cas-85-01-8",
+    "cas-68478-07-9",
+    "cas-130-14-3",
+    "cas-76-22-2",
+    "cas-120-12-7",
+    "cas-1338-02-9",
+    "cas-8002-29-7",
+    "cas-81-86-7",
+    "cas-85-44-9",
+    "cas-130-14-3",
+    "cas-76-22-2",
+    "cas-120-12-7",
+    "cas-1338-02-9",
+    "cas-8002-29-7",
+    "cas-81-86-7",
+    "cas-85-44-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-91-20-3/"
+}

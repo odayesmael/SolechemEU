@@ -1,0 +1,62 @@
+{
+  "id": "2009",
+  "name": "Cobalt",
+  "slug": "cas-7440-48-4",
+  "cas": "7440-48-4",
+  "ec": "231-158-0",
+  "formula": "Co",
+  "mw": "58.93319 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cobalt (CAS 7440-48-4 ), commonly abbreviated as Co, is a transition metal supplied in elemental form for use across catalyst manufacturing and pigment production. It functions as a foundational raw material in processes requiring controlled oxidation states. This versatile metal is essential for applications involving magnetic properties or colorant precursors. In catalyst manufacturing, elemental cobalt serves as a precursor for Fischer-Tropsch synthesis catalysts used in gas-to-liquid fuel conversion. It is also utilized in hydroprocessing and various industrial chemical reactions. Pigment producers use cobalt to produce cobalt blue and cobalt violet colorants for cosmetic formulations, ceramics, and artist-grade materials. In personal care, cobalt-derived compounds contribute to preservative and antimicrobial systems in certain formulations. Pharmaceutical manufacturers use cobalt as a starting material for synthesizing cobalt-containing active compounds. These materials are also vital for micronutrient preparations and specialized medical applications. Elemental cobalt is available as powder, granules, pellets, and cathode or briquette forms to suit different downstream processing requirements. Standard purity grades range from technical to high-purity (99.8%+), with battery-grade and catalyst-grade specifications available for demanding applications. Quality control ensures consistency across various industrial batches. Powder particle size distributions are typically specified to match sintering, alloying, or dispersion requirements in end-use processes. This ensures optimal performance in metallurgical and chemical manufacturing environments. Contact us for supply of Cobalt Request Quote",
+  "physicalProperties": "Melting Point: 1495 °C; Boiling Point: 2927 °C; Density: 9 x 10<sup>-6</sup> g/cm³; Appearance: Cobalt is a silver-gray to black, hard, brittle, magnetic metal. It is relatively rare; the important mineral sources are the arsenides, sulfides, and oxidized forms. It is generally obtained as a by-product of other metals, particularly copper.; Color: Pink to red to violet; Form: wire; Water Solubility: insoluble; Vapor Pressure: 0Pa at 20℃",
+  "safetyHandling": "Danger GHS08 GHS06 GHS07 GHS09 GHS02 Hazard Statements H228 H228 H302 H302 H317 H317 H319 H319 H320 H320 H330 H330 H334 H334 H335 H335 H341 H341 H350 H350 H351 H351 H360 H360 H361 H361 H370 H370 H372 H372 H373 H373 H400 H400 H410 H410 H411 H411 H413 H413 Precautionary Statements P203 P203 P210 P210 P233 P233 P240 P240 P241 P241 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P284 P284 P316 P316 P318 P318 P319 P319 P320 P320 P321 P321 P330 P330 P391 P391 P403 P403 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P333+P317 P333+P317 P337+P317 P337+P317 P342+P316 P342+P316 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 8105 20 00; UN Number: 3264; ADR Class: 8; Packing Group: III; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 3",
+  "otherNames": "element 27 | ₂₇Co | Cobalt, elemental | Cobalt-59 | Aquacat | Super cobalt | NCI-C60311 | C.I. 77320 | Co",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS06",
+    "GHS07",
+    "GHS09",
+    "GHS02"
+  ],
+  "hsCode": "8105 20 00",
+  "similarProducts": [
+    "cas-513-79-1",
+    "cas-1307-96-6",
+    "cas-71-48-7",
+    "cas-21041-93-0",
+    "cas-10124-43-3",
+    "cas-7646-79-9",
+    "cas-12672-51-4",
+    "cas-6147-53-1",
+    "cas-10141-05-6",
+    "cas-10026-22-9",
+    "cas-7791-13-1",
+    "cas-10026-24-1",
+    "cas-136-52-7",
+    "cas-7440-47-3",
+    "cas-6147-53-1",
+    "cas-10141-05-6",
+    "cas-10026-22-9",
+    "cas-7791-13-1",
+    "cas-10026-24-1",
+    "cas-136-52-7",
+    "cas-7440-47-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-48-4/"
+}

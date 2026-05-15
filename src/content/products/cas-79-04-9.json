@@ -1,0 +1,63 @@
+{
+  "id": "210",
+  "name": "Chloroacetyl chloride",
+  "slug": "cas-79-04-9",
+  "cas": "79-04-9",
+  "ec": "201-171-6",
+  "formula": "C2H2Cl2O",
+  "mw": "112.94 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Chloroacetyl chloride (CAS 79-04-9 ), also known as CAC, is a highly reactive acylating agent used as a key building block in the synthesis of active pharmaceutical ingredients and agrochemical compounds. Its reactivity toward amines, alcohols, and other nucleophiles makes it a preferred reagent for introducing the chloroacetyl group in multi-step synthesis programs for various industrial applications. In pharmaceutical manufacturing, CAC is used to synthesize a range of APIs including local anesthetics, cardiovascular drugs, and CNS compounds where the chloroacetyl moiety is a critical structural feature. Agrochemical producers rely on it as an intermediate in the production of herbicides and fungicides, particularly chloroacetamide-class herbicides used in crop protection formulations for global agriculture. In biotechnology and life sciences, it serves in the preparation of reactive intermediates and labeling reagents used in research-scale synthesis and specialized laboratory applications across the sector. Industrial chemical manufacturers also use CAC to produce thioethers and other specialty compounds through nucleophilic substitution reactions, ensuring high yields and consistent chemical performance. Chloroacetyl chloride is supplied as a liquid, typically in drums or ISO containers suited to its corrosive and moisture-sensitive handling requirements for safe transport and storage. It is available in technical and synthesis-grade specifications, with purity levels commonly at 98% or higher for industrial and pharmaceutical intermediate use in high-demand manufacturing environments. Contact us for supply of Chloroacetyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -21.77 °C; Boiling Point: 106 °C; Density: 1.4202 g/cm³ @ Temp: 20 °C; Flash Point: >100°C; Appearance: Chloroacetyl chloride is a colorless to yellowish liquid with a very pungent, extremely irritating, odor.; Color: Clear colorless to slightly yellow; Odor: strong pungent odor; Form: Liquid; Water Solubility: reacts; Vapor Pressure: 60 mm Hg ( 41.5 °C); Refractive Index: n 20/D 1.453(lit.)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 GHS09 GHS07 Hazard Statements H290 H290 H301 H301 H310 H310 H311 H311 H314 H314 H315 H315 H318 H318 H319 H319 H330 H330 H331 H331 H370 H370 H372 H372 H400 H400 H410 H410 Precautionary Statements P234 P234 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P284 P284 P316 P316 P317 P317 P319 P319 P320 P320 P321 P321 P330 P330 P363 P363 P390 P390 P391 P391 P405 P405 P406 P406 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P361+P364 P361+P364 P362+P364 P362+P364 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29159000; UN Number: 1752; ADR Class: 6.1; Packing Group: I; Storage Class: 6.1A - Combustible, acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Monochloroacetyl chloride | Chloroacetic chloride | Chloroacetic acid chloride | 2-chloroacetyl chloride | Acetyl chloride, chloro- | Chloracetyl chloride | Chlorure de chloracetyle | Chlorid kyseliny chloroctove | CAC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29159000",
+  "similarProducts": [
+    "cas-75-36-5",
+    "cas-79-11-8",
+    "cas-3926-62-3",
+    "cas-5589-96-8",
+    "cas-7790-94-5",
+    "cas-98-88-4",
+    "cas-3282-30-2",
+    "cas-107-05-1",
+    "cas-627-00-9",
+    "cas-321-14-2",
+    "cas-7719-09-7",
+    "cas-108-23-6",
+    "cas-2942-59-8",
+    "cas-76-03-9",
+    "cas-107-05-1",
+    "cas-627-00-9",
+    "cas-321-14-2",
+    "cas-7719-09-7",
+    "cas-108-23-6",
+    "cas-2942-59-8",
+    "cas-76-03-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-04-9/"
+}

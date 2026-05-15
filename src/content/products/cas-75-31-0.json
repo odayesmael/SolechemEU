@@ -1,0 +1,63 @@
+{
+  "id": "151",
+  "name": "Isopropylamine",
+  "slug": "cas-75-31-0",
+  "cas": "75-31-0",
+  "ec": "200-860-9",
+  "formula": "C3H9N",
+  "mw": "59.11 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Food & Nutrition",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isopropylamine (CAS 75-31-0 ), also known as MIPA, is a primary aliphatic amine used as a reactive building block and functional intermediate across chemical manufacturing. It acts as a curing agent, pH modifier, and flavoring precursor depending on the end application. In coatings and adhesives, MIPA functions as a crosslinking agent and curing catalyst, improving film hardness and adhesion in epoxy and polyurethane systems. Polymer manufacturers incorporate it into flame retardant formulations. These formulations contribute nitrogen-based char-forming chemistry to reduce combustibility in finished plastics. In food and flavor production, it is approved under FEMA 4238 as a flavoring agent for industrial use. It is used at trace levels to develop characteristic taste profiles in processed food applications. It also serves as an intermediate in synthesizing agrochemicals, pharmaceuticals, and rubber accelerators. This versatility makes it a recurring procurement target across multiple chemical supply chains. Isopropylamine is supplied as a low-boiling liquid, typically in drum, IBC, and bulk tanker quantities. Technical grade is the standard commercial offering, with purity levels commonly at 99% or higher. Food-grade supply aligned with FEMA-listed status is available from select manufacturers for flavor industry use. Contact us for supply of Isopropylamine Request Quote",
+  "physicalProperties": "Melting Point: -101 °C; Boiling Point: 33-34 °C; Density: 0.694 g/cm³ @ Temp: 15 °C; Flash Point: −26 °F; Appearance: colourless liquid; Color: APHA: ≤50; Odor: Strong ammoniacal; pungent, irritating, typical amine.; Form: Crystalline Powder, Needles or Crystals; Water Solubility: soluble; Vapor Pressure: 9.2 psi ( 20 °C); Refractive Index: n 20/D 1.374(lit.); pH: 13 (700g/l, H2O, 20℃); Log P: 0.21",
+  "safetyHandling": "Danger GHS02 GHS07 GHS05 GHS06 GHS08 Hazard Statements H224 H224 H301 H301 H302 H302 H305 H305 H311 H311 H314 H314 H315 H315 H318 H318 H319 H319 H331 H331 H332 H332 H333 H333 H335 H335 H336 H336 H370 H370 H373 H373 H402 H402 H301+H311+H331 H301+H311+H331 Precautionary Statements P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P316 P316 P317 P317 P319 P319 P321 P321 P330 P330 P331 P331 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P301+P317 P301+P317 P302+P352 P302+P352 P304+P317 P304+P317 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P361+P364 P361+P364 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29211920; UN Number: 1221; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "sec-propylamine | propan-2-amine | 2-propylamine | 2-propanamine | 2-aminopropane | MIPA | 1-Methylethylamine | Propane, 2-amino-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29211920",
+  "similarProducts": [
+    "cas-78-96-6",
+    "cas-78-81-9",
+    "cas-110-97-4",
+    "cas-6291-84-5",
+    "cas-5332-73-0",
+    "cas-107-10-8",
+    "cas-27775-00-4",
+    "cas-5080-22-8",
+    "cas-122-20-3",
+    "cas-67151-63-7",
+    "cas-105-83-9",
+    "cas-142-84-7",
+    "cas-68333-82-4",
+    "cas-1187742-72-8",
+    "cas-5080-22-8",
+    "cas-122-20-3",
+    "cas-67151-63-7",
+    "cas-105-83-9",
+    "cas-142-84-7",
+    "cas-68333-82-4",
+    "cas-1187742-72-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-31-0/"
+}

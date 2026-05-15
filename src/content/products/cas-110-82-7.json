@@ -1,0 +1,62 @@
+{
+  "id": "602",
+  "name": "Cyclohexane",
+  "slug": "cas-110-82-7",
+  "cas": "110-82-7",
+  "ec": "203-806-2",
+  "formula": "C6H12",
+  "mw": "84.16 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cyclohexane (CAS 110-82-7 ) is a cyclic hydrocarbon solvent used across pharmaceutical manufacturing, industrial cleaning, and chemical synthesis. It delivers strong non-polar solvency with low water miscibility. This makes it a preferred extraction and reaction medium where aromatic solvents are restricted. In pharmaceutical and fine chemical manufacturing, it serves as a recrystallization solvent and reaction medium. It is used for active ingredient synthesis, particularly where residual solvent profiles must meet strict regulatory limits. Industrial cleaning formulations use it to degrease precision components and remove contaminants. It effectively removes hydrocarbon-based contaminants from metal surfaces. In the flavor and fragrance industry, it functions as an extraction solvent for natural raw materials, helping isolate aromatic compounds. Chemical producers also use it as a feedstock and process solvent in nylon intermediate production. It is specifically utilized in the oxidation pathway to adipic acid and caprolactam for industrial use. The product is supplied as a clear liquid in drum, IBC, and bulk tanker quantities. Technical grade is standard for industrial and cleaning applications, while high-purity material is available for specialized use. HPLC-grade material is available for pharmaceutical and analytical use. Reagent-grade specifications are also offered for laboratory and synthesis applications to meet various industrial requirements. Contact us for supply of Cyclohexane Request Quote",
+  "physicalProperties": "Melting Point: 6.47 °C; Boiling Point: 80.7 °C @ Press: 760 Torr; Density: 0.7781 g/cm³ @ Temp: 20 °C; Flash Point: -1 °F; Appearance: colorless liquid; Color: colorless; Odor: resembling benzene; mild, sweet, resembling chloroform.; Form: Liquid; Water Solubility: PRACTICALLY INSOLUBLE; Vapor Pressure: 168.8 mm Hg ( 37.7 °C); Refractive Index: n 20/D 1.426(lit.); Log P: 3.44 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H305 May be harmful if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29021100; UN Number: 1145; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Hexahydro-Benzene | Benzene hexahydride | Benzene, hexahydro-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29021100",
+  "similarProducts": [
+    "cas-108-93-0",
+    "cas-108-87-2",
+    "cas-108-94-1",
+    "cas-287-92-3",
+    "cas-1193-81-3",
+    "cas-110-54-3",
+    "cas-4994-16-5",
+    "cas-108-91-8",
+    "cas-142-82-5",
+    "cas-71-43-2",
+    "cas-1330-20-7",
+    "cas-111-27-3",
+    "cas-111-25-1",
+    "cas-873-94-9",
+    "cas-108-91-8",
+    "cas-142-82-5",
+    "cas-71-43-2",
+    "cas-1330-20-7",
+    "cas-111-27-3",
+    "cas-111-25-1",
+    "cas-873-94-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-82-7/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1084",
+  "name": "Cadmium carbonate",
+  "slug": "cas-513-78-0",
+  "cas": "513-78-0",
+  "ec": "208-168-9",
+  "formula": "CH2O3.Cd",
+  "mw": "172.42 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cadmium carbonate (CAS 513-78-0 ), also referenced in some supplier catalogues as Kalcit or Chemcarb, is an inorganic cadmium salt used primarily as a precursor and catalyst component in industrial chemical processes. It serves as a controlled source of cadmium ion in applications where direct use of more soluble cadmium compounds would complicate processing or handling. In electronics manufacturing, it acts as a starting material. This compound is essential for producing cadmium-based pigments, phosphors, and semiconductor compounds used in specialty components. The mining and metals sector uses it as an intermediate in cadmium refining workflows. Controlled decomposition yields cadmium oxide for further downstream processing. It also functions as a catalyst precursor in select organic synthesis reactions where thermal conversion to the oxide is part of the design. Formulators working with cadmium-based stabilizers for PVC and specialty coatings may also source it as a raw material input. The material is supplied as a fine white to off-white powder for industrial use. Technical grade is the standard commercial specification, with purity levels typically expressed as minimum assay by metal content. This ensures consistency across various manufacturing and chemical synthesis applications. Packaging is available in small laboratory quantities through to bulk industrial quantities. All shipments are subject to applicable regulatory requirements governing cadmium compounds in the buyer's jurisdiction. Contact us for supply of Cadmium carbonate Request Quote",
+  "physicalProperties": "Melting Point: 375 °C (decomp); Density: 4.26 g/cm³; Appearance: Milky white powder; Color: White to off-white; Odor: Odorless; Form: powder; Water Solubility: Very slightly soluble in water. Soluble in dilute acids, concentrated solutions of ammonium salts.",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 GHS06 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H312 Harmful in contact with skin H330 Fatal if inhaled H332 Harmful if inhaled H340 May cause genetic defects H341 Suspected of causing genetic defects H350 May cause cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 28369917; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1B - Non-combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Carbonic acid, cadmium salt (1:1) | Kalcit | Chemcarb (CdCO3) | Cadmium carbonate (CdCO3) | 616ZVS3BLY | Carbonic acid, cadmium(2+) salt (1:1) | Carbonic acid, cadmium salt",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "28369917",
+  "similarProducts": [
+    "cas-513-79-1",
+    "cas-1633-05-2",
+    "cas-3333-67-3",
+    "cas-1306-19-0",
+    "cas-513-77-9",
+    "cas-1184-64-1",
+    "cas-598-62-9",
+    "cas-593-85-1",
+    "cas-3486-35-9",
+    "cas-554-13-2",
+    "cas-12607-70-4",
+    "cas-471-34-1",
+    "cas-1306-23-6",
+    "cas-584-08-7",
+    "cas-593-85-1",
+    "cas-3486-35-9",
+    "cas-554-13-2",
+    "cas-12607-70-4",
+    "cas-471-34-1",
+    "cas-1306-23-6",
+    "cas-584-08-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-513-78-0/"
+}

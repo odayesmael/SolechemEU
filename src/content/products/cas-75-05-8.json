@@ -1,0 +1,64 @@
+{
+  "id": "145",
+  "name": "Acetonitrile",
+  "slug": "cas-75-05-8",
+  "cas": "75-05-8",
+  "ec": "200-835-2",
+  "formula": "C2H3N",
+  "mw": "41.05 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare",
+    "Printing & Packaging",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acetonitrile (CAS 75-05-8 ), also known commercially as ACN or methyl cyanide, is a high-purity polar aprotic solvent used across pharmaceutical manufacturing, analytical chemistry, and industrial synthesis. Its low viscosity and miscibility with water make it the dominant solvent choice in HPLC and LC-MS workflows globally. In pharmaceutical manufacturing, ACN serves as a reaction solvent and purification medium. It is used for active pharmaceutical ingredients, particularly in peptide synthesis and chromatographic separation at scale. Life science and biotech laboratories rely on it as the primary mobile phase solvent. In reversed-phase HPLC, consistent purity directly impacts analytical reproducibility and regulatory compliance. Agrochemical producers use ACN as a solvent in the synthesis and formulation of pesticide intermediates. Its solvating power supports high-yield reaction conditions. In printing and packaging, it functions as a solvent carrier in specialty ink and dye formulations requiring fast evaporation and clean substrate adhesion. Acetonitrile is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. HPLC-grade and LC-MS-grade are the most commercially demanded specifications for high-end laboratory use. Technical-grade is available for industrial synthesis applications. Gradient-grade variants meeting stringent UV absorbance cutoffs are standard for analytical supply channels and quality control. Contact us for supply of Acetonitrile Request Quote",
+  "physicalProperties": "Melting Point: -45 °C; Boiling Point: 81.6 °C @ Press: 760 Torr; Density: 0.78745 g/cm³ @ Temp: 15 °C; Flash Point: 48 °F; Appearance: Acetonitrile is an extremely flammable, colorless liquid with an ethereal odor; Color: <10(APHA); Odor: Aromatic ether-like odor detectable at 40 ppm; Form: liquid; Water Solubility: miscible; Vapor Pressure: 72.8 mm Hg ( 20 °C); Refractive Index: n 20/D 1.344(lit.); Log P: -0.340",
+  "safetyHandling": "Danger GHS02 GHS07 GHS06 GHS08 GHS05 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H303 May be harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H341 Suspected of causing genetic defects H370 Causes damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29269095; UN Number: 1993; ADR Class: 3; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "methyl cyanide | ethyl nitrile | ACN | Methane, cyano- | Cyanure de methyl | Cyanomethane.",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS06",
+    "GHS08",
+    "GHS05"
+  ],
+  "hsCode": "29269095",
+  "similarProducts": [
+    "cas-107-13-1",
+    "cas-140-29-4",
+    "cas-67-64-1",
+    "cas-100-47-0",
+    "cas-123-54-6",
+    "cas-127-19-5",
+    "cas-75-52-5",
+    "cas-75-36-5",
+    "cas-83-32-9",
+    "cas-60-35-5",
+    "cas-108-24-7",
+    "cas-105-56-6",
+    "cas-68-12-2",
+    "cas-13361-31-4",
+    "cas-75-36-5",
+    "cas-83-32-9",
+    "cas-60-35-5",
+    "cas-108-24-7",
+    "cas-105-56-6",
+    "cas-68-12-2",
+    "cas-13361-31-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-05-8/"
+}

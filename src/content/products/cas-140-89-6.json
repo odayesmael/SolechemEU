@@ -1,0 +1,62 @@
+{
+  "id": "893",
+  "name": "Potassium ethylxanthate",
+  "slug": "cas-140-89-6",
+  "cas": "140-89-6",
+  "ec": "205-439-3",
+  "formula": "C3H6OS2.K",
+  "mw": "160.30 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Water Treatment",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Potassium ethylxanthate (CAS 140-89-6 ), commonly known as KEX, is a xanthate collector salt used primarily in mineral flotation and selective metal recovery. It functions by selectively bonding to sulfide mineral surfaces. This chemical enables the efficient separation of minerals from gangue material in froth flotation circuits. In base metal mining, KEX is the standard collector for sulfide ores including copper, lead, zinc, and nickel concentrates. It drives recovery efficiency in flotation cells, ensuring high yields for mining operations. Gold and silver processing operations use it to float sulfide-associated precious metals that would otherwise report to tailings. In industrial water treatment, KEX precipitates heavy metal ions, including copper, mercury, and lead, from process effluents as insoluble xanthate complexes. This supports compliance with environmental discharge limits. Agrochemical formulators have also employed xanthate chemistry as a dithiocarbamate precursor in certain biocidal and soil treatment applications. The product is supplied as a yellow to pale green powder or granule. Granular forms are often preferred for handling and storage stability in mining operations. Standard commercial grades are specified by active content, typically 90% minimum purity for industrial use. Technical-grade material is the dominant market form for this chemical. Packaging is available in moisture-resistant bags or drums given the product's sensitivity to humidity and decomposition under storage. Contact us for supply of Potassium ethylxanthate Request Quote",
+  "physicalProperties": "Melting Point: 210 °C (decomp); Boiling Point: 462.37°C[at 101 325 Pa]; Density: 1,558 g/cm 3; Flash Point: 96°C; Appearance: Light Green Solid; Color: Yellow; Form: Crystalline Powder; Water Solubility: Soluble in water.; Vapor Pressure: 0Pa at 25℃; pH: 9-10 (100g/l, H2O, 20℃); Log P: -2.24 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS05 GHS06 GHS08 Hazard Statements H228 Flammable solid H302 Harmful if swallowed H311 Toxic in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309090; WGK (Germany): 3",
+  "otherNames": "Ethylxanthic acid potassium salt | Potassium ethyl xanthogenate | Potassium xanthogenate | Potassium O-ethyl dithiocarbonate | Ethyl potassium xanthate | Z 3 (Pesticide) | Carbonodithioic acid, O-ethyl ester, potassium salt (1:1) | Carbonic acid, dithio-, O-ethyl ester, potassium salt | KEX",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29309090",
+  "similarProducts": [
+    "cas-2720-73-2",
+    "cas-108-25-8",
+    "cas-140-93-2",
+    "cas-928-70-1",
+    "cas-25306-75-6",
+    "cas-3164-85-0",
+    "cas-127-95-7",
+    "cas-37199-66-9",
+    "cas-6100-20-5",
+    "cas-583-52-8",
+    "cas-151-50-8",
+    "cas-7440-09-7",
+    "cas-7789-23-3",
+    "cas-7778-80-5",
+    "cas-37199-66-9",
+    "cas-6100-20-5",
+    "cas-583-52-8",
+    "cas-151-50-8",
+    "cas-7440-09-7",
+    "cas-7789-23-3",
+    "cas-7778-80-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-140-89-6/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "142",
+  "name": "Vinyl chloride",
+  "slug": "cas-75-01-4",
+  "cas": "75-01-4",
+  "ec": "200-831-0",
+  "formula": "C2H3Cl",
+  "mw": "62.50 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Vinyl chloride (CAS 75-01-4 ), also known as vinyl chloride monomer (VCM), is the primary feedstock for polyvinyl chloride (PVC) production. It is one of the world's highest-volume thermoplastics. It functions as a reactive monomer that undergoes polymerization to form the polymer backbone used across construction, packaging, and industrial manufacturing. The dominant use is suspension and emulsion polymerization. This process produces PVC resin, which is then compounded into rigid profiles, pipes, fittings, and window frames. Flexible PVC applications include wire insulation, flooring, and medical tubing. These applications rely on plasticized grades derived from VCM polymerization. Copolymerization with vinyl acetate or vinylidene chloride produces specialty resins used in coatings and adhesives. These resins are also utilized in barrier packaging films. In industrial settings, VCM serves as a chemical intermediate in the synthesis of chlorinated solvents and other downstream chlorine-based compounds. Vinyl chloride monomer is supplied as a liquefied gas under pressure, typically in bulk quantities via pipeline, rail tanker, or pressurized ISO containers. It is a large-volume commodity chemical. Traded at industrial/technical grade, purity specifications are generally at 99.9% or higher as standard for polymerization-grade supply. Procurement is handled through long-term offtake agreements. These agreements or spot contracts are established with petrochemical producers. The material requires specialized handling and storage infrastructure due to its physical properties and industrial scale. Contact us for supply of Vinyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -153.7 °C; Boiling Point: -13.3 °C; Density: 0.9106 g/cm³ @ Temp: 20 °C; Flash Point: -78 °F; Appearance: Vinyl chloride is a flammable gas at room temperature, and is usually encountered as a cooled liquid. The colorless liquid forms a vapor which has a pleasant, ethereal odor. The odor threshold is variously given as 260 ppm, 3,000 ppm (NJ fact sheet), 4000 ppm (NY fact sheet) in air and 3.4 ppm in water (EPA Toxicological profile). Shipped as a liquefied compressed gas.; Form: powder; Water Solubility: <1.1g/L(25 ºC); Vapor Pressure: 3,428 at 30 °C (quoted, Standen, 1964); Refractive Index: n 20/D 1.3700(lit.)",
+  "safetyHandling": "Danger GHS02 GHS08 GHS04 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H315 Causes skin irritation H320 Causes eye irritation H336 May cause drowsiness or dizziness H341 Suspected of causing genetic defects H350 May cause cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29032100; UN Number: 1086; ADR Class: 2.1; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "vinyl chloride monomer | monovinyl chloride | ethylene monochloride | VCM | Ethene, chloro- | Ethylene, chloro- | Vinyl C monomer",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS08",
+    "GHS04",
+    "GHS07"
+  ],
+  "hsCode": "29032100",
+  "similarProducts": [
+    "cas-9002-86-2",
+    "cas-108-05-4",
+    "cas-25154-85-2",
+    "cas-75-38-7",
+    "cas-25013-15-4",
+    "cas-25189-83-7",
+    "cas-7718-98-1",
+    "cas-88-12-0",
+    "cas-872-36-6",
+    "cas-25213-24-5",
+    "cas-28158-56-7",
+    "cas-74-87-3",
+    "cas-2768-02-7",
+    "cas-9003-20-7",
+    "cas-88-12-0",
+    "cas-872-36-6",
+    "cas-25213-24-5",
+    "cas-28158-56-7",
+    "cas-74-87-3",
+    "cas-2768-02-7",
+    "cas-9003-20-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-01-4/"
+}

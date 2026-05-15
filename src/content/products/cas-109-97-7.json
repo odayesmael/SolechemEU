@@ -1,0 +1,61 @@
+{
+  "id": "569",
+  "name": "Pyrrole",
+  "slug": "cas-109-97-7",
+  "cas": "109-97-7",
+  "ec": "203-724-7",
+  "formula": "C4H5N",
+  "mw": "67.09 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Plastics & Polymers",
+    "Biotechnology & Life Sciences",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pyrrole (CAS 109-97-7 ), also known by its older designations pyrrhol and imidole, is a five-membered nitrogen-containing heterocycle used as a key synthetic building block across pharmaceutical and agrochemical manufacturing. Its reactivity at multiple ring positions makes it a high-demand intermediate for constructing complex molecular architectures in commercial synthesis workflows and advanced materials production for global industrial sectors. In pharmaceutical manufacturing, this compound serves as a precursor to a broad range of active ingredients, including antifungal agents and kinase inhibitors, where the intact ring is incorporated into the final drug structure. Agrochemical producers use it to synthesize pyrrole-based insecticides and fungicides, with chlorfenapyr being one of the most commercially significant derivatives currently utilized in the global agricultural market. In polymer and materials science, it undergoes oxidative polymerization to produce polypyrrole, a conductive polymer used in antistatic coatings, biosensors, and various energy storage applications for modern electronics. It also carries FEMA 3386 status, supporting its use as a flavor ingredient in food and beverage formulations at trace concentrations, adhering to strict safety guidelines for food-grade chemical additives. The product is supplied as a liquid in standard commercial and high-purity grades. Technical grade material is available for polymer synthesis, while reagent grades serve pharmaceutical and biotechnology applications. Packaging typically ranges from small containers for laboratory procurement to bulk quantities for industrial-scale users, ensuring flexible supply chain solutions for diverse manufacturing requirements and research needs. Contact us for supply of Pyrrole Request Quote",
+  "physicalProperties": "Melting Point: -23.4 °C; Boiling Point: 129.7 °C; Density: 0.9698 g/cm³ @ Temp: 20 °C; Flash Point: 92 °F; Appearance: colourless to brown liquid with chloroform odour; Color: Clear almost colorless to brownish; Odor: at 0.10 % in propylene glycol. sweet warm nutty ethereal; Form: Liquid; Water Solubility: 60 g/L (20 ºC); Vapor Pressure: 8.7 hPa (20 °C); Refractive Index: n 20/D 1.508(lit.); pH: >6 (10g/l, H2O, 20℃); Log P: 0.85",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29339900; UN Number: 1992; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "pyrrhol | azole | imidole | 1-aza-2,4-cyclopentadiene | 1H-pyrrole | Pyrrol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-123-75-1",
+    "cas-110-86-1",
+    "cas-616-45-5",
+    "cas-127-17-3",
+    "cas-16969-45-2",
+    "cas-110-89-4",
+    "cas-108-26-9",
+    "cas-100-70-9",
+    "cas-100-48-1",
+    "cas-110-00-9",
+    "cas-129-00-0",
+    "cas-156-06-9",
+    "cas-109-06-8",
+    "cas-504-74-5",
+    "cas-100-70-9",
+    "cas-100-48-1",
+    "cas-110-00-9",
+    "cas-129-00-0",
+    "cas-156-06-9",
+    "cas-109-06-8",
+    "cas-504-74-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-97-7/"
+}

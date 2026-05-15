@@ -1,0 +1,57 @@
+{
+  "id": "104",
+  "name": "Chloroform",
+  "slug": "cas-67-66-3",
+  "cas": "67-66-3",
+  "ec": "200-663-8",
+  "formula": "",
+  "mw": "119.37 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Chloroform (CAS 67-66-3 ) is a halogenated solvent used across pharmaceutical manufacturing, biotechnology research, and polymer processing. It dissolves a broad range of organic compounds and is valued for its density and selectivity in liquid-liquid extraction workflows. In pharmaceutical manufacturing, it is used as a process solvent for active pharmaceutical ingredient (API) synthesis and purification, where its extraction efficiency reduces downstream processing steps. Biotechnology and life sciences laboratories rely on it for nucleic acid extraction protocols, including the Chomczynski-Sacchi RNA isolation method, where phase separation from aqueous samples is critical. Polymer processors use this solvent to dissolve and cast films from materials such as polystyrene and polycarbonate, enabling controlled thickness and surface uniformity in specialty film production. It also functions as a reaction medium in the synthesis of fluorocarbon intermediates and other halogenated compounds. The material is supplied as a liquid, typically stabilized with a small amount of ethanol or amylene. This stabilization is necessary to prevent phosgene formation during storage. Standard commercial grades include technical, reagent, HPLC, and ACS grades, with pharmaceutical-grade material available to USP and BP specifications. Packaging ranges from laboratory-scale bottles to bulk drum quantities for industrial procurement. Our supply chain ensures consistent purity and compliance with international safety and handling regulations for hazardous materials. Contact us for supply of Chloroform Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "",
+  "tradeRegulatory": "",
+  "otherNames": "trichloromethyl radical | methylidyne trichloride | methyl trichloride | methenyl trichloride | methenyl chloride | methane trichloride | formyl trichloride | Terchloride of formyle",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-75-25-2",
+    "cas-75-09-2",
+    "cas-108-23-6",
+    "cas-7782-50-5",
+    "cas-74-87-3",
+    "cas-75-36-5",
+    "cas-7790-94-5",
+    "cas-54-05-7",
+    "cas-7719-09-7",
+    "cas-79-04-9",
+    "cas-55-56-1",
+    "cas-60-29-7",
+    "cas-109-99-9",
+    "cas-59-50-7",
+    "cas-54-05-7",
+    "cas-7719-09-7",
+    "cas-79-04-9",
+    "cas-55-56-1",
+    "cas-60-29-7",
+    "cas-109-99-9",
+    "cas-59-50-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-67-66-3/"
+}

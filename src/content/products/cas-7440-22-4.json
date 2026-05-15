@@ -1,0 +1,63 @@
+{
+  "id": "2001",
+  "name": "Silver",
+  "slug": "cas-7440-22-4",
+  "cas": "7440-22-4",
+  "ec": "231-131-3",
+  "formula": "Ag",
+  "mw": "107.868 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Biotechnology & Life Sciences",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silver (CAS 7440-22-4 ), also designated E174 as a food-contact and cosmetic colorant, is a precious metal sourced in refined elemental form for industrial, decorative, and antimicrobial applications. Argentum is the historical designation still referenced in pharmaceutical and laboratory contexts. Demand spans sectors where conductivity, catalytic activity, or controlled microbial suppression are procurement priorities. In personal care and cosmetics, E174 silver is used as a surface colorant in decorative products such as nail preparations and body decoration, where regulatory compliance with approved colorant status drives sourcing decisions. Water treatment systems incorporate silver-dosed media and coatings to inhibit biofilm formation in filtration units and storage vessels. Printed electronics and conductive ink formulations rely on silver particles or flakes. These materials produce conductive traces on flexible substrates. In biotechnology and pharmaceutical manufacturing, silver-based surface treatments are applied to equipment and wound-contact materials to reduce microbial load. Silver is supplied as powder, flakes, granules, colloidal dispersions, and foil, with particle size and morphology specified to application requirements. Grades include technical, pharmaceutical-grade, and cosmetic-grade material. Colloidal silver concentrations and powder mesh sizes vary by end-use, and buyers typically specify purity at 99.9% or higher for electronics and pharmaceutical applications to ensure performance and safety. Contact us for supply of Silver Request Quote",
+  "physicalProperties": "Melting Point: 960.5 °C; Boiling Point: ~2000 °C (approx); Density: 10.49 g/cm³ @ Temp: 15 °C; Flash Point: 232 °F; Appearance: Silver is a white lustrous metal that is extremely ductile and malleable.; Color: Yellow; Odor: Odorless; Form: wool; Water Solubility: insoluble; Vapor Pressure: 0.05 ( 20 °C); Refractive Index: n 20/D 1.333; pH: 0.5 (20°C in H2O)",
+  "safetyHandling": "Warning GHS08 GHS09 GHS07 Hazard Statements H317 May cause an allergic skin reaction H320 Causes eye irritation H360 May damage fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 71069110; UN Number: 3264; ADR Class: 8; Packing Group: III; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "element 47 | Argentum | Silver atom | Colloidal silver | Silver, colloidal | Silver metal | Algaedyn | Silber | E174",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "71069110",
+  "similarProducts": [
+    "cas-7761-88-8",
+    "cas-7783-90-6",
+    "cas-506-64-9",
+    "cas-126-45-4",
+    "cas-14701-21-4",
+    "cas-10294-26-5",
+    "cas-7785-23-1",
+    "cas-20667-12-3",
+    "cas-7440-50-8",
+    "cas-506-61-6",
+    "cas-7429-90-5",
+    "cas-7782-49-2",
+    "cas-7631-86-9",
+    "cas-7440-02-0",
+    "cas-20667-12-3",
+    "cas-7440-50-8",
+    "cas-506-61-6",
+    "cas-7429-90-5",
+    "cas-7782-49-2",
+    "cas-7631-86-9",
+    "cas-7440-02-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-22-4/"
+}

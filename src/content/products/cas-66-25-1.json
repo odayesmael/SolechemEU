@@ -1,0 +1,59 @@
+{
+  "id": "94",
+  "name": "Hexanal",
+  "slug": "cas-66-25-1",
+  "cas": "66-25-1",
+  "ec": "200-624-5",
+  "formula": "C6H12O",
+  "mw": "100.16 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hexanal (CAS 66-25-1 ), also known as n-Caproaldehyde and carrying FEMA number 2557 , is a short-chain aliphatic aldehyde used as a flavoring and fragrance ingredient. It delivers a characteristic fresh, green, grassy note that underpins a broad range of consumer product formulations. In food and beverage flavoring, it contributes to the fresh, cut-grass character of fruit flavors. This is particularly useful in apple, citrus, and tomato profiles where it is used at trace concentrations to enhance naturalness. Fragrance compounders incorporate it into fine fragrance and functional fragrance bases. It adds green top-note lift, especially in floral and chypre compositions. In personal care, it appears in shampoos, body washes, and household cleaners where a fresh, natural-green olfactive character is required. It also serves as a reference standard and process marker in food quality research. Hexanal concentration is monitored as an indicator of lipid oxidation in packaged foods to ensure product stability. The material is supplied as a colorless to pale yellow liquid. It is available in flavor and fragrance grades, with purity typically at 98% or higher for demanding compounding applications. Packaging ranges from small drums to bulk quantities to accommodate both laboratory-scale and commercial production needs. Our supply chain ensures consistent quality for all industrial requirements. Contact us for supply of Hexanal Request Quote",
+  "physicalProperties": "Melting Point: -56 °C; Boiling Point: 131 °C @ Press: 760 Torr; Density: 0.8335 g/cm³ (liquid) @ Temp: 25 °C; Flash Point: 90 °F; Appearance: liquid; Color: Clear colorless to slightly yellow; Odor: Pungent.; Form: Liquid; Water Solubility: 4.8 g/L (20 ºC); Vapor Pressure: 10 mm Hg ( 20 °C); Refractive Index: n 20/D 1.4035(lit.); pH: 4-5 (4.8g/l, H2O, 20℃); Log P: 1.97",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29121900; UN Number: 1207; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "n-Hexylaldehyde | n-Hexanal | n-Caproaldehyde | hexyl aldehyde | Caproic aldehyde | 1-Hexanal",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29121900",
+  "similarProducts": [
+    "cas-6728-26-3",
+    "cas-101-86-0",
+    "cas-111-27-3",
+    "cas-142-92-7",
+    "cas-123-66-0",
+    "cas-104-53-0",
+    "cas-142-62-1",
+    "cas-35127-50-5",
+    "cas-590-86-3",
+    "cas-123-38-6",
+    "cas-112-31-2",
+    "cas-100-52-7",
+    "cas-75-07-0",
+    "cas-106-23-0",
+    "cas-35127-50-5",
+    "cas-590-86-3",
+    "cas-123-38-6",
+    "cas-112-31-2",
+    "cas-100-52-7",
+    "cas-75-07-0",
+    "cas-106-23-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-66-25-1/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "3344",
+  "name": "Permethrin",
+  "slug": "cas-52645-53-1",
+  "cas": "52645-53-1",
+  "ec": "258-067-9",
+  "formula": "C21H20Cl2O3",
+  "mw": "391.3 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Textile, Leather & Paper",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Permethrin (CAS 52645-53-1 ) is a synthetic pyrethroid insecticide and acaricide used across agriculture, public health, and material protection sectors. Sold under trade names including Pounce in agricultural markets, it controls a broad spectrum of insects and mites on contact. Elimite and Nix are recognized pharmaceutical-grade formulations used in topical antiparasitic treatments. In agriculture, it is applied to field crops and ornamentals to control lepidopteran pests, aphids, and beetles. It is available as emulsifiable concentrates and wettable powders suited to commercial spray programs. Textile and apparel manufacturers use it to impregnate fabrics, producing treated military uniforms and outdoor gear. These products provide durable insect-repellent and insecticidal properties for mosquito nets. In livestock and animal husbandry, it is formulated into pour-on solutions, ear tags, and dips for the control of ticks, lice, and flies. Public health programs deploy it in residual indoor sprays and treated bed nets for vector control. These applications are essential for malaria and other insect-borne disease programs globally. The product is supplied as a liquid concentrate, typically at 25%, 36.8%, or 50% active ingredient. It is also available in emulsifiable concentrate and wettable powder formulations for various industrial uses. Technical-grade material and formulated end-products are both available for commercial procurement. Pharmaceutical-grade specifications exist for topical cream and lotion applications to ensure safety and efficacy. Contact us for supply of Permethrin Request Quote",
+  "physicalProperties": "Melting Point: 34-35 °C; Boiling Point: >290 °C @ Press: 760 Torr; Density: 1.19-1.27 g/cm³ @ Temp: 20 °C; Flash Point: 10 °C; Appearance: Crystalline Solid; Color: Light yellow to yellow; Form: neat; Water Solubility: insoluble; Vapor Pressure: 7×10 -5 Pa (20 °C); Refractive Index: 1.6500 (estimate); Log P: 6.500",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H317 May cause an allergic skin reaction H332 Harmful if inhaled H351 Suspected of causing cancer H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse.",
+  "tradeRegulatory": "HS Code: 29162090; UN Number: 1230; ADR Class: 3; Packing Group: II; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "Elimite | Nix | Pounce | Kudos | Acticin | Ambushfog | NRDC 143 | NIA 33297",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29162090",
+  "similarProducts": [
+    "cas-51-03-6",
+    "cas-134-62-3",
+    "cas-886-50-0",
+    "cas-62-38-4",
+    "cas-1121-31-9",
+    "cas-18181-70-9",
+    "cas-3811-73-2",
+    "cas-110-85-0",
+    "cas-68890-66-4",
+    "cas-597-82-0",
+    "cas-91-20-3",
+    "cas-13463-41-7",
+    "cas-89392-03-0",
+    "cas-1912-24-9",
+    "cas-110-85-0",
+    "cas-68890-66-4",
+    "cas-597-82-0",
+    "cas-91-20-3",
+    "cas-13463-41-7",
+    "cas-89392-03-0",
+    "cas-1912-24-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-52645-53-1/"
+}

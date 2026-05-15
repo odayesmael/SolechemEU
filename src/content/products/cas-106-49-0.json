@@ -1,0 +1,64 @@
+{
+  "id": "473",
+  "name": "p-toluidine",
+  "slug": "cas-106-49-0",
+  "cas": "106-49-0",
+  "ec": "203-403-1",
+  "formula": "C7H9N",
+  "mw": "107.15 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Textile, Leather & Paper",
+    "Printing & Packaging",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "p-Toluidine (CAS 106-49-0 ), also known as p-tolylamine and 4-toluidine, is an aromatic amine used as a chemical intermediate in the synthesis of dyes, pigments, and specialty compounds. It functions primarily as a building block and curing agent across several manufacturing industries. In dye and pigment manufacturing, it is a key intermediate for azo dyes used in textile dyeing and leather finishing. Rubber and elastomer producers use it as a curing and cross-linking agent to control vulcanization characteristics in finished compounds. In printing inks and packaging coatings, it contributes to the synthesis of colorants. These colorants require specific hue and fastness properties for high-performance applications. Personal care and cosmetic formulators source it as a precursor in the production of hair dye intermediates. It is also utilized in oxidative colorant systems for professional salon products. The material is supplied as a white to pale yellow crystalline solid or low-melting flake for industrial handling. Technical grade is the standard commercial form, with purity levels typically at 99% and above. Packaging options generally include drums and bulk quantities suited to industrial-scale procurement. Contact us for supply of p-toluidine Request Quote",
+  "physicalProperties": "Melting Point: 44-45 °C; Boiling Point: 200.4 °C; Density: 1.046 g/cm³ @ Temp: 20 °C; Flash Point: 192 °F; Appearance: White lustrous plates or leaflets. Soluble in alcohol and ether; very slightly soluble in water. Combustible.; Color: tan to brown; Form: powder; Water Solubility: 1.1 g/100 mL; Vapor Pressure: 0.26 mm Hg ( 25 °C); Refractive Index: 1.5636; pH: 7.8 (7g/L); Log P: 1.39-1.44 at pH7.4-7.5",
+  "safetyHandling": "Danger GHS06 GHS08 GHS09 GHS07 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H331 Toxic if inhaled H335 May cause respiratory irritation H351 Suspected of causing cancer H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 38220000; UN Number: 3451; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "p-tolylamine | p-Methylbenzenamine | 4-toluidine | 4-methylaniline | 4-aminotoluene | 4-Methylbenzenamine | p-Methylaniline | Benzenamine, 4-methyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "38220000",
+  "similarProducts": [
+    "cas-108-44-1",
+    "cas-95-53-4",
+    "cas-104-85-8",
+    "cas-119-93-7",
+    "cas-70-55-3",
+    "cas-100418-33-5",
+    "cas-106-47-8",
+    "cas-95-79-4",
+    "cas-123-30-8",
+    "cas-99-97-8",
+    "cas-106-50-3",
+    "cas-26764-44-3",
+    "cas-89-63-4",
+    "cas-2425-85-6",
+    "cas-95-79-4",
+    "cas-123-30-8",
+    "cas-99-97-8",
+    "cas-106-50-3",
+    "cas-26764-44-3",
+    "cas-89-63-4",
+    "cas-2425-85-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-49-0/"
+}

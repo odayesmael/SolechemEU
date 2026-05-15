@@ -1,0 +1,61 @@
+{
+  "id": "568",
+  "name": "Furan",
+  "slug": "cas-110-00-9",
+  "cas": "110-00-9",
+  "ec": "203-727-3",
+  "formula": "C4H4O",
+  "mw": "68.07 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Furan (CAS 110-00-9 ), also known as furfurane or tetrole, is a five-membered oxygen-containing heterocyclic compound used as a reactive building block and solvent in chemical synthesis. Its primary commercial role is as a precursor and intermediate in the production of specialty polymers and pharmaceutical compounds. In polymer chemistry, it serves as a monomer in Diels-Alder-based systems. This enables the production of thermally reversible resins and bio-based plastics with controlled crosslinking behavior. Pharmaceutical manufacturers use it as a synthetic intermediate in the construction of drug scaffolds. Its ring structure is frequently incorporated into active pharmaceutical ingredients. As a low-boiling solvent, it is employed in laboratory-scale and pilot-plant synthesis where rapid removal is a requirement. Furan also functions as a starting material for producing tetrahydrofuran (THF) and other downstream derivatives used across solvent and polymer supply chains. It is supplied as a stabilized liquid. The product is typically available in research-grade and technical-grade specifications. It is offered in packaging ranging from small laboratory quantities to bulk drum supply, depending on purity requirements. Buyers should confirm stabilizer content and purity grade, commonly 99%+, when specifying for pharmaceutical or polymer synthesis applications to ensure consistent performance in sensitive reactions. Contact us for supply of Furan Request Quote",
+  "physicalProperties": "Melting Point: -85.6 °C; Boiling Point: 31.36 °C @ Press: 760 Torr; Density: 0.9371 g/cm³ @ Temp: 19.4 °C; Flash Point: 160 °F; Appearance: Furan is a colorless liquid; turns brown on standing. Strong ethereal odor.; Color: Clear colorless to yellow; Odor: at 0.10?%?in?propylene glycol. ethereal; Form: Liquid; Water Solubility: insoluble; Vapor Pressure: 1672 mm Hg ( 55 °C); Refractive Index: n 20/D 1.5070(lit.); Log P: 1.34",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS06 Hazard Statements H224 Extremely flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 2932 19 00; UN Number: 2811; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "tetrole | furfurane | furfuran | divinylene oxide | 1,4-epoxy-1,3-butadiene | Oxole | Furane | Axole",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "2932 19 00",
+  "similarProducts": [
+    "cas-98-01-1",
+    "cas-98-00-0",
+    "cas-617-89-0",
+    "cas-132-64-9",
+    "cas-109-99-9",
+    "cas-109-97-7",
+    "cas-97-99-4",
+    "cas-96-47-9",
+    "cas-110-02-1",
+    "cas-4602-84-0",
+    "cas-86-73-7",
+    "cas-110-86-1",
+    "cas-4994-16-5",
+    "cas-287-92-3",
+    "cas-96-47-9",
+    "cas-110-02-1",
+    "cas-4602-84-0",
+    "cas-86-73-7",
+    "cas-110-86-1",
+    "cas-4994-16-5",
+    "cas-287-92-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-00-9/"
+}

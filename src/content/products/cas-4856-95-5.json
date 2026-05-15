@@ -1,0 +1,61 @@
+{
+  "id": "1811",
+  "name": "Morpholineborane",
+  "slug": "cas-4856-95-5",
+  "cas": "4856-95-5",
+  "ec": "225-450-7",
+  "formula": "C4H12BNO",
+  "mw": "100.96 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Morpholineborane (CAS 4856-95-5 ), also referenced commercially as Borane-morpholine, is a stable, handleable borane complex used as a controlled source of borane in synthetic chemistry. It delivers reducing and borating reactivity in applications where free borane gas would be impractical or hazardous to handle. In pharmaceutical manufacturing, it serves as a selective reducing agent. This compound is vital for the synthesis of active pharmaceutical ingredients, particularly where chemoselective reduction of functional groups is required for complex molecular structures. In electronics, it is used in electroless plating and surface metallization processes, where controlled boron deposition onto substrates supports printed circuit board and semiconductor fabrication. Polymer chemists employ it as a radical polymerization initiator, enabling the initiation of polymerization under mild conditions for specialty polymer systems and advanced materials. It also functions as a boron source in organoboron chemistry, supporting hydroboration reactions in the preparation of fine chemical intermediates and various specialty chemical products. Morpholineborane is supplied as a solid, typically in powder or crystalline form. It is available primarily at reagent and high-purity grades suited to pharmaceutical synthesis and electronics. Packaging is offered in research-scale quantities through to larger commercial volumes depending on supplier capability. This ensures flexibility for both laboratory development and industrial use. Contact us for supply of Morpholineborane Request Quote",
+  "physicalProperties": "Melting Point: 95 °C; Appearance: colorless to white crystalline powder; Color: White to Almost white; Form: solid; Water Solubility: MAY DECOMPOSE",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H228 Flammable solid H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 3263; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "(T-4)-Trihydro(morpholine-kappaN4)boron | (T-4)-Trihydro(morpholine-κN4)boron | Borane-morpholine | Morpholine borane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-110-91-8",
+    "cas-110-51-0",
+    "cas-74-94-2",
+    "cas-13292-87-0",
+    "cas-13289-97-9",
+    "cas-1722-26-5",
+    "cas-26021-57-8",
+    "cas-5625-90-1",
+    "cas-14044-65-6",
+    "cas-13774-81-7",
+    "cas-38050-71-4",
+    "cas-10377-81-8",
+    "cas-1095-66-5",
+    "cas-280-64-8",
+    "cas-5625-90-1",
+    "cas-14044-65-6",
+    "cas-13774-81-7",
+    "cas-38050-71-4",
+    "cas-10377-81-8",
+    "cas-1095-66-5",
+    "cas-280-64-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4856-95-5/"
+}

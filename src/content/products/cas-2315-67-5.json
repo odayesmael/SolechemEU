@@ -1,0 +1,60 @@
+{
+  "id": "1597",
+  "name": "4-octylphenol monoethoxylate",
+  "slug": "cas-2315-67-5",
+  "cas": "2315-67-5",
+  "ec": "621-345-9",
+  "formula": "C16H26O2",
+  "mw": "250.38 g/mol",
+  "category": "Surfactants",
+  "industry": [
+    "Agriculture & Feed",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Octylphenol monoethoxylate (CAS 2315-67-5 ) is a short-chain ethoxylated alkylphenol surfactant used as an emulsifier, dispersant, and cleaning agent across industrial formulations. It is a low-ethoxylate member of the alkylphenol ethoxylate family, distinct from longer-chain variants such as Triton X-100, and is relevant to buyers sourcing controlled or specific EO-count intermediates. In agrochemical formulations, it functions as an emulsifier and carrier in pesticide emulsifiable concentrates, improving active ingredient dispersion in water for better application. Textile processors use it in scouring and dyeing auxiliaries, where it aids in fiber wetting and removal of oils and sizing agents during the manufacturing process. In leather processing, it supports degreasing baths and fat-liquoring emulsions that require controlled HLB surfactants to ensure consistent quality and material penetration. Personal care formulators evaluate it as a solubilizer or emulsification aid in rinse-off systems where low-ethoxylate alkylphenols are technically specified for the formulation. The product is supplied as a liquid at standard commercial concentrations. It is available in technical grade, with supply typically in drums or IBC containers suited to industrial procurement volumes. Buyers should confirm ethylene oxide adduct count and purity specification with the supplier, as these factors directly affect the HLB value and the specific application fit. Contact us for supply of 4-octylphenol monoethoxylate Request Quote",
+  "physicalProperties": "Boiling Point: 192-193 °C @ Press: 2.4 kPa; Density: 0.980-0.990 g/cm³ @ Temp: 25 °C; Flash Point: -17°C; Color: Off-White to Pale Yellow Oil; Form: Solid; Log P: 4.992 (est)",
+  "safetyHandling": "Warning GHS07 GHS09",
+  "tradeRegulatory": "UN Number: 1090; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "RefChem:1100551 | Triton X 100 | 4-tert-Octylphenol Monoethoxylate | Octoxynol-1 | Octoxinol | Triton X | Ethanol, 2-[4-(1,1,3,3-tetramethylbutyl)phenoxy]-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-9002-93-1",
+    "cas-9036-19-5",
+    "cas-1806-26-4",
+    "cas-32128-65-7",
+    "cas-140-66-9",
+    "cas-92046-34-9",
+    "cas-127087-87-0",
+    "cas-3055-98-9",
+    "cas-160875-66-1",
+    "cas-20427-84-3",
+    "cas-99734-09-5",
+    "cas-68603-25-8",
+    "cas-116810-31-2",
+    "cas-61827-42-7",
+    "cas-3055-98-9",
+    "cas-160875-66-1",
+    "cas-20427-84-3",
+    "cas-99734-09-5",
+    "cas-68603-25-8",
+    "cas-116810-31-2",
+    "cas-61827-42-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2315-67-5/"
+}

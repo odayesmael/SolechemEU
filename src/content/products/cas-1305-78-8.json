@@ -1,0 +1,63 @@
+{
+  "id": "1401",
+  "name": "Calcium oxide",
+  "slug": "cas-1305-78-8",
+  "cas": "1305-78-8",
+  "ec": "695-027-3",
+  "formula": "CaO",
+  "mw": "56.08 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Agriculture & Feed",
+    "Pulp & Paper",
+    "Water Treatment",
+    "Mining & Metals",
+    "Building & Construction"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Calcium oxide (CAS 1305-78-8 ), commonly known as quicklime and approved as food additive E529 , is a high-reactivity alkaline material produced by calcining limestone at high temperatures. It functions as a pH regulator, desiccant, and reactive base across a broad range of industrial processes. In water and wastewater treatment, it is used to raise pH and precipitate heavy metals. Steel and non-ferrous metal producers rely on it as a flux to remove impurities during smelting and refining operations. Pulp and paper mills use it in the kraft recovery cycle to regenerate sodium hydroxide. This makes it integral to chemical recovery loops. In construction, it is the primary input for producing hydrated lime used in mortars, soil stabilization, and asphalt modification for infrastructure. The material is supplied as lumps, granules, or fine powder depending on downstream processing requirements. Standard commercial grades include technical grade and high-calcium grades defined by CaO content. Purity typically ranges from 90% to over 98% depending on the source. Food-grade material conforming to regulatory specifications is available for applications requiring strict compliance. Contact us for supply of Calcium oxide Request Quote",
+  "physicalProperties": "Melting Point: 2572 °C; Boiling Point: 2850 °C; Density: 3.3-3.4 g/cm³; Flash Point: 2850°C; Appearance: Calcium oxide, CaO, occurs as white or grayish-white lumps or granular powder. The presence of iron gives it a yellowish or brownish tint.; Color: White to yellow-very slightly beige; Odor: wh. or gray cryst. or powd., odorless; Form: powder; Water Solubility: REACTS; Refractive Index: 1.83; pH: 12.6 (H2O, 20℃)(saturated solution)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H303 May be harmful if swallowed H304 May be fatal if swallowed and enters airways H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P331 Do NOT induce vomiting. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28259019; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "quicklime | lime | limestone | unslaked lime | pebble lime | caustic lime | calx | calcium monoxide | E529",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28259019",
+  "similarProducts": [
+    "cas-1305-62-0",
+    "cas-1309-48-4",
+    "cas-12042-68-1",
+    "cas-1305-79-9",
+    "cas-7440-70-2",
+    "cas-1344-95-2",
+    "cas-10043-52-4",
+    "cas-1310-73-2",
+    "cas-62-54-4",
+    "cas-814-80-2",
+    "cas-1309-42-8",
+    "cas-471-34-1",
+    "cas-16389-88-1",
+    "cas-17482-42-7",
+    "cas-1310-73-2",
+    "cas-62-54-4",
+    "cas-814-80-2",
+    "cas-1309-42-8",
+    "cas-471-34-1",
+    "cas-16389-88-1",
+    "cas-17482-42-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1305-78-8/"
+}

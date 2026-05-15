@@ -1,0 +1,66 @@
+{
+  "id": "2554",
+  "name": "Nickel sulfate hexahydrate",
+  "slug": "cas-10101-97-0",
+  "cas": "10101-97-0",
+  "ec": "600-152-3",
+  "formula": "H2O4S.6H2O.Ni",
+  "mw": "262.85 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Agriculture & Feed",
+    "Water Treatment",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Lubricants & Metalworking",
+    "Electronics",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Nickel sulfate hexahydrate (CAS 10101-97-0 ) is the primary nickel salt used in electroplating and surface finishing operations. It supplies soluble nickel ions to plating baths, enabling controlled deposition of nickel onto metal substrates. Across electronics, metalworking, and battery material manufacturing, it functions as the foundational nickel source in both process chemistry and catalyst preparation. In electroplating, it is the core electrolyte component. It is used in Watts baths and sulfamate-based systems to plate connectors, automotive parts, and consumer hardware. Battery cathode precursor manufacturing relies on it as a nickel feedstock for producing active materials. These materials include nickel-cobalt-manganese (NCM) and nickel-cobalt-aluminum (NCA). In catalyst production, it serves as a precursor for hydrogenation catalysts used in edible oil processing and petrochemical refining. Agricultural micronutrient formulations incorporate it to correct nickel deficiency in crops, particularly in legume cultivation. The product is supplied as blue-green crystalline granules or powder for industrial use. Standard commercial grades include electroplating grade, battery grade, and technical grade. Purity levels typically range from 98% to 99.5%+, ensuring performance across various chemical applications. High-purity battery-grade material is subject to tighter specifications on trace metal impurities. This reflects the increasing demand from lithium-ion cathode manufacturers for high-quality chemical precursors. Contact us for supply of Nickel sulfate hexahydrate Request Quote",
+  "physicalProperties": "Melting Point: 100 °C; Boiling Point: 2732 °C(lit.); Density: 2,07 g/cm 3; Appearance: Green crystals; Color: Green; Form: wire; Water Solubility: 625 g/L (20 ºC); pH: 4.3-4.7 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 GHS06 Hazard Statements H301 Toxic if swallowed [Danger Acute toxicity, oral] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory] H350 May cause cancer [Danger Carcinogenicity] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 28332400; UN Number: 3178; ADR Class: 4.1; Packing Group: II; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 3",
+  "otherNames": "nickelous sulphate hexahydrate | nickelous sulfate hexahydrate | nickel(II) sulphate hexahydrate | nickel(II) sulfate hexahydrate | nickel(2+) sulfate hexahydrate | nickel sulphate hexahydrate | nickel monosulfate hexahydrate | hexaaquanickel(II) sulfate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "28332400",
+  "similarProducts": [
+    "cas-7786-81-4",
+    "cas-13478-00-7",
+    "cas-13770-89-3",
+    "cas-13138-45-9",
+    "cas-6018-89-9",
+    "cas-7718-54-9",
+    "cas-12054-48-7",
+    "cas-12607-70-4",
+    "cas-10124-43-3",
+    "cas-3333-67-3",
+    "cas-10026-22-9",
+    "cas-7440-02-0",
+    "cas-10026-24-1",
+    "cas-61788-71-4",
+    "cas-12607-70-4",
+    "cas-10124-43-3",
+    "cas-3333-67-3",
+    "cas-10026-22-9",
+    "cas-7440-02-0",
+    "cas-10026-24-1",
+    "cas-61788-71-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10101-97-0/"
+}

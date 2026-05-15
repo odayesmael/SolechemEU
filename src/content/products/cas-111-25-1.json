@@ -1,0 +1,63 @@
+{
+  "id": "616",
+  "name": "1-bromohexane",
+  "slug": "cas-111-25-1",
+  "cas": "111-25-1",
+  "ec": "203-850-2",
+  "formula": "C6H13Br",
+  "mw": "165.07 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Bromohexane (CAS 111-25-1 ), also known as hexyl bromide, is a straight-chain alkyl bromide used as a reactive intermediate in organic synthesis. It functions primarily as an alkylating agent, introducing the hexyl chain into target molecules. This versatile chemical is utilized across pharmaceutical, polymer, and specialty chemical manufacturing sectors. In pharmaceutical synthesis, it is used to N- or O-alkylate active pharmaceutical intermediates for drug development. This process enables the construction of drug candidates with defined lipophilicity profiles. Polymer chemists use it to functionalize monomers and modify backbone structures, influencing solubility and processing behavior in specialty plastics. In the production of quaternary ammonium compounds, it reacts with tertiary amines to yield surfactants. These products serve as phase-transfer catalysts used in textile processing and various industrial formulation chemistry applications. Fragrance and flavor manufacturers also employ it as a precursor in synthesizing hexyl esters and ethers. These derivatives are essential for creating targeted sensory profiles in consumer goods and food-grade additives. The product is supplied as a clear to pale yellow liquid in drum and IBC quantities. Smaller packaging options are available for laboratory and pilot-scale procurement to meet specific research and development requirements. Technical grade is the standard commercial offering, with high-purity grades available to meet fine chemical specifications. Purity documentation including GC analysis and COA is standard for regulated supply chains. Contact us for supply of 1-bromohexane Request Quote",
+  "physicalProperties": "Melting Point: -84.7 °C; Boiling Point: 158 °C; Density: 1.16 g/cm³; Flash Point: 135 °F; Appearance: colourless liquid; Color: Clear; Form: Liquid; Water Solubility: Immiscible with water.; Vapor Pressure: <10 mm Hg ( 20 °C); Refractive Index: n 20/D 1.448(lit.)",
+  "safetyHandling": "Warning GHS02 GHS07 GHS09 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033036; UN Number: 1993; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "hexyl bromide | n-Hexyl bromide | 1-Hexyl bromide | Hexane, 1-bromo- | WVA0FAX7GA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29033036",
+  "similarProducts": [
+    "cas-112-82-3",
+    "cas-111-27-3",
+    "cas-109-65-9",
+    "cas-75-26-3",
+    "cas-106-94-5",
+    "cas-74-96-4",
+    "cas-110-54-3",
+    "cas-106-95-6",
+    "cas-109-70-6",
+    "cas-7726-95-6",
+    "cas-629-73-2",
+    "cas-10035-10-6",
+    "cas-110-82-7",
+    "cas-4050-45-7",
+    "cas-106-95-6",
+    "cas-109-70-6",
+    "cas-7726-95-6",
+    "cas-629-73-2",
+    "cas-10035-10-6",
+    "cas-110-82-7",
+    "cas-4050-45-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-25-1/"
+}

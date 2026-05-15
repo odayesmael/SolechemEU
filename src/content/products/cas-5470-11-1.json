@@ -1,0 +1,63 @@
+{
+  "id": "1851",
+  "name": "Hydroxylamine hydrochloride",
+  "slug": "cas-5470-11-1",
+  "cas": "5470-11-1",
+  "ec": "226-798-2",
+  "formula": "ClH.H3NO",
+  "mw": "69.49 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydroxylamine hydrochloride (CAS 5470-11-1 ), also known as hydroxylammonium chloride, is a stable, water-soluble salt form of hydroxylamine used across pharmaceutical synthesis, polymer chemistry, and analytical applications. It functions primarily as a reducing agent, oxime-forming reagent, and chemical intermediate in multi-step synthesis processes. In pharmaceutical manufacturing, it converts ketones and aldehydes into oximes. This conversion is a critical step in producing active pharmaceutical ingredients and synthesis intermediates. Polymer producers use it as an antioxidant stabilizer and polymerization inhibitor to control degradation. It is particularly effective in nylon and other engineering plastics. In biotechnology and life sciences, it serves as a selective protein-cleaving reagent for Asn-Gly bond cleavage in peptide mapping workflows. Analytical chemists rely on it for metal ion detection and as a reducing agent in sample preparation protocols. Hydroxylamine hydrochloride is supplied as a white crystalline powder for various uses. It is available in pharmaceutical-grade ( USP / BP ) specifications for regulated synthesis applications, as well as technical grade for industrial and polymer processing use. Packaging ranges from small laboratory quantities to bulk industrial volumes, with purity levels typically at 98% or higher depending on the specific grade required for the application. Contact us for supply of Hydroxylamine hydrochloride Request Quote",
+  "physicalProperties": "Melting Point: 151 °C (decomp); Density: 1.7 g/cm³; Appearance: White crystals; Color: White to off-white; Form: Liquid; Water Solubility: 560 g/L (20 ºC); Vapor Pressure: 0.054 Pa (50 °C); pH: 2.5-3.5 (25℃, 50mg/mL in H2O); Log P: -0.810 (est)",
+  "safetyHandling": "Warning GHS05 GHS07 GHS08 GHS09 GHS06 Hazard Statements H290 May be corrosive to metals H301 Toxic if swallowed H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H335 May cause respiratory irritation H351 Suspected of causing cancer H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28251000; UN Number: 2923; ADR Class: 8; Packing Group: II; Storage Class: 4.1A - Other explosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "Hydroxylammonium chloride | Oxammonium hydrochloride | Hydroxyamine hydrochloride | Hydroxylamine chloride (1:1) | 5X4ZA62Z4Q | HYDROXYLAMINE CHLOROHYDRATE | RefChem:5895",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "28251000",
+  "similarProducts": [
+    "cas-7803-49-8",
+    "cas-10039-54-0",
+    "cas-593-51-1",
+    "cas-5080-22-8",
+    "cas-156-57-0",
+    "cas-7803-57-8",
+    "cas-10217-52-4",
+    "cas-3184-13-2",
+    "cas-118-42-3",
+    "cas-557-66-4",
+    "cas-6000-43-7",
+    "cas-645-35-2",
+    "cas-1119-34-2",
+    "cas-5934-29-2",
+    "cas-3184-13-2",
+    "cas-118-42-3",
+    "cas-557-66-4",
+    "cas-6000-43-7",
+    "cas-645-35-2",
+    "cas-1119-34-2",
+    "cas-5934-29-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-5470-11-1/"
+}

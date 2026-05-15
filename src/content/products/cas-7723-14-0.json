@@ -1,0 +1,63 @@
+{
+  "id": "2094",
+  "name": "Phosphorus",
+  "slug": "cas-7723-14-0",
+  "cas": "7723-14-0",
+  "ec": "231-768-7",
+  "formula": "P",
+  "mw": "30.97376200 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Mining & Metals",
+    "Electronics",
+    "Aerospace & Defense",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phosphorus (CAS 7723-14-0 ), commonly supplied in its red or amorphous form, is a reactive non-metallic element used as a base material in flame retardant systems and specialty chemical synthesis. It serves as a precursor to phosphoric acid, phosphine, and a broad range of organophosphorus compounds that underpin industrial fire protection and materials processing across various sectors. In plastics and polymer manufacturing, amorphous phosphorus is incorporated into intumescent and halogen-free flame retardant formulations for engineering resins, cable jacketing, and electronic housings. The electronics industry relies on phosphorus-derived compounds for flame retardant printed circuit board laminates and semiconductor dopant applications to ensure safety and performance standards. Aerospace and defense sectors source it for pyrotechnic compositions and smoke-generating agents used in signaling and obscurant systems, requiring high reliability and specific chemical properties. In mining and metals processing, it functions as a reducing agent and alloying additive to modify steel and cast iron properties, enhancing the durability and strength of the final metal products. Amorphous (red) phosphorus is the standard commercial form, supplied as a fine powder or stabilized granules to reduce reactivity during handling and transport for safer industrial operations. Technical and industrial grades are the primary market offerings, with purity levels typically ranging from 98% to 99.9% depending on end-use requirements and specific manufacturing protocols. Contact us for supply of Phosphorus Request Quote",
+  "physicalProperties": "Melting Point: 44.1 °C; Boiling Point: 280 °C; Density: 1.83 g/cm³; Flash Point: 30°C; Appearance: reddish-brown powder; Color: Red-brown; Odor: Acrid fumes when exposed to air; Form: powder (red); Water Solubility: insoluble; Vapor Pressure: 0.03 mm Hg ( 21 °C); pH: 3 at 37℃ and 500-10000mg/L",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS09 Hazard Statements H228 Flammable solid H250 Catches fire spontaneously if exposed to air H300 Fatal if swallowed H314 Causes severe skin burns and eye damage H330 Fatal if inhaled H400 Very toxic to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P231 Handle and store contents under inert gas/… . P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P335+P334 IF ON SKIN: Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28047000; UN Number: 1338; ADR Class: 4.1; Packing Group: III; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 2",
+  "otherNames": "element 15 | 15P | amorphous phosphorus | Phosphorus 6 | Phosphorus 8 | Phosphorus 6C | Phosphorus 30 | Phosphorus 30C",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS09"
+  ],
+  "hsCode": "28047000",
+  "similarProducts": [
+    "cas-20208-95-1",
+    "cas-218768-84-4",
+    "cas-68333-79-9",
+    "cas-1314-56-3",
+    "cas-41583-09-9",
+    "cas-14265-44-2",
+    "cas-10294-56-1",
+    "cas-1314-80-3",
+    "cas-13598-36-2",
+    "cas-7783-28-0",
+    "cas-7784-30-7",
+    "cas-115-86-6",
+    "cas-57583-54-7",
+    "cas-68937-41-7",
+    "cas-1314-80-3",
+    "cas-13598-36-2",
+    "cas-7783-28-0",
+    "cas-7784-30-7",
+    "cas-115-86-6",
+    "cas-57583-54-7",
+    "cas-68937-41-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7723-14-0/"
+}

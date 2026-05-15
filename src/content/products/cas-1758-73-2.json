@@ -1,0 +1,63 @@
+{
+  "id": "1528",
+  "name": "Thiourea dioxide",
+  "slug": "cas-1758-73-2",
+  "cas": "1758-73-2",
+  "ec": "217-168-4",
+  "formula": "CH4N2O2S",
+  "mw": "108.12 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Pulp & Paper",
+    "Textile, Leather & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Thiourea dioxide (CAS 1758-73-2 ), also known as formamidinesulfinic acid and abbreviated as TDO, is a reductive bleaching and reducing agent used across textile, paper, and leather processing industries. It acts as a controlled source of reducing power under alkaline and elevated-temperature conditions, enabling selective bleaching and color stripping without the aggressive fiber damage associated with oxidative systems. In textile processing, TDO is used for reductive clearing after dyeing with disperse dyes on polyester, removing unfixed surface dye to improve wash fastness and color brightness. Pulp and paper producers apply it for bleaching mechanical and chemical pulps, particularly where brightness reversion needs to be minimized during the manufacturing process. Leather processors use it to achieve uniform whitening of hides prior to dyeing, ensuring consistent color uptake across the finished material and improving the final aesthetic quality. In water treatment and industrial effluent applications, it functions as a reducing agent to neutralize residual oxidants such as chlorine and chromate compounds found in waste streams. Thiourea dioxide is supplied as a white crystalline powder. Standard commercial grades include technical grade for industrial processing applications, with purity typically specified at 98% or higher. Packaging is commonly available in 25 kg bags or drums suited to bulk industrial procurement. This ensures safe handling and stability during transport and long-term storage in warehouse facilities. Contact us for supply of Thiourea dioxide Request Quote",
+  "physicalProperties": "Melting Point: 142-143 °C (decomp); Boiling Point: 355.3±25.0 °C(Predicted); Density: 1.68; Appearance: white crystalline powder; Color: White; Form: Crystalline Powder; Water Solubility: 30 g/L (20 ºC); Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.6550 (estimate); pH: 4 (10g/l, H2O, 20℃); Log P: -3.37 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS08 GHS06 Hazard Statements H251 Self-heating; may catch fire H252 Self-heating in large quantities; may catch fire H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P235 Keep cool. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 3341; ADR Class: 4.2; Packing Group: II; Storage Class: 4.2 - Pyrophoric and self-heating hazardous materials; WGK (Germany): 1",
+  "otherNames": "Thiourea S,S-dioxide | Formamidinesulfinic acid | Formamidine sulfinate | Aminoiminomethanesulfinic acid | Manofast | 42BWR07L73 | Methanesulfinic acid, 1-amino-1-imino- | TDO",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-62-56-6",
+    "cas-7775-14-6",
+    "cas-68223-93-8",
+    "cas-24887-06-7",
+    "cas-111-17-1",
+    "cas-10543-57-4",
+    "cas-68-11-1",
+    "cas-149-44-0",
+    "cas-26764-44-3",
+    "cas-7446-07-3",
+    "cas-10049-04-4",
+    "cas-7772-98-7",
+    "cas-6035-47-8",
+    "cas-7446-09-5",
+    "cas-149-44-0",
+    "cas-26764-44-3",
+    "cas-7446-07-3",
+    "cas-10049-04-4",
+    "cas-7772-98-7",
+    "cas-6035-47-8",
+    "cas-7446-09-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1758-73-2/"
+}

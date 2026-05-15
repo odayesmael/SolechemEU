@@ -1,0 +1,63 @@
+{
+  "id": "1379",
+  "name": "Decabromodiphenyl ether",
+  "slug": "cas-1163-19-5",
+  "cas": "1163-19-5",
+  "ec": "214-604-9",
+  "formula": "C12Br10O",
+  "mw": "959.2 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Electronics",
+    "Automotive",
+    "Aerospace & Defense",
+    "Building & Construction",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Decabromodiphenyl ether (CAS 1163-19-5 ), commonly known as DecaBDE or BDE-209, is a brominated flame retardant used across polymer-intensive industries to meet fire safety and regulatory standards. Decabromodiphenyl oxide is the alternate name most frequently encountered in technical specifications and compliance documentation. It functions by interrupting combustion in the gas phase, enabling treated materials to achieve required flammability ratings. In plastics and polymer compounding, DecaBDE is incorporated into ABS, HIPS, and polyolefin formulations used in electronic housings, connectors, and cable jacketing. Textile and upholstery manufacturers apply it to back-coatings on curtains, seating fabrics, and protective workwear where fire performance standards must be met. Automotive and aerospace component suppliers use it in interior trim materials, wire insulation, and structural composites requiring UL 94 or equivalent certification. Building and construction applications include flame-retarded panels, insulation facings, and roofing membranes where fire classification is a procurement requirement. DecaBDE is supplied as a white to off-white powder or as masterbatch pellets for direct compounding use. Technical-grade material is the standard commercial form, with purity typically specified at 97% or higher. Bulk supply is available in bags and supersacks, with some suppliers offering pre-compounded concentrates for specific polymer systems to ensure uniform dispersion during manufacturing. Contact us for supply of Decabromodiphenyl ether Request Quote",
+  "physicalProperties": "Melting Point: 305 °C; Boiling Point: 530 °C; Density: 3.0 g/cm³; Flash Point: -12 °C; Appearance: DBDPO is a white to off-white powder. A polybrominated biphenyl.; Color: White to Light Brown; Form: Solid; Water Solubility: <0.1 g/100 mL at 20 ºC; Vapor Pressure: 0Pa at 21℃; Refractive Index: 1.5000 (estimate); Log P: 6.625 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H316 Causes mild skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H362 May cause harm to breast-fed children H373 May causes damage to organs through prolonged or repeated exposure H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29093031; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "BDE-209 | Decabromodiphenyl oxide | Pentabromophenyl ether | Bis(pentabromophenyl) ether | Decabrom | Dbdpo | Decabromobiphenyl oxide | Bromkal 82-0DE | DecaBDE",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29093031",
+  "similarProducts": [
+    "cas-84852-53-9",
+    "cas-3194-55-6",
+    "cas-25637-99-4",
+    "cas-38521-51-6",
+    "cas-79-94-7",
+    "cas-3296-90-0",
+    "cas-26040-51-7",
+    "cas-183658-27-7",
+    "cas-632-79-1",
+    "cas-126-72-7",
+    "cas-120-55-8",
+    "cas-36483-57-5",
+    "cas-13674-87-8",
+    "cas-106-93-4",
+    "cas-183658-27-7",
+    "cas-632-79-1",
+    "cas-126-72-7",
+    "cas-120-55-8",
+    "cas-36483-57-5",
+    "cas-13674-87-8",
+    "cas-106-93-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1163-19-5/"
+}

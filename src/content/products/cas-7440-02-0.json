@@ -1,0 +1,65 @@
+{
+  "id": "2000",
+  "name": "Nickel",
+  "slug": "cas-7440-02-0",
+  "cas": "7440-02-0",
+  "ec": "231-111-4",
+  "formula": "Ni",
+  "mw": "58.693 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics",
+    "Automotive",
+    "Aerospace & Defense",
+    "Lubricants & Metalworking",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Nickel (CAS 7440-02-0 ) is a transition metal supplied in elemental form for industrial metallurgical and chemical applications. It is a foundational alloying component in stainless steel, superalloys, and specialty metals production. In chemical processing, it functions as a catalyst base and corrosion-resistant material across demanding industrial environments. In steelmaking and alloy production, nickel is incorporated into austenitic stainless steels. High-performance superalloys are used in turbine blades, exhaust systems, and structural aerospace components. Battery and electronics manufacturers use nickel in electrode materials, conductive coatings, and electroplating processes. These applications improve surface durability and conductivity. Nickel-based catalysts are employed in hydrogenation reactions, including edible oil processing and petrochemical refining, where the metal provides active sites. This allows for selective chemical conversion in various processes. In automotive and industrial applications, nickel alloys are specified for components requiring resistance to high-temperature oxidation and mechanical fatigue. Nickel is commercially available as powder, pellets, rounds, briquettes, and foil, with particle size and purity tailored to end-use requirements. Standard grades include electrolytic nickel and carbonyl nickel powder. Reduced nickel is also available, with each meeting different purity thresholds for metallurgical or catalytic use. Technical and high-purity grades are available for specific industrial needs. Specifications are aligned to ASTM and industry standards depending on the application. This ensures that the material meets the rigorous demands of modern manufacturing and chemical engineering sectors. Contact us for supply of Nickel Request Quote",
+  "physicalProperties": "Melting Point: 1455 °C; Boiling Point: 2730 °C; Density: 8.908 g/cm³; Appearance: Nickel metal is a hard, ductile, magnetic metal with a silver-white color.; Color: White to gray-white; Odor: Odorless; Form: wire; Water Solubility: It is insoluble in water.; pH: 8.5-12.0",
+  "safetyHandling": "Danger GHS07 GHS08 GHS02 GHS06 GHS09 Hazard Statements H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H351 Suspected of causing cancer [Warning Carcinogenicity] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H360 May damage fertility or the unborn child [Danger Reproductive toxicity]",
+  "tradeRegulatory": "HS Code: 38151100; UN Number: 1493; ADR Class: 5.1; Packing Group: II; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 3",
+  "otherNames": "element 28 | ₂₈Ni | Metallic nickel | Fibrex | Nickel particles | Fibrex P | Niccolum metallicum | Nickel 200",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS02",
+    "GHS06",
+    "GHS09"
+  ],
+  "hsCode": "38151100",
+  "similarProducts": [
+    "cas-3333-67-3",
+    "cas-13138-45-9",
+    "cas-7718-54-9",
+    "cas-7786-81-4",
+    "cas-13478-00-7",
+    "cas-12054-48-7",
+    "cas-10101-97-0",
+    "cas-12607-70-4",
+    "cas-10028-18-9",
+    "cas-61788-71-4",
+    "cas-1313-99-1",
+    "cas-6018-89-9",
+    "cas-13770-89-3",
+    "cas-7440-47-3",
+    "cas-12607-70-4",
+    "cas-10028-18-9",
+    "cas-61788-71-4",
+    "cas-1313-99-1",
+    "cas-6018-89-9",
+    "cas-13770-89-3",
+    "cas-7440-47-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-02-0/"
+}

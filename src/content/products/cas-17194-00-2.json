@@ -1,0 +1,63 @@
+{
+  "id": "2852",
+  "name": "Barium hydroxide",
+  "slug": "cas-17194-00-2",
+  "cas": "17194-00-2",
+  "ec": "241-234-5",
+  "formula": "BaH2O2",
+  "mw": "171.34 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Water Treatment",
+    "Mining & Metals",
+    "Pulp & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Barium hydroxide (CAS 17194-00-2 ), also known as caustic baryta, is a strong inorganic base used across industrial processes requiring precise alkalinity control and barium ion delivery. Unlike general-purpose alkalis, it combines high basicity with reactivity toward sulfates and carbonates, making it the preferred choice where sodium or calcium hydroxides are unsuitable. In water treatment, this compound precipitates sulfate and carbonate impurities from process streams, producing effluents that meet discharge specifications for environmental compliance. Plastics and polymer manufacturers use it as a catalyst and stabilizer precursor in PVC formulations, where it contributes to heat stability and flame retardancy performance. In mining and metals processing, it conditions leach solutions and adjusts pH in barium-sensitive precipitation circuits to ensure high-quality mineral recovery and processing efficiency. Pulp and paper operations apply it in causticizing steps and as a pH regulator in specialty chemical recovery processes, ensuring consistent output in large-scale manufacturing environments. The product is supplied as a white powder or as the octahydrate form, with the monohydrate and anhydrous grades also available depending on specific application requirements. Standard commercial grades include technical and reagent-grade specifications. Packaging typically ranges from 25 kg bags to bulk quantities, with purity levels commonly specified at 95–99%. Contact us for supply of Barium hydroxide Request Quote",
+  "physicalProperties": "Melting Point: 408 °C; Boiling Point: decomposes at 1032 (calculated) [KNA91]; Density: 2.18 g/cm³ (solid); Appearance: white crystalline powder; Color: Clear; Odor: no odor; Form: Solid; Water Solubility: Soluble in water.; pH: 11.27(1 mM solution);12.22(10 mM solution);13.08(100 mM solution)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H290 May be corrosive to metals H301 Toxic if swallowed H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2805191000; UN Number: 3262; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "caustic baryta | barium hydroxide lime | Ba(OH)2 | Barium dihydroxide | Aetzbaryt | Barium Hydroxide (Ba(OH)2) | barium(II) hydroxide | barium(2+) hydroxide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "2805191000",
+  "similarProducts": [
+    "cas-22326-55-2",
+    "cas-12230-71-6",
+    "cas-18480-07-4",
+    "cas-10326-27-9",
+    "cas-10361-37-2",
+    "cas-1304-29-6",
+    "cas-1310-65-2",
+    "cas-7787-39-5",
+    "cas-513-77-9",
+    "cas-543-80-6",
+    "cas-1310-73-2",
+    "cas-21109-95-5",
+    "cas-1336-21-6",
+    "cas-12672-51-4",
+    "cas-7787-39-5",
+    "cas-513-77-9",
+    "cas-543-80-6",
+    "cas-1310-73-2",
+    "cas-21109-95-5",
+    "cas-1336-21-6",
+    "cas-12672-51-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-17194-00-2/"
+}

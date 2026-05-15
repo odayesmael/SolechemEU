@@ -1,0 +1,59 @@
+{
+  "id": "2002",
+  "name": "Silicon",
+  "slug": "cas-7440-21-3",
+  "cas": "7440-21-3",
+  "ec": "231-130-8",
+  "formula": "Si",
+  "mw": "28.085 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Plastics & Polymers",
+    "Automotive",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silicon (CAS 7440-21-3 ), commonly traded as silicon metal or Si, is a high-purity elemental material refined from quartz and used as a foundational raw material across metallurgical, chemical, and electronic manufacturing supply chains. It functions primarily as a precursor for producing silicones, semiconductors, and aluminum alloys rather than as a finished additive. In the plastics and polymer industry, silicon metal is the primary feedstock for manufacturing silicone polymers. These include silicone fluids, elastomers, and sealants used in automotive and construction applications. Automotive manufacturers rely on aluminum-silicon alloys produced with metallurgical-grade silicon to achieve lightweight, high-strength castings. These castings are essential for engine components and structural parts. In electronics, ultra-high-purity silicon is processed into wafers that form the substrate for semiconductors, solar cells, and integrated circuits. Chemical producers also use it as a starting material for synthesizing chlorosilanes and other organosilicon intermediates. Silicon metal is supplied as chunks, granules, or powder, with particle size and purity grade selected based on end-use requirements. Metallurgical grade (typically 98–99% Si) covers alloy and chemical synthesis applications, while semiconductor and solar grades are held to significantly tighter purity thresholds. Standard packaging ranges from bulk bags to drums. Contact us for supply of Silicon Request Quote",
+  "physicalProperties": "Melting Point: 1410 °C; Boiling Point: 2355 °C; Density: 2.33 g/cm³ @ Temp: 25 °C; Flash Point: 2.33 °C; Appearance: Silicon is a nonmetallic element which is known as silicon metal. Not occur freely in nature, but is found in silicon dioxide (silica) and in various silicates. It is a steel-gray crystalline solid or a black-brown amorphous material.; Color: White; Odor: Odorless; Form: powder; Water Solubility: INSOLUBLE; Refractive Index: 3.9766; pH: 13.5 (H2O, 20°C)",
+  "safetyHandling": "Danger GHS02 Hazard Statements H228 Flammable solid H320 Causes eye irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28046900; UN Number: 2922; ADR Class: 8; Packing Group: II; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 2",
+  "otherNames": "element 14 | 14Si | Silicon metal | Defoamer S-10 | Silicon, elemental | Silicium | Z4152N8IUI | Elemental silicon | Si",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02"
+  ],
+  "hsCode": "28046900",
+  "similarProducts": [
+    "cas-409-21-2",
+    "cas-7631-86-9",
+    "cas-60676-86-0",
+    "cas-14808-60-7",
+    "cas-112926-00-8",
+    "cas-63148-53-8",
+    "cas-112945-52-5",
+    "cas-67762-90-7",
+    "cas-68554-70-1",
+    "cas-75-79-6",
+    "cas-7429-90-5",
+    "cas-7782-49-2",
+    "cas-68909-20-6",
+    "cas-1344-95-2",
+    "cas-67762-90-7",
+    "cas-68554-70-1",
+    "cas-75-79-6",
+    "cas-7429-90-5",
+    "cas-7782-49-2",
+    "cas-68909-20-6",
+    "cas-1344-95-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-21-3/"
+}

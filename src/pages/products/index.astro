@@ -1,0 +1,12 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProductsPage from '../../components/react/ProductsPage.tsx';
+import { PRODUCTS_INDEX } from '../../data';
+
+// Already lightweight — pre-built index, no transformation needed
+const productsLite = PRODUCTS_INDEX;
+---
+
+<BaseLayout title="Products | SoleChem Europe" description="Browse our catalog of 4,483+ industrial chemicals. Search by product name, CAS number, category, or industry application.">
+  <ProductsPage client:load products={productsLite} />
+</BaseLayout>

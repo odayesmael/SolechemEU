@@ -1,0 +1,250 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Custom Chemical Manufacturing | SoleChem Europe" description="ISO-certified custom chemical manufacturing, toll manufacturing, and white-labeling services from SoleChem Europe in Milan, Italy.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.solechem.eu/" },
+      { "@type": "ListItem", "position": 2, "name": "Manufacturing", "item": "https://www.solechem.eu/manufacturing" }
+    ]
+  })} />
+  <div class="min-h-screen bg-white">
+    <!-- Hero -->
+    <section class="relative overflow-hidden border-b border-slate-200 bg-slate-50 pt-32 pb-20">
+      <div class="absolute inset-0 z-0 opacity-5">
+        <div class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-slate-300 via-transparent to-transparent"></div>
+      </div>
+
+      <div class="max-w-7xl mx-auto px-4 lg:px-8 relative z-20">
+        <div class="max-w-3xl space-y-8">
+          <div class="inline-flex items-center gap-2 bg-white border border-slate-200 px-3 py-1.5 rounded-sm shadow-sm">
+            <span class="text-slate-600 font-bold text-[10px] uppercase tracking-[0.2em] flex items-center gap-2">
+              <!-- Factory icon -->
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2Z"/><path d="M17 18h1"/><path d="M12 18h1"/><path d="M7 18h1"/></svg>
+              B2B Manufacturing Partner
+            </span>
+          </div>
+
+          <h1 class="text-4xl md:text-6xl font-sans font-bold text-slate-900 tracking-tight leading-[1.1]">
+            Custom Chemical <br />
+            <span class="text-orange-600">Manufacturing</span>
+          </h1>
+
+          <p class="text-lg text-slate-600 leading-relaxed max-w-2xl font-medium">
+            ISO-certified production facilities in Milan, Italy. We offer custom formulations, toll manufacturing, and white-labeling with full batch documentation and guaranteed quality.
+          </p>
+
+          <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 pt-8 border-t border-slate-200">
+            <div class="space-y-1">
+              <div class="text-2xl font-bold text-slate-900">100%</div>
+              <div class="text-[10px] text-slate-500 uppercase font-bold tracking-widest">Traceability</div>
+            </div>
+            <div class="space-y-1">
+              <div class="text-2xl font-bold text-slate-900">NDA</div>
+              <div class="text-[10px] text-slate-500 uppercase font-bold tracking-widest">Secured</div>
+            </div>
+            <div class="space-y-1">
+              <div class="text-2xl font-bold text-slate-900">ISO 9001</div>
+              <div class="text-[10px] text-slate-500 uppercase font-bold tracking-widest">Certified</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust Bar -->
+    <div class="bg-white border-b border-slate-200 py-4">
+      <div class="max-w-7xl mx-auto px-4 lg:px-8 flex flex-wrap justify-between md:justify-center gap-x-8 gap-y-4 text-[11px] font-bold text-slate-500 uppercase tracking-widest">
+        <span class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
+          ISO 9001:2015
+        </span>
+        <span class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+          REACH COMPLIANT
+        </span>
+        <span class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>
+          COA PER BATCH
+        </span>
+        <span class="flex items-center gap-2">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          STRICT NDA
+        </span>
+      </div>
+    </div>
+
+    <!-- NDA & Supply Agreement Cards -->
+    <section class="py-20">
+      <div class="max-w-7xl mx-auto px-4 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div class="bg-white p-10 lg:p-12 rounded-sm border border-slate-200 shadow-sm relative overflow-hidden group">
+          <div class="absolute top-0 right-0 p-8 opacity-5 group-hover:opacity-10 transition-opacity">
+            <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24" fill="none" stroke="#0f172a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+          </div>
+          <div class="relative z-10 space-y-6">
+            <div class="w-12 h-12 bg-slate-100 rounded-sm flex items-center justify-center text-slate-700 border border-slate-200">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+            </div>
+            <h3 class="text-2xl font-bold text-slate-900 tracking-tight">Confidential B2B Projects</h3>
+            <p class="text-[15px] text-slate-600 leading-relaxed font-medium">
+              We work under strict NDA for custom formulation, toll manufacturing, and white-label projects. Your Intellectual Property is comprehensively protected at every stage of development.
+            </p>
+            <a href="/contact" class="inline-flex items-center gap-2 bg-slate-900 text-white px-6 py-3 rounded-sm font-semibold text-[13px] hover:bg-slate-800 transition-colors uppercase tracking-widest mt-2">
+              Request NDA
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+
+        <div class="bg-orange-50 p-10 lg:p-12 rounded-sm border border-orange-200/50 shadow-sm relative overflow-hidden group">
+          <div class="absolute top-0 right-0 p-8 opacity-5 group-hover:opacity-10 transition-opacity">
+            <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 24 24" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="M12 11h4"/><path d="M12 16h4"/><path d="M8 11h.01"/><path d="M8 16h.01"/></svg>
+          </div>
+          <div class="relative z-10 space-y-6">
+            <div class="w-12 h-12 bg-white rounded-sm flex items-center justify-center text-orange-600 border border-orange-200">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"/><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/><path d="M12 11h4"/><path d="M12 16h4"/><path d="M8 11h.01"/><path d="M8 16h.01"/></svg>
+            </div>
+            <h3 class="text-2xl font-bold text-slate-900 tracking-tight">Long-Term Supply Agreements</h3>
+            <p class="text-[15px] text-slate-600 leading-relaxed font-medium">
+              Framework contracts offering fixed pricing, guaranteed manufacturing capacity, priority scheduling, and annual volume planning for approved buyers and partners.
+            </p>
+            <a href="/contact" class="inline-flex items-center gap-2 bg-orange-600 text-white px-6 py-3 rounded-sm font-semibold text-[13px] hover:bg-orange-700 transition-colors uppercase tracking-widest mt-2">
+              Discuss a Contract
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Process Timeline -->
+    <section class="py-20 bg-slate-50 border-t border-slate-200">
+      <div class="max-w-7xl mx-auto px-4 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+          <h2 class="text-[10px] font-bold text-orange-600 uppercase tracking-[0.25em]">Our Process</h2>
+          <h3 class="text-3xl md:text-4xl font-sans font-bold text-slate-900 tracking-tight">From Inquiry to Delivery</h3>
+        </div>
+
+        <div class="relative space-y-12 before:absolute before:left-8 lg:before:left-1/2 before:top-0 before:bottom-0 before:w-px before:bg-slate-300 lg:before:-translate-x-1/2">
+          <!-- Step 01 -->
+          <div class="relative flex flex-col lg:flex-row-reverse items-center gap-8 lg:gap-16">
+            <div class="absolute left-8 lg:left-1/2 -translate-x-1/2 w-12 h-12 bg-white border border-slate-200 rounded-sm flex items-center justify-center z-10 shadow-sm text-slate-900 font-bold">01</div>
+            <div class="w-full lg:w-1/2 pl-20 lg:pl-0">
+              <div class="bg-white p-8 rounded-sm border border-slate-200 shadow-sm hover:border-orange-500 transition-colors group">
+                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-5">
+                  <h4 class="text-lg font-bold text-slate-900 tracking-tight">Inquiry & Technical Assessment</h4>
+                  <span class="text-[10px] font-bold text-orange-600 uppercase tracking-widest bg-orange-50 border border-orange-100 px-2 py-1 rounded-sm shrink-0 whitespace-nowrap">24h response</span>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">RFQ form</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">NDA execution</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Grade specification</span>
+                </div>
+              </div>
+            </div>
+            <div class="hidden lg:block w-1/2"></div>
+          </div>
+
+          <!-- Step 02 -->
+          <div class="relative flex flex-col lg:flex-row items-center gap-8 lg:gap-16">
+            <div class="absolute left-8 lg:left-1/2 -translate-x-1/2 w-12 h-12 bg-white border border-slate-200 rounded-sm flex items-center justify-center z-10 shadow-sm text-slate-900 font-bold">02</div>
+            <div class="w-full lg:w-1/2 pl-20 lg:pl-0">
+              <div class="bg-white p-8 rounded-sm border border-slate-200 shadow-sm hover:border-orange-500 transition-colors group">
+                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-5">
+                  <h4 class="text-lg font-bold text-slate-900 tracking-tight">Quotation & Supply Terms</h4>
+                  <span class="text-[10px] font-bold text-orange-600 uppercase tracking-widest bg-orange-50 border border-orange-100 px-2 py-1 rounded-sm shrink-0 whitespace-nowrap">Pricing strategy</span>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">EXW · DAP · CIF</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Net 30/60</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Volume tiers</span>
+                </div>
+              </div>
+            </div>
+            <div class="hidden lg:block w-1/2"></div>
+          </div>
+
+          <!-- Step 03 -->
+          <div class="relative flex flex-col lg:flex-row-reverse items-center gap-8 lg:gap-16">
+            <div class="absolute left-8 lg:left-1/2 -translate-x-1/2 w-12 h-12 bg-white border border-slate-200 rounded-sm flex items-center justify-center z-10 shadow-sm text-slate-900 font-bold">03</div>
+            <div class="w-full lg:w-1/2 pl-20 lg:pl-0">
+              <div class="bg-white p-8 rounded-sm border border-slate-200 shadow-sm hover:border-orange-500 transition-colors group">
+                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-5">
+                  <h4 class="text-lg font-bold text-slate-900 tracking-tight">Production, QC & Documentation</h4>
+                  <span class="text-[10px] font-bold text-orange-600 uppercase tracking-widest bg-orange-50 border border-orange-100 px-2 py-1 rounded-sm shrink-0 whitespace-nowrap">Full compliance</span>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">CoA per batch</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">ISO/GMP records</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Traceability</span>
+                </div>
+              </div>
+            </div>
+            <div class="hidden lg:block w-1/2"></div>
+          </div>
+
+          <!-- Step 04 -->
+          <div class="relative flex flex-col lg:flex-row items-center gap-8 lg:gap-16">
+            <div class="absolute left-8 lg:left-1/2 -translate-x-1/2 w-12 h-12 bg-white border border-slate-200 rounded-sm flex items-center justify-center z-10 shadow-sm text-slate-900 font-bold">04</div>
+            <div class="w-full lg:w-1/2 pl-20 lg:pl-0">
+              <div class="bg-white p-8 rounded-sm border border-slate-200 shadow-sm hover:border-orange-500 transition-colors group">
+                <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-5">
+                  <h4 class="text-lg font-bold text-slate-900 tracking-tight">Packaging, Dispatch & Logistics</h4>
+                  <span class="text-[10px] font-bold text-orange-600 uppercase tracking-widest bg-orange-50 border border-orange-100 px-2 py-1 rounded-sm shrink-0 whitespace-nowrap">Global shipping</span>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Custom labelling</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">White-label</span>
+                  <span class="text-[10px] font-semibold text-slate-500 uppercase tracking-widest border border-slate-200 px-2 py-1 rounded-sm bg-slate-50">Reorder scheduling</span>
+                </div>
+              </div>
+            </div>
+            <div class="hidden lg:block w-1/2"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quality Docs Grid -->
+    <section class="py-20 bg-white border-t border-slate-200">
+      <div class="max-w-7xl mx-auto px-4 lg:px-8">
+        <div class="text-center max-w-3xl mx-auto mb-16 space-y-4">
+          <h2 class="text-[10px] font-bold text-orange-600 uppercase tracking-[0.25em]">Documentation</h2>
+          <h3 class="text-3xl md:text-4xl font-sans font-bold text-slate-900 tracking-tight">Full Batch Transparency</h3>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Certificate of Analysis -->
+          <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 hover:border-orange-500 hover:shadow-sm transition-all group">
+            <div class="w-12 h-12 bg-white rounded-sm flex items-center justify-center text-orange-600 border border-slate-200 mb-6 group-hover:bg-orange-600 group-hover:text-white group-hover:border-orange-600 transition-colors">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>
+            </div>
+            <h5 class="text-[17px] font-bold text-slate-900 mb-3 tracking-tight">Certificate of Analysis</h5>
+            <p class="text-[14px] text-slate-600 leading-relaxed font-medium">CoA provided per batch, signed by Quality Control and shared via secure portal.</p>
+          </div>
+
+          <!-- Certificate of Conformity -->
+          <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 hover:border-orange-500 hover:shadow-sm transition-all group">
+            <div class="w-12 h-12 bg-white rounded-sm flex items-center justify-center text-orange-600 border border-slate-200 mb-6 group-hover:bg-orange-600 group-hover:text-white group-hover:border-orange-600 transition-colors">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><path d="m9 11 3 3L22 4"/></svg>
+            </div>
+            <h5 class="text-[17px] font-bold text-slate-900 mb-3 tracking-tight">Certificate of Conformity</h5>
+            <p class="text-[14px] text-slate-600 leading-relaxed font-medium">CoC confirming specification strict compliance for every single shipment.</p>
+          </div>
+
+          <!-- REACH Dossier -->
+          <div class="bg-slate-50 p-8 rounded-sm border border-slate-200 hover:border-orange-500 hover:shadow-sm transition-all group">
+            <div class="w-12 h-12 bg-white rounded-sm flex items-center justify-center text-orange-600 border border-slate-200 mb-6 group-hover:bg-orange-600 group-hover:text-white group-hover:border-orange-600 transition-colors">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+            </div>
+            <h5 class="text-[17px] font-bold text-slate-900 mb-3 tracking-tight">REACH Dossier</h5>
+            <p class="text-[14px] text-slate-600 leading-relaxed font-medium">Registration numbers and exposure scenarios for all relevant chemical substances.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</BaseLayout>

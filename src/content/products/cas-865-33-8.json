@@ -1,0 +1,61 @@
+{
+  "id": "1292",
+  "name": "Potassium methoxide",
+  "slug": "cas-865-33-8",
+  "cas": "865-33-8",
+  "ec": "212-736-1",
+  "formula": "CH4O.K",
+  "mw": "70.132 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Potassium methoxide (CAS 865-33-8 ), also sold as potassium methylate or potassium methanolate, is a strong alkoxide base used primarily as a catalyst and reagent in industrial chemical synthesis. Its high reactivity in non-aqueous systems makes it a preferred choice over milder bases in processes requiring fast, selective reactions. In pharmaceutical manufacturing, it drives condensation and cyclization. These reactions are used to produce active pharmaceutical ingredients and intermediates. Biodiesel producers rely on it as a transesterification catalyst, converting triglycerides into fatty acid methyl esters. In agrochemical synthesis, it supports the production of herbicides and pesticides where controlled base-catalyzed reactions are required. Polymer chemists use it to initiate anionic polymerization. It also catalyzes the production of specialty polyesters and polyethers. Potassium methoxide is supplied as a solution in methanol, with concentrations typically ranging from 25% to 32%. It is also available as a dry powder or free-flowing solid for applications where solvent-free handling is required. Standard technical and industrial grades are available for various uses. Pharmaceutical-grade material is supplied to meet GMP requirements. Packaging options range from drums to IBC totes, reflecting demand from both batch processors and continuous production facilities. Contact us for supply of Potassium methoxide Request Quote",
+  "physicalProperties": "Melting Point: -20°C; Boiling Point: 84°C; Density: 0.950 g/cm³; Flash Point: 7°C; Appearance: solid; Color: Clear colorless; Form: Liquid; Water Solubility: may decompose; Vapor Pressure: 0Pa at 25℃; Refractive Index: n 20/D 1.37; pH: 12.8 (7g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H228 H228 H251 H251 H302 H302 H314 H314 H318 H318 Precautionary Statements P210 P210 P235 P235 P240 P240 P241 P241 P260 P260 P264 P264 P270 P270 P280 P280 P316 P316 P317 P317 P321 P321 P330 P330 P363 P363 P405 P405 P407 P407 P410 P410 P413 P413 P420 P420 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P304+P340 P304+P340 P370+P378 P370+P378 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 3274; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "potassium methanolate | Potassium methylate | Methanol, potassium salt | 45MYQ0GWGB | Methanol, potassium salt (1:1) | Methoxy potassium | RefChem:867893 | Feldalat KM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-124-41-4",
+    "cas-865-47-4",
+    "cas-141-52-6",
+    "cas-3164-85-0",
+    "cas-1310-58-3",
+    "cas-31795-24-1",
+    "cas-7440-09-7",
+    "cas-127-95-7",
+    "cas-13769-43-2",
+    "cas-143-18-0",
+    "cas-13446-49-6",
+    "cas-5188-07-8",
+    "cas-96-29-7",
+    "cas-865-48-5",
+    "cas-127-95-7",
+    "cas-13769-43-2",
+    "cas-143-18-0",
+    "cas-13446-49-6",
+    "cas-5188-07-8",
+    "cas-96-29-7",
+    "cas-865-48-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-865-33-8/"
+}

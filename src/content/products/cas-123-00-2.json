@@ -1,0 +1,61 @@
+{
+  "id": "757",
+  "name": "3-Morpholinopropylamine",
+  "slug": "cas-123-00-2",
+  "cas": "123-00-2",
+  "ec": "204-590-2",
+  "formula": "C7H16N2O",
+  "mw": "144.21 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Morpholinopropylamine (CAS 123-00-2 ), commonly abbreviated as AMPD, is a bifunctional amine combining a primary amine and a morpholine ring in a single molecule. This dual-functional structure makes it effective as a curing agent and catalyst. It serves as a reactive intermediate across multiple industrial sectors. In epoxy coatings and adhesives, AMPD acts as a curing agent and crosslinker, contributing to adhesion performance and chemical resistance in protective formulations. Pharmaceutical manufacturers use it as a building block for active ingredients and intermediates. The morpholine moiety is a recognized pharmacophore in drug design, making it a valuable component for specialized synthesis projects. In water treatment, it functions as a biocidal agent and corrosion inhibitor additive. It is specifically used for targeting microbial growth in industrial cooling and process water systems to maintain operational efficiency. Polyurethane and polymer formulators employ it as a reactive catalyst or chain extender. This application allows manufacturers to influence cure rates and final mechanical properties in a variety of industrial polymer systems. 3-Morpholinopropylamine is supplied as a liquid at standard commercial purities, typically 98% and above. Technical and reagent grades are the most commonly available for standard industrial and laboratory use. Pharmaceutical-grade material is also accessible for API and intermediate applications. Packaging ranges from drums to IBC containers depending on volume requirements and specific logistical needs of the customer. Contact us for supply of 3-Morpholinopropylamine Request Quote",
+  "physicalProperties": "Melting Point: -15 °C; Boiling Point: 101-102 °C @ Press: 12 Torr; Density: 0.9991 g/cm³; Flash Point: 210 °F; Appearance: Clear liquid; Color: Colorless to Almost colorless; Form: Liquid; Water Solubility: Soluble; Vapor Pressure: 11.5Pa at 20℃; Refractive Index: n 20/D 1.4761(lit.); pH: 12 (H2O, 20℃); Log P: -1.076 at 20℃ and pH10.81-11.03",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 2735; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "4-(3-aminopropyl)morpholine | 3-morpholin-4-ylpropan-1-amine | n-(3-aminopropyl)morpholine | AMPD",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-115-69-5",
+    "cas-105-83-9",
+    "cas-5332-73-0",
+    "cas-124-68-5",
+    "cas-6291-84-5",
+    "cas-10563-29-8",
+    "cas-7005-47-2",
+    "cas-109-55-7",
+    "cas-16728-59-9",
+    "cas-9046-10-0",
+    "cas-102-83-0",
+    "cas-67151-63-7",
+    "cas-63469-23-8",
+    "cas-115-70-8",
+    "cas-109-55-7",
+    "cas-16728-59-9",
+    "cas-9046-10-0",
+    "cas-102-83-0",
+    "cas-67151-63-7",
+    "cas-63469-23-8",
+    "cas-115-70-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-123-00-2/"
+}

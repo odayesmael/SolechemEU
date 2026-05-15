@@ -1,0 +1,63 @@
+{
+  "id": "1532",
+  "name": "4,4'-methylenebis(cyclohexylamine)",
+  "slug": "cas-1761-71-3",
+  "cas": "1761-71-3",
+  "ec": "217-168-8",
+  "formula": "C13H26N2",
+  "mw": "210.36 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Automotive",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4,4'-Methylenebis(cyclohexylamine) (CAS 1761-71-3 ), commercially known as PACM , is a cycloaliphatic diamine used as a curing agent and crosslinker in high-performance polymer systems. It delivers cured networks with strong mechanical properties and good UV stability, making it a preferred choice over aromatic alternatives in applications where color retention matters. In epoxy coatings, PACM cures systems intended for automotive topcoats, industrial flooring, and marine finishes where yellowing resistance is critical for long-term performance. Adhesive and sealant formulators use it to achieve flexible yet durable bonds in structural assemblies exposed to thermal cycling and harsh environmental conditions. As a monomer building block, it is reacted with diacids or diisocyanates to produce polyamide and polyurea materials with elevated glass transition temperatures and chemical resistance. In engineering plastics, PACM-based polyamides are processed into transparent or translucent components requiring both toughness and optical clarity for specialized industrial use. 4,4'-Methylenebis(cyclohexylamine) is supplied as a low-viscosity liquid at ambient temperature. It is available in technical and high-purity grades to meet various requirements. Standard packaging includes drums and IBC containers, with bulk supply available for high-volume procurement. This material supports both industrial coating and specialty polymer synthesis. Contact us for supply of 4,4'-methylenebis(cyclohexylamine) Request Quote",
+  "physicalProperties": "Melting Point: 39.6 °C; Boiling Point: 127-133 °C @ Press: 0.3-0.6 Torr; Density: 0.9380 g/cm³ @ Temp: 60 °C; Flash Point: >230 °F; Color: White or Colorless to Almost white or Almost colorless; Odor: Ammonia odor; Form: powder to lump to clear liquid; Water Solubility: Insoluble (<0.1 g/100 mL); Vapor Pressure: <0.1 mm Hg ( 38 °C); Refractive Index: 1.5032 (estimate); Log P: 2.03 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29213000; UN Number: 2928; ADR Class: 6.1; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "4,4'-methylenebiscyclohexanamin | 4,4-diaminodicyclohexylmethane | 4,4'-Methylenedicyclohexanamine | Bis(4-aminocyclohexyl)methane | Wandamin HM | Cyclohexanamine, 4,4'-methylenebis- | Bis(p-aminocyclohexyl)methane | PACM 20 | PACM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29213000",
+  "similarProducts": [
+    "cas-105-83-9",
+    "cas-6864-37-5",
+    "cas-68889-71-4",
+    "cas-101-77-9",
+    "cas-98-94-2",
+    "cas-67151-63-7",
+    "cas-143-23-7",
+    "cas-123-00-2",
+    "cas-6711-48-4",
+    "cas-111-18-2",
+    "cas-25513-64-8",
+    "cas-3855-32-1",
+    "cas-104-19-8",
+    "cas-106-58-1",
+    "cas-123-00-2",
+    "cas-6711-48-4",
+    "cas-111-18-2",
+    "cas-25513-64-8",
+    "cas-3855-32-1",
+    "cas-104-19-8",
+    "cas-106-58-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1761-71-3/"
+}

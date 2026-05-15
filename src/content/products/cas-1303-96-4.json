@@ -1,0 +1,70 @@
+{
+  "id": "1396",
+  "name": "Borax",
+  "slug": "cas-1303-96-4",
+  "cas": "1303-96-4",
+  "ec": "215-540-4",
+  "formula": "B4Na2O7.10H2O",
+  "mw": "381.4 g/mol",
+  "category": "Chelating Agents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Lubricants & Metalworking",
+    "Electronics",
+    "Printing & Packaging",
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Mining & Metals",
+    "Building & Construction",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Borax (CAS 1303-96-4 ), also marketed as E285 in food contact and preservation applications, is an inorganic sodium borate salt used across industrial and consumer formulations. It serves as a pH buffer, corrosion inhibitor, and multifunctional processing aid. Its buffering capacity and biocidal activity make it a practical choice for formulators working across cleaning and surface treatment. In metalworking and industrial lubricants, it functions as a corrosion inhibitor and anti-wear additive in cutting fluids. Coatings and adhesive manufacturers incorporate it as a crosslinking agent for polyvinyl alcohol-based systems. This directly influences gel strength and cure behavior in various industrial applications. Textile and leather processors use it as a flame retardant treatment and pH regulator during fiber preparation and tanning. In personal care and cleaning formulations, it acts as a buffering agent and mild preservative booster. This supports product stability across a range of pH-sensitive systems and enhances overall formulation shelf life. The material is supplied as a white crystalline powder or granules, with size varying by requirement. Standard commercial grades include technical grade and food-grade specifications for preservation and contact uses. Pharmaceutical-grade material meeting USP or BP standards is available for healthcare and cosmetic formulation use. These high-purity options ensure compliance with strict regulatory and safety requirements. Contact us for supply of Borax Request Quote",
+  "physicalProperties": "Melting Point: 75 °C; Boiling Point: 320 °C; Density: 1.73 g/cm³; Appearance: Borax is a noncombustible (an inherent fire retardant), bluish-gray or green, odorless crystalline powder or granules.; Color: White, gray, bluish or greenish white; Odor: Odorless; Form: Powder/Solid; Water Solubility: 60 g/L (20 ºC); Vapor Pressure: 0.213 hPa (20 °C); pH: 9.15-9.20 (25℃, 0.01M in solution)",
+  "safetyHandling": "Danger GHS08 GHS07 Hazard Statements H303 May be harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28401990; UN Number: 1458; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 1",
+  "otherNames": "sodium borate decahydrate (formerly) | borax hydrate | borax decahydrate (formerly) | Na2[B4O5(OH)4].8H2O | disodium tetraborate octahydrate | sodium borate decahydrate | Na2B4O710H2O | E285",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "28401990",
+  "similarProducts": [
+    "cas-1330-43-4",
+    "cas-10043-35-3",
+    "cas-1332-77-0",
+    "cas-12179-04-3",
+    "cas-7775-19-1",
+    "cas-10555-76-7",
+    "cas-1332-07-6",
+    "cas-68003-13-4",
+    "cas-26038-87-9",
+    "cas-144-55-8",
+    "cas-7632-04-4",
+    "cas-10377-81-8",
+    "cas-7789-38-0",
+    "cas-10332-33-9",
+    "cas-68003-13-4",
+    "cas-26038-87-9",
+    "cas-144-55-8",
+    "cas-7632-04-4",
+    "cas-10377-81-8",
+    "cas-7789-38-0",
+    "cas-10332-33-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1303-96-4/"
+}

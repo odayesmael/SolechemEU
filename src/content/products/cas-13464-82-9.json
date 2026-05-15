@@ -1,0 +1,58 @@
+{
+  "id": "2704",
+  "name": "Indium sulfate",
+  "slug": "cas-13464-82-9",
+  "cas": "13464-82-9",
+  "ec": "236-689-1",
+  "formula": "H2O4S.2/3In",
+  "mw": "517.8 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Indium sulfate (CAS 13464-82-9 ) is an inorganic indium salt used as a source compound in electronics manufacturing and catalytic processes. Diindium trisulfate is the stoichiometrically precise form most referenced in technical procurement contexts. It provides a soluble, processable form of indium for applications where controlled deposition or chemical conversion of the metal is required. In electronics, it functions as a precursor for indium-containing thin films. Transparent conductive oxide layers, including indium tin oxide (ITO) coatings used in displays and photovoltaic devices, rely on this compound. Electroplating and electrodeposition processes use it to deposit indium metal onto substrates. These processes create corrosion-resistant or low-friction surface finishes for various industrial components. In catalysis research and specialty chemical synthesis, it acts as a Lewis acid catalyst for organic transformations. Common applications include Friedel-Crafts-type reactions and ring-opening processes. Pharmaceutical and fine chemical manufacturers use it as a starting material for producing other indium compounds with defined purity profiles. Indium sulfate is supplied as a crystalline powder or solid. It is available in research-grade and technical-grade specifications, with high-purity grades offered for electronics and catalyst applications. Standard high-purity grades are typically 99%+ or 99.99% metals basis. Packaging ranges from small laboratory quantities to kilogram-scale industrial lots depending on the specific requirements of the supplier. Contact us for supply of Indium sulfate Request Quote",
+  "physicalProperties": "Melting Point: 600°C; Density: 3.438; Appearance: Grayish powder. Deliquescent. Soluble in water. Decomposed by heat.; Color: Pale gray; Form: Solid; Water Solubility: Soluble in water.",
+  "safetyHandling": "Warning GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2833 29 80; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "Indium(III) sulfate | Diindium trisulfate | Indium trisulfate | Indium(3+) sulfate | Indium sequisulfate | Indisulfat [German] | Sulfuric acid, indium salt | Indium sulfate (VAN)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "2833 29 80",
+  "similarProducts": [
+    "cas-7488-55-3",
+    "cas-14808-79-8",
+    "cas-10294-26-5",
+    "cas-10377-48-7",
+    "cas-10124-43-3",
+    "cas-7733-02-0",
+    "cas-7786-81-4",
+    "cas-7757-82-6",
+    "cas-10028-22-5",
+    "cas-7785-87-7",
+    "cas-7783-20-2",
+    "cas-54253-62-2",
+    "cas-7758-98-7",
+    "cas-7720-78-7",
+    "cas-7757-82-6",
+    "cas-10028-22-5",
+    "cas-7785-87-7",
+    "cas-7783-20-2",
+    "cas-54253-62-2",
+    "cas-7758-98-7",
+    "cas-7720-78-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13464-82-9/"
+}

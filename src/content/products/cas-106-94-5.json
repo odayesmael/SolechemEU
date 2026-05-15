@@ -1,0 +1,61 @@
+{
+  "id": "486",
+  "name": "1-bromopropane",
+  "slug": "cas-106-94-5",
+  "cas": "106-94-5",
+  "ec": "203-445-0",
+  "formula": "C3H7Br",
+  "mw": "122.99 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Bromopropane (CAS 106-94-5 ), commercially known as n-propyl bromide or nPB, is a short-chain alkyl halide used primarily as an industrial solvent and chemical intermediate. It gained traction as a cleaning and degreasing solvent following restrictions on ozone-depleting alternatives, and serves as a key building block in pharmaceutical and polymer synthesis. In pharmaceutical manufacturing, nPB functions as a reaction solvent and alkylating agent for producing active pharmaceutical ingredients and specialty intermediates for various applications. Precision cleaning applications, including electronics defluxing, metal degreasing, and aerospace component cleaning, rely on its solvency for oils, greases, and flux residues. In polymer chemistry, it acts as a catalyst precursor and chain-transfer agent in controlled polymerization processes to ensure high quality and consistent chemical performance. Flame retardant formulations also incorporate 1-bromopropane as a reactive intermediate in the synthesis of brominated compounds used across several industrial manufacturing sectors. 1-Bromopropane is supplied as a clear liquid in drums, IBCs, and bulk quantities. Technical and high-purity grades are available, with purity levels typically ranging from 99% to 99.9%+. Stabilized formulations are standard for solvent-use grades to prevent degradation during storage and transport, meeting rigorous industrial and chemical manufacturing requirements. Contact us for supply of 1-bromopropane Request Quote",
+  "physicalProperties": "Melting Point: -110 °C; Boiling Point: 71 °C @ Press: 760 Torr; Density: 1.353 g/cm³ @ Temp: 20 °C; Flash Point: 72 °F; Appearance: colourless liquid; Color: Colorless to Almost colorless; Form: clear liquid; Water Solubility: 2.5 g/L (20 ºC); Vapor Pressure: 146 mm Hg ( 20 °C); Refractive Index: n 20/D 1.434(lit.); Log P: 2.1",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033036; UN Number: 2344; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "n-propyl bromide | Propyl bromide | Propane, 1-bromo- | Leksol | nPB",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29033036",
+  "similarProducts": [
+    "cas-75-26-3",
+    "cas-109-70-6",
+    "cas-5131-66-8",
+    "cas-111-25-1",
+    "cas-71-23-8",
+    "cas-109-65-9",
+    "cas-1569-01-3",
+    "cas-38521-51-6",
+    "cas-2311-14-0",
+    "cas-96-18-4",
+    "cas-10215-33-5",
+    "cas-74-96-4",
+    "cas-112-82-3",
+    "cas-1941-30-6",
+    "cas-38521-51-6",
+    "cas-2311-14-0",
+    "cas-96-18-4",
+    "cas-10215-33-5",
+    "cas-74-96-4",
+    "cas-112-82-3",
+    "cas-1941-30-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-94-5/"
+}

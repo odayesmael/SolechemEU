@@ -1,0 +1,62 @@
+{
+  "id": "1466",
+  "name": "Sodium bifluoride",
+  "slug": "cas-1333-83-1",
+  "cas": "1333-83-1",
+  "ec": "215-608-3",
+  "formula": "F2H.Na",
+  "mw": "61.9946 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Building & Construction",
+    "Mining & Metals",
+    "Textile, Leather & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium bifluoride ( CAS 1333-83-1 ), also sold as sodium acid fluoride, is an inorganic fluoride salt used industrially as a pH buffer, mild acidic flux, and surface treatment agent. Its controlled fluoride release makes it effective for etching, cleaning, and corrosion inhibition across metal, mineral, and textile processing operations. In metal finishing and mining, it functions as a pickling agent. The compound is essential for removing oxide scale and preparing metal surfaces prior to coating or further processing. Textile and leather processors use it to adjust bath pH and improve dye uptake uniformity. During fabric treatment, it ensures consistency across batches. In building and construction, it is applied to concrete and masonry surfaces as a hardening and anti-efflorescence treatment for long-term durability. Water treatment operations use it as a source of fluoride ions for controlled dosing and pH correction in industrial effluent streams. This versatility makes it a staple in chemical manufacturing and environmental management. The product is supplied as a white crystalline powder or granules. Technical grade is the standard commercial form, with purity levels typically at 98% or higher to meet rigorous industrial specifications. Packaging ranges from small bags to bulk quantities, suited to both laboratory-scale and large industrial procurement requirements. We ensure consistent quality and reliable supply chains for all global shipping needs. Contact us for supply of Sodium bifluoride Request Quote",
+  "physicalProperties": "Melting Point: >68 °C (dec.); Boiling Point: 270°C[at 101 325 Pa]; Density: 2.08 g/cm³; Appearance: White, crystalline powder.Sol- uble in water; decomposes on heating.; Color: white hexagonal, hexane crystals, crystalline; Form: pellets; Water Solubility: g/100g solution in H2O: 3.7 (20°C), 16.4 (80°C) [KIR78]; Vapor Pressure: 0.01Pa at 20℃; Log P: 1.26 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS08 Hazard Statements H301 Toxic if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2826199090; UN Number: 2439; ADR Class: 8; Packing Group: II; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 1",
+  "otherNames": "SODIUM HYDROGEN DIFLUORIDE | Sodium acid fluoride | Sodium hydrogen fluoride | Caswell No. 747A | SODIUM DIFLUORIDE | Fluoruro acido de sodio | Sodium fluoride (Na(HF2))",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "2826199090",
+  "similarProducts": [
+    "cas-7681-49-4",
+    "cas-16893-85-9",
+    "cas-1341-49-7",
+    "cas-7681-38-1",
+    "cas-7631-97-2",
+    "cas-16919-19-0",
+    "cas-12125-01-8",
+    "cas-7783-49-5",
+    "cas-870-72-4",
+    "cas-16871-90-2",
+    "cas-144-55-8",
+    "cas-7775-19-1",
+    "cas-10555-76-7",
+    "cas-16961-83-4",
+    "cas-7783-49-5",
+    "cas-870-72-4",
+    "cas-16871-90-2",
+    "cas-144-55-8",
+    "cas-7775-19-1",
+    "cas-10555-76-7",
+    "cas-16961-83-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1333-83-1/"
+}

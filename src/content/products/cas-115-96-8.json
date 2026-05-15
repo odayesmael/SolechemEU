@@ -1,0 +1,64 @@
+{
+  "id": "694",
+  "name": "Tris(2-chloroethyl)phosphate",
+  "slug": "cas-115-96-8",
+  "cas": "115-96-8",
+  "ec": "204-118-5",
+  "formula": "C6H12Cl3O4P",
+  "mw": "285.5 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Building & Construction",
+    "Textile, Leather & Paper",
+    "Automotive",
+    "Aerospace & Defense",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tris(2-chloroethyl)phosphate (CAS 115-96-8 ), commonly abbreviated as TCEP, is a chlorinated organophosphate flame retardant used across a broad range of polymer and coating systems. It functions as both a reactive flame retardant and plasticizer, reducing flammability in finished materials while contributing to processing flexibility in various industrial manufacturing sectors. In rigid and flexible polyurethane foams, TCEP imparts flame retardancy to insulation panels, upholstery components, and construction boards where fire performance standards must be met. Coating formulators incorporate it into intumescent and protective coatings for metal, wood, and concrete substrates in building and construction applications for enhanced safety. Textile and nonwoven manufacturers apply TCEP-based treatments to technical fabrics used in automotive interiors and protective workwear requiring compliance with fire safety regulations. Adhesive and sealant producers use it in formulations where both flame retardancy and low-temperature flexibility are required, particularly in aerospace and defense assembly applications. TCEP is supplied as a clear to pale yellow liquid, typically in drum and IBC quantities for industrial buyers. It is available in technical grade for flame retardant applications. This specification is the standard for coatings, polymers, and textiles. Bulk tanker supply is available for large-volume procurement in high-capacity manufacturing environments. Contact us for supply of Tris(2-chloroethyl)phosphate Request Quote",
+  "physicalProperties": "Melting Point: -55 °C; Boiling Point: 330 °C @ Press: 800 Torr; Density: 1.425 g/cm³ @ Temp: 20 °C; Flash Point: 450 °F; Appearance: Clear, transparent liquid. Slightly water soluble. Combustible.; Color: Clear colorless; Form: Liquid; Water Solubility: 7 g/L (20 ºC); Vapor Pressure: <10 mm Hg ( 25 °C); Refractive Index: n 20/D 1.472(lit.); Log P: 1.7 at 20℃",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H316 Causes mild skin irritation H320 Causes eye irritation H336 May cause drowsiness or dizziness H340 May cause genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29199000; UN Number: 2810; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Tris(chloroethyl)phosphate | Tris(beta-chloroethyl) phosphate | Tris(2-chloroethyl) orthophosphate | Tri(2-chloroethyl) phosphate | Phosphoric acid, tris(2-chloroethyl)ester | Celluflex | Disflamoll TCA | Celluflex CEF | TCEP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29199000",
+  "similarProducts": [
+    "cas-13674-84-5",
+    "cas-13674-87-8",
+    "cas-78-40-0",
+    "cas-1244733-77-4",
+    "cas-78-51-3",
+    "cas-78-42-2",
+    "cas-115-86-6",
+    "cas-126-72-7",
+    "cas-1330-78-5",
+    "cas-117-08-8",
+    "cas-124-64-1",
+    "cas-79-01-6",
+    "cas-56803-37-3",
+    "cas-68937-40-6",
+    "cas-126-72-7",
+    "cas-1330-78-5",
+    "cas-117-08-8",
+    "cas-124-64-1",
+    "cas-79-01-6",
+    "cas-56803-37-3",
+    "cas-68937-40-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-115-96-8/"
+}

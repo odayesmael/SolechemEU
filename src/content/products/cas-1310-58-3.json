@@ -1,0 +1,66 @@
+{
+  "id": "1416",
+  "name": "Potassium hydroxide",
+  "slug": "cas-1310-58-3",
+  "cas": "1310-58-3",
+  "ec": "215-181-3",
+  "formula": "HKO",
+  "mw": "56.106 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Agriculture & Feed",
+    "Lubricants & Metalworking",
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Potassium hydroxide (CAS 1310-58-3 ), also known as potash lye and sold under the designation E525 in food applications, is a strong inorganic alkali used across industrial, agricultural, and food-grade processes. KOH functions primarily as a pH regulator, saponification agent, and chemical intermediate in manufacturing chains where sodium-based alternatives are unsuitable for the specific chemical reaction required. In soap and detergent manufacturing, KOH is the preferred alkali for producing soft and liquid soaps, where its potassium salt chemistry delivers the required texture and solubility profile for high-end products. Food processors use it as an approved acidity regulator in cocoa treatment, noodle production, and certain confectionery applications. Fertilizer producers rely on KOH as a potassium source in liquid nutrient formulations. In pulp and paper, it supports fiber processing and bleaching operations, while water treatment facilities use it to correct pH and prevent pipe corrosion in distribution systems to ensure safety and longevity. Potassium hydroxide is supplied as white flakes, pellets, or as a 45–50% aqueous solution. Standard grades include technical, food-grade ( FCC ), and pharmaceutical grades such as USP , BP , and Ph. Eur. These grades cover the full range of industrial and regulated applications. Bulk quantities are available in drums, IBCs, and tanker deliveries depending on the physical form and volume requirements selected. Contact us for supply of Potassium hydroxide Request Quote",
+  "physicalProperties": "Melting Point: 380 °C; Boiling Point: 1327 °C; Density: 2.044 g/cm³; Flash Point: 52 °F; Appearance: White, deliquescent pieces, lumps, sticks, pellets, or flakes having a crystalline fracture. Keep well stoppered, absorbs water and carbon dioxide from the air. Soluble in water, alcohol, glycerol; slightly soluble in ether.; Color: white; Odor: Odorless; Form: powder; Water Solubility: soluble; Vapor Pressure: 1 mm Hg ( 719 °C); Refractive Index: n 20/D 1.421; pH: 14 (56g/l, H2O, 20℃); Log P: -1.380 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS06 GHS08 Hazard Statements H290 May be corrosive to metals H301 Toxic if swallowed H302 Harmful if swallowed H304 May be fatal if swallowed and enters airways H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P331 Do NOT induce vomiting. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28152000; UN Number: 2924; ADR Class: 3; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "potassium hydrate | potash lye | KOH | E525 | caustic potash | lye | Potassium hydroxide (K(OH)) | Hydroxyde de potassium",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28152000",
+  "similarProducts": [
+    "cas-1310-73-2",
+    "cas-584-08-7",
+    "cas-7440-09-7",
+    "cas-298-14-6",
+    "cas-7447-40-7",
+    "cas-127-08-2",
+    "cas-1305-62-0",
+    "cas-61789-30-8",
+    "cas-996-31-6",
+    "cas-7778-80-5",
+    "cas-2624-31-9",
+    "cas-1336-21-6",
+    "cas-6381-79-9",
+    "cas-127-95-7",
+    "cas-61789-30-8",
+    "cas-996-31-6",
+    "cas-7778-80-5",
+    "cas-2624-31-9",
+    "cas-1336-21-6",
+    "cas-6381-79-9",
+    "cas-127-95-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1310-58-3/"
+}

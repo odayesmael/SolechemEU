@@ -1,0 +1,63 @@
+{
+  "id": "664",
+  "name": "1-Dodecanethiol",
+  "slug": "cas-112-55-0",
+  "cas": "112-55-0",
+  "ec": "203-984-1",
+  "formula": "C12H26S",
+  "mw": "202.40 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Dodecanethiol (CAS 112-55-0 ), commercially known as dodecyl mercaptan, is a long-chain aliphatic thiol used as a chain transfer agent, flavoring component, and chemical intermediate across multiple industries. Its primary industrial role is controlling polymer molecular weight during free-radical polymerization and providing sulfurous flavor notes at trace concentrations. In polymer manufacturing, it regulates chain length during production. This process is essential for synthetic rubbers, ABS resins, and styrene-butadiene latex, directly influencing the mechanical properties of the finished material. In food flavoring, it contributes characteristic roasted, meaty, and savory notes. These flavor compositions are effective at very low use levels. Personal care formulators incorporate it as a building block for sulfur-containing surfactants and conditioning agents used in various hair care products. Coatings and adhesive manufacturers also use it as a surface modifier and stabilizer to improve adhesion and extend shelf life of reactive formulations. It is supplied as a clear to pale yellow liquid in drum and IBC quantities. Technical grade is the standard commercial offering, suitable for polymer and industrial applications. Food-grade material meeting FCC specifications is available for flavor and fragrance end uses. Contact us for supply of 1-Dodecanethiol Request Quote",
+  "physicalProperties": "Melting Point: -7 °C; Boiling Point: 142-145 °C @ Press: 15 Torr; Density: 0.8450 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: clear liquid; Color: Clear; Odor: Stench; Form: Liquid; Water Solubility: IMMISCIBLE; Vapor Pressure: 0.002 hPa (20 °C); Refractive Index: n 20/D 1.459(lit.); Log P: 6.18",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 1208; ADR Class: 3; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "Dodecyl mercaptan | Dodecane-1-thiol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-111-88-6",
+    "cas-25103-58-6",
+    "cas-1322-35-6",
+    "cas-112-40-3",
+    "cas-112-30-1",
+    "cas-109-79-5",
+    "cas-75-66-1",
+    "cas-1731-79-9",
+    "cas-4536-30-5",
+    "cas-929-73-7",
+    "cas-29658-97-7",
+    "cas-124-22-1",
+    "cas-1119-86-4",
+    "cas-57124-87-5",
+    "cas-1731-79-9",
+    "cas-4536-30-5",
+    "cas-929-73-7",
+    "cas-29658-97-7",
+    "cas-124-22-1",
+    "cas-1119-86-4",
+    "cas-57124-87-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-55-0/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "98",
+  "name": "Benzoic acid",
+  "slug": "cas-65-85-0",
+  "cas": "65-85-0",
+  "ec": "200-618-2",
+  "formula": "C7H6O2",
+  "mw": "122.12 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzoic acid (CAS 65-85-0 ), also designated E210 in food and beverage applications, is a naturally occurring organic acid used commercially as a preservative and pH regulator. Its antimicrobial action against yeasts, moulds, and bacteria makes it a standard functional ingredient across food, personal care, and industrial formulations worldwide. In food and beverage production, E210 controls microbial growth in acidic products such as soft drinks, fruit juices, and condiments, where it is effective at low concentrations. Personal care formulators use it as a preservative and pH adjuster in rinse-off and leave-on products including shampoos, lotions, and liquid soaps for consumer safety. Coatings and resin manufacturers use benzoic acid as a chain-stopper and catalyst component in alkyd resin production, influencing molecular weight and drying performance. In pharmaceuticals, it functions as an intermediate in the synthesis of active ingredients and as a preservative in topical preparations for various medical applications. Benzoic acid is supplied as a white crystalline powder or flake. Commercially available grades include food-grade ( FCC ) and pharmaceutical-grade ( USP , BP , Ph.Eur. ). Technical-grade options are available for industrial applications. Packaging ranges from small drums to bulk quantities, supported by full compliance documentation for all sectors. Contact us for supply of Benzoic acid Request Quote",
+  "physicalProperties": "Melting Point: 122.4 °C; Boiling Point: 249.2 °C @ Press: 760 Torr; Density: 1.2659 g/cm³ @ Temp: 15 °C; Flash Point: 250 °F; Appearance: Benzoic acid is a white crystalline or flaky solid with a faint, pleasant odor.; Color: White to yellow-beige to orange; Odor: at 100.00 %. faint balsam urine; Form: Solid; Water Solubility: Slightly soluble. 0.34 g/100 mL; Vapor Pressure: 10 mm Hg ( 132 °C); Refractive Index: 1.504; pH: 2.5-3.5 (H2O, 20℃)(saturated solution); Log P: 1.870",
+  "safetyHandling": "Danger GHS05 GHS08 GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29163900; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "phenylcarboxylic acid | oracylic acid | E210 | diacylic acid | benzenemethonic acid | benzenemethanoic acid | benzeneformic acid | Dracylic acid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29163900",
+  "similarProducts": [
+    "cas-532-32-1",
+    "cas-582-25-2",
+    "cas-2090-05-3",
+    "cas-79-09-4",
+    "cas-110-44-1",
+    "cas-120-51-4",
+    "cas-64-19-7",
+    "cas-94-18-8",
+    "cas-1863-63-4",
+    "cas-77-92-9",
+    "cas-69-72-7",
+    "cas-10043-35-3",
+    "cas-136-60-7",
+    "cas-94-13-3",
+    "cas-94-18-8",
+    "cas-1863-63-4",
+    "cas-77-92-9",
+    "cas-69-72-7",
+    "cas-10043-35-3",
+    "cas-136-60-7",
+    "cas-94-13-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-65-85-0/"
+}

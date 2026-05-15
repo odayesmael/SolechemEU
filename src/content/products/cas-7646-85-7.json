@@ -1,0 +1,65 @@
+{
+  "id": "2058",
+  "name": "Zinc chloride",
+  "slug": "cas-7646-85-7",
+  "cas": "7646-85-7",
+  "ec": "231-592-0",
+  "formula": "Cl2Zn",
+  "mw": "136.3 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Zinc chloride (CAS 7646-85-7 ) is an inorganic salt used across industrial manufacturing as a flux agent, catalyst, and antimicrobial preservative. Its high solubility and reactivity with metal oxides make it a practical choice for processes requiring surface activation. In textile and paper manufacturing, these solutions are used to activate and mercerize fibers, improving dye uptake and dimensional stability in finished goods. It functions as a Lewis acid catalyst in organic synthesis, facilitating Friedel-Crafts alkylations. This chemical is essential in reactions where a strong electrophilic promoter is required. Water treatment operations use it as a coagulation aid and biocide to control microbial growth in industrial cooling systems and process water. In leather processing, it serves as a preservative and tanning auxiliary, helping to stabilize hides during intermediate processing stages. This versatility makes it a staple in heavy industrial applications and specialized chemical manufacturing. The product is supplied as anhydrous powder, granules, and concentrated aqueous solution, with solution concentrations typically ranging from 50% to 70% by weight. This variety allows for precise dosing in diverse manufacturing environments. Standard grades include technical, pharmaceutical ( USP / BP ), and reagent-grade material to meet the specifications of different end markets. These quality standards ensure the material is suitable for its intended industrial or medical use. Bulk quantities are available for industrial buyers, with smaller packaged formats supplied for laboratory and pharmaceutical procurement. We ensure consistent supply chains for all grades of this essential inorganic compound. Contact us for supply of Zinc chloride Request Quote",
+  "physicalProperties": "Melting Point: 290 °C; Boiling Point: 732 °C; Density: 2.907 g/cm³ @ Temp: 25 °C; Flash Point: 732°C; Appearance: White, granular, deliquescent crystals or crystalline powder. A 10% solution is acid to litmus. Soluble in water, alcohol, glycerol, and ether.; Color: white; Odor: wh. cubic cryst., odorless; Form: crystalline; Water Solubility: 432 g/100 mL (25 ºC); Vapor Pressure: 1 mm Hg ( 428 °C); pH: 5 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS08 GHS06 Hazard Statements H302 Harmful if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28273600; UN Number: 2924; ADR Class: 3; Packing Group: I; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "ZnCl₂ | ZnCl2 | zinc(II) chloride | butter of zinc | Zintrace",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "28273600",
+  "similarProducts": [
+    "cas-7440-66-6",
+    "cas-7783-49-5",
+    "cas-7699-45-8",
+    "cas-7733-02-0",
+    "cas-5970-45-6",
+    "cas-546-46-3",
+    "cas-547-68-2",
+    "cas-1344-67-8",
+    "cas-557-34-6",
+    "cas-7447-41-8",
+    "cas-3486-35-9",
+    "cas-7779-90-0",
+    "cas-10026-11-6",
+    "cas-7446-19-7",
+    "cas-1344-67-8",
+    "cas-557-34-6",
+    "cas-7447-41-8",
+    "cas-3486-35-9",
+    "cas-7779-90-0",
+    "cas-10026-11-6",
+    "cas-7446-19-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7646-85-7/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "484",
+  "name": "1,2-dibromoethane",
+  "slug": "cas-106-93-4",
+  "cas": "106-93-4",
+  "ec": "203-444-5",
+  "formula": "C2H4Br2",
+  "mw": "187.86 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,2-Dibromoethane (CAS 106-93-4 ), also known as EDB and ethylene bromide, is a brominated organic compound used industrially as a chemical intermediate and flame retardant precursor. Historically significant as a soil and grain fumigant, its agricultural use is now heavily restricted or banned in many jurisdictions, shifting commercial relevance toward polymer and specialty chemical manufacturing. In plastics and polymer systems, it functions as a reactive intermediate in the synthesis of flame retardant additives, contributing bromine content to formulations targeting fire performance standards. EDB serves as a key alkylating and brominating agent in the production of specialty organic compounds, including pharmaceutical and agrochemical intermediates for various industrial applications. In leaded fuel systems, it was historically compounded with lead scavengers to prevent engine deposit buildup, though this application is now obsolete in most global markets today. Residual demand exists in controlled laboratory and industrial synthesis where its reactivity profile supports specific halogenation reactions required for complex chemical manufacturing processes. 1,2-Dibromoethane is supplied as a liquid in drums or IBC containers. Technical grade is the standard commercial specification, with purity levels typically at 98% or higher. Procurement is subject to regulatory controls in many regions, and buyers should verify import and handling compliance before sourcing this material for their specific industrial needs. Contact us for supply of 1,2-dibromoethane Request Quote",
+  "physicalProperties": "Melting Point: 9.97 °C; Boiling Point: 131-132 °C; Density: 2.2 g/cm³; Flash Point: 132°C; Appearance: Ethylene dibromide is a colorless nonflammable liquid or solid (below 10℃). Sweet, chloroform-like odor. The minimum concentration detectable by odor is 10 ppm; Color: Clear colorless to pale yellow; Odor: Mild, sweet odor detectable at 10 ppm; Form: Liquid; Water Solubility: 4 g/L (20 ºC); Vapor Pressure: 11.7 mm Hg ( 25 °C); Refractive Index: n 20/D 1.539(lit.)",
+  "safetyHandling": "Danger GHS06 GHS08 GHS09 GHS07 Hazard Statements H301 Toxic if swallowed H311 Toxic in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H350 May cause cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H301+H311+H331 Toxic if swallowed, in contact with skin or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29337100; UN Number: 1605; ADR Class: 6.1; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "sym-Dibromoethane | Glycol dibromide | Ethylene bromide | alpha,omega-dibromoethane | alpha,beta-dibromoethane | EDB | DBE | ethylene dibromide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29337100",
+  "similarProducts": [
+    "cas-74-96-4",
+    "cas-84852-53-9",
+    "cas-2311-14-0",
+    "cas-79-27-6",
+    "cas-100-41-4",
+    "cas-112-73-2",
+    "cas-112-34-5",
+    "cas-156-60-5",
+    "cas-3296-90-0",
+    "cas-107-15-3",
+    "cas-95481-62-2",
+    "cas-111-44-4",
+    "cas-183658-27-7",
+    "cas-1163-19-5",
+    "cas-156-60-5",
+    "cas-3296-90-0",
+    "cas-107-15-3",
+    "cas-95481-62-2",
+    "cas-111-44-4",
+    "cas-183658-27-7",
+    "cas-1163-19-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-93-4/"
+}

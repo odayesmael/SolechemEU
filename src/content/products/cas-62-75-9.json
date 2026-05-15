@@ -1,0 +1,61 @@
+{
+  "id": "83",
+  "name": "n-nitrosodimethylamine",
+  "slug": "cas-62-75-9",
+  "cas": "62-75-9",
+  "ec": "200-549-8",
+  "formula": "",
+  "mw": "74.08 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Nitrosodimethylamine (CAS 62-75-9 ), commonly abbreviated as NDMA, is a nitrosamine compound used as a reference standard and analytical reagent in pharmaceutical and life sciences research. Its primary commercial role is as a certified impurity standard for method development, validation, and quality control testing in drug manufacturing processes across the global industry. Pharmaceutical QA laboratories use NDMA as a reference standard to detect and quantify nitrosamine impurities in active pharmaceutical ingredients and finished drug products for safety compliance. This testing is performed in compliance with ICH M7 and regulatory guidance from FDA and EMA. Analytical method development teams rely on it to validate HPLC, GC-MS, and LC-MS/MS procedures. In biotechnology and life sciences research, it serves as a positive control in genotoxicity and mutagenicity assays, including Ames tests and various in vitro studies for safety profiles. Contract testing laboratories sourcing NDMA require certified reference materials with traceable purity documentation to meet rigorous regulatory submission standards and audit requirements. NDMA is supplied as a certified reference standard, typically as a neat liquid or in solution form at defined concentrations in appropriate solvents for laboratory applications. Material is available under strict regulatory frameworks, with certificates of analysis confirming purity. Supply is restricted to qualified pharmaceutical and research buyers with authorization. Contact us for supply of n-nitrosodimethylamine Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS06 GHS08 GHS09 GHS07 Hazard Statements H301 Toxic if swallowed [Danger Acute toxicity, oral] H330 Fatal if inhaled [Danger Acute toxicity, inhalation] H350 May cause cancer [Danger Carcinogenicity] H411 Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H227 Combustible liquid [Warning Flammable liquids] H300 Fatal if swallowed [Danger Acute toxicity, oral] H315 Causes skin irritation [Warning Skin corrosion/irritation] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H340 May cause genetic defects [Danger Germ cell mutagenicity] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H316 Causes mild skin irritation [Warning Skin corrosion/irritation] H320 Causes eye irritation [Warning Serious eye damage/eye irritation]",
+  "tradeRegulatory": "",
+  "otherNames": "N,N-dimethylnitrosamine | n-nitroso-n,n-dimethylamine | n-methyl-n-nitroso-methanamine | N -Nitrosodimethylamine, NDMA | DMNA | NDMA | N,N-dimethylnitrous amide | Methanamine, N-methyl-N-nitroso-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-121-69-7",
+    "cas-124-40-3",
+    "cas-2044-64-6",
+    "cas-103-83-3",
+    "cas-927-62-8",
+    "cas-75-52-5",
+    "cas-68-12-2",
+    "cas-86-30-6",
+    "cas-598-94-7",
+    "cas-76326-99-3",
+    "cas-127-19-5",
+    "cas-98-94-2",
+    "cas-108-01-0",
+    "cas-7378-99-6",
+    "cas-86-30-6",
+    "cas-598-94-7",
+    "cas-76326-99-3",
+    "cas-127-19-5",
+    "cas-98-94-2",
+    "cas-108-01-0",
+    "cas-7378-99-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-62-75-9/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "106",
+  "name": "Dimethyl sulfoxide",
+  "slug": "cas-67-68-5",
+  "cas": "67-68-5",
+  "ec": "200-664-3",
+  "formula": "C2H6OS",
+  "mw": "78.14 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethyl sulfoxide ( CAS 67-68-5 ), commonly known as DMSO, is a high-purity polar aprotic solvent used across pharmaceutical manufacturing, biotechnology, and food applications. It is also marketed under the trade name Syntexan in certain therapeutic and veterinary contexts. Its primary commercial value lies in its ability to dissolve a broad range of compounds. The solvent enhances membrane permeability, which is a critical factor in drug delivery and cell biology workflows. In pharmaceutical manufacturing, it functions as a reaction solvent and crystallization medium. Biotech and life sciences operations rely on it for cryopreservation of cell lines and as a carrier solvent in compound libraries. It is also approved as a flavoring agent ( FEMA 3875 ). In food and beverage formulations, it provides a mild, slightly sulfurous note. It also serves as a penetration enhancer in topical drug formulations, improving the transdermal delivery of active compounds. DMSO is supplied as a colorless liquid in bulk drums, IBCs, and smaller laboratory packaging. Pharmaceutical-grade material is available to USP and Ph. Eur. specifications. Technical-grade product supports industrial solvent applications, while food-grade supply aligned with FEMA-recognized use is also commercially available from qualified suppliers for various industries. Contact us for supply of Dimethyl sulfoxide Request Quote",
+  "physicalProperties": "Melting Point: 18.5 °C; Boiling Point: 189 °C; Density: 1.100 g/cm³ @ Temp: 20 °C; Flash Point: 192 °F; Appearance: colourless liquid; Color: clear colorless; Odor: Mild garlic odor; Form: liquid (temperature dependent); Water Solubility: Soluble in water, methanol, acetone, ether, benzene, chloroform.; Vapor Pressure: 0.42 mm Hg ( 20 °C); Refractive Index: n 20/D 1.479(lit.); Log P: -1.35",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H227 Combustible liquid H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "Syntexan | sulfinylbis(methane) | S(O)Me2 | Rimso-50 | Domoso | DMSO | dimetil sulfoxido",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-77-78-1",
+    "cas-67-71-0",
+    "cas-68-12-2",
+    "cas-624-92-0",
+    "cas-616-38-6",
+    "cas-77-76-9",
+    "cas-109-87-5",
+    "cas-127-19-5",
+    "cas-107-46-0",
+    "cas-131-11-3",
+    "cas-108-59-8",
+    "cas-75-09-2",
+    "cas-106-79-6",
+    "cas-110-71-4",
+    "cas-127-19-5",
+    "cas-107-46-0",
+    "cas-131-11-3",
+    "cas-108-59-8",
+    "cas-75-09-2",
+    "cas-106-79-6",
+    "cas-110-71-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-67-68-5/"
+}

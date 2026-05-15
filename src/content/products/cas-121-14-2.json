@@ -1,0 +1,62 @@
+{
+  "id": "734",
+  "name": "2,4-dinitrotoluene",
+  "slug": "cas-121-14-2",
+  "cas": "121-14-2",
+  "ec": "204-450-0",
+  "formula": "",
+  "mw": "182.13 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Aerospace & Defense",
+    "Automotive",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2,4-Dinitrotoluene (CAS 121-14-2 ), commonly referenced as 2,4-DNT, is a nitroaromatic compound used primarily as a chemical intermediate in the synthesis of toluenediamine and toluene diisocyanate. It functions as a key precursor in polyurethane production and serves as a stabilizer and burn rate modifier in propellant formulations. In the defense and aerospace sectors, it is incorporated into smokeless powder. The compound is utilized in solid propellant compositions to regulate combustion characteristics. Automotive applications center on its role in producing TDI-based polyurethane foams used in seating and insulation. These foams are also essential for interior components. As a monomer building block, it feeds into the hydrogenation pathway that yields toluenediamine, the direct precursor to TDI in large-scale manufacturing. Specialty polymer formulators also evaluate it as a reactive intermediate where controlled nitro-group chemistry is required. This material is supplied as a pale yellow crystalline solid, typically in technical grade . Bulk quantities are available for industrial procurement, with packaging options ranging from drum to IBC depending on regional handling regulations. Purity specifications generally align with industrial standards. These standards are suited for intermediate chemical synthesis rather than consumer-facing applications. The material requires careful handling and storage in accordance with safety protocols for nitroaromatic chemicals. Contact us for supply of 2,4-dinitrotoluene Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS06 GHS08 GHS09 GHS07 Hazard Statements H301 Toxic if swallowed [Danger Acute toxicity, oral] H311 Toxic in contact with skin [Danger Acute toxicity, dermal] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H341 Suspected of causing genetic defects [Warning Germ cell mutagenicity] H350 May cause cancer [Danger Carcinogenicity] H400 Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard] H410 Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H302 Harmful if swallowed [Warning Acute toxicity, oral] H316 Causes mild skin irritation [Warning Skin corrosion/irritation] H351 Suspected of causing cancer [Warning Carcinogenicity]",
+  "tradeRegulatory": "",
+  "otherNames": "2,4-DNT | 2,4-dinitrotoluol | 2,4-dinitromethylbenzene | 2,4-dinitro-1-methylbenzene | DNT | 1-Methyl-2,4-dinitrobenzene | Benzene, 1-methyl-2,4-dinitro- | Toluene, 2,4-dinitro-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-118-96-7",
+    "cas-26764-44-3",
+    "cas-554-00-7",
+    "cas-26747-90-0",
+    "cas-89-61-2",
+    "cas-584-84-9",
+    "cas-106264-79-3",
+    "cas-121-87-9",
+    "cas-26471-62-5",
+    "cas-2095-02-5",
+    "cas-99-97-8",
+    "cas-100418-33-5",
+    "cas-104-85-8",
+    "cas-94-75-7",
+    "cas-121-87-9",
+    "cas-26471-62-5",
+    "cas-2095-02-5",
+    "cas-99-97-8",
+    "cas-100418-33-5",
+    "cas-104-85-8",
+    "cas-94-75-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-121-14-2/"
+}

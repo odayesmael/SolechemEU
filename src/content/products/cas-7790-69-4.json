@@ -1,0 +1,61 @@
+{
+  "id": "2194",
+  "name": "Lithium nitrate",
+  "slug": "cas-7790-69-4",
+  "cas": "7790-69-4",
+  "ec": "232-218-9",
+  "formula": "HNO3.Li",
+  "mw": "69.0 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Agriculture & Feed",
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium nitrate (CAS 7790-69-4 ) is an inorganic lithium salt used across agricultural, food, and pharmaceutical supply chains as a stabilizing and preservative agent. Its oxidizing character makes it relevant in formulations where controlled reactivity and ionic balance are required. In agriculture, lithium nitrate functions as a micronutrient source and soil amendment component, supporting lithium delivery in specialty fertilizer blends where trace mineral correction is required. Food-grade applications include use as a stabilizer and preservation aid in processed formulations, where it contributes to shelf-life extension and product integrity for various industrial food processes. Pharmaceutical manufacturers incorporate it into preparations where lithium salt delivery is specified, particularly in formulations requiring precise ionic dosing for specialized medicinal applications. It also appears in analytical and quality control reagents used by QA laboratories in food and pharma environments, often meeting ACS standards for laboratory use and chemical analysis. Lithium nitrate is supplied as a white crystalline powder or granular solid. Standard commercial grades include technical, food-grade, and pharmaceutical-grade material, with the latter conforming to USP or Ph.Eur. specifications. Packaging is typically available in small drums or bulk quantities to suit both formulation-scale and industrial procurement requirements, ensuring safe handling and storage of the oxidizing material. Contact us for supply of Lithium nitrate Request Quote",
+  "physicalProperties": "Melting Point: 120 °C (approx); Boiling Point: 630 °C; Density: 2.38 g/cm³ (solid); Flash Point: 600°C; Appearance: Lithium nitrate is a colorless deliquescent powder.; Color: White; Form: Solid; Water Solubility: 90 g/L (28 ºC); Vapor Pressure: 0Pa at 25℃; pH: 7-9 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS03 GHS07 GHS08 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H319 Causes serious eye irritation H360 May damage fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28342990; UN Number: 2722; ADR Class: 5.1; Packing Group: III; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 1",
+  "otherNames": "Nitric acid, lithium salt (1:1) | Nitric acid, lithium salt | LiNO3 | LITHIUM NITRATE [MI] | 68XG6U4533 | Lithium nitric acid | Lifetime N | Rasir",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28342990",
+  "similarProducts": [
+    "cas-919-16-4",
+    "cas-7439-93-2",
+    "cas-554-13-2",
+    "cas-10377-60-3",
+    "cas-10377-48-7",
+    "cas-546-89-4",
+    "cas-7447-41-8",
+    "cas-10124-37-5",
+    "cas-7782-89-0",
+    "cas-7789-24-4",
+    "cas-7757-79-1",
+    "cas-6484-52-2",
+    "cas-7631-99-4",
+    "cas-13568-40-6",
+    "cas-10124-37-5",
+    "cas-7782-89-0",
+    "cas-7789-24-4",
+    "cas-7757-79-1",
+    "cas-6484-52-2",
+    "cas-7631-99-4",
+    "cas-13568-40-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7790-69-4/"
+}

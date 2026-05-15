@@ -1,0 +1,62 @@
+{
+  "id": "394",
+  "name": "3-cyanopyridine",
+  "slug": "cas-100-54-9",
+  "cas": "100-54-9",
+  "ec": "202-863-0",
+  "formula": "C6H4N2",
+  "mw": "104.11 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Cyanopyridine (CAS 100-54-9 ), also known as nicotinic acid nitrile and commonly abbreviated as 3-CP, is a pyridine-based nitrile intermediate used across pharmaceutical synthesis and agrochemical manufacturing. It serves primarily as a building block for constructing more complex heterocyclic structures, including vitamin B3 derivatives and active pharmaceutical ingredients. In pharmaceutical manufacturing, 3-CP is a direct precursor to nicotinamide. Nicotinic acid is also produced from this intermediate at industrial scale through controlled hydrolysis. Agrochemical producers use it as an intermediate in synthesizing pyridine-based pesticides and fungicides. The nitrile group enables selective downstream functionalization for various specialty chemical applications. In flavor chemistry, nicotinic acid nitrile contributes to the production of compounds with roasted and meaty flavor profiles. These profiles are highly relevant to food ingredient formulation and development. Biotechnology and life sciences applications include its use as a reagent in catalyst development and as a substrate in enzymatic hydrolysis research. This research often targets nitrile hydratase activity for advanced chemical processing. 3-Cyanopyridine is supplied as a white to off-white crystalline solid available in technical and pharmaceutical-grade specifications. Purity levels typically range from 98% to 99%+ depending on the intended application. Packaging options range from kilogram-scale laboratory quantities to multi-tonne bulk supply for industrial users. Contact us for supply of 3-cyanopyridine Request Quote",
+  "physicalProperties": "Melting Point: 51 °C; Boiling Point: 206.9 °C; Density: 1.1590 g/cm³ @ Temp: 25 °C; Flash Point: 184 °F; Appearance: The cyanopyridines are as follows: 2-cyano-: A white to tan liquid or solid. Almond odor. Boiling point=2213℃ ; freezing/melting point=27℃ ; flash point=89℃ . 3-cyano-: a colorless liquid or gray crystal- line solid.; Color: Colorless or white to yellow; Form: Crystalline Mass, Crystals or Chunks; Water Solubility: 140 g/L (20 ºC); Refractive Index: 1.5242 (estimate)",
+  "safetyHandling": "Warning GHS05 GHS07 GHS08 Hazard Statements H302 H302 H315 H315 H318 H318 H319 H319 H335 H335 H371 H371 H373 H373 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P317 P317 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29333999; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "3-azabenzonitrile | 3-PYRIDINECARBONITRILE | Nicotinic acid nitrile | 3-Pyridinenitrile | 3-Pyridylcarbonitrile | Nitryl kwasu nikotynowego | 3-Pyridinecarboxylic acid, nitrile | Pyridine-3-carbonitrile | 3-CP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29333999",
+  "similarProducts": [
+    "cas-100-48-1",
+    "cas-100-70-9",
+    "cas-108-99-6",
+    "cas-110-86-1",
+    "cas-100-55-0",
+    "cas-140-29-4",
+    "cas-2942-59-8",
+    "cas-109-06-8",
+    "cas-100-47-0",
+    "cas-123-75-1",
+    "cas-16969-45-2",
+    "cas-108-89-4",
+    "cas-765-30-0",
+    "cas-109-97-7",
+    "cas-109-06-8",
+    "cas-100-47-0",
+    "cas-123-75-1",
+    "cas-16969-45-2",
+    "cas-108-89-4",
+    "cas-765-30-0",
+    "cas-109-97-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-54-9/"
+}

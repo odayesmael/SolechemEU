@@ -1,0 +1,61 @@
+{
+  "id": "637",
+  "name": "Diethylene glycol dimethyl ether",
+  "slug": "cas-111-96-6",
+  "cas": "111-96-6",
+  "ec": "203-924-4",
+  "formula": "C6H14O3",
+  "mw": "134.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethylene glycol dimethyl ether (CAS 111-96-6 ), commercially known as Diglyme, is a high-boiling aprotic ether solvent used across pharmaceutical synthesis and polymer processing. Its controlled evaporation rate and strong solvating power make it a preferred solvent where lower-boiling alternatives fail to maintain process stability during specialty chemical manufacturing. In pharmaceutical manufacturing, Diglyme functions as a reaction solvent for Grignard reactions, metal hydride reductions, and other moisture-sensitive syntheses requiring an inert, coordinating medium. Polymer formulators use it as a polymerization solvent and chain-transfer agent in the production of specialty resins and adhesives for industrial applications. In battery electrolyte research and lithium-ion cell development, it serves as a co-solvent that improves ionic conductivity and electrode compatibility for advanced energy storage. Biotechnology applications include its use as a carrier solvent in reagent formulations where consistent solvation and low reactivity with biological substrates are required. Diglyme is supplied as a clear liquid in drum, IBC, and bulk quantities. Technical grade is the standard offering for industrial and research applications across the global market. Anhydrous and high-purity grades are available to meet pharmaceutical and battery-grade specifications. Packaging options typically range from laboratory-scale containers to full bulk tanker supply. Contact us for supply of Diethylene glycol dimethyl ether Request Quote",
+  "physicalProperties": "Melting Point: -68 °C; Boiling Point: 162 °C @ Press: 760 Torr; Density: 0.9451 g/cm³ @ Temp: 20 °C; Flash Point: 134.6 °F; Appearance: Colorless clear liquid; Color: ≤10(APHA); Odor: Mild ethereal.; Form: Liquid; Water Solubility: Miscible; Vapor Pressure: 3 mm Hg ( 20 °C); Refractive Index: n 20/D 1.408(lit.); pH: 7 (20°C); Log P: -0.36 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS08 GHS07 Hazard Statements H226 Flammable liquid and vapor H303 May be harmful if swallowed H316 Causes mild skin irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29091900; UN Number: 3271; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Diethylene glycol dimethylether | 1-methoxy-2-(2-methoxyethoxy)ethane | Diglyme",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29091900",
+  "similarProducts": [
+    "cas-112-36-7",
+    "cas-112-49-2",
+    "cas-111-90-0",
+    "cas-1002-67-1",
+    "cas-143-24-8",
+    "cas-110-71-4",
+    "cas-111-77-3",
+    "cas-111109-77-4",
+    "cas-112-73-2",
+    "cas-7778-85-0",
+    "cas-112-34-5",
+    "cas-109-86-4",
+    "cas-34590-94-8",
+    "cas-104-68-7",
+    "cas-111109-77-4",
+    "cas-112-73-2",
+    "cas-7778-85-0",
+    "cas-112-34-5",
+    "cas-109-86-4",
+    "cas-34590-94-8",
+    "cas-104-68-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-96-6/"
+}

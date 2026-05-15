@@ -1,0 +1,59 @@
+{
+  "id": "1217",
+  "name": "4-chlorobutanoic acid",
+  "slug": "cas-627-00-9",
+  "cas": "627-00-9",
+  "ec": "210-975-2",
+  "formula": "C4H7ClO2",
+  "mw": "122.55 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Chlorobutanoic acid (CAS 627-00-9 ), also known as 4-chlorobutyric acid and gammachlorobutyric acid, is a halogenated organic acid used primarily as a building block in pharmaceutical synthesis. Its reactive chloro and carboxylic acid groups make it a functional intermediate for constructing more complex active pharmaceutical ingredients and specialty molecules. In pharmaceutical manufacturing, it serves as a key intermediate. This is particularly useful where a four-carbon chain with terminal halogenation is required for cyclization or chain extension reactions. Biotechnology and life sciences researchers use it in the preparation of labeled compounds. It is also utilized for linkers and probe molecules for drug discovery workflows. The compound also supports agrochemical synthesis, where halogenated acid intermediates are used to produce herbicide and pesticide active substances. Its chloro group enables nucleophilic substitution reactions that are central to constructing gamma-lactam and pyrrolidone ring systems. These systems are found in several drug scaffolds across the medical industry. 4-Chlorobutanoic acid is supplied as a liquid or low-melting solid depending on purity and storage conditions. It is available in technical and high-purity grades suited to pharmaceutical intermediate and research applications. Packaging ranges from small quantities for laboratory use to bulk quantities for industrial synthesis programs. This ensures that the product meets the specific requirements of both small-scale labs and large manufacturers. Contact us for supply of 4-chlorobutanoic acid Request Quote",
+  "physicalProperties": "Melting Point: 16 °C; Boiling Point: 67-72 °C @ Press: 2.5 Torr; Density: 1.2373 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Color: Colorless to Almost colorless; Form: clear liquid; Refractive Index: n 20/D 1.451(lit.)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 H302 H314 H314 Precautionary Statements P260 P260 P264 P264 P270 P270 P280 P280 P316 P316 P321 P321 P330 P330 P363 P363 P405 P405 P501 P501 P301+P317 P301+P317 P304+P340 P304+P340 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29159000; UN Number: 3265; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "4-chlorobutyric acid | Butanoic acid, 4-chloro- | Gammachlorobutyric acid | Cl(CH2)3COOH | .gamma.-Chloro-n-butyric acid | Butyric acid, 4-chloro- | γ-Chlorobutyric acid | 4-CBA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29159000",
+  "similarProducts": [
+    "cas-5589-96-8",
+    "cas-79-11-8",
+    "cas-79-04-9",
+    "cas-2942-59-8",
+    "cas-5856-77-9",
+    "cas-75-36-5",
+    "cas-98-88-4",
+    "cas-79-31-2",
+    "cas-32961-44-7",
+    "cas-106-47-8",
+    "cas-109-65-9",
+    "cas-110-94-1",
+    "cas-83949-32-0",
+    "cas-26063-00-3",
+    "cas-79-31-2",
+    "cas-32961-44-7",
+    "cas-106-47-8",
+    "cas-109-65-9",
+    "cas-110-94-1",
+    "cas-83949-32-0",
+    "cas-26063-00-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-627-00-9/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2203",
+  "name": "Ammonium metavanadate",
+  "slug": "cas-7803-55-6",
+  "cas": "7803-55-6",
+  "ec": "232-261-3",
+  "formula": "H4N.O3V",
+  "mw": "116.978 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium metavanadate (CAS 7803-55-6 ), also known as AMV, is an inorganic vanadium salt used primarily as a catalyst precursor and vanadium source across chemical processing and metallurgical industries. It delivers controlled vanadium content in applications where precise dosing and consistent purity are critical to process performance. In catalyst manufacturing, AMV serves as the primary vanadium precursor. It is used for producing vanadium pentoxide catalysts used in sulfuric acid production via the contact process. The mining and metals sector uses it as a reagent in vanadium recovery circuits. It is also used for preparing vanadium electrolyte solutions in redox flow battery systems. Pharmaceutical and analytical laboratories rely on AMV as a reagent for colorimetric assays. It acts as a buffering agent in specific biochemical protocols. It is also applied in ceramic glazes and specialty coatings where vanadium compounds contribute to color development and surface properties. Ammonium metavanadate is supplied as a white to pale yellow crystalline powder. Standard commercial grades include technical grade and high-purity reagent grade for industrial use. Purity levels typically range from 98% to 99.5%+. Packaging options commonly range from small laboratory quantities up to bulk industrial supply with moisture-controlled packaging specified. Contact us for supply of Ammonium metavanadate Request Quote",
+  "physicalProperties": "Melting Point: 200 °C (decomp); Density: 2.326 g/cm³; Appearance: Ammonium metavanadate is a white or slightly yellow crystalline powder. It is an inorganic acidic salt; Color: White to yellow; Odor: Odorless; Form: Solid; Water Solubility: 5.1 g/L (20 ºC); pH: 7 (5.1g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H301 Toxic if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H340 May cause genetic defects H341 Suspected of causing genetic defects H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28419000; UN Number: 2859; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Ammonium monovanadate | Ammonium vanadate(V) | Ammonium metavanadate (NH4VO3) | Ammonium vanadium trioxide | Ammonium vanadium oxide (NH4VO3) | RCRA waste number P119 | Ammonium trioxovanadate(1-) | Vanadic acid (HVO3), ammonium salt | AMV",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28419000",
+  "similarProducts": [
+    "cas-13769-43-2",
+    "cas-13718-26-8",
+    "cas-14293-78-8",
+    "cas-1314-62-1",
+    "cas-7440-62-2",
+    "cas-13106-76-8",
+    "cas-12027-67-7",
+    "cas-27774-13-6",
+    "cas-12054-85-2",
+    "cas-1314-34-7",
+    "cas-12604-58-9",
+    "cas-7718-98-1",
+    "cas-540-69-2",
+    "cas-12125-01-8",
+    "cas-27774-13-6",
+    "cas-12054-85-2",
+    "cas-1314-34-7",
+    "cas-12604-58-9",
+    "cas-7718-98-1",
+    "cas-540-69-2",
+    "cas-12125-01-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7803-55-6/"
+}

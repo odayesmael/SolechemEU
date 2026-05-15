@@ -1,0 +1,60 @@
+{
+  "id": "567",
+  "name": "Tetrahydrothiophene",
+  "slug": "cas-110-01-0",
+  "cas": "110-01-0",
+  "ec": "203-728-9",
+  "formula": "C4H8S",
+  "mw": "88.17 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Home Care & Industrial Cleaning",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetrahydrothiophene (CAS 110-01-0 ), also known as THT and thiophane, is a saturated sulfur-containing heterocyclic compound used commercially as an odorant and corrosion inhibitor across energy and industrial sectors. Its distinctive, persistent odor makes it the standard gas-odorization agent in natural gas and LPG distribution networks across Europe and many other markets. THT is injected into natural gas and liquefied petroleum gas pipelines. This injection occurs at low concentrations to provide the characteristic warning odor required by safety regulations, enabling leak detection by end users. In industrial cleaning and maintenance formulations, it functions as a sulfur-based corrosion inhibitor. It protects metal surfaces exposed to aggressive process environments. Water treatment operations use THT-based chemistry where controlled sulfur dosing is required to manage scaling or microbial activity in distribution systems. As a flavoring reference compound, it is also evaluated in fragrance and flavor research for its role in characterizing sulfurous aroma profiles. Tetrahydrothiophene is supplied as a clear liquid in drums and IBCs. Bulk tanker quantities are also available, suited to pipeline odorization programs. Technical-grade material is the standard commercial form, with purity specifications typically at 98% or higher. Specialty grades meeting tighter purity thresholds are available for analytical and flavor research applications. These high-purity options ensure consistent performance in sensitive laboratory and industrial environments. Contact us for supply of Tetrahydrothiophene Request Quote",
+  "physicalProperties": "Melting Point: -96.16 °C; Boiling Point: 121.12 °C @ Press: 760 Torr; Density: 0.9987 g/cm³ @ Temp: 20 °C; Flash Point: 55 °F; Appearance: colourless liquid; Color: Colorless to Almost colorless; Odor: Smells of rotting eggs; Form: liquid; Water Solubility: immiscible; Vapor Pressure: 18 mm Hg ( 25 °C); Refractive Index: n 20/D 1.504(lit.); pH: 7 (H2O, 20℃); Log P: 1.8 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 H225 H302 H302 H312 H312 H315 H315 H319 H319 H332 H332 H412 H412 Precautionary Statements P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P317 P317 P321 P321 P330 P330 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P370+P378 P370+P378 P403+P235 P403+P235 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 2412; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "thiophane | thiolan | tetramethylene sulfide | THT | Thiolane | Thiophene, tetrahydro- | Thilane | 4-Butylene Sulfide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-110-02-1",
+    "cas-109-79-5",
+    "cas-75-66-1",
+    "cas-57124-87-5",
+    "cas-109-99-9",
+    "cas-97-99-4",
+    "cas-7659-86-1",
+    "cas-85-43-8",
+    "cas-1003-09-4",
+    "cas-119-64-2",
+    "cas-111-88-6",
+    "cas-96-47-9",
+    "cas-88-15-3",
+    "cas-25103-58-6",
+    "cas-85-43-8",
+    "cas-1003-09-4",
+    "cas-119-64-2",
+    "cas-111-88-6",
+    "cas-96-47-9",
+    "cas-88-15-3",
+    "cas-25103-58-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-01-0/"
+}

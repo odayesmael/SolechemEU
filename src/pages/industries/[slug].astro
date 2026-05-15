@@ -1,0 +1,96 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { INDUSTRIES, PRODUCTS_INDEX } from '../../data';
+import IndustryProducts from '../../components/react/IndustryProducts.tsx';
+
+const { slug } = Astro.params;
+const industry = INDUSTRIES.find(i => i.slug === slug);
+
+if (!industry) {
+  return Astro.redirect('/industries');
+}
+
+// Filter from lightweight index (~1.7MB) instead of full 18MB
+const industryProducts = PRODUCTS_INDEX.filter(p =>
+  Array.isArray(p.industry)
+    ? p.industry.some((ind: string) => ind.toLowerCase() === industry.name.toLowerCase())
+    : false
+);
+---
+
+<BaseLayout title={`${industry.name} Chemical Solutions | SoleChem Europe`} description={industry.description}>
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.solechem.eu/" },
+      { "@type": "ListItem", "position": 2, "name": "Industries", "item": "https://www.solechem.eu/industries" },
+      { "@type": "ListItem", "position": 3, "name": industry.name, "item": `https://www.solechem.eu/industries/${industry.slug}` }
+    ]
+  })} />
+  <div class="min-h-screen bg-white">
+    <!-- Hero Section -->
+    <section class="relative overflow-hidden border-b border-slate-200 bg-slate-50/80 pt-28 pb-10 lg:pt-30 lg:pb-12 mb-8">
+      <div class="absolute inset-0 z-0 opacity-[0.02]">
+        <div class="absolute inset-0 bg-[radial-gradient(circle_at_top_right,_var(--tw-gradient-stops))] from-slate-500 via-transparent to-transparent"></div>
+      </div>
+      <div class="max-w-7xl mx-auto px-4 lg:px-8 relative z-20">
+        <div class="flex items-center gap-2 text-[10px] font-bold text-slate-500 uppercase tracking-widest mb-5">
+          <a href="/" class="hover:text-orange-600 transition-colors">Home</a>
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400"><path d="m9 18 6-6-6-6"/></svg>
+          <a href="/industries" class="hover:text-orange-600 transition-colors">Industries</a>
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-slate-400"><path d="m9 18 6-6-6-6"/></svg>
+          <span class="text-slate-900">{industry.name}</span>
+        </div>
+
+        <div class="flex flex-col md:flex-row gap-8 lg:gap-14 items-center justify-between">
+          <div class="flex-1">
+            <h1 class="text-4xl lg:text-5xl font-sans font-bold text-[#0B1528] tracking-tight mb-4">
+              {industry.name}
+            </h1>
+            <p class="text-lg text-slate-600 font-medium leading-relaxed max-w-2xl">
+              {industry.description}
+            </p>
+
+            <div class="flex flex-wrap gap-3 mt-6">
+              {(industry.compliance || ['ISO 9001', 'REACH']).map((c: string) => (
+                <span class="bg-white border border-slate-200 text-slate-700 px-4 py-2 rounded-md text-[11px] font-bold tracking-[0.15em] uppercase flex items-center gap-2 shadow-sm">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-orange-500"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></svg>
+                  {c}
+                </span>
+              ))}
+            </div>
+          </div>
+
+          <div class="w-full md:w-[280px] lg:w-[340px] aspect-video md:aspect-[4/3] bg-slate-100 rounded-xl overflow-hidden border border-slate-200 shadow-md shrink-0 ring-4 ring-white">
+            <img
+              src={industry.imageUrl}
+              alt={industry.name}
+              class="w-full h-full object-cover opacity-95 transition-transform duration-700 hover:scale-105"
+              referrerpolicy="no-referrer"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="max-w-[1400px] mx-auto px-4 lg:px-8 pb-20">
+      <div class="flex flex-col lg:flex-row gap-8 items-start">
+        <!-- Sidebar -->
+        <aside class="w-full lg:w-72 shrink-0 space-y-6">
+          <div class="bg-slate-900 p-6 rounded-sm text-white shadow-sm border border-slate-800">
+            <h3 class="text-[13px] uppercase tracking-widest font-bold mb-2">Need a Custom Solution?</h3>
+            <p class="text-[12px] text-slate-400 mb-6 leading-relaxed font-medium">We offer toll manufacturing and custom blending for the {industry.name} sector.</p>
+            <a href="/contact" class="inline-flex items-center justify-center w-full bg-slate-800 hover:bg-slate-700 text-white gap-2 font-semibold text-[12px] uppercase tracking-widest transition-colors py-2.5 rounded-sm border border-slate-700">
+              Discuss Project
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+            </a>
+          </div>
+        </aside>
+
+        <!-- Main Content (React Island) -->
+        <IndustryProducts client:load products={industryProducts} industryName={industry.name} />
+      </div>
+    </div>
+  </div>
+</BaseLayout>

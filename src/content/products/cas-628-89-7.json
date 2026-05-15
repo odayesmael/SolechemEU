@@ -1,0 +1,61 @@
+{
+  "id": "1220",
+  "name": "2-(Chloroethoxy)ethanol",
+  "slug": "cas-628-89-7",
+  "cas": "628-89-7",
+  "ec": "211-059-9",
+  "formula": "C4H9ClO2",
+  "mw": "124.56 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-(Chloroethoxy)ethanol (CAS 628-89-7 ), also known as diglycol chlorohydrin, is a chlorinated glycol ether used as a reactive intermediate and specialty solvent in chemical synthesis and industrial formulation. Its bifunctional structure, combining a hydroxyl and a chloro group, makes it a building block for flame retardants, biocides, and polymer additives. In plastics and polymer processing, it serves as a precursor. It is used in synthesizing flame retardant additives incorporated into coatings, adhesives, and elastomers. The textile and leather industries use it in formulating preservative and biocidal treatments where controlled reactivity is required. In coatings and sealant systems, it functions as a reactive solvent or carrier that participates in the final polymer network rather than simply evaporating off. This ensures better structural integrity. Industrial cleaning formulations also incorporate it where solvent coupling with aqueous systems is needed to target specific soils or residues. It is supplied as a clear liquid in drum and IBC quantities. The product is available primarily in technical grade, with purity specifications typically ranging from 97% upward depending on the supplier. These volumes are suited to industrial procurement needs. Buyers should confirm specification sheets for residual chloride content and water levels when evaluating for reactive synthesis applications. This ensures the material meets the necessary performance criteria. Contact us for supply of 2-(Chloroethoxy)ethanol Request Quote",
+  "physicalProperties": "Boiling Point: 68-71 °C @ Press: 3 Torr; Density: 1.18 g/mL at 25 °C(lit.); Flash Point: 195 °F; Appearance: colourless liquid; Color: Clear; Form: Liquid; Water Solubility: SOLUBLE; Vapor Pressure: 22.66Pa at 20℃; Refractive Index: n 20/D 1.452(lit.); Log P: 0.301 at 30℃",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29094990; UN Number: 3334; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "2-(2-CHLOROETHOXY)ETHANOL | Diglycol chlorohydrin | Ethanol, 2-(2-chloroethoxy)- | 2-Chloroethyl 2-hydroxyethyl ether | R2UP818L4I | RefChem:460123 | 5-Chloro-3-oxa-1-pentanol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29094990",
+  "similarProducts": [
+    "cas-5197-62-6",
+    "cas-110-80-5",
+    "cas-112-36-7",
+    "cas-111-90-0",
+    "cas-111-44-4",
+    "cas-111-96-6",
+    "cas-7743-94-4",
+    "cas-111-76-2",
+    "cas-14228-73-0",
+    "cas-1569-02-4",
+    "cas-1002-67-1",
+    "cas-111-35-3",
+    "cas-89399-28-0",
+    "cas-112-25-4",
+    "cas-111-76-2",
+    "cas-14228-73-0",
+    "cas-1569-02-4",
+    "cas-1002-67-1",
+    "cas-111-35-3",
+    "cas-89399-28-0",
+    "cas-112-25-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-628-89-7/"
+}

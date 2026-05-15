@@ -1,0 +1,61 @@
+{
+  "id": "588",
+  "name": "2-heptanone",
+  "slug": "cas-110-43-0",
+  "cas": "110-43-0",
+  "ec": "203-767-1",
+  "formula": "C7H14O",
+  "mw": "114.19 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Heptanone (CAS 110-43-0 ), also known as methyl amyl ketone or MAK, is a medium-chain ketone solvent used across industrial, cosmetic, and food applications. It delivers strong solvency for resins and coatings while contributing a fruity, banana-like character valued in flavor and fragrance work. In coatings and industrial cleaning, this compound dissolves nitrocellulose, acrylics, and vinyl resins, offering a slower evaporation rate that improves flow and leveling in spray-applied finishes. Metalworking and lubricant formulators use it as a carrier solvent to aid in the deposition of active compounds onto metal surfaces. In personal care, it functions as a solvent and fragrance ingredient in nail care products, hair preparations, and skin formulations. Food manufacturers use it as a flavoring agent under FEMA 2544 to impart fruity, cheese-like, or banana notes in baked goods, dairy products, and beverages. The product is supplied as a clear liquid in drums and IBC totes for bulk industrial procurement. It is available in technical grade for solvent and metalworking applications and in food/flavor grade meeting FEMA and FCC specifications for use in consumable products. Contact us for supply of 2-heptanone Request Quote",
+  "physicalProperties": "Melting Point: -35.5 °C; Boiling Point: 111 °C @ Press: 21 Torr; Density: 0.8068 g/cm³ @ Temp: 30 °C; Flash Point: 106 °F; Appearance: Methyl amyl ketone is a clear colorless liquid with a mild, banana-like odor.; Color: Clear colorless; Odor: at 10.00 % in dipropylene glycol. fruity spicy sweet herbal coconut woody; Form: Liquid; Water Solubility: 4.3 g/L (20 ºC); Vapor Pressure: 2.14 mm Hg ( 20 °C); Refractive Index: n 20/D 1.408(lit.); Log P: 2.26 at 30℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H305 May be harmful if swallowed and enters airways H315 Causes skin irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29141990; UN Number: 2810; ADR Class: 6.1; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Pentyl methyl ketone | n-pentyl methyl ketone | n-Amyl methyl ketone | methyl-n-amyl ketone | methyl pentyl ketone | Methyl N-pentyl ketone | Methyl amyl ketone | Amyl methyl ketone | MAK",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29141990",
+  "similarProducts": [
+    "cas-110-12-3",
+    "cas-111-70-6",
+    "cas-108-10-1",
+    "cas-78-93-3",
+    "cas-98-86-2",
+    "cas-96-29-7",
+    "cas-142-82-5",
+    "cas-112-06-1",
+    "cas-67-64-1",
+    "cas-873-94-9",
+    "cas-600-07-7",
+    "cas-108-94-1",
+    "cas-79-20-9",
+    "cas-116-53-0",
+    "cas-112-06-1",
+    "cas-67-64-1",
+    "cas-873-94-9",
+    "cas-600-07-7",
+    "cas-108-94-1",
+    "cas-79-20-9",
+    "cas-116-53-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-43-0/"
+}

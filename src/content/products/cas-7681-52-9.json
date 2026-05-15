@@ -1,0 +1,64 @@
+{
+  "id": "2071",
+  "name": "Sodium hypochlorite",
+  "slug": "cas-7681-52-9",
+  "cas": "7681-52-9",
+  "ec": "231-668-3",
+  "formula": "ClHO.Na",
+  "mw": "74.44 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Food & Nutrition",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Pulp & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium hypochlorite (CAS 7681-52-9 ), commonly referenced as NaOCl or sodium oxychloride, is an inorganic oxidizing agent used across industrial, municipal, and institutional markets. It delivers broad-spectrum antimicrobial action and oxidative bleaching through controlled chlorine release in aqueous solution. In water treatment, NaOCl is dosed into municipal and industrial systems to disinfect potable water, control biofilm in cooling towers, and sanitize wastewater effluent. Pulp and paper producers use it to bleach cellulose fibers, replacing or supplementing elemental chlorine. These applications often utilize ECF and TCF bleaching sequences to ensure high-quality output. Food processing facilities apply it as a surface sanitizer and equipment disinfectant, where it meets food-contact safety requirements at regulated concentrations. Textile and laundry operations rely on it to remove color from natural fibers and to formulate industrial-strength bleaching liquors. Sodium hypochlorite is supplied as an aqueous solution, with commercial concentrations typically ranging from 5% to 15% available chlorine. The 12–15% range is considered the standard for industrial supply across most chemical sectors. Dilute 5% solutions are common in food-grade and institutional cleaning applications where lower concentrations are preferred for safety and handling. Technical and food-grade designations are available, with product specifications aligned to standards such as ANSI/AWWA B300 for water treatment applications. This ensures the chemical meets rigorous safety and performance benchmarks for municipal use. The material is also manufactured to meet various international quality standards including FCC , USP , Ph.Eur. , BP , EP , and ACS where applicable. These certifications guarantee the purity and consistency required for sensitive industrial processes. Contact us for supply of Sodium hypochlorite Request Quote",
+  "physicalProperties": "Melting Point: 18 °C; Boiling Point: 101 °C; Density: 1.25 g/mL at 20 °C; Appearance: colourless liquid with strong odour; Color: Light yellow; Odor: pale greenish to yel. liq., chlorine bleach odor; Form: Solution; Water Solubility: decomposes.; Vapor Pressure: 17.5 mmHg ( 20 °C); Refractive Index: 1.3870; pH: 12-13 (20°C, 68 °F); Log P: -3.42 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS09 GHS07 GHS08 Hazard Statements H290 May be corrosive to metals H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H335 May cause respiratory irritation H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28289000; UN Number: 1791; ADR Class: 8; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "sodium oxychloride | NaOCl | hypochlorous acid, sodium salt | hypochlorite sodium | NaClO | bleach | Clorox | Household bleach",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28289000",
+  "similarProducts": [
+    "cas-7758-19-2",
+    "cas-7790-92-3",
+    "cas-7778-54-3",
+    "cas-10049-04-4",
+    "cas-7775-09-9",
+    "cas-7782-50-5",
+    "cas-2893-78-9",
+    "cas-2782-57-2",
+    "cas-7722-84-1",
+    "cas-10102-17-7",
+    "cas-7772-98-7",
+    "cas-10332-33-9",
+    "cas-1310-73-2",
+    "cas-7789-38-0",
+    "cas-2782-57-2",
+    "cas-7722-84-1",
+    "cas-10102-17-7",
+    "cas-7772-98-7",
+    "cas-10332-33-9",
+    "cas-1310-73-2",
+    "cas-7789-38-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7681-52-9/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "972",
+  "name": "Cyclopentane",
+  "slug": "cas-287-92-3",
+  "cas": "287-92-3",
+  "ec": "206-016-6",
+  "formula": "C5H10",
+  "mw": "70.13 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cyclopentane (CAS 287-92-3 ) is a saturated cyclic hydrocarbon used primarily as a blowing agent and specialty solvent across several industrial sectors. Its low boiling point and high purity availability make it a preferred choice where controlled volatility is a process requirement. In rigid polyurethane foam manufacturing, it is the dominant blowing agent for producing insulation panels used in refrigerators, freezers, and cold-chain equipment. It serves as a critical replacement for older HFC-based alternatives under modern environmental regulations. Pharmaceutical manufacturers use it as a reaction solvent and extraction medium in API synthesis where a non-polar, low-residue solvent profile is required. It ensures high efficiency in chemical processing while maintaining the integrity of sensitive molecular structures. In specialty fragrance and flavor formulations, it functions as a carrier solvent for delivering volatile aroma compounds at controlled evaporation rates. Lubricant formulators also use it as a process solvent during synthesis and blending of cycloparaffinic base stocks. The product is supplied as a liquid, typically in drums, IBCs, and bulk tanker quantities to meet various industrial scales. Standard commercial grades include high-purity technical grade (95%+) and polyurethane foam-grade with tightly controlled purity specifications. These specifications are designed to meet specific blowing agent performance requirements and thermal conductivity standards. Pharmaceutical-grade material is available to buyers requiring documentation aligned with ICH solvent guidelines for manufacturing. Our supply chain ensures consistent quality and availability for large-scale industrial applications. We provide comprehensive technical data sheets and safety documentation to support the integration of this hydrocarbon into your specific production workflows. Contact us for supply of Cyclopentane Request Quote",
+  "physicalProperties": "Melting Point: -93.9 °C; Boiling Point: 49.2 °C @ Press: 760 Torr; Density: 0.7457 g/cm³ @ Temp: 20 °C; Flash Point: −35 °F; Appearance: colourless liquid with a petrol-like smell; Color: White; Odor: Like gasoline; mild, sweet.; Form: Powder; Water Solubility: Miscible with ethanol, ether and acetone. Slightly miscible with water.; Vapor Pressure: 18.93 psi ( 55 °C); Refractive Index: n 20/D 1.405(lit.); Log P: 3 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H333 May be harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29021990; UN Number: 1146; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "T86PB90RNU | Zeonsolv HP | Exxsol Cyclopentane S | C5H10 | CP, C5H10",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29021990",
+  "similarProducts": [
+    "cas-110-82-7",
+    "cas-78-78-4",
+    "cas-120-92-3",
+    "cas-108-94-1",
+    "cas-108-87-2",
+    "cas-75-28-5",
+    "cas-111-29-5",
+    "cas-4994-16-5",
+    "cas-1193-81-3",
+    "cas-765-30-0",
+    "cas-108-93-0",
+    "cas-142-82-5",
+    "cas-873-94-9",
+    "cas-106-97-8",
+    "cas-4994-16-5",
+    "cas-1193-81-3",
+    "cas-765-30-0",
+    "cas-108-93-0",
+    "cas-142-82-5",
+    "cas-873-94-9",
+    "cas-106-97-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-287-92-3/"
+}

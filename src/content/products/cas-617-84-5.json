@@ -1,0 +1,60 @@
+{
+  "id": "1200",
+  "name": "Diethylformamide",
+  "slug": "cas-617-84-5",
+  "cas": "617-84-5",
+  "ec": "210-533-2",
+  "formula": "C5H11NO",
+  "mw": "101.15 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethylformamide ( CAS 617-84-5 ), commonly abbreviated as DEF, is a high-boiling polar aprotic solvent used across pharmaceutical synthesis, polymer processing, and specialty chemical manufacturing. It functions as a reaction medium and carrier solvent where controlled solvation and thermal stability are required. In pharmaceutical manufacturing, DEF serves as a process solvent for active ingredient synthesis. It is utilized in purification steps where a high-boiling amide solvent is needed with lower toxicity concerns than DMF. Polymer and resin processors use it to dissolve or disperse specialty polymers. This solvent is ideal for compounding and coating operations. In printing and packaging, DEF is incorporated into ink formulations and surface treatment processes that require a stable, slow-evaporating solvent. This helps to control drying profiles effectively. It also functions as a reaction solvent in fine chemical synthesis where precise control over polarity and boiling point influences reaction selectivity. DEF is supplied as a clear liquid in drums and IBC containers, with bulk quantities available for industrial procurement. Technical grade is the standard commercial offering for most industrial uses. Purity specifications are typically at 99% or higher. Buyers sourcing for pharmaceutical applications should confirm GMP compliance and batch documentation with the supplier to ensure quality standards. Contact us for supply of Diethylformamide Request Quote",
+  "physicalProperties": "Melting Point: -60.5 °C; Boiling Point: 177 °C; Density: 0.908 g/cm³; Flash Point: 141 °F; Appearance: clear colorless to pale yellow liquid; Color: Clear colorless to pale yellow; Form: Liquid; Refractive Index: n 20/D 1.434(lit.)",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29241990; UN Number: 1993; ADR Class: 3; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "N,N-diethylformamide | Formamide, N,N-diethyl- | N-Formyldiethylamine | Diethylamid kyseliny mravenci | D4BLP8BN9H | DEF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29241990",
+  "similarProducts": [
+    "cas-68-12-2",
+    "cas-75-12-7",
+    "cas-109-89-7",
+    "cas-127-19-5",
+    "cas-105-53-3",
+    "cas-1002-67-1",
+    "cas-96-22-0",
+    "cas-111-46-6",
+    "cas-6425-39-4",
+    "cas-1704-62-7",
+    "cas-106-20-7",
+    "cas-84-66-2",
+    "cas-3710-84-7",
+    "cas-111-40-0",
+    "cas-111-46-6",
+    "cas-6425-39-4",
+    "cas-1704-62-7",
+    "cas-106-20-7",
+    "cas-84-66-2",
+    "cas-3710-84-7",
+    "cas-111-40-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-617-84-5/"
+}

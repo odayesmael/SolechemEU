@@ -1,0 +1,62 @@
+{
+  "id": "152",
+  "name": "Isobutane",
+  "slug": "cas-75-28-5",
+  "cas": "75-28-5",
+  "ec": "200-857-2",
+  "formula": "C4H10",
+  "mw": "58.12 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Automotive",
+    "Food & Nutrition",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isobutane (CAS 75-28-5 ), also recognized in refrigerant markets as R600a and in food applications as E943b , is a liquefied hydrocarbon gas used as a propellant and solvent carrier. Its low boiling point and clean vaporization profile make it a practical choice where residue-free delivery or efficient heat transfer is required across multiple industrial sectors. In food and aerosol manufacturing, E943b functions as a propellant in spray products, delivering controlled pressure without leaving residue in the final product for consumers. Refrigeration systems, particularly domestic appliances and light commercial units, use R600a as a natural refrigerant with low global warming potential as a preferred alternative to synthetic HFCs. In the oil and gas sector, isobutane is used as a blending component in alkylation processes to produce high-octane gasoline fractions for the automotive and energy industries. Aerosol personal care and household product manufacturers also rely on it as a solvent carrier to dissolve and uniformly disperse active ingredients in various formulations. Isobutane is supplied as a liquefied gas in pressurized cylinders, ISO tanks, and bulk transport vessels. Refrigerant-grade R600a is available to high purity specifications. Food-grade supply conforming to E943b specifications is available for aerosol and propellant use in regulated food contact applications and meets necessary safety requirements. Contact us for supply of Isobutane Request Quote",
+  "physicalProperties": "Melting Point: -138.3 °C; Boiling Point: -11.7 °C; Density: 0.61415 g/cm³ @ Temp: -29.5 °C; Flash Point: -83 °C; Appearance: colourless odourless gas (or colourless cryogenic liquid); Color: Colorless, very flammable gas with a faint odor; Form: Colorless gas; Water Solubility: 48.9 mg/kg at 25 °C (shake flask-GC, McAuliffe, 1963, 1966); Vapor Pressure: 72.2 psi ( 37.7 °C); Refractive Index: 1.3518; Log P: 2.760",
+  "safetyHandling": "Danger GHS02 GHS04 GHS08 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H332 Harmful if inhaled H336 May cause drowsiness or dizziness H340 May cause genetic defects H350 May cause cancer H370 Causes damage to organs H371 May cause damage to organs Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place.",
+  "tradeRegulatory": "HS Code: 2901100000; UN Number: 1969; ADR Class: 2.1; Storage Class: 2A - Gases",
+  "otherNames": "R600a | E943b | 2-Methylpropane | (CH3)2CH-CH3 | 1,1-Dimethylethane | Caswell No. 503A | Propane, 2-methyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "2901100000",
+  "similarProducts": [
+    "cas-106-97-8",
+    "cas-78-78-4",
+    "cas-74-98-6",
+    "cas-78-83-1",
+    "cas-79-31-2",
+    "cas-287-92-3",
+    "cas-124-38-9",
+    "cas-78-81-9",
+    "cas-97-85-8",
+    "cas-811-97-2",
+    "cas-110-19-0",
+    "cas-75-26-3",
+    "cas-4247-02-3",
+    "cas-939-48-0",
+    "cas-78-81-9",
+    "cas-97-85-8",
+    "cas-811-97-2",
+    "cas-110-19-0",
+    "cas-75-26-3",
+    "cas-4247-02-3",
+    "cas-939-48-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-28-5/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2739",
+  "name": "Tin(II) tetrafluoroborate",
+  "slug": "cas-13814-97-6",
+  "cas": "13814-97-6",
+  "ec": "237-487-6",
+  "formula": "BF4.1/2Sn",
+  "mw": "292.32 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Printing & Packaging",
+    "Mining & Metals",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tin(II) tetrafluoroborate (CAS 13814-97-6 ) is an inorganic tin salt supplied as an aqueous solution for use in electrochemical and surface treatment processes. It functions as a soluble source of stannous ions in electrolytic baths. This chemical enables controlled tin deposition onto metal substrates during industrial manufacturing. In electronics, it is used in electroplating baths to deposit uniform tin coatings on printed circuit board traces and connector pins. Consistent layer thickness and solderability are critical for lead frames and semiconductor packaging. The compound supports tin-lead and pure tin plating in high-speed reel-to-reel operations for the electronics industry. In the printing industry, it serves in the production of tinned metal substrates used for packaging applications. These applications require corrosion-resistant surfaces to ensure the longevity and safety of the final products. Mining and metals processors use it in surface finishing lines where fluoroborate-based electrolytes offer improved bath stability. These systems provide higher current density tolerance compared to traditional sulfate systems. The product is commercially available as an aqueous solution, typically at concentrations suited for direct use in plating bath formulation. It is supplied in technical grade, with specifications aligned to industry standards. Quality control measures cover tin content and free acid levels to ensure performance in industrial-scale operations. Packaging is available in drums and intermediate bulk containers to meet various logistics requirements. Contact us for supply of Tin(II) tetrafluoroborate Request Quote",
+  "physicalProperties": "Melting Point: >130 °C (decomp); Density: 1.6 g/cm³; Color: Colorless; Odor: Odorless; Form: Liquid; Water Solubility: Miscible with water.",
+  "safetyHandling": "Warning GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H317 May cause an allergic skin reaction H319 Causes serious eye irritation Precautionary Statements P234 Keep only in original packaging. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P330 Rinse mouth. P390 Absorb spillage to prevent material damage. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2826908090; UN Number: 3264; ADR Class: 8; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "Borate(1-), tetrafluoro-, tin(2+) (2:1) | Tin(2+) ditetrafluoroborate | Stannous fluoroborate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "2826908090",
+  "similarProducts": [
+    "cas-13814-96-5",
+    "cas-16872-11-0",
+    "cas-7488-55-3",
+    "cas-12142-33-5",
+    "cas-14075-53-7",
+    "cas-7783-47-3",
+    "cas-7440-31-5",
+    "cas-12027-70-2",
+    "cas-13355-96-9",
+    "cas-10025-69-1",
+    "cas-7646-78-8",
+    "cas-12058-66-1",
+    "cas-2273-43-0",
+    "cas-15578-26-4",
+    "cas-12027-70-2",
+    "cas-13355-96-9",
+    "cas-10025-69-1",
+    "cas-7646-78-8",
+    "cas-12058-66-1",
+    "cas-2273-43-0",
+    "cas-15578-26-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13814-97-6/"
+}

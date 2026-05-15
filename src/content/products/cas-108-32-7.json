@@ -1,0 +1,60 @@
+{
+  "id": "530",
+  "name": "Propylene carbonate",
+  "slug": "cas-108-32-7",
+  "cas": "108-32-7",
+  "ec": "203-572-1",
+  "formula": "C4H6O3",
+  "mw": "102.09 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Oil, Gas & Energy",
+    "Pharmaceuticals & Healthcare",
+    "Electronics",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Propylene carbonate (CAS 108-32-7 ), commonly abbreviated as PC, is a cyclic carbonate solvent used across energy, electronics, and personal care manufacturing. It dissolves a broad range of polar and nonpolar compounds. This material is a preferred carrier in formulations where low volatility and high solvency are both required. In lithium-ion battery electrolytes, PC functions as a primary solvent or co-solvent, supporting ion transport. It performs exceptionally well at low temperatures where other solvents underperform. Personal care formulators incorporate it as a solvent and humectant in skin creams, hair treatments, and color cosmetics. The compound aids active ingredient penetration without leaving a greasy residue. The oil and gas industry uses PC as a solvent for natural gas purification, specifically for selective absorption of CO₂ and H₂S. This is utilized in the Fluor Solvent process for efficient gas treatment. In pharmaceutical manufacturing, it serves as a non-aqueous carrier in topical and oral formulations where aqueous systems are incompatible. Propylene carbonate is supplied as a clear liquid in drums, IBCs, and bulk tankers. Standard commercial grades include technical and high-purity specifications, with the battery-grade variant subject to strict limits. The battery-grade material must meet rigorous moisture and metal ion requirements. Pharmaceutical-grade material is available to USP and Ph. Eur. compendial standards for regulated applications. Contact us for supply of Propylene carbonate Request Quote",
+  "physicalProperties": "Melting Point: -48.8 °C; Boiling Point: 242 °C; Density: 1.2047 g/cm³; Flash Point: 270 °F; Appearance: colourless liquid; Color: Clear; Odor: odorless; Form: Liquid; Water Solubility: 240 g/L (20 ºC); Vapor Pressure: 0.13 mm Hg ( 20 °C); Refractive Index: n 20/D 1.421(lit.); pH: 7.0 (200g/l, H2O, 20℃); Log P: -0.41 at 20℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation Precautionary Statements P280 Wear protective gloves/protective clothing/eye protection/face protection. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209010; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "4-methyl-1,3-dioxolan-2-one | 1,2-Propylene carbonate | 1,2-Propanediol cyclic carbonate | Arconate 5000 | Texacar PC | Cyclic propylene carbonate | 1,2-Propanediol carbonate | 1,3-Dioxolan-2-one, 4-methyl- | PC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29209010",
+  "similarProducts": [
+    "cas-4437-85-8",
+    "cas-96-49-1",
+    "cas-102-09-0",
+    "cas-105-58-8",
+    "cas-85252-24-0",
+    "cas-542-52-9",
+    "cas-616-38-6",
+    "cas-872-36-6",
+    "cas-1680-31-5",
+    "cas-623-53-0",
+    "cas-7778-85-0",
+    "cas-554-13-2",
+    "cas-52125-53-8",
+    "cas-57-55-6",
+    "cas-872-36-6",
+    "cas-1680-31-5",
+    "cas-623-53-0",
+    "cas-7778-85-0",
+    "cas-554-13-2",
+    "cas-52125-53-8",
+    "cas-57-55-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-32-7/"
+}

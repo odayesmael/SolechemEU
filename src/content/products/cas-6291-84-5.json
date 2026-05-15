@@ -1,0 +1,63 @@
+{
+  "id": "1916",
+  "name": "3-Methylaminopropylamine",
+  "slug": "cas-6291-84-5",
+  "cas": "6291-84-5",
+  "ec": "228-544-6",
+  "formula": "C4H12N2",
+  "mw": "88.15 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Methylaminopropylamine (CAS 6291-84-5 ), commonly abbreviated as MAPA, is a bifunctional diamine used as a reactive building block and process chemical across multiple industrial sectors. Its combination of primary and secondary amine groups makes it effective for initiating polymerization, regulating pH, and forming stable chelate complexes in formulated systems. In water treatment, MAPA functions as a pH buffer and chelating agent in scale inhibitor and corrosion control formulations. Polymer manufacturers use it as a chain initiator or crosslinker. It is utilized in the production of specialty resins and polyamide-based materials. In agrochemical synthesis, it serves as an intermediate in the preparation of active ingredient molecules. These molecules require a methylated diamine backbone for stability. Pharmaceutical producers rely on MAPA as a synthetic intermediate for APIs and drug delivery compounds where reactivity is critical. Controlled amine reactivity is essential to process yield in these applications. 3-Methylaminopropylamine is supplied as a clear to slightly yellow liquid in drums and IBC containers. Technical grade is the standard commercial offering, with purity levels typically at 98% or higher confirmed by GC analysis. Pharmaceutical-grade material is available from select manufacturers. Documentation requirements such as CoA, residual solvent testing, and batch traceability apply to these high-purity orders to ensure compliance with global manufacturing standards. Contact us for supply of 3-Methylaminopropylamine Request Quote",
+  "physicalProperties": "Melting Point: -72 °C; Boiling Point: 138-141 °C; Density: 0.844 g/mL at 25 °C(lit.); Flash Point: 96 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: 1000g/L@25°C; Vapor Pressure: 13.331hPa@39.37°C; Refractive Index: n 20/D 1.447(lit.); pH: 13.5 (100g/l, H2O, 20℃); Log P: -0.66",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H332 Harmful if inhaled H302+H332 Harmful if swallowed or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29212900; UN Number: 2734; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Metdylaminopropylamine | N'-methylpropane-1,3-diamine | n-methyl-1,3-propanediamine | MAPA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29212900",
+  "similarProducts": [
+    "cas-109-55-7",
+    "cas-5332-73-0",
+    "cas-105-83-9",
+    "cas-123-00-2",
+    "cas-75-31-0",
+    "cas-78-96-6",
+    "cas-63469-23-8",
+    "cas-124-68-5",
+    "cas-16728-59-9",
+    "cas-7005-47-2",
+    "cas-74-89-5",
+    "cas-107-10-8",
+    "cas-109-83-1",
+    "cas-20193-20-8",
+    "cas-124-68-5",
+    "cas-16728-59-9",
+    "cas-7005-47-2",
+    "cas-74-89-5",
+    "cas-107-10-8",
+    "cas-109-83-1",
+    "cas-20193-20-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-6291-84-5/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "2839",
+  "name": "Tetrafluoroboric acid",
+  "slug": "cas-16872-11-0",
+  "cas": "16872-11-0",
+  "ec": "240-898-3",
+  "formula": "BF4.H",
+  "mw": "87.82 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Electronics",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetrafluoroboric acid (CAS 16872-11-0 ), commonly referenced by its formula HBF4, is a strong inorganic acid supplied primarily as an aqueous solution. It functions as a catalyst and electrolyte component. The material serves as a surface treatment agent across electroplating, electronics manufacturing, and specialty chemical synthesis. In metal finishing, it serves as the primary electrolyte acid for tin and lead. It is used in tin-lead alloy plating baths, where it maintains bath stability and deposit quality. Electronics manufacturers use it in PCB surface treatment and flux formulations to prepare metal surfaces. The acid is essential for soldering and bonding processes. As a catalyst in polymer and resin production, it promotes condensation and cyclization reactions where conventional mineral acids are unsuitable. In mining and metals processing, it is used in pickling and etching operations to selectively remove oxides from reactive metal surfaces. This ensures high-quality finishes on various industrial components. The product is supplied as an aqueous solution, with 48–50% concentration being the most commercially standard grade. Technical grade is the predominant specification available at industrial scale. High-purity electronic grade material is offered for semiconductor and precision plating applications. Bulk supply is available in drums and IBC containers for large-scale manufacturing requirements. Smaller packaging options are also available for laboratory and specialty use. This ensures that the chemical meets the diverse needs of both research facilities and heavy industrial operations. Contact us for supply of Tetrafluoroboric acid Request Quote",
+  "physicalProperties": "Melting Point: -90°C; Boiling Point: 130°C (dec.); Density: ~1.84 g/cm³ (approx); Flash Point: −40 °F; Appearance: Fluoboric acid is a colorless liquid which does not exist as a free, pure substance. Used as an aqueous solution.; Color: Light Yellow; Odor: Odorless; Form: Liquid; Water Solubility: MISCIBLE; Vapor Pressure: 5 mmHg ( 20 °C); Refractive Index: nD20 of a 20% aq soln 1.3284",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H290 May be corrosive to metals H301 Toxic if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28111990; UN Number: 1775; ADR Class: 8; Packing Group: II; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "hydrogen tetrafluoroborate(1-) | hydrogen tetrafluoroborate | HBF4 | fluoboric acid | borofluoric acid | fluoroboric acid | Hydrofluoboric acid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28111990",
+  "similarProducts": [
+    "cas-13814-97-6",
+    "cas-17439-11-1",
+    "cas-7664-39-3",
+    "cas-14075-53-7",
+    "cas-13814-96-5",
+    "cas-1341-49-7",
+    "cas-16961-83-4",
+    "cas-10035-10-6",
+    "cas-12021-95-3",
+    "cas-14044-65-6",
+    "cas-76-05-1",
+    "cas-1493-13-6",
+    "cas-1333-83-1",
+    "cas-10555-76-7",
+    "cas-10035-10-6",
+    "cas-12021-95-3",
+    "cas-14044-65-6",
+    "cas-76-05-1",
+    "cas-1493-13-6",
+    "cas-1333-83-1",
+    "cas-10555-76-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-16872-11-0/"
+}

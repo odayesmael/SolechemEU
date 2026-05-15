@@ -1,0 +1,59 @@
+{
+  "id": "1265",
+  "name": "Perfluoro(2-methyl-3-pentanone)",
+  "slug": "cas-756-13-8",
+  "cas": "756-13-8",
+  "ec": "436-710-6",
+  "formula": "C6F12O",
+  "mw": "316.04 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Electronics",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Perfluoro(2-methyl-3-pentanone) (CAS 756-13-8 ), commercially known as Novec 649 and classified under the fluid designation FK-5-1-12 , is a fully fluorinated ketone solvent used in precision cleaning and fire suppression applications. Its low global warming potential relative to legacy fluorinated solvents has made it a preferred alternative in industries transitioning away from older halon and HFC-based chemistries. In electronics manufacturing, it is used as a cleaning and defluxing solvent for PCBs, semiconductor components, and precision assemblies where residue-free performance is critical. Industrial cleaning operations deploy it for degreasing metal parts and optical components where hydrocarbon or aqueous systems are unsuitable for the specific application. It also functions as a heat transfer fluid and dielectric coolant in immersion cooling systems for data center hardware, providing efficient thermal management for high-density servers. In fire suppression, FK-5-1-12 is the active agent in clean agent systems designed to protect sensitive equipment without leaving conductive or corrosive residues after discharge. Perfluoro(2-methyl-3-pentanone) is supplied as a clear, low-viscosity liquid in drums and bulk containers sized for industrial consumption and large-scale manufacturing requirements. It is available in high-purity technical grades meeting the performance requirements of electronics-grade cleaning and fire suppression system standards and OEM-specified grades. Contact us for supply of Perfluoro(2-methyl-3-pentanone) Request Quote",
+  "physicalProperties": "Melting Point: 24 °C; Boiling Point: 49.0 °C @ Press: 759.8 Torr; Density: 0.60681 g/cm³; Color: Colorless to Almost colorless; Form: clear liquid; Water Solubility: 24-332.6mg/L at 25℃; Vapor Pressure: 31.6-40.4kPa at 20-25℃; Log P: 2.79-5.48 at 20-25℃",
+  "safetyHandling": "Warning GHS08 GHS09 Hazard Statements H411 H411 H412 H412 Precautionary Statements P203 P203 P273 P273 P280 P280 P318 P318 P391 P391 P405 P405 P501 P501",
+  "tradeRegulatory": "HS Code: 2914790040",
+  "otherNames": "Novec 649 | heptafluoroisopropyl pentafluoroethyl ketone | FK-5-1-12 | 1,1,1,2,2,4,5,5,5-nonafluoro-4-(trifluoromethyl)-3-pentanone | dry water | Novec 1230 | 1,1,1,2,2,4,5,5,5-nonafluoro-4-(trifluoromethyl)pentan-3-one | 3-Pentanone, 1,1,1,2,2,4,5,5,5-nonafluoro-4-(trifluoromethyl)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "2914790040",
+  "similarProducts": [
+    "cas-13171-18-1",
+    "cas-872-50-4",
+    "cas-67-64-1",
+    "cas-98-56-6",
+    "cas-287-92-3",
+    "cas-106-94-5",
+    "cas-78-78-4",
+    "cas-78-59-1",
+    "cas-75-73-0",
+    "cas-108-94-1",
+    "cas-110-43-0",
+    "cas-127-18-4",
+    "cas-98-86-2",
+    "cas-110-12-3",
+    "cas-78-59-1",
+    "cas-75-73-0",
+    "cas-108-94-1",
+    "cas-110-43-0",
+    "cas-127-18-4",
+    "cas-98-86-2",
+    "cas-110-12-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-756-13-8/"
+}

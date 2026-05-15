@@ -1,0 +1,62 @@
+{
+  "id": "124",
+  "name": "1-pentanol",
+  "slug": "cas-71-41-0",
+  "cas": "71-41-0",
+  "ec": "200-752-1",
+  "formula": "C5H12O",
+  "mw": "88.15 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Food & Nutrition",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Pentanol ( CAS 71-41-0 ), also known as primary amyl alcohol, is a straight-chain aliphatic alcohol used as a solvent, chemical intermediate, and flavoring agent across food, cosmetic, and polymer industries. FEMA 2056 status confirms its recognized use in flavor applications. Its moderate chain length positions it between short-chain and fatty alcohols, making it useful where both solvency and mild odor character are required. In flavor formulations, 1-pentanol contributes a mild, fusel-like note and functions as a carrier or co-solvent for flavor concentrates in food and beverage products. Polymer manufacturers use it as a reactive intermediate in the synthesis of plasticizers and esters, particularly amyl acrylate and amyl acetate. In personal care, it acts as a solvent and viscosity modifier. It is utilized in emulsions and fragrance bases where a light, non-greasy carrier is needed. It also serves as a process solvent in pharmaceutical and specialty chemical synthesis. This material is operationally relevant where controlled polarity and low water miscibility are required. 1-Pentanol is supplied as a clear liquid in drums and IBC containers. Food-grade material meeting FCC specifications is available for flavor and fragrance applications, while technical-grade product serves industrial solvent and synthesis uses. Contact us for supply of 1-pentanol Request Quote",
+  "physicalProperties": "Melting Point: -79 °C; Boiling Point: 137.5 °C; Density: 0.8146 g/cm³ @ Temp: 20 °C; Flash Point: 120 °F; Appearance: Amyl alcohols (pentanols) have eight isomers. All are flammable, colorless liquids, except the isomer 2,2- dimethyl-1-propanol, which is a crystalline solid.; Color: APHA: ≤30; Odor: Pleasant 0.1 ppm; Form: Liquid; Water Solubility: 22 g/L (22 ºC); Vapor Pressure: 1 mm Hg ( 13.6 °C); Refractive Index: n 20/D 1.409(lit.); pH: 7 (20°C, 22g/L); Log P: 1.51",
+  "safetyHandling": "Warning GHS02 GHS07 GHS05 GHS08 Hazard Statements H226 Flammable liquid and vapor H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051990; UN Number: 1105; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "primary amyl alcohol | pentyl alcohol | pentanol-1 | n-pentyl alcohol | n-pentanol | n-pentan-1-ol | n-C5H11OH | n-butylcarbinol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05",
+    "GHS08"
+  ],
+  "hsCode": "29051990",
+  "similarProducts": [
+    "cas-111-27-3",
+    "cas-71-36-3",
+    "cas-137-32-6",
+    "cas-111-70-6",
+    "cas-123-51-3",
+    "cas-111-87-5",
+    "cas-71-23-8",
+    "cas-111-29-5",
+    "cas-143-08-8",
+    "cas-628-63-7",
+    "cas-112-42-5",
+    "cas-110-58-7",
+    "cas-109-52-4",
+    "cas-78-92-2",
+    "cas-111-29-5",
+    "cas-143-08-8",
+    "cas-628-63-7",
+    "cas-112-42-5",
+    "cas-110-58-7",
+    "cas-109-52-4",
+    "cas-78-92-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-71-41-0/"
+}

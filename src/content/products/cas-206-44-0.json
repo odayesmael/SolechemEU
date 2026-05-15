@@ -1,0 +1,58 @@
+{
+  "id": "969",
+  "name": "Fluoranthene",
+  "slug": "cas-206-44-0",
+  "cas": "206-44-0",
+  "ec": "205-912-4",
+  "formula": "C16H10",
+  "mw": "202.25 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Fluoranthene (CAS 206-44-0 ), also known as Idryl, is a polycyclic aromatic hydrocarbon sourced primarily as a coal tar and petroleum refining byproduct. It serves as a reference standard and analytical marker in environmental monitoring programs. In the oil, gas, and energy sectors, this compound is used as a certified reference standard for calibrating analytical instruments that detect PAH contamination in soil, water, and sediment samples. Environmental testing laboratories rely on it to validate GC-MS and HPLC methods required under regulatory compliance frameworks such as EPA Method 8270. This ensures accuracy in industrial research applications. Research institutions use this chemical as a building block in organic electronics development, particularly in the synthesis of fluorescent dyes and organic semiconductor materials for advanced technology. It also appears in combustion research as a tracer compound for studying soot formation and hydrocarbon pyrolysis processes. This makes it essential for understanding complex chemical reactions in energy production. The product is supplied as a pale yellow to white crystalline solid. It is available in research-grade and certified reference standard grades, with purity levels typically ranging from 98% up to 99.5%+. Packaging options range from small quantities for laboratory use to larger bulk formats for industrial research procurement. We ensure high quality standards for all analytical and industrial applications. Contact us for supply of Fluoranthene Request Quote",
+  "physicalProperties": "Melting Point: 111 °C; Boiling Point: 384 °C; Density: 1.252 g/cm³ @ Temp: 0 °C; Flash Point: -18 °C; Appearance: solid; Color: Yellow or yellow-green to gray-beige; Form: Crystalline Powder, Crystals and/or Chunks; Water Solubility: insoluble; Refractive Index: 1.0996",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H302 Harmful if swallowed H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P330 Rinse mouth. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help.",
+  "tradeRegulatory": "HS Code: 29029090; UN Number: 1593; ADR Class: 6.1; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "benzo[jk]fluorene | Idryl | 1,2-Benzacenaphthene | 1,2-(1,8-Naphthylene)benzene | Benzene, 1,2-(1,8-naphthalenediyl)- | 1,2-(1,8-Naphthalenediyl)benzene | Benzene, 1,2-(1,8-naphthylene)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29029090",
+  "similarProducts": [
+    "cas-86-73-7",
+    "cas-85-01-8",
+    "cas-129-00-0",
+    "cas-120-12-7",
+    "cas-7782-41-4",
+    "cas-83-32-9",
+    "cas-208-96-8",
+    "cas-91-20-3",
+    "cas-7789-75-5",
+    "cas-110-00-9",
+    "cas-7784-18-1",
+    "cas-132-64-9",
+    "cas-7681-49-4",
+    "cas-84-65-1",
+    "cas-91-20-3",
+    "cas-7789-75-5",
+    "cas-110-00-9",
+    "cas-7784-18-1",
+    "cas-132-64-9",
+    "cas-7681-49-4",
+    "cas-84-65-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-206-44-0/"
+}

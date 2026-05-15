@@ -1,0 +1,63 @@
+{
+  "id": "460",
+  "name": "N,N-bis(3-aminopropyl)methylamine",
+  "slug": "cas-105-83-9",
+  "cas": "105-83-9",
+  "ec": "203-336-8",
+  "formula": "C7H19N3",
+  "mw": "145.25 g/mol",
+  "category": "Chelating Agents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N,N-bis(3-aminopropyl)methylamine (CAS 105-83-9 ), also known commercially as methyldipropylenetriamine, is a trifunctional amine used as a reactive building block and curing agent across industrial chemistry. Its three amine groups enable crosslinking, chelation, and corrosion inhibition in demanding formulation environments. In epoxy coatings and adhesives, it acts as a curing agent that builds chemical resistance. This versatile chemical builds mechanical durability into the cured film. Water treatment programs use it to sequester metal ions and inhibit corrosion in cooling water and oilfield systems. Lubricant and metalworking fluid formulators incorporate it as a corrosion inhibitor that protects ferrous and non-ferrous metal surfaces under high-stress conditions. In polymer synthesis, it functions as a monomer or chain extender for polyamide and polyurea systems where controlled crosslink density is required for the final product. N,N-bis(3-aminopropyl)methylamine is supplied as a liquid at ambient temperature. Technical grade is the standard commercial offering, with purity levels typically at 98% or higher. This high purity level is essential for reactive applications. Bulk quantities are available in drums and IBC containers, with packaging suited to industrial procurement volumes. Contact us for supply of N,N-bis(3-aminopropyl)methylamine Request Quote",
+  "physicalProperties": "Melting Point: -30--28°C; Boiling Point: 97-100 °C @ Press: 2 Torr; Density: 0.9023 g/cm³ @ Temp: 20 °C; Flash Point: 217 °F; Color: Colorless to Almost colorless; Form: Liquid; Water Solubility: 1000g/L at 20℃; Vapor Pressure: 6 mm Hg ( 110 °C); Refractive Index: n 20/D 1.4725(lit.); Log P: -0.94 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 Hazard Statements H302 Harmful if swallowed H310 Fatal in contact with skin H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2921.29.0055; UN Number: 2810; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 1",
+  "otherNames": "N'-(3-aminopropyl)-n'-methylpropane-1,3-diamine | Bis(3-aminopropyl)methylamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "2921.29.0055",
+  "similarProducts": [
+    "cas-10563-29-8",
+    "cas-102-83-0",
+    "cas-123-00-2",
+    "cas-67151-63-7",
+    "cas-5332-73-0",
+    "cas-6711-48-4",
+    "cas-143-23-7",
+    "cas-6291-84-5",
+    "cas-2212-32-0",
+    "cas-103-83-3",
+    "cas-25513-64-8",
+    "cas-9046-10-0",
+    "cas-56-18-8",
+    "cas-109-55-7",
+    "cas-6291-84-5",
+    "cas-2212-32-0",
+    "cas-103-83-3",
+    "cas-25513-64-8",
+    "cas-9046-10-0",
+    "cas-56-18-8",
+    "cas-109-55-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-105-83-9/"
+}

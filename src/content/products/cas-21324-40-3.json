@@ -1,0 +1,60 @@
+{
+  "id": "2926",
+  "name": "Lithium hexafluorophosphate",
+  "slug": "cas-21324-40-3",
+  "cas": "21324-40-3",
+  "ec": "244-334-7",
+  "formula": "F6P.Li",
+  "mw": "151.9 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium hexafluorophosphate (CAS 21324-40-3 ), commonly referenced as LiPF6, is the dominant electrolyte salt in commercial lithium-ion battery manufacturing. It enables efficient lithium-ion transport between electrodes, directly determining cell conductivity and cycle life. LiPF6 is the primary electrolyte solute in lithium-ion cells used across electric vehicles, consumer electronics, and grid-scale energy storage. It is dissolved in carbonate solvent blends to form the electrolyte solution for various applications. Battery manufacturers formulate electrolytes at specific concentrations to meet cell performance targets for capacity retention and rate capability. Beyond standard Li-ion cells, it is used in electrolyte development for solid-state research. Next-generation lithium battery research relies on this material for testing and development. Electrolyte producers and cell manufacturers source it as a critical input for both production-scale electrolyte blending and R&D formulation work. Lithium hexafluorophosphate is supplied as a white crystalline powder or in pre-dissolved electrolyte solution form. Battery-grade is the commercially relevant specification, with purity levels typically at 99.9% or higher. Strict controls are maintained on moisture, HF content, and metallic impurities to ensure performance. Packaging is offered in moisture-controlled formats, sealed under inert atmosphere, given the material's sensitivity to humidity. Proper handling during storage and transit is essential to maintain the chemical integrity of the salt. This ensures that the final battery cells meet the rigorous safety and efficiency standards required by the global energy industry. Contact us for supply of Lithium hexafluorophosphate Request Quote",
+  "physicalProperties": "Melting Point: 200.00 °C; Boiling Point: 90°C; Density: 1.5 g/cm³ (solid); Flash Point: 25 °C; Appearance: white crystalline powder; Color: APHA: <50; Form: Powder; Water Solubility: soluble",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28269020; UN Number: 3260; ADR Class: 8; Packing Group: I; Storage Class: 6.1B - Non-combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Lithium hexafluorophosphate(V) | LiPF6 | Phosphate(1-), hexafluoro-, lithium | T9T8DY51J3 | Lithium hexafluorophosphate (Battery Grade) | Phosphate(1-), hexafluoro-, lithium (1:1) | Lithium hexafluorophosphate (LiPF6) | Lithium hexafluorophosphate(1-)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28269020",
+  "similarProducts": [
+    "cas-7789-24-4",
+    "cas-554-13-2",
+    "cas-7439-93-2",
+    "cas-1310-65-2",
+    "cas-1310-66-3",
+    "cas-10377-48-7",
+    "cas-16871-90-2",
+    "cas-7789-23-3",
+    "cas-7447-41-8",
+    "cas-919-16-4",
+    "cas-7790-69-4",
+    "cas-13568-40-6",
+    "cas-546-89-4",
+    "cas-13814-96-5",
+    "cas-7789-23-3",
+    "cas-7447-41-8",
+    "cas-919-16-4",
+    "cas-7790-69-4",
+    "cas-13568-40-6",
+    "cas-546-89-4",
+    "cas-13814-96-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-21324-40-3/"
+}

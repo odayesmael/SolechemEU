@@ -1,0 +1,63 @@
+{
+  "id": "738",
+  "name": "Trimethyl borate",
+  "slug": "cas-121-43-7",
+  "cas": "121-43-7",
+  "ec": "204-468-9",
+  "formula": "C3H9BO3",
+  "mw": "103.92 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethyl borate ( CAS 121-43-7 ), also referred to as TMB, is a boron-containing ester used as a reactive intermediate and functional additive across chemical manufacturing. It acts as a boron source in synthesis and a flame retardant precursor. The compound also serves as a stabilizing agent in polymer and agrochemical formulations. In agrochemical production, TMB serves as a boron donor in the synthesis of active ingredients and micronutrient formulations targeting boron-deficient crops. Polymer and plastics manufacturers incorporate it as a flame retardant additive and thermal stabilizer. This is particularly useful in coatings and resin systems where controlled boron delivery is required for performance. The pharmaceutical and fine chemical sectors use TMB as a reagent in borylation reactions and as a precursor to boronic acid derivatives. These applications require high precision and consistent chemical properties. In textile and paper processing, it functions as a biocidal and pH-buffering agent applied during treatment baths and finishing stages. This versatility makes it a staple in diverse industrial processing environments. Trimethyl borate is supplied as a colorless liquid, typically in drum and IBC packaging suited for industrial volumes. Standard commercial grades include technical and reagent-grade specifications for various needs. Purity levels commonly range from 97% to 99%+, meeting rigorous industrial requirements. Buyers should confirm moisture sensitivity requirements with suppliers, as grade selection affects handling and storage conditions. Contact us for supply of Trimethyl borate Request Quote",
+  "physicalProperties": "Melting Point: -29.3 °C; Boiling Point: 67-68 °C; Density: 0.915 g/cm³; Flash Point: 8 °F; Appearance: Water-white liquid. Miscible with ether, methanol, hexane, tetrahydrofuran; decomposes in presence of water.; Color: Colorless; Form: Liquid; Water Solubility: reacts; Vapor Pressure: 147.9-148 hPa ( 20 °C); Refractive Index: n 20/D 1.358(lit.)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS06 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H319 Causes serious eye irritation H331 Toxic if inhaled H335 May cause respiratory irritation H360 May damage fertility or the unborn child H370 Causes damage to organs Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209085; UN Number: 2416; ADR Class: 3; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "boric acid, trimethyl ester | B(OMe)3 | B(OCH3)3 | (MeO)3B | Methyl borate | Borester O | Boric acid (H3BO3), trimethyl ester | Methyl borate ((MeO)3B) | TMB",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29209085",
+  "similarProducts": [
+    "cas-22238-17-1",
+    "cas-512-56-1",
+    "cas-2459-10-1",
+    "cas-149-73-5",
+    "cas-1445-45-0",
+    "cas-2857-97-8",
+    "cas-3290-92-4",
+    "cas-77-99-6",
+    "cas-75-50-3",
+    "cas-97-94-9",
+    "cas-15625-89-5",
+    "cas-552-30-7",
+    "cas-80-70-6",
+    "cas-1113-78-6",
+    "cas-77-99-6",
+    "cas-75-50-3",
+    "cas-97-94-9",
+    "cas-15625-89-5",
+    "cas-552-30-7",
+    "cas-80-70-6",
+    "cas-1113-78-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-121-43-7/"
+}

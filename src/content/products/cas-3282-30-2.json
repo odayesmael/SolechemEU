@@ -1,0 +1,63 @@
+{
+  "id": "1701",
+  "name": "Pivaloyl chloride",
+  "slug": "cas-3282-30-2",
+  "cas": "3282-30-2",
+  "ec": "221-921-6",
+  "formula": "C5H9ClO",
+  "mw": "120.58 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pivaloyl chloride (CAS 3282-30-2 ), also known as trimethylacetyl chloride, is a reactive acylating agent used across pharmaceutical synthesis, agrochemical manufacturing, and specialty chemical production. It introduces the pivaloyl protecting group or activates carboxylic acid derivatives for downstream coupling reactions. In pharmaceutical manufacturing, it activates amino acids and carboxylic acids to form mixed anhydrides. This process enables efficient peptide bond formation and API synthesis. Agrochemical producers use it to manufacture herbicide and pesticide esters, where the bulky pivaloyl group improves hydrolytic stability. The compound functions as a catalyst precursor in Ziegler-Natta polymerization systems. In these applications, pivaloyl-based compounds influence catalyst activity and polymer tacticity during the manufacturing process. Contract synthesis and fine chemical operations also rely on it for acylation steps in multi-stage routes to complex intermediates. It is a versatile building block for high-value chemical production. Pivaloyl chloride is supplied as a liquid in standard packaging ranging from small laboratory quantities to bulk drums. Technical and synthesis-grade material is the primary commercial form available. Purity specifications are typically at 98% or higher for industrial use. Buyers should confirm moisture-controlled packaging requirements, as the product is sensitive to hydrolysis during storage and transit. Contact us for supply of Pivaloyl chloride Request Quote",
+  "physicalProperties": "Melting Point: -56 °C; Boiling Point: 102-104 °C; Density: 0.9798 g/cm³ @ Temp: 20 °C; Flash Point: 48 °F; Appearance: Colorless to yellow liquid; Color: Clear almost colorless to light pink; Form: Liquid; Water Solubility: Hydrolysis; Vapor Pressure: 36 mm Hg ( 20 °C); Refractive Index: n 20/D 1.412(lit.); Log P: 1.680 (est)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H370 Causes damage to organs H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159080; UN Number: 2438; ADR Class: 6.1; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "2,2-Dimethylpropanoyl chloride | Trimethylacetyl chloride | Propanoyl chloride, 2,2-dimethyl- | Pivalyl chloride | 2,2-Dimethylpropionyl chloride | Pivalolyl chloride | Pivalic acid chloride | Neopentanoyl chloride",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29159080",
+  "similarProducts": [
+    "cas-75-36-5",
+    "cas-79-04-9",
+    "cas-5856-77-9",
+    "cas-108-23-6",
+    "cas-107-05-1",
+    "cas-98-88-4",
+    "cas-99-63-8",
+    "cas-79-11-8",
+    "cas-18162-48-6",
+    "cas-7719-09-7",
+    "cas-7647-10-1",
+    "cas-109-70-6",
+    "cas-4835-90-9",
+    "cas-910-31-6",
+    "cas-79-11-8",
+    "cas-18162-48-6",
+    "cas-7719-09-7",
+    "cas-7647-10-1",
+    "cas-109-70-6",
+    "cas-4835-90-9",
+    "cas-910-31-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3282-30-2/"
+}

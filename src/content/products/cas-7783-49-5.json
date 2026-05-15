@@ -1,0 +1,61 @@
+{
+  "id": "2163",
+  "name": "Zinc fluoride",
+  "slug": "cas-7783-49-5",
+  "cas": "7783-49-5",
+  "ec": "232-001-9",
+  "formula": "F2Zn",
+  "mw": "103.4 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Zinc fluoride (CAS 7783-49-5 ) is an inorganic salt used industrially as a flux agent, surface treatment chemical, and catalytic component. It delivers fluoride ion activity in controlled metallurgical and electrochemical processes. In metal surface treatment and electroplating, it acts as a bath additive that improves coating adhesion and deposit uniformity on steel and aluminum substrates. This ensures high-quality finishes in industrial manufacturing. Semiconductor and electronics manufacturers use it in etching formulations and as a precursor in thin-film deposition processes. Precise fluoride dosing is critical for these high-tech applications to maintain performance. In the production of specialty glass and optical coatings, it functions as a flux that lowers melting points. It also modifies refractive properties to meet specific optical requirements for lenses and screens. Mining and mineral processing operations apply it as a flotation modifier, adjusting surface chemistry to improve separation efficiency. This allows for better recovery of target ores during the extraction process. The product is supplied as a white crystalline powder or anhydrous granules. The anhydrous form is preferred where moisture sensitivity in downstream processing is a primary concern for the manufacturer. Technical grade material is the standard commercial offering, with purity levels typically at 98% or higher. High-purity grades are available for electronics and optical applications where trace metal limits are controlled. Contact us for supply of Zinc fluoride Request Quote",
+  "physicalProperties": "Melting Point: 872 °C; Boiling Point: 1500 °C; Density: 4.9 g/cm³; Flash Point: 1500°C; Appearance: White powder. Soluble in hot acids; slightly soluble in water; insoluble in alcohol.; Color: White to beige to light brown; Form: powder; Water Solubility: SLIGHTLY SOLUBLE; Vapor Pressure: 1 mm Hg ( 970 °C)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28261990; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 3",
+  "otherNames": "zinc(II) fluoride | L9V334775I | RefChem:196025",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28261990",
+  "similarProducts": [
+    "cas-16923-95-8",
+    "cas-7789-75-5",
+    "cas-12021-95-3",
+    "cas-7646-85-7",
+    "cas-7784-18-1",
+    "cas-7789-24-4",
+    "cas-7789-23-3",
+    "cas-7681-49-4",
+    "cas-7440-66-6",
+    "cas-12125-01-8",
+    "cas-7779-90-0",
+    "cas-7787-32-8",
+    "cas-7733-02-0",
+    "cas-5970-45-6",
+    "cas-7681-49-4",
+    "cas-7440-66-6",
+    "cas-12125-01-8",
+    "cas-7779-90-0",
+    "cas-7787-32-8",
+    "cas-7733-02-0",
+    "cas-5970-45-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7783-49-5/"
+}

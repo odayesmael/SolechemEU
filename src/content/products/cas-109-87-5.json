@@ -1,0 +1,60 @@
+{
+  "id": "565",
+  "name": "Dimethoxymethane",
+  "slug": "cas-109-87-5",
+  "cas": "109-87-5",
+  "ec": "203-714-2",
+  "formula": "C3H8O2",
+  "mw": "76.09 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethoxymethane (CAS 109-87-5 ), commercially known as Methylal, is a fast-evaporating solvent used across pharmaceutical manufacturing, specialty chemical synthesis, and flavoring applications. Its low boiling point and clean evaporation profile make it a preferred choice where residue-free solvent performance is a procurement priority for industrial manufacturers and labs. In pharmaceutical manufacturing, Methylal functions as a reaction solvent and extraction medium where controlled evaporation and low residual contamination are critical to API quality. Flavor formulators incorporate it as a carrier solvent and flavoring agent, particularly in applications requiring rapid volatilization of aromatic compounds in various mixtures. In specialty chemical synthesis, it acts as a formaldehyde equivalent and catalyst precursor for producing polyoxymethylene dimethyl ethers and other acetal-based intermediates. Industrial cleaning and aerosol formulations also use it as a co-solvent to improve solvency and reduce VOC content in finished products across many different sectors. Dimethoxymethane is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for larger industrial volumes and high-capacity manufacturing needs. Food-grade and pharmaceutical-grade specifications are available to meet FCC and USP compliance requirements. Technical-grade material is standard for industrial solvent use. Contact us for supply of Dimethoxymethane Request Quote",
+  "physicalProperties": "Melting Point: -105 °C; Boiling Point: 41.6 °C @ Press: 760 Torr; Density: 0.8593 g/cm³ @ Temp: 20 °C; Flash Point: -18 °C; Appearance: Methylal is a colorless liquid with a pungent odor.; Color: Clear colorless; Odor: Mild, ethereal; chloroform-like.; Form: Liquid; Water Solubility: 32.3 g/100 mL (16 ºC); Vapor Pressure: 6.38 psi ( 20 °C); Refractive Index: n 20/D 1.354; pH: pH (12.5vol % , 25℃) : 4.5～6.6; Log P: 0",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29110000; UN Number: 1234; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "methylene glycol dimethylether | Methylene dimethyl ether | Methylal | Methoxymethyl methyl ether | Formaldehyde dimethylacetal | dimethyl formal | bis(methyloxy)methane | bis(methoxy)methane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29110000",
+  "similarProducts": [
+    "cas-115-10-6",
+    "cas-67-56-1",
+    "cas-77-76-9",
+    "cas-463-57-0",
+    "cas-616-38-6",
+    "cas-110-71-4",
+    "cas-75-85-4",
+    "cas-107-31-3",
+    "cas-108-59-8",
+    "cas-77-78-1",
+    "cas-67-68-5",
+    "cas-7779-41-1",
+    "cas-68-12-2",
+    "cas-624-92-0",
+    "cas-107-31-3",
+    "cas-108-59-8",
+    "cas-77-78-1",
+    "cas-67-68-5",
+    "cas-7779-41-1",
+    "cas-68-12-2",
+    "cas-624-92-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-87-5/"
+}

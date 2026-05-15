@@ -1,0 +1,56 @@
+{
+  "id": "3231",
+  "name": "Fmoc-L-tryptophan",
+  "slug": "cas-35737-15-6",
+  "cas": "35737-15-6",
+  "ec": "252-706-5",
+  "formula": "C26H22N2O4",
+  "mw": "426.5 g/mol",
+  "category": "Amino Acids & Peptides",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Fmoc-L-tryptophan (CAS 35737-15-6 ), commonly referenced as Fmoc-Trp-OH, is a protected amino acid building block used in solid-phase peptide synthesis (SPPS). The Fmoc protecting group allows sequential, controlled chain assembly under mild deprotection conditions, making this compound a standard reagent in peptide manufacturing workflows. In pharmaceutical peptide production, Fmoc-Trp-OH is incorporated into therapeutic peptide sequences where tryptophan residues are required for biological activity or structural integrity. Research and contract synthesis organizations use it to produce peptide APIs, peptide libraries, and reference standards at both discovery and scale. In biotechnology, it supports the synthesis of peptide-based probes, linkers, and conjugates used in diagnostic and analytical applications for various industries. Academic and industrial peptide chemists also rely on it for custom sequence development during early-stage drug candidate screening and development processes. Fmoc-Trp-OH is supplied as a white to off-white crystalline powder. It is available in research quantities through to multi-kilogram lots to support scale-up. Common grades include synthesis-grade for research use and higher-purity specifications aligned with requirements for commercial peptide manufacturing and production. Contact us for supply of Fmoc-L-tryptophan Request Quote",
+  "physicalProperties": "Melting Point: 86-90 °C; Boiling Point: 541.92°C (rough estimate); Density: 1.2501 (rough estimate); Appearance: white to light yellow crystal powde; Color: White to Almost white; Form: powder to crystal; Refractive Index: -28.5 ° (C=1, DMF)",
+  "safetyHandling": "",
+  "tradeRegulatory": "HS Code: 29339900; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "Nalpha-(9-Fluorenylmethoxycarbonyl)-L-tryptophan | Fmoc-Trp-OH | RefChem:599553 | Fmoc-L-Trp-OH | Nalpha-FMOC-L-Tryptophan | L-Tryptophan, N-[(9H-fluoren-9-ylmethoxy)carbonyl]- | (2S)-2-(9H-fluoren-9-ylmethoxycarbonylamino)-3-(1H-indol-3-yl)propanoic acid | N-[(9H-Fluoren-9-ylmethoxy)carbonyl]-L-tryptophan",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-24587-41-5",
+    "cas-73-22-3",
+    "cas-15260-10-3",
+    "cas-50439-45-7",
+    "cas-4350-09-8",
+    "cas-56-69-9",
+    "cas-445-03-4",
+    "cas-76-05-1",
+    "cas-109089-77-2",
+    "cas-83949-32-0",
+    "cas-121-50-6",
+    "cas-407-25-0",
+    "cas-358-23-6",
+    "cas-63-91-2",
+    "cas-76-05-1",
+    "cas-109089-77-2",
+    "cas-83949-32-0",
+    "cas-121-50-6",
+    "cas-407-25-0",
+    "cas-358-23-6",
+    "cas-63-91-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-35737-15-6/"
+}

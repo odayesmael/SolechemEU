@@ -1,0 +1,63 @@
+{
+  "id": "2510",
+  "name": "Disulfur dichloride",
+  "slug": "cas-10025-67-9",
+  "cas": "10025-67-9",
+  "ec": "233-036-2",
+  "formula": "Cl2S2",
+  "mw": "135.0 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Rubber & Tire",
+    "Mining & Metals",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Disulfur dichloride (CAS 10025-67-9 ), also known as Sulphur Monochloride or S2Cl2, is a reactive sulfur chloride compound used industrially as a cross-linking agent and chemical intermediate. It functions primarily as a vulcanizing agent in rubber processing and as a precursor in synthesis and catalytic applications. In rubber and tire manufacturing, S2Cl2 cold-vulcanizes natural and synthetic rubber. This process occurs at low temperatures, enabling processing of heat-sensitive articles such as thin-walled goods and surgical items. In agrochemical production, it serves as an intermediate in synthesizing sulfur-containing pesticides. It is also used for crop protection compounds. Mining and metallurgical operations use it in the extraction and refining of certain metals, particularly in chlorination-based processes for recovering platinum group metals. It also functions as a reagent and catalyst precursor in organic synthesis, facilitating the introduction of sulfur and chlorine functionalities into target molecules. This makes it a versatile tool for chemical plants. Disulfur dichloride is supplied as an amber to yellow fuming liquid, typically in drum or IBC packaging suited to its highly reactive nature. It is available in technical grade for various industrial uses. Purity specifications commonly range from 95% to 98% depending on the intended application. Buyers should confirm stabilizer content and moisture levels, as these affect reactivity and shelf life in downstream processes. Contact us for supply of Disulfur dichloride Request Quote",
+  "physicalProperties": "Melting Point: -77 °C; Boiling Point: 135.6 °C; Density: 1.6885 g/cm³ @ Temp: 15.5 °C; Flash Point: >130°C; Appearance: Sulfur chloride is a fuming, oily liquid with a yellowish-red to amber color and a suffocating odor. It has an added hazard since it oxidizes and hydrolyzes to sulfur dioxide and hydrogen chloride.; Color: yellow-red oily liquid; Form: yellow-red oily liquid; Water Solubility: reacts; Vapor Pressure: 6.8 mm Hg ( 20 °C); Refractive Index: n 20/D 1.658(lit.)",
+  "safetyHandling": "Danger GHS05 GHS06 GHS09 GHS07 GHS08 Hazard Statements H301 H301 H314 H314 H318 H318 H330 H330 H331 H331 H332 H332 H335 H335 H371 H371 H400 H400 H301+H331 H301+H331 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P284 P284 P316 P316 P317 P317 P319 P319 P320 P320 P321 P321 P330 P330 P363 P363 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P304+P340 P304+P340 P308+P316 P308+P316 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28121091; UN Number: 3390; ADR Class: 6.1; Packing Group: I; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Sulphur Mono Chloride | chlorosulfanyl thiohypochlorite | Sulfur monochloride | S2Cl2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28121091",
+  "similarProducts": [
+    "cas-7791-25-5",
+    "cas-7704-34-9",
+    "cas-7719-09-7",
+    "cas-97-77-8",
+    "cas-75-15-0",
+    "cas-239446-62-9",
+    "cas-128-04-1",
+    "cas-150-60-7",
+    "cas-98-09-9",
+    "cas-683-18-1",
+    "cas-10025-91-9",
+    "cas-103-34-4",
+    "cas-7790-94-5",
+    "cas-624-92-0",
+    "cas-150-60-7",
+    "cas-98-09-9",
+    "cas-683-18-1",
+    "cas-10025-91-9",
+    "cas-103-34-4",
+    "cas-7790-94-5",
+    "cas-624-92-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10025-67-9/"
+}

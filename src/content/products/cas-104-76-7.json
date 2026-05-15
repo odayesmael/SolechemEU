@@ -1,0 +1,65 @@
+{
+  "id": "444",
+  "name": "2-ethylhexanol",
+  "slug": "cas-104-76-7",
+  "cas": "104-76-7",
+  "ec": "203-234-3",
+  "formula": "C8H18O",
+  "mw": "130.23 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Lubricants & Metalworking",
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Ethylhexanol (CAS 104-76-7 ), also known as isooctyl alcohol, is a branched-chain fatty alcohol used across chemical manufacturing as a solvent, plasticizer precursor, and chemical intermediate. Its primary commercial role is as a building block for dioctyl phthalate (DOP) and other plasticizers, as well as acrylate esters used in coatings and adhesives for industrial applications. In plastics processing, it reacts with phthalic anhydride or adipic acid to produce plasticizers that soften PVC in flexible films, cables, and flooring. This ensures durability and flexibility. Coatings and adhesive formulators use 2-ethylhexyl acrylate to control film flexibility and tack in pressure-sensitive and architectural coatings. It is essential for high-performance finishes. In metalworking and lubricant formulations, it functions as a coupling solvent and intermediate for antiwear additive synthesis. This helps maintain stability in demanding mechanical environments. Personal care and fragrance manufacturers use it under FEMA 3151 as a low-volatility solvent and carrier in fragrance compositions and emollient systems for various consumer goods. The product is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Technical grade is the standard commercial specification for industrial and chemical synthesis applications. Food and flavor-grade material conforming to the required standards is available for fragrance and flavor carrier applications. We ensure high purity for all specialized manufacturing needs. Contact us for supply of 2-ethylhexanol Request Quote",
+  "physicalProperties": "Melting Point: -76 °C; Boiling Point: 184.34 °C; Density: 0.8344 g/cm³ @ Temp: 20 °C; Flash Point: 171 °F; Appearance: colourless liquid; Color: Clear; Odor: sweet.; Form: Liquid; Water Solubility: 1 g/L (20 ºC); Vapor Pressure: 0.2 mm Hg ( 20 °C); Refractive Index: n 20/D 1.431(lit.); pH: 7 (1g/l, H2O, 20℃); Log P: 2.9 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 GHS05 Hazard Statements H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H227 Combustible liquid [Warning Flammable liquids] H315 Causes skin irritation [Warning Skin corrosion/irritation] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity] H371 May cause damage to organs [Warning Specific target organ toxicity, single exposure] H401 Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard] H312 Harmful in contact with skin [Warning Acute toxicity, dermal] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H332 Harmful if inhaled [Warning Acute toxicity, inhalation]",
+  "tradeRegulatory": "HS Code: 29051610; WGK (Germany): 2",
+  "otherNames": "isooctyl alcohol | 2-Ethylhexan-1-ol | 2-ETHYL-1-HEXANOL | 2-Ethylhexyl alcohol | 1-Hexanol, 2-ethyl- | Alcohol, 2-ethylhexyl | 2-Aethylhexanol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS05"
+  ],
+  "hsCode": "29051610",
+  "similarProducts": [
+    "cas-103-09-3",
+    "cas-104-75-6",
+    "cas-111-27-3",
+    "cas-7425-14-1",
+    "cas-149-57-5",
+    "cas-112-25-4",
+    "cas-12645-31-7",
+    "cas-94-96-2",
+    "cas-26952-21-6",
+    "cas-103-11-7",
+    "cas-71566-49-9",
+    "cas-6169-06-8",
+    "cas-22047-49-0",
+    "cas-688-84-6",
+    "cas-94-96-2",
+    "cas-26952-21-6",
+    "cas-103-11-7",
+    "cas-71566-49-9",
+    "cas-6169-06-8",
+    "cas-22047-49-0",
+    "cas-688-84-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-104-76-7/"
+}

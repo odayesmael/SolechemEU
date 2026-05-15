@@ -1,0 +1,63 @@
+{
+  "id": "2097",
+  "name": "Potassium persulfate",
+  "slug": "cas-7727-21-1",
+  "cas": "7727-21-1",
+  "ec": "231-781-8",
+  "formula": "H2O8S2.2K",
+  "mw": "270.33 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Potassium persulfate (CAS 7727-21-1 ), also known by the abbreviation KPS and the food additive designation E922 , is an inorganic oxidizing agent used across polymer manufacturing and bleaching operations. Potassium peroxodisulfate is the preferred IUPAC-aligned term recognized in European technical and regulatory contexts, while Anthion appears in some legacy industrial references for surface treatment processes. In emulsion and suspension polymerization, KPS acts as a free-radical initiator for producing acrylic, styrene-butadiene, and vinyl acetate-based polymers at controlled reaction temperatures. Hair bleaching and color formulations in the personal care industry rely on it to activate oxidative lightening without requiring high-temperature processing during the application phase. Textile and paper producers use it to bleach fibers and pulp, improving whiteness and surface uniformity before dyeing or coating. In water treatment, it functions as an oxidant for organic contaminants. It also serves as a persulfate-based activator in advanced oxidation processes. Potassium persulfate is supplied as a white crystalline powder or granule for various industrial and commercial uses. Standard commercial grades include technical grade for industrial polymerization and bleaching, as well as food-grade material conforming to E922 specifications for permitted food applications. Purity levels typically range from 99% and above for technical and high-purity grades. This ensures consistent performance across sensitive chemical reactions and large-scale manufacturing workflows. Contact us for supply of Potassium persulfate Request Quote",
+  "physicalProperties": "Melting Point: 14 °C; Boiling Point: 141 °C; Density: 2.477 g/cm³; Appearance: Potassium persulfate is a colorless or white, odorless crystalline material.; Color: White; Odor: Odorless; Form: Solid; Water Solubility: 5 g/100 mL (20 ºC); Vapor Pressure: 0Pa at 25℃; pH: 3.2 (50g/l, H2O, 20℃); Log P: -1 at 20℃",
+  "safetyHandling": "Danger GHS03 GHS07 GHS08 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H371 May cause damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28334000; UN Number: 1492; ADR Class: 5.1; Packing Group: III; Storage Class: 5.1B - Oxidizing hazardous materials; WGK (Germany): 1",
+  "otherNames": "Potassium peroxydisulfate | Anthion | Potassium peroxodisulfate | Potassium peroxydisulphate | Dipotassium peroxydisulfate | Dipotassium persulfate | potassium persulphate | Peroxydisulfuric acid, dipotassium salt | KPS | E922",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28334000",
+  "similarProducts": [
+    "cas-7727-54-0",
+    "cas-10361-76-9",
+    "cas-7775-27-1",
+    "cas-37222-66-5",
+    "cas-70693-62-8",
+    "cas-10058-23-8",
+    "cas-16731-55-8",
+    "cas-7778-80-5",
+    "cas-7773-03-7",
+    "cas-3811-04-9",
+    "cas-9080-79-9",
+    "cas-7722-64-7",
+    "cas-37199-66-9",
+    "cas-7758-01-2",
+    "cas-7778-80-5",
+    "cas-7773-03-7",
+    "cas-3811-04-9",
+    "cas-9080-79-9",
+    "cas-7722-64-7",
+    "cas-37199-66-9",
+    "cas-7758-01-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7727-21-1/"
+}

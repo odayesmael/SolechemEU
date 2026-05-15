@@ -1,0 +1,61 @@
+{
+  "id": "491",
+  "name": "Ethylene glycol",
+  "slug": "cas-107-21-1",
+  "cas": "107-21-1",
+  "ec": "203-473-3",
+  "formula": "C2H6O2",
+  "mw": "62.07 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Automotive",
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethylene glycol (CAS 107-21-1 ), commonly traded as MEG or monoethylene glycol, is a dihydric alcohol used across industrial manufacturing as an antifreeze agent, solvent, and polymer building block. Its low freezing point depression and high boiling point make it a primary functional ingredient in heat transfer and coolant systems. Demand is driven largely by polyester fiber and PET resin production. In the automotive and HVAC sectors, MEG is the base component in engine coolants and antifreeze formulations, protecting systems across wide temperature ranges. It acts as a core monomer in these processes. Polyester manufacturers consume it at scale as a co-monomer in PET bottle-grade resin, packaging film, and textile fiber production. In personal care, it functions as a humectant and solvent in lotions. It is also used in creams and hair care formulations where moisture retention and ingredient solubility are required. Paper and leather processing operations use it as a conditioning and softening agent. These applications improve the flexibility and workability of finished materials. Ethylene glycol is supplied as a clear, low-viscosity liquid in bulk tankers, IBC containers, and drums for global distribution. Standard commercial grades include technical-grade for industrial and polymer applications, and fiber-grade MEG meeting purity specifications required by polyester producers for high-quality manufacturing. Antifreeze-grade and inhibited formulations are also available for direct use in coolant applications. Our supply chain ensures consistent availability and adherence to rigorous industrial safety protocols. Contact us for supply of Ethylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -13 °C; Boiling Point: 197.3 °C; Density: 1.1135 g/cm³ @ Temp: 20 °C; Flash Point: 230 °F; Appearance: Ethylene glycol is a colorless, viscous, hydroscopic liquid with a sweetish taste. Often colored fluorescent yellow-green when used in automotive antifreeze. Ethylene glycol is odorless and does not provide any warning of inhalation exposure to hazardous concentrations. The Odor Threshold in air is 25 ppm.; Color: blue; Odor: Odorless; Form: Viscous Liquid; Water Solubility: miscible; Vapor Pressure: 0.08 mm Hg ( 20 °C); Refractive Index: n 20/D 1.431(lit.); pH: 6-7.5 (100g/l, H2O, 20℃); Log P: -1.36 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H303 May be harmful if swallowed H315 Causes skin irritation H316 Causes mild skin irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29053100; UN Number: 1219; ADR Class: 3; Packing Group: II; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "monoethylene glycol | glycol alcohol | ethylene alcohol | ethane-1,2-diol | 2-hydroxyethanol | 1,2-ethanediol | 1,2-dihydroxyethane | glycol | MEG | E600",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29053100",
+  "similarProducts": [
+    "cas-109-86-4",
+    "cas-111-46-6",
+    "cas-112-27-6",
+    "cas-112-60-7",
+    "cas-2807-30-9",
+    "cas-23783-42-8",
+    "cas-1002-67-1",
+    "cas-111-55-7",
+    "cas-52125-53-8",
+    "cas-111-90-0",
+    "cas-112-36-7",
+    "cas-112-25-4",
+    "cas-111-77-3",
+    "cas-928-24-5",
+    "cas-111-55-7",
+    "cas-52125-53-8",
+    "cas-111-90-0",
+    "cas-112-36-7",
+    "cas-112-25-4",
+    "cas-111-77-3",
+    "cas-928-24-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-21-1/"
+}

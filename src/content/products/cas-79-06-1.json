@@ -1,0 +1,64 @@
+{
+  "id": "212",
+  "name": "Acrylamide",
+  "slug": "cas-79-06-1",
+  "cas": "79-06-1",
+  "ec": "201-173-7",
+  "formula": "C3H5NO",
+  "mw": "71.08 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Mining & Metals",
+    "Oil, Gas & Energy",
+    "Water Treatment",
+    "Pulp & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acrylamide (CAS 79-06-1 ), also abbreviated as AMD, is a reactive monomer used as the primary building block in the synthesis of polyacrylamide and its copolymers. It enables the production of water-soluble and cross-linked polymer systems. These systems function as flocculants, thickeners, and retention aids across multiple process industries. In water treatment and mining, polyacrylamide derived from acrylamide acts as a flocculant to separate suspended solids. This process is essential for cleaning process water and effluent streams. Oil and gas producers use acrylamide-based polymers in enhanced oil recovery formulations and drilling fluid rheology modification for better efficiency. Pulp and paper manufacturers incorporate polyacrylamide as a retention and drainage aid. This improves fiber recovery and sheet formation during the manufacturing process to ensure high-quality output for industrial clients. In textile and leather processing, acrylamide copolymers function as sizing agents and surface modifiers. These chemicals help to control coating adhesion and substrate penetration during the finishing stages of production. Acrylamide is supplied primarily as an aqueous solution, with 50% concentration being the most common commercial form. This format is ideal for polymer synthesis applications requiring high reactivity and easy handling. Solid acrylamide in crystalline or granular form is available for applications requiring low-moisture handling or specific dosing precision. Technical grade is the standard specification for industrial polymerization use. Contact us for supply of Acrylamide Request Quote",
+  "physicalProperties": "Melting Point: 84.5 °C; Boiling Point: 192.6 °C; Density: 1.122 g/cm³ @ Temp: 30 °C; Flash Point: 138 °C; Appearance: Acrylamide, in monomeric form, is an odorless, flake-like crystals. May be dissolved in a flammable liquid; Color: White; Odor: Odorless solid; Form: powder; Water Solubility: SOLUBLE, 216 g/100 mL; Vapor Pressure: 0.03 mm Hg ( 40 °C); Refractive Index: 1.460; pH: 5.0-7.0 (50g/l, H2O, 20℃); Log P: -0.9 at 20℃ and pH7",
+  "safetyHandling": "Danger GHS06 GHS08 GHS07 Hazard Statements H301 Toxic if swallowed [Danger Acute toxicity, oral] H312 Harmful in contact with skin [Warning Acute toxicity, dermal] H315 Causes skin irritation [Warning Skin corrosion/irritation] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H340 May cause genetic defects [Danger Germ cell mutagenicity] H350 May cause cancer [Danger Carcinogenicity] H311 Toxic in contact with skin [Danger Acute toxicity, dermal] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H316 Causes mild skin irritation [Warning Skin corrosion/irritation] H361 Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+  "tradeRegulatory": "HS Code: 29241900; UN Number: 3426; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "prop-2-enamide | 2-Propenamide | Acrylic acid amide | Acrylic amide | Vinyl amide | Akrylamid | Akrilamid (Acrylamide) | AMD. | AMD",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29241900",
+  "similarProducts": [
+    "cas-9003-05-8",
+    "cas-24981-13-3",
+    "cas-79-39-0",
+    "cas-25987-30-8",
+    "cas-75150-29-7",
+    "cas-10604-69-0",
+    "cas-7446-81-3",
+    "cas-26677-99-6",
+    "cas-2873-97-4",
+    "cas-9003-03-6",
+    "cas-924-42-5",
+    "cas-37350-42-8",
+    "cas-60-35-5",
+    "cas-9003-01-4",
+    "cas-26677-99-6",
+    "cas-2873-97-4",
+    "cas-9003-03-6",
+    "cas-924-42-5",
+    "cas-37350-42-8",
+    "cas-60-35-5",
+    "cas-9003-01-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-79-06-1/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "2738",
+  "name": "Lead fluoroborate",
+  "slug": "cas-13814-96-5",
+  "cas": "13814-96-5",
+  "ec": "237-486-0",
+  "formula": "BF4.1/2Pb",
+  "mw": "381 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lead fluoroborate (CAS 13814-96-5 ), also known as lead tetrafluoroborate, is an inorganic lead salt supplied primarily as an aqueous solution for electroplating and metal finishing operations. It delivers high-solubility lead ion concentrations that support stable, high-speed deposition baths where conventional lead salts would be impractical for industrial use. In electroplating, it is the primary lead source in fluoborate bath formulations used to deposit lead and lead-tin alloy coatings onto copper, steel, and electronic substrates. Printed circuit board manufacturers rely on these baths to plate solder-compatible lead-tin finishes on through-holes and surface features during the manufacturing process. In the electronics sector, it supports the production of bearing overlays and connector coatings where controlled deposit hardness and thickness are critical to performance. Mining and metallurgical operations use lead fluoborate baths in electrorefining processes to recover and purify lead from various types of mixed-metal feedstocks. Lead fluoroborate is commercially available as an aqueous solution, typically at concentrations around 50% by weight. It is supplied in technical grade for industrial plating. Bulk quantities are available in drums and intermediate bulk containers suited to continuous plating line operations and large-scale metal refining facilities worldwide. Contact us for supply of Lead fluoroborate Request Quote",
+  "physicalProperties": "Density: 1.62 g/mL at 20 °C; Appearance: Lead fluoborate is a nonflammable colorless liquid or crystalline powder. Faint odor.; Color: Clear colorless; Form: Liquid; Water Solubility: Soluble",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H341 Suspected of causing genetic defects [Warning Germ cell mutagenicity] H350 May cause cancer [Danger Carcinogenicity] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H302 Harmful if swallowed [Warning Acute toxicity, oral] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H351 Suspected of causing cancer [Warning Carcinogenicity] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 28269090; UN Number: 2922; ADR Class: 8; Packing Group: II; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Lead tetrafluoroborate | Lead bis(tetrafluoroborate) | LEAD FLUOROBORATE [HSDB] | Lead fluoborate | Lead borofluoride | Borate(1-), tetrafluoro-, lead(2+) (2:1) | Borate(1-), tetrafluoro-, lead(2+)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28269090",
+  "similarProducts": [
+    "cas-13814-97-6",
+    "cas-14075-53-7",
+    "cas-16872-11-0",
+    "cas-17570-76-2",
+    "cas-7439-92-1",
+    "cas-7787-32-8",
+    "cas-7789-24-4",
+    "cas-1332-77-0",
+    "cas-7783-49-5",
+    "cas-16923-95-8",
+    "cas-1332-07-6",
+    "cas-7319-86-0",
+    "cas-7789-23-3",
+    "cas-1333-83-1",
+    "cas-1332-77-0",
+    "cas-7783-49-5",
+    "cas-16923-95-8",
+    "cas-1332-07-6",
+    "cas-7319-86-0",
+    "cas-7789-23-3",
+    "cas-1333-83-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13814-96-5/"
+}

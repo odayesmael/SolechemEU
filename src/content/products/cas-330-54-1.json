@@ -1,0 +1,61 @@
+{
+  "id": "997",
+  "name": "Diuron",
+  "slug": "cas-330-54-1",
+  "cas": "330-54-1",
+  "ec": "206-114-9",
+  "formula": "C9H10Cl2N2O",
+  "mw": "233.09 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diuron (CAS 330-54-1 ), also sold under the trade name Karmex and referenced in research contexts as DCMU, is a substituted urea herbicide used for broad-spectrum weed and algae control. It functions by inhibiting photosynthesis in target plants, making it effective across both agricultural and industrial settings. In agriculture, it is applied as a pre- and post-emergent herbicide. It is used on crops such as cotton, sugarcane, and fruit orchards to suppress grassy and broadleaf weeds. Industrial and non-crop uses include total vegetation control on railways, roadsides, and industrial sites. This chemical is preferred where long-residual activity is required. In antifouling and preservation applications, it acts as a biocide in coatings for marine surfaces, textiles, and paper to inhibit growth. It is effective at stopping algal and microbial growth in these environments. Polymer and flame-retardant formulations also incorporate this substance as a functional additive for specialty material performance. The photosynthesis-inhibiting mechanism is leveraged for these specific industrial applications. The product is available as a wettable powder (WP), suspension concentrate (SC), and technical-grade solid. Standard agricultural formulations are supplied at 80% WP and 50% SC concentrations. Technical-grade material is the primary form sourced by formulators and industrial buyers producing downstream products. Contact us for supply of Diuron Request Quote",
+  "physicalProperties": "Melting Point: 158-159 °C; Boiling Point: 180-190°C; Density: 1.1786 g/cm³; Flash Point: 180-190°C; Appearance: solid; Color: White, odorless crystalline solid; Form: neat; Water Solubility: Slightly soluble. 0.0042 g/100 mL; Vapor Pressure: 2(x 10 -7 mmHg) at 30 °C (Hawley, 1981); Refractive Index: 1.5500 (estimate); Log P: 2.84-2.89 at 20℃ and pH4.03-9",
+  "safetyHandling": "Danger GHS08 GHS09 GHS07 Hazard Statements H302 Harmful if swallowed H303 May be harmful if swallowed H316 Causes mild skin irritation H320 Causes eye irritation H335 May cause respiratory irritation H350 May cause cancer H351 Suspected of causing cancer H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29242990; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "N'-(3,4-dichlorophenyl)-N,N-dimethylurea | N,N,-dimethyl-N'-(3,4-dichlorophenyl)urea | Karmex | 3-(3,4-Dichlorophenyl)-1,1-dimethylurea | 1,1-dimethyl-3-(3,4-dichlorophenyl)urea | 1-(3,4-dichlorophenyl)-3,3-dimethylurea | Direx | DCMU",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29242990",
+  "similarProducts": [
+    "cas-330-55-2",
+    "cas-85-00-7",
+    "cas-314-40-9",
+    "cas-598-94-7",
+    "cas-886-50-0",
+    "cas-140-95-4",
+    "cas-96-31-1",
+    "cas-1918-00-9",
+    "cas-94-75-7",
+    "cas-1912-24-9",
+    "cas-314-42-1",
+    "cas-57-13-6",
+    "cas-89392-03-0",
+    "cas-69377-81-7",
+    "cas-1918-00-9",
+    "cas-94-75-7",
+    "cas-1912-24-9",
+    "cas-314-42-1",
+    "cas-57-13-6",
+    "cas-89392-03-0",
+    "cas-69377-81-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-330-54-1/"
+}

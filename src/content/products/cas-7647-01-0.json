@@ -1,0 +1,65 @@
+{
+  "id": "2056",
+  "name": "Hydrochloric acid",
+  "slug": "cas-7647-01-0",
+  "cas": "7647-01-0",
+  "ec": "231-595-7",
+  "formula": "",
+  "mw": "36.46 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Food & Nutrition",
+    "Mining & Metals",
+    "Textile, Leather & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Hydrochloric acid (CAS 7647-01-0 ), also known as HCl and listed as E507 in food applications, is a strong inorganic acid supplied as an aqueous solution. It is used for industrial-scale pH control, metal processing, and chemical synthesis. Its aggressive reactivity with oxides, carbonates, and alkaline compounds makes it a primary reagent across a broad range of manufacturing and treatment processes. In steel and metal fabrication, HCl is used to pickle and descale surfaces. This process occurs before galvanizing, electroplating, or coating, removing iron oxides without damaging the base metal. Food and beverage producers use E507-grade acid to regulate pH in starch hydrolysis and gelatin production. It is also essential in the manufacture of food additives. Water treatment facilities dose hydrochloric acid to correct alkalinity and maintain optimal pH in both potable water systems and industrial effluent streams. Leather tanneries and textile processors apply it in deliming, dyeing preparation, and fiber treatment stages. In these applications, precise acidity control determines the final product quality and consistency. Hydrochloric acid is supplied as an aqueous solution, with 30–33% and 35–37% concentrations being the most common commercial grades. Food-grade (E507/ FCC ) and technical-grade specifications are both available. Food and pharma applications require compliance to BP or Ph. Eur. standards to ensure safety and purity. Bulk liquid supply in tankers and IBCs are standard formats for industrial procurement. Contact us for supply of Hydrochloric acid Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS04 GHS05 GHS06 GHS07 GHS09 GHS08 Hazard Statements H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H400 Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard] H301 Toxic if swallowed [Danger Acute toxicity, oral] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H330 Fatal if inhaled [Danger Acute toxicity, inhalation] H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled [Danger Sensitization, respiratory] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation]",
+  "tradeRegulatory": "",
+  "otherNames": "hydrochloric acid gas | HCl | chlorane | anhydrous HCl | spirits of salt | spirit of salt | muriatic acid | marine acid | E507",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04",
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7601-90-3",
+    "cas-7664-93-9",
+    "cas-7790-92-3",
+    "cas-7664-39-3",
+    "cas-7664-38-2",
+    "cas-10035-10-6",
+    "cas-64-19-7",
+    "cas-77-92-9",
+    "cas-590-46-5",
+    "cas-7738-94-5",
+    "cas-64-18-6",
+    "cas-10034-85-2",
+    "cas-7697-37-2",
+    "cas-144-62-7",
+    "cas-77-92-9",
+    "cas-590-46-5",
+    "cas-7738-94-5",
+    "cas-64-18-6",
+    "cas-10034-85-2",
+    "cas-7697-37-2",
+    "cas-144-62-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7647-01-0/"
+}

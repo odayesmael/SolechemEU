@@ -1,0 +1,64 @@
+{
+  "id": "915",
+  "name": "Dipropylamine",
+  "slug": "cas-142-84-7",
+  "cas": "142-84-7",
+  "ec": "205-565-9",
+  "formula": "C6H15N",
+  "mw": "101.19 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Lubricants & Metalworking"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dipropylamine (CAS 142-84-7 ) is a secondary aliphatic amine used as a chemical intermediate and functional additive across pharmaceutical, agrochemical, and industrial manufacturing. It acts as a pH regulator, corrosion inhibitor, and reactive building block in synthesis processes. In agrochemical production, this compound serves as a key intermediate in the synthesis of herbicide salts and active ingredient formulations, particularly for glyphosate-based products. Pharmaceutical manufacturers use it as a synthetic intermediate for drug compounds. It also serves as a buffering agent in active pharmaceutical ingredient (API) processing. In metalworking and lubricant formulations, it functions as a corrosion inhibitor additive, protecting metal surfaces in cutting fluids and industrial lubricants. Polymer and plastics processing also draws on its amine reactivity for catalyst systems and curing agent preparation. This versatility makes it an essential component in modern chemical manufacturing and material science applications. The product is supplied as a clear liquid in standard bulk packaging including drums and IBC containers, with isotank options available for larger volumes. It is commercially available in technical grade, suited to industrial synthesis. Pharmaceutical-grade supply exists for API-related applications where tighter purity specifications and documentation requirements apply. We ensure all shipments meet rigorous safety and quality standards for global distribution and handling. Contact us for supply of Dipropylamine Request Quote",
+  "physicalProperties": "Melting Point: -63 °C; Boiling Point: 109.3 °C; Density: 0.738 g/cm³ @ Temp: 20 °C; Flash Point: 39 °F; Appearance: colourless liquid; Color: Clear; Form: Liquid; Water Solubility: soluble; Vapor Pressure: 38 hPa (20 °C); Refractive Index: n 20/D 1.4049(lit.); Log P: 1.33 at 23℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS06 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H311+H331 Toxic in contact with skin or if inhaled. Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29211910; UN Number: 2383; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "di-n-propyl amine | 1-Propanamine, N-propyl- | n-Dipropylamine | N-Propyl-1-propanamine | RCRA waste number U110",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29211910",
+  "similarProducts": [
+    "cas-102-83-0",
+    "cas-56-18-8",
+    "cas-2372-82-9",
+    "cas-107-10-8",
+    "cas-6735-35-9",
+    "cas-16728-59-9",
+    "cas-4079-68-9",
+    "cas-10563-29-8",
+    "cas-110-97-4",
+    "cas-20193-20-8",
+    "cas-109-89-7",
+    "cas-102-69-2",
+    "cas-63469-23-8",
+    "cas-105-83-9",
+    "cas-10563-29-8",
+    "cas-110-97-4",
+    "cas-20193-20-8",
+    "cas-109-89-7",
+    "cas-102-69-2",
+    "cas-63469-23-8",
+    "cas-105-83-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-142-84-7/"
+}

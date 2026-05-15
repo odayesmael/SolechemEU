@@ -1,0 +1,61 @@
+{
+  "id": "333",
+  "name": "Diethyl ketone",
+  "slug": "cas-96-22-0",
+  "cas": "96-22-0",
+  "ec": "202-490-3",
+  "formula": "C5H10O",
+  "mw": "86.13 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethyl ketone ( CAS 96-22-0 ), also known as DEK or propione, is a mid-chain ketone solvent used across pharmaceutical, cosmetic, and flavor applications. It combines effective solvency with a characteristic ethereal, fruity odor. This chemical is useful in both formulation and flavoring contexts. In pharmaceutical manufacturing, DEK functions as a process solvent for active ingredient synthesis and recrystallization steps where controlled evaporation is required. Flavor houses incorporate it as a flavoring agent in food products. Its clean, acetone-like yet fruity character contributes to artificial fruit, dairy, and confectionery profiles in various food-grade applications. In personal care and cosmetic formulations, it acts as a carrier solvent for resins, waxes, and film-forming polymers. It is frequently utilized in nail care and specialty coating products for industrial use. Specialty coatings and ink manufacturers also source DEK as an alternative to MEK. It is preferred where faster evaporation or different solvency parameters are needed for specific manufacturing processes. Diethyl ketone is supplied as a clear liquid in drums and IBC totes, with bulk quantities available for industrial users. Standard commercial grades include technical and high-purity variants for the market. These variants are suitable for pharmaceutical process use and meet rigorous industry requirements. Food-grade supply aligned with flavor industry specifications is available from select producers for flavoring applications. Contact us for supply of Diethyl ketone Request Quote",
+  "physicalProperties": "Melting Point: -39 °C; Boiling Point: 101.9 °C; Density: 0.816 g/cm³ @ Temp: 19 °C; Flash Point: 55 °F; Appearance: colourless liquid; Color: Clear colorless; Odor: at 0.10 % in propylene glycol. ethereal acetone; Form: Liquid; Water Solubility: 50 g/L (20 ºC); Vapor Pressure: 20 mm Hg ( 28 °C); Refractive Index: n 20/D 1.392(lit.); pH: 6.2 (50g/l, H2O, 20℃); Log P: 0.85 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 H225 H303 H303 H305 H305 H313 H313 H316 H316 H319 H319 H335 H335 H336 H336 H370 H370 Precautionary Statements P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P319 P319 P321 P321 P331 P331 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P301+P317 P301+P317 P302+P317 P302+P317 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29141900; UN Number: 1156; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "propione | ethyl ketone | pentan-3-one | 3-PENTANONE | DEK",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29141900",
+  "similarProducts": [
+    "cas-78-93-3",
+    "cas-84-66-2",
+    "cas-95-92-1",
+    "cas-105-58-8",
+    "cas-111-46-6",
+    "cas-108-83-8",
+    "cas-105-53-3",
+    "cas-141-28-6",
+    "cas-123-25-1",
+    "cas-96-29-7",
+    "cas-110-40-7",
+    "cas-67-64-1",
+    "cas-109-89-7",
+    "cas-112-36-7",
+    "cas-141-28-6",
+    "cas-123-25-1",
+    "cas-96-29-7",
+    "cas-110-40-7",
+    "cas-67-64-1",
+    "cas-109-89-7",
+    "cas-112-36-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-96-22-0/"
+}

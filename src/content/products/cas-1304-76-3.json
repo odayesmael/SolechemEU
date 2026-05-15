@@ -1,0 +1,58 @@
+{
+  "id": "1400",
+  "name": "Bismuth trioxide",
+  "slug": "cas-1304-76-3",
+  "cas": "1304-76-3",
+  "ec": "215-134-7",
+  "formula": "Bi2O3",
+  "mw": "465.959 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Electronics",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Bismuth trioxide (CAS 1304-76-3 ), commonly referenced by its formula Bi2O3, is an inorganic bismuth compound used as a functional additive and raw material across electronics manufacturing and specialty materials production. It serves as a key oxide source where controlled melting behavior, high refractive index contribution, or dense inorganic pigmentation is required for industrial applications and chemical synthesis. In electronics, Bi2O3 is incorporated into low-temperature co-fired ceramics (LTCC), varistors, and dielectric formulations, where it lowers sintering temperatures and modifies electrical properties in finished components. Specialty glass manufacturers use it to produce radiation-shielding glass and optical glass with elevated density and refractive characteristics, acting as a direct substitute for lead oxide in many formulations. In printing and packaging, it functions as a yellow-to-orange inorganic pigment in ceramic inks and decorative coatings applied to glass and ceramic substrates for high-durability finishes. It also enters flux compositions and soldering materials where a bismuth oxide source with defined purity is required. The material is supplied as a fine yellow powder in varying particle size distributions. Standard grades include technical and high-purity specifications, with ultra-high purity grades available for electronic and optical applications requiring compliance with ACS or USP standards. Packaging typically ranges from kilogram-scale bags to bulk quantities depending on application volume. This ensures consistent supply for both laboratory research and large-scale industrial manufacturing processes. Contact us for supply of Bismuth trioxide Request Quote",
+  "physicalProperties": "Melting Point: 820 °C; Boiling Point: 1980 °C; Density: 9.37 g/cm³ (solid); Flash Point: 1890°C; Appearance: Heavy, Yellow Powder; Color: Yellow; Odor: Odorless; Form: powder; Water Solubility: INSOLUBLE",
+  "safetyHandling": "Danger GHS08 Hazard Statements H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P308+P316 Get emergency medical help immediately.",
+  "tradeRegulatory": "HS Code: 28259021; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "Bismuth(iii) oxide | Bismuth oxide (Bi2O3) | Oxo(oxobismuthanyloxy)bismuthane | Bismuth oxide | Bi2O3",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08"
+  ],
+  "hsCode": "28259021",
+  "similarProducts": [
+    "cas-7440-69-9",
+    "cas-1304-56-9",
+    "cas-5892-10-4",
+    "cas-1313-27-5",
+    "cas-12232-99-4",
+    "cas-1304-85-4",
+    "cas-813-93-4",
+    "cas-1309-64-4",
+    "cas-67874-71-9",
+    "cas-99-26-3",
+    "cas-18282-10-5",
+    "cas-1327-53-3",
+    "cas-1333-82-0",
+    "cas-1314-34-7",
+    "cas-1309-64-4",
+    "cas-67874-71-9",
+    "cas-99-26-3",
+    "cas-18282-10-5",
+    "cas-1327-53-3",
+    "cas-1333-82-0",
+    "cas-1314-34-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1304-76-3/"
+}

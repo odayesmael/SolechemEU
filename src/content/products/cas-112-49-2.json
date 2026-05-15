@@ -1,0 +1,61 @@
+{
+  "id": "658",
+  "name": "Triethylene glycol dimethyl ether",
+  "slug": "cas-112-49-2",
+  "cas": "112-49-2",
+  "ec": "203-977-3",
+  "formula": "C8H18O4",
+  "mw": "178.23 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Pharmaceuticals & Healthcare",
+    "Oil, Gas & Energy",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethylene glycol dimethyl ether ( CAS 112-49-2 ), commercially known as Triglyme, is a high-boiling, aprotic ether solvent used across demanding industrial and specialty chemical applications. Its low volatility and chemical stability make it a preferred carrier and reaction medium where conventional solvents fall short. In pharmaceutical manufacturing, it functions as a reaction solvent. This solvent is ideal for sensitive synthesis steps requiring a stable, non-protic environment with a high boiling point. The electronics industry relies on it as a solvent in electrolyte formulations. In lithium batteries, its coordination chemistry with lithium ions directly influences cell performance. In oil and gas processing, it is used as an extraction and absorption solvent for gas treatment. Metalworking and lubricant formulators incorporate it as a carrier fluid in specialty formulations requiring thermal stability. It remains effective even under elevated operating conditions. Triglyme is supplied as a clear liquid in standard packaging ranging from drums to IBC containers and bulk quantities. Technical grade is the most common commercial specification available. High-purity grades are available to meet the tighter requirements of battery electrolyte and pharmaceutical synthesis applications. Buyers should confirm purity levels and water content specifications. Sourcing for electrochemical or synthesis-critical end uses requires careful attention to technical data sheets. This ensures the material meets the necessary performance benchmarks for your process. Contact us for supply of Triethylene glycol dimethyl ether Request Quote",
+  "physicalProperties": "Melting Point: -45 °C; Boiling Point: 216 °C; Density: 0.980 g/cm³; Flash Point: 231 °F; Appearance: Water-white liquid; mild ether odor. D 0.9862 (20/20C), refr index 1.4233 (20C), flash p 232F (111C), bp 216.0C (760mmHg), 153.6C (100 mm Hg), fp ?46C. Completely soluble in water and hydrocarbons at 20C. May contain peroxides. Combustible.; Color: APHA: ≤20; Form: Liquid; Water Solubility: Soluble; Vapor Pressure: 1.2 hPa (20 °C); Refractive Index: n 20/D 1.423(lit.); pH: 7; Log P: -0.52 at 20℃",
+  "safetyHandling": "Danger GHS08 GHS07 Hazard Statements H319 Causes serious eye irritation H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29094990; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "1-methoxy-2-[2-(2-methoxyethoxy)ethoxy]ethane | Triglyme",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29094990",
+  "similarProducts": [
+    "cas-111-96-6",
+    "cas-143-24-8",
+    "cas-112-35-6",
+    "cas-112-36-7",
+    "cas-112-27-6",
+    "cas-110-71-4",
+    "cas-23783-42-8",
+    "cas-1002-67-1",
+    "cas-109-86-4",
+    "cas-1191-87-3",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-5197-62-6",
+    "cas-111-77-3",
+    "cas-1002-67-1",
+    "cas-109-86-4",
+    "cas-1191-87-3",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-5197-62-6",
+    "cas-111-77-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-49-2/"
+}

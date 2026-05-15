@@ -1,0 +1,59 @@
+{
+  "id": "1576",
+  "name": "tert-butyldiethanolamine",
+  "slug": "cas-2160-93-2",
+  "cas": "2160-93-2",
+  "ec": "218-480-7",
+  "formula": "C8H19NO2",
+  "mw": "161.24 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Lubricants & Metalworking",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyldiethanolamine (CAS 2160-93-2 ) is a tertiary amine-diol used across industrial formulations for pH regulation, corrosion inhibition, and as a reactive or functional solvent. Its combination of amine and hydroxyl functionality makes it a practical building block and performance additive in specialty chemical systems. In metalworking fluids and lubricants, it functions as a corrosion inhibitor. It acts as a pH buffer, helping to extend fluid service life and protect ferrous and non-ferrous metal surfaces. Coatings formulators incorporate it as a neutralizing agent for acid-functional resins. This improves dispersion stability in waterborne systems. Water treatment formulations use it to maintain alkalinity control and inhibit metal corrosion in recirculating and process water circuits. In adhesives, sealants, and elastomer systems, it acts as a reactive component or cure modifier where controlled basicity is required. This versatility makes it essential for high-performance industrial applications. Tert-butyldiethanolamine is supplied as a liquid at ambient conditions. Technical grade is the standard commercial offering, with purity levels typically at 98% or higher depending on supplier specification. Packaging ranges from drums to intermediate bulk containers (IBCs) for industrial procurement volumes. This ensures safe handling and efficient logistics for large-scale manufacturing and chemical processing. Contact us for supply of tert-butyldiethanolamine Request Quote",
+  "physicalProperties": "Melting Point: 189 °C; Boiling Point: 136-139 °C @ Press: 12 Torr; Density: 0.983 g/mL at 25 °C(lit.); Flash Point: >230 °F; Color: White to Yellow to Orange; Form: Solid; Water Solubility: Completely soluble in water; Vapor Pressure: 0.2-0.36Pa at 20-25℃; Refractive Index: n 20/D 1.4666(lit.); Log P: -1.6-0.1 at 20℃ and pH7-11",
+  "safetyHandling": "Danger GHS05 Hazard Statements H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2922.19.9690; UN Number: 3259; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "VUZ7LWS39G | Ethanol, 2,2'-[(1,1-dimethylethyl)imino]bis- | RefChem:896553 | Ethanol, 2,2′-(tert-butylimino)di- | 2,2′-[(1,1-Dimethylethyl)imino]bis[ethanol] | 3-tert-Butyl-3-aza-1,5-pentanediol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05"
+  ],
+  "hsCode": "2922.19.9690",
+  "similarProducts": [
+    "cas-4620-70-6",
+    "cas-102-79-4",
+    "cas-75-64-9",
+    "cas-111-75-1",
+    "cas-102-81-8",
+    "cas-139-87-7",
+    "cas-102-82-9",
+    "cas-2212-32-0",
+    "cas-102-83-0",
+    "cas-112-75-4",
+    "cas-100-37-8",
+    "cas-102-71-6",
+    "cas-6735-35-9",
+    "cas-111-92-2",
+    "cas-2212-32-0",
+    "cas-102-83-0",
+    "cas-112-75-4",
+    "cas-100-37-8",
+    "cas-102-71-6",
+    "cas-6735-35-9",
+    "cas-111-92-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2160-93-2/"
+}

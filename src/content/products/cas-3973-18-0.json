@@ -1,0 +1,60 @@
+{
+  "id": "1754",
+  "name": "2-Propynoxyethanol",
+  "slug": "cas-3973-18-0",
+  "cas": "3973-18-0",
+  "ec": "223-601-1",
+  "formula": "C5H8O2",
+  "mw": "100.12 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Propynoxyethanol (CAS 3973-18-0 ) is a bifunctional building block combining a terminal alkyne and a hydroxyl group within a single molecule. It is used in polymer chemistry to introduce reactive alkyne handles. This chemical enables precise structural control during synthesis by introducing hydroxyl functionality into macromolecular architectures. In plastics and polymer manufacturing, it serves as a monomer or chain-end modifier. Terminal alkyne groups are required for click chemistry-based crosslinking or functionalization. Formulators use it to prepare alkyne-terminated polymers and macromonomers that undergo copper-catalyzed reactions. These azide-alkyne cycloaddition reactions are essential for network formation. It also functions as a polymerization initiator or co-initiator in various ring-opening polymerization systems. In these systems, the hydroxyl group acts as the initiating species. Specialty coating and adhesive developers incorporate it when building polymer backbones that require post-synthesis surface modification. This modification is achieved through alkyne-reactive coupling. The product is supplied as a liquid at standard commercial purity levels, typically 95–98%, suited for research-scale and specialty synthesis. It is available in laboratory quantities through to multi-kilogram lots depending on supplier capability. No established pharmacopoeial or food-grade specifications apply to this technical material. Procurement is generally against technical-grade certificates of analysis. This ensures the material meets the specific requirements for industrial and laboratory applications in chemical manufacturing. Contact us for supply of 2-Propynoxyethanol Request Quote",
+  "physicalProperties": "Boiling Point: 63 °C @ Press: 7 Torr; Density: 1.0251 g/cm³ @ Temp: 20 °C; Color: Colourless to Pale Yellow; Form: Oil; Refractive Index: 1.4502",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2909498090; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "2-(2-Propyn-1-yloxy)ethanol | Propargyl Alcohol (propynol) | 2-prop-2-ynoxyethanol | 2-Propyn-1-yloxyethanol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "2909498090",
+  "similarProducts": [
+    "cas-5877-42-9",
+    "cas-107-19-7",
+    "cas-1569-02-4",
+    "cas-111-35-3",
+    "cas-1569-01-3",
+    "cas-75-56-9",
+    "cas-9082-00-2",
+    "cas-4169-04-4",
+    "cas-3031-66-1",
+    "cas-160875-66-1",
+    "cas-108-61-2",
+    "cas-16728-59-9",
+    "cas-41593-38-8",
+    "cas-52125-53-8",
+    "cas-4169-04-4",
+    "cas-3031-66-1",
+    "cas-160875-66-1",
+    "cas-108-61-2",
+    "cas-16728-59-9",
+    "cas-41593-38-8",
+    "cas-52125-53-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3973-18-0/"
+}

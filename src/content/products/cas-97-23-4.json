@@ -1,0 +1,62 @@
+{
+  "id": "346",
+  "name": "Dichlorophen",
+  "slug": "cas-97-23-4",
+  "cas": "97-23-4",
+  "ec": "202-567-1",
+  "formula": "C13H10Cl2O2",
+  "mw": "269.12 g/mol",
+  "category": "Chelating Agents",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Agriculture & Feed",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dichlorophen (CAS 97-23-4 ) is a chlorinated bisphenol compound used industrially as a broad-spectrum biocide and preservative. It controls microbial and fungal growth across personal care, agricultural, and water treatment applications. In personal care formulations, it functions as a preservative in shampoos, creams, and topical products where fungal and bacterial contamination must be controlled. Reliable antimicrobial performance is a key requirement. Agricultural products utilize it as an active ingredient in antifungal treatments for crops and as a component in veterinary antiparasitic preparations. It is highly effective in these specialized environments. Water treatment operations incorporate it to suppress algae and microbial biofilm formation in industrial water systems and cooling towers. This ensures the efficiency and safety of large-scale industrial cooling processes. It also serves as a pharmaceutical intermediate in the synthesis of antiparasitic active substances, supporting API manufacturing pipelines. This versatility makes it a valuable chemical for various synthesis routes. The product is supplied as a white to off-white crystalline powder. Standard grades include technical and pharmaceutical-grade material, with specifications aligned to USP and BP requirements. Quality standards may also align with Ph.Eur. , EP , or FCC depending on the regulated end uses. Packaging typically ranges from kilogram-scale laboratory quantities to bulk industrial orders. The material is handled according to strict safety protocols depending on the intended application and regulatory context. This ensures consistent quality for all industrial and pharmaceutical customers. Contact us for supply of Dichlorophen Request Quote",
+  "physicalProperties": "Melting Point: 177-178 °C; Boiling Point: 418.7±40.0 °C(Predicted); Density: 1.3239 (estimate); Appearance: white or off-white powder; Color: White to Light yellow to Light orange; Form: neat; Water Solubility: <0.1 g/100 mL at 22 ºC; Vapor Pressure: 1.3 x 10 -5 Pa (25 °C); Log P: 4.260",
+  "safetyHandling": "Warning GHS07 GHS09 GHS02 GHS05 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29081990; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "ATC code P02DX02 | 2,2'-Methylenebis(4-chlorophenol) | C13H10Cl2O2 | Didroxane | Anthiphen | Parabis | Dicestal | Trivex",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "29081990",
+  "similarProducts": [
+    "cas-15435-29-7",
+    "cas-3380-30-1",
+    "cas-133-53-9",
+    "cas-104-29-0",
+    "cas-2782-57-2",
+    "cas-3697-42-5",
+    "cas-118-52-5",
+    "cas-92-69-3",
+    "cas-106-46-7",
+    "cas-56-95-1",
+    "cas-55-56-1",
+    "cas-1777-82-8",
+    "cas-89-61-2",
+    "cas-59-50-7",
+    "cas-92-69-3",
+    "cas-106-46-7",
+    "cas-56-95-1",
+    "cas-55-56-1",
+    "cas-1777-82-8",
+    "cas-89-61-2",
+    "cas-59-50-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-97-23-4/"
+}

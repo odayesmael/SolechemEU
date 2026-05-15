@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "name": "Aerospace & Defense",
+    "slug": "aerospace-defense",
+    "description": "Chemical solutions for the Aerospace & Defense sector.",
+    "imageUrl": "/industries/Aerospace & Defense.webp"
+  },
+  {
+    "id": "2",
+    "name": "Agriculture & Feed",
+    "slug": "agriculture-feed",
+    "description": "Chemical solutions for the Agriculture & Feed sector.",
+    "imageUrl": "/industries/Agriculture & Feed.webp"
+  },
+  {
+    "id": "3",
+    "name": "Automotive",
+    "slug": "automotive",
+    "description": "Chemical solutions for the Automotive sector.",
+    "imageUrl": "/industries/Automotive.webp"
+  },
+  {
+    "id": "4",
+    "name": "Biotechnology & Life Sciences",
+    "slug": "biotechnology-life-sciences",
+    "description": "Chemical solutions for the Biotechnology & Life Sciences sector.",
+    "imageUrl": "/industries/Biotechnology & Life Sciences.webp"
+  },
+  {
+    "id": "5",
+    "name": "Building & Construction",
+    "slug": "building-construction",
+    "description": "Chemical solutions for the Building & Construction sector.",
+    "imageUrl": "/industries/Building & Construction.webp"
+  },
+  {
+    "id": "6",
+    "name": "Coatings, Adhesives, Sealants & Elastomers",
+    "slug": "coatings-adhesives-sealants-elastomers",
+    "description": "Chemical solutions for the Coatings, Adhesives, Sealants & Elastomers sector.",
+    "imageUrl": "/industries/Coatings, Adhesives, Sealants & Elastomers.webp"
+  },
+  {
+    "id": "7",
+    "name": "Electronics",
+    "slug": "electronics",
+    "description": "Chemical solutions for the Electronics sector.",
+    "imageUrl": "/industries/Electronics.webp"
+  },
+  {
+    "id": "8",
+    "name": "Food & Nutrition",
+    "slug": "food-nutrition",
+    "description": "Chemical solutions for the Food & Nutrition sector.",
+    "imageUrl": "/industries/Food & Nutrition.webp"
+  },
+  {
+    "id": "9",
+    "name": "Home Care & Industrial Cleaning",
+    "slug": "home-care-industrial-cleaning",
+    "description": "Chemical solutions for the Home Care & Industrial Cleaning sector.",
+    "imageUrl": "/industries/Home Care & Industrial Cleaning.webp"
+  },
+  {
+    "id": "10",
+    "name": "Lubricants & Metalworking",
+    "slug": "lubricants-metalworking",
+    "description": "Chemical solutions for the Lubricants & Metalworking sector.",
+    "imageUrl": "/industries/Lubricants & Metalworking.webp"
+  },
+  {
+    "id": "11",
+    "name": "Mining & Metals",
+    "slug": "mining-metals",
+    "description": "Chemical solutions for the Mining & Metals sector.",
+    "imageUrl": "/industries/Mining & Metals.webp"
+  },
+  {
+    "id": "12",
+    "name": "Oil, Gas & Energy",
+    "slug": "oil-gas-energy",
+    "description": "Chemical solutions for the Oil, Gas & Energy sector.",
+    "imageUrl": "/industries/Oil, Gas & Energy.webp"
+  },
+  {
+    "id": "13",
+    "name": "Personal Care & Cosmetics",
+    "slug": "personal-care-cosmetics",
+    "description": "Chemical solutions for the Personal Care & Cosmetics sector.",
+    "imageUrl": "/industries/Personal Care & Cosmetics.webp"
+  },
+  {
+    "id": "14",
+    "name": "Pharmaceuticals & Healthcare",
+    "slug": "pharmaceuticals-healthcare",
+    "description": "Chemical solutions for the Pharmaceuticals & Healthcare sector.",
+    "imageUrl": "/industries/Pharmaceuticals & Healthcare.webp"
+  },
+  {
+    "id": "15",
+    "name": "Plastics & Polymers",
+    "slug": "plastics-polymers",
+    "description": "Chemical solutions for the Plastics & Polymers sector.",
+    "imageUrl": "/industries/Plastics & Polymers.webp"
+  },
+  {
+    "id": "16",
+    "name": "Printing & Packaging",
+    "slug": "printing-packaging",
+    "description": "Chemical solutions for the Printing & Packaging sector.",
+    "imageUrl": "/industries/Printing & Packaging.webp"
+  },
+  {
+    "id": "17",
+    "name": "Pulp & Paper",
+    "slug": "pulp-paper",
+    "description": "Chemical solutions for the Pulp & Paper sector.",
+    "imageUrl": "/industries/Pulp & Paper.webp"
+  },
+  {
+    "id": "18",
+    "name": "Rubber & Tire",
+    "slug": "rubber-tire",
+    "description": "Chemical solutions for the Rubber & Tire sector.",
+    "imageUrl": "/industries/Rubber & Tire.webp"
+  },
+  {
+    "id": "19",
+    "name": "Textile, Leather & Paper",
+    "slug": "textile-leather-paper",
+    "description": "Chemical solutions for the Textile, Leather & Paper sector.",
+    "imageUrl": "/industries/Textile, Leather & Paper.webp"
+  },
+  {
+    "id": "20",
+    "name": "Water Treatment",
+    "slug": "water-treatment",
+    "description": "Chemical solutions for the Water Treatment sector.",
+    "imageUrl": "/industries/Water Treatment.webp"
+  }
+]

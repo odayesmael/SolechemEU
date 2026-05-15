@@ -1,0 +1,61 @@
+{
+  "id": "472",
+  "name": "1,4-dichlorobenzene",
+  "slug": "cas-106-46-7",
+  "cas": "106-46-7",
+  "ec": "203-400-5",
+  "formula": "C6H4Cl2",
+  "mw": "147.00 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,4-Dichlorobenzene (CAS 106-46-7 ), commonly sourced as PDCB or para-dichlorobenzene, is an aromatic chlorinated compound used industrially as a biocide, chemical intermediate, and moth-repellent active. Its controlled sublimation profile makes it effective in slow-release preservation and fumigant applications without liquid handling. In textile and leather processing, PDCB acts as a moth-proofing agent. It protects stored wool, fur, and natural fiber goods during warehousing and transit. It functions as a key intermediate in the synthesis of polyphenylene sulfide (PPS), a high-performance engineering polymer. This polymer is used in automotive and electrical components. In printing and packaging, it contributes to specialty solvent formulations and carrier systems for pigment dispersion in various industrial processes. PDCB also serves as a chemical building block in flame retardant production, where chlorinated aromatic structures are incorporated into polymer matrices to meet specific fire resistance requirements. 1,4-Dichlorobenzene is supplied as white crystalline flakes or compressed solid forms such as cakes and blocks, depending on the end application. Technical grade is the standard commercial offering. Purity levels are typically at 99% or higher for industrial use. Bulk supply is available in fiber drums or bags, with smaller packaged formats offered for specialty or consumer-adjacent end uses. Contact us for supply of 1,4-dichlorobenzene Request Quote",
+  "physicalProperties": "Melting Point: 52.7 °C; Boiling Point: 174 °C @ Press: 760 Torr; Density: 1.2475 g/cm³ @ Temp: 20 °C; Flash Point: 150 °F; Appearance: There are three isomeric forms of dichlorobenzene (DCB): m-DCB is a flammable liquid and vapor.; Color: White; Odor: Aromatic.; Form: Crystals; Water Solubility: insoluble; Vapor Pressure: 1.03 mm Hg ( 25 °C); Refractive Index: 1.5434; pH: 7 (0.06g/l, H2O, 20℃); Log P: 3.37 at 25℃ and pH7",
+  "safetyHandling": "Warning GHS08 GHS09 GHS07 Hazard Statements H303 May be harmful if swallowed H316 Causes mild skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29036100; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "PDCB | para-dichlorobenzene | p-dichlorobenzol | p-dichlorobenzene | p-dichlorbenzene | p-chlorophenyl chloride | PDB | PARA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29036100",
+  "similarProducts": [
+    "cas-95-50-1",
+    "cas-608-93-5",
+    "cas-89-61-2",
+    "cas-97-23-4",
+    "cas-554-00-7",
+    "cas-589-87-7",
+    "cas-106-47-8",
+    "cas-1777-82-8",
+    "cas-106-51-4",
+    "cas-75-09-2",
+    "cas-6358-64-1",
+    "cas-38521-51-6",
+    "cas-3380-30-1",
+    "cas-133-53-9",
+    "cas-1777-82-8",
+    "cas-106-51-4",
+    "cas-75-09-2",
+    "cas-6358-64-1",
+    "cas-38521-51-6",
+    "cas-3380-30-1",
+    "cas-133-53-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-46-7/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "2753",
+  "name": "Borane-tetrahydrofuran",
+  "slug": "cas-14044-65-6",
+  "cas": "14044-65-6",
+  "ec": "237-881-8",
+  "formula": "C4H11BO",
+  "mw": "82.92 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Plastics & Polymers",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Borane-tetrahydrofuran (CAS 14044-65-6 ), commonly referenced as BH3·THF, is a stabilized borane complex supplied as a solution in tetrahydrofuran. It delivers reactive borane in a handleable liquid form. This chemical enables controlled hydroboration and reduction chemistry across pharmaceutical and industrial synthesis. In pharmaceutical manufacturing, it is used to reduce carboxylic acids, amides, and oximes to their corresponding alcohols and amines. These transformations are difficult to achieve cleanly with conventional reducing agents. It initiates ring-opening polymerization of cyclic monomers, making it a useful catalyst precursor in specialty polymer production. Agrochemical synthesis relies on it for constructing chiral intermediates where stereoselective hydroboration is required. Biotechnology and life sciences research also draw on it for synthesizing boron-containing building blocks. These blocks are used in enzyme inhibitor development and labeled compound preparation. The product is supplied as a solution in tetrahydrofuran, with 1.0 M concentration being the most commercially standard form. Higher concentration solutions are available for industrial-scale processes where solvent minimization is a priority. It is sourced primarily to pharmaceutical-grade and reagent-grade specifications for various applications. Packaging ranges from laboratory quantities to bulk containers suited for manufacturing use. The material is handled according to strict safety protocols to maintain stability and reactivity during transport and storage. Contact us for supply of Borane-tetrahydrofuran Request Quote",
+  "physicalProperties": "Melting Point: -17 °C; Boiling Point: 35 °C; Density: 0.898 g/mL at 25 °C; Flash Point: 1 °F; Appearance: colourless liquid; Color: Colorless; Form: Liquid; Water Solubility: REACTS",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H260 In contact with water releases flammable gases which may ignite spontaneously H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P223 Do not allow contact with water. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P231+P232 Handle and store contents under inert gas/… . P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P402+P404 Store in a dry place. Store in a closed container. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P302+P335+P334 IF ON SKIN: Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29321900; UN Number: 3399; ADR Class: 4.3; Packing Group: I; Storage Class: 4.3 - Hazardous materials which set free flammable gases upon contact with water; WGK (Germany): 3",
+  "otherNames": "Tetrahydrofuran borane | Boron, trihydro(tetrahydrofuran)-, (T-4)- | 5EAR4ERR1L | BORANE-THF (1:1) | TETRAHYDROFURAN-BORANE (1:1) | Furan, tetrahydro-, compd. with borane (1:1) | Furan, tetrahydro-, compd. with BH3 (1:1) | Furan, tetrahydro-, compd. with BH3 | BH3·THF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29321900",
+  "similarProducts": [
+    "cas-109-99-9",
+    "cas-1722-26-5",
+    "cas-96-47-9",
+    "cas-1113-78-6",
+    "cas-13292-87-0",
+    "cas-4856-95-5",
+    "cas-16872-11-0",
+    "cas-110-51-0",
+    "cas-97-99-4",
+    "cas-97-94-9",
+    "cas-16940-66-2",
+    "cas-13289-97-9",
+    "cas-22238-17-1",
+    "cas-75-91-2",
+    "cas-110-51-0",
+    "cas-97-99-4",
+    "cas-97-94-9",
+    "cas-16940-66-2",
+    "cas-13289-97-9",
+    "cas-22238-17-1",
+    "cas-75-91-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-14044-65-6/"
+}

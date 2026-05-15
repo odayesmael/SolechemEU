@@ -1,0 +1,62 @@
+{
+  "id": "2873",
+  "name": "Tert-butyldimethylsilyl chloride",
+  "slug": "cas-18162-48-6",
+  "cas": "18162-48-6",
+  "ec": "242-042-4",
+  "formula": "C6H15ClSi",
+  "mw": "150.72 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butyldimethylsilyl chloride (CAS 18162-48-6 ), commonly referenced as TBDMSCl, is a silylating reagent used to introduce the TBDMS protecting group onto hydroxyl, carboxyl, and amine functionalities. In pharmaceutical synthesis and research chemistry, it enables selective protection of reactive sites during multi-step synthesis sequences. In active pharmaceutical ingredient manufacturing, it protects alcohol and hydroxyl groups. This allows subsequent reactions to proceed without unwanted side reactions at those sites. Nucleoside and nucleotide synthesis relies heavily on TBDMS protection to control regioselectivity during production. This is a critical requirement in antiviral and oligonucleotide drug production. In electronics and semiconductor fabrication, it modifies silicon wafer surfaces and resists to control hydrophobicity and adhesion. Biotechnology researchers also apply it in solid-phase synthesis of oligonucleotides. In these applications, precise protecting group chemistry directly determines the final product purity and overall yield. TBDMSCl is supplied as a white to off-white crystalline solid. Standard commercial offerings include reagent-grade and high-purity grades, with purity specifications typically at 97–99%+ to meet industry demands. These specifications are designed to meet the rigorous requirements of pharmaceutical and electronic applications. Packaging ranges from laboratory-scale quantities to multi-kilogram industrial lots for large-scale use. Moisture-controlled packaging is standard due to its reactivity with atmospheric humidity. This ensures the stability and performance of the reagent throughout its shelf life in various storage conditions. Contact us for supply of Tert-butyldimethylsilyl chloride Request Quote",
+  "physicalProperties": "Melting Point: 112-114 °C; Boiling Point: 126.00 °C; Density: 0.872 g/cm³; Flash Point: 73 °F; Appearance: White solid; Color: Clear colorless; Form: Liquid; Water Solubility: Soluble in chloroform and ethyl acetate. Insoluble in water.; Vapor Pressure: 60-710Pa at 25℃; Refractive Index: n 20/D 1.46; Log P: 2.5 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS09 Hazard Statements H228 Flammable solid H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 2925; ADR Class: 4.1; Packing Group: II; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 2",
+  "otherNames": "tert-Butyldimethylchlorosilane | t-Butyldimethylchlorosilane | TBDMS chloride | Silane, chloro(1,1-dimethylethyl)dimethyl- | Chloro-tert-butyldimethylsilane | 2-(chlorodimethylsilyl)-2-methylpropane | 550OPF5Z9F | Silane, chloro-tert-butyldimethyl- | TBDMSCl",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-2857-97-8",
+    "cas-27607-77-8",
+    "cas-5856-77-9",
+    "cas-1643-19-2",
+    "cas-56-93-9",
+    "cas-683-18-1",
+    "cas-25103-58-6",
+    "cas-75-57-0",
+    "cas-121-43-7",
+    "cas-75-79-6",
+    "cas-144-86-5",
+    "cas-36016-38-3",
+    "cas-24424-99-5",
+    "cas-124-63-0",
+    "cas-75-57-0",
+    "cas-121-43-7",
+    "cas-75-79-6",
+    "cas-144-86-5",
+    "cas-36016-38-3",
+    "cas-24424-99-5",
+    "cas-124-63-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-18162-48-6/"
+}

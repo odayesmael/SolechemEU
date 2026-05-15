@@ -1,0 +1,61 @@
+{
+  "id": "494",
+  "name": "Methyl formate",
+  "slug": "cas-107-31-3",
+  "cas": "107-31-3",
+  "ec": "203-481-7",
+  "formula": "C2H4O2",
+  "mw": "60.05 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl formate (CAS 107-31-3 ), also known as R-611, is a fast-evaporating ester solvent used across pharmaceutical synthesis, fumigation, and flavoring applications. Its high solvency power and reactivity as a formylating agent make it a practical choice for both process chemistry and specialty formulations. In pharmaceutical manufacturing, methyl formate functions as a reaction solvent and intermediate in the synthesis of formic acid, formamide derivatives, and active pharmaceutical ingredients. As a fumigant and grain preservative, it offers broad-spectrum biocidal activity. It is effective against insects and molds in stored commodities, with a low residue profile that supports food safety compliance. Flavor chemists use it as a fruity top-note ingredient in food and beverage formulations, where its low use levels deliver high olfactory impact. In industrial foam production, it serves as a blowing agent alternative under the R-611 designation, replacing more regulated halocarbons in polyurethane systems. This versatility makes it a staple in modern chemical manufacturing and agricultural preservation. Methyl formate is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Technical grade is the standard for industrial and fumigation use, while higher-purity grades are available to meet pharmaceutical and food-grade processing requirements. These high-purity options often align with international quality standards such as FCC , USP , Ph.Eur. , BP , EP , or ACS depending on the specific application. Buyers should confirm purity specifications and packaging options directly with suppliers. Grade designations vary by regional market, so technical data sheets should be reviewed for compliance. Proper handling and storage are essential due to the high volatility and flammability of this ester solvent in industrial environments. Contact us for supply of Methyl formate Request Quote",
+  "physicalProperties": "Melting Point: -99.8 °C; Boiling Point: 31.5 °C; Density: 0.987 g/cm³ @ Temp: 15 °C; Flash Point: −16 °F; Appearance: Methyl formate is a colorless liquid with a pleasant odor.; Color: Clear colorless; Odor: Pleasant; agreeable.; Form: Liquid; Water Solubility: 300 G/L (20 ºC); Vapor Pressure: 32.91 psi ( 55 °C); Refractive Index: n 20/D 1.343(lit.); pH: 4-5 (200g/l, H2O, 20℃); Log P: -0.21 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS06 GHS08 Hazard Statements H224 Extremely flammable liquid and vapor H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H315 Causes skin irritation H316 Causes mild skin irritation H319 Causes serious eye irritation H331 Toxic if inhaled H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H301+H311+H331 Toxic if swallowed, in contact with skin or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2915 13 00; UN Number: 1243; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "R-611 | methyl methanoate | methyl ester of formic acid | methanoic acid methyl ester | HCOOCH3 | HCO2CH3 | formic acid methyl ester | Formiate de methyle",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "2915 13 00",
+  "similarProducts": [
+    "cas-79-20-9",
+    "cas-149-73-5",
+    "cas-590-29-4",
+    "cas-540-69-2",
+    "cas-109-87-5",
+    "cas-75-12-7",
+    "cas-547-64-8",
+    "cas-93-58-3",
+    "cas-105-45-3",
+    "cas-547-63-7",
+    "cas-141-53-7",
+    "cas-68-12-2",
+    "cas-623-42-7",
+    "cas-74-87-3",
+    "cas-93-58-3",
+    "cas-105-45-3",
+    "cas-547-63-7",
+    "cas-141-53-7",
+    "cas-68-12-2",
+    "cas-623-42-7",
+    "cas-74-87-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-107-31-3/"
+}

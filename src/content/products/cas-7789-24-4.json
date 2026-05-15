@@ -1,0 +1,63 @@
+{
+  "id": "2187",
+  "name": "Lithium fluoride",
+  "slug": "cas-7789-24-4",
+  "cas": "7789-24-4",
+  "ec": "232-152-0",
+  "formula": "FLi",
+  "mw": "26.0 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Electronics",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium fluoride (CAS 7789-24-4 ), commonly abbreviated as LiF, is an inorganic salt sourced for use across metallurgical, optical, and electronics manufacturing processes. It functions as a flux agent, catalyst component, and flame retardant across a range of industrial and specialty applications. In aluminum and beryllium metallurgy, LiF is used as a flux to lower melting points and improve melt flow during smelting and casting operations. The electronics industry relies on it as a raw material for producing optical components. These components include X-ray and UV transmission windows, where its low atomic number and wide transmission range are critical to component performance. In polymer and plastics processing, it acts as a catalyst or catalyst precursor. This occurs in specific polymerization and esterification reactions. It is also incorporated into flame retardant formulations for textiles and paper, where it contributes to char formation and combustion suppression during use. Lithium fluoride is supplied as a white crystalline powder or fine granules. Standard commercial grades include technical grade and high-purity optical or electronic grades, with purity levels typically ranging from 98% to 99.9%+. Pharmaceutical and specialty grades meeting USP or equivalent specifications are available for controlled applications. This ensures the material meets the rigorous demands of high-tech manufacturing and chemical synthesis. Contact us for supply of Lithium fluoride Request Quote",
+  "physicalProperties": "Melting Point: 848 °C; Boiling Point: 1681 °C; Density: 2.640 g/cm³ @ Temp: 20 °C; Flash Point: 1680°C; Appearance: White powder; Color: White to off-white; Form: random crystals; Water Solubility: 0.29 g/100 mL (20 ºC); Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.3915; pH: 6.0-8.5 (25℃, 0.01M in H2O); Log P: 0.23 at 25℃",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H362 May cause harm to breast-fed children Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28261900; UN Number: 3288; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 2",
+  "otherNames": "Lithium monofluoride | Lithium fluoride (LiF) | Lithium fluorure | TLD 100 | NTL 50 | TLD 700 | 1485XST65B | LiF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28261900",
+  "similarProducts": [
+    "cas-7784-18-1",
+    "cas-7789-75-5",
+    "cas-7787-32-8",
+    "cas-7789-23-3",
+    "cas-7783-49-5",
+    "cas-12125-01-8",
+    "cas-7681-49-4",
+    "cas-7439-93-2",
+    "cas-10028-18-9",
+    "cas-21324-40-3",
+    "cas-7782-41-4",
+    "cas-7447-41-8",
+    "cas-15096-52-3",
+    "cas-554-13-2",
+    "cas-7439-93-2",
+    "cas-10028-18-9",
+    "cas-21324-40-3",
+    "cas-7782-41-4",
+    "cas-7447-41-8",
+    "cas-15096-52-3",
+    "cas-554-13-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7789-24-4/"
+}

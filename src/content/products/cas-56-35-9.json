@@ -1,0 +1,62 @@
+{
+  "id": "26",
+  "name": "Tributyltin oxide",
+  "slug": "cas-56-35-9",
+  "cas": "56-35-9",
+  "ec": "200-268-0",
+  "formula": "C24H54OSn2",
+  "mw": "596.1 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Building & Construction",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tributyltin oxide (CAS 56-35-9 ), commercially known as TBTO or Butinox, is an organotin biocide used across industrial preservation applications. It functions as a broad-spectrum antimicrobial agent. This chemical is highly effective at controlling fungi, bacteria, and marine fouling organisms in demanding environments. In textile and leather processing, it is applied as an antifungal treatment. The treatment helps to prevent mold and mildew degradation during storage and transit. Pulp and paper manufacturing uses it as a slimicide to inhibit microbial growth in process water and on finished materials. In building and construction, it serves as a wood preservative, protecting structural timber and joinery against fungal decay and insect attack. This ensures the longevity of structural components. Marine and industrial coatings have historically incorporated this compound as an antifouling agent. It is used to prevent biofouling on submerged surfaces and various types of industrial equipment. The product is supplied as a liquid, typically as a clear to pale yellow oily fluid. It is available in technical grade, with concentration specifications commonly expressed as percentage active ingredient. Packaging ranges from drums to intermediate bulk containers. Supply quantities are suited to industrial-scale formulation and treatment operations for global manufacturing requirements. Contact us for supply of Tributyltin oxide Request Quote",
+  "physicalProperties": "Melting Point: -45 °C; Boiling Point: 180 °C @ Press: 2 Torr; Density: 1.17 g/cm³ @ Temp: 25 °C; Flash Point: >230 °F; Appearance: Clear colorless liquid; Color: colorless; Form: liquid; Water Solubility: INSOLUBLE; Vapor Pressure: <0.01 mm Hg ( 25 °C); Refractive Index: n 20/D 1.486(lit.); Log P: 3.840 (est)",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H301 Toxic if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 2788; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "bis(tributyltin) oxide | TBTO | Butinox | Distannoxane, hexabutyl- | Bis(tri-n-butyltin) oxide | Stannicide A | Lastanox Q | Distannoxane, 1,1,1,3,3,3-hexabutyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-51590-67-1",
+    "cas-818-08-6",
+    "cas-870-08-6",
+    "cas-13355-96-9",
+    "cas-76-87-9",
+    "cas-28471-16-1",
+    "cas-75-91-2",
+    "cas-5593-70-4",
+    "cas-78-51-3",
+    "cas-23850-94-4",
+    "cas-126-73-8",
+    "cas-77-94-1",
+    "cas-21651-19-4",
+    "cas-126-71-6",
+    "cas-5593-70-4",
+    "cas-78-51-3",
+    "cas-23850-94-4",
+    "cas-126-73-8",
+    "cas-77-94-1",
+    "cas-21651-19-4",
+    "cas-126-71-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-56-35-9/"
+}

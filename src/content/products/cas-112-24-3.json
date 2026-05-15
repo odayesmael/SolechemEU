@@ -1,0 +1,62 @@
+{
+  "id": "650",
+  "name": "Triethylenetetramine",
+  "slug": "cas-112-24-3",
+  "cas": "112-24-3",
+  "ec": "203-950-6",
+  "formula": "C6H18N4",
+  "mw": "146.23 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethylenetetramine (CAS 112-24-3 ), commonly abbreviated as TETA, is a polyamine used across polymer, textile, and specialty chemical manufacturing. It functions primarily as a curing agent, cross-linker, and pH buffer in industrial formulations. In epoxy resin systems, TETA acts as a room-temperature hardener, enabling cross-linking in coatings, adhesives, and composite materials where controlled cure speed and mechanical strength are required. Textile and leather processors use it as a pH regulator and fixative in dyeing and finishing baths, improving dye uptake and process consistency. This ensures high-quality results across various industrial applications. In flame retardant formulations, it serves as a reactive intermediate or building block for nitrogen-containing compounds that contribute to char formation in polymer matrices. This enhances the safety profile of materials. Personal care formulators incorporate TETA as a pH adjuster in select rinse-off products and as a chelating component in formulations requiring amine-based buffering. It provides stability and performance in these settings. TETA is supplied as an amber to light yellow liquid in standard industrial packaging including drums and IBCs. Technical grade is the most common commercial form for large-scale manufacturing needs. Higher-purity grades are available for specialty polymer and personal care applications. Buyers should confirm amine content and purity specification against their curing or formulation requirements before sourcing. Contact us for supply of Triethylenetetramine Request Quote",
+  "physicalProperties": "Melting Point: 12 °C; Boiling Point: 266-267 °C @ Press: 760 Torr; Density: 0.9818 g/cm³ @ Temp: 20 °C; Flash Point: 290 °F; Appearance: colourless to light yellow or amber viscous liquid; Color: Yellowish liquid or oil; Form: Slightly viscous yellow liquid; commercially available form is 95–98% pure, and impurities include linear, branched, and cyclic isomers.; Water Solubility: SOLUBLE; Vapor Pressure: <0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.496(lit.); pH: 10-11 (10g/l, H2O, 20℃); Log P: -2.65 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS06 Hazard Statements H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H335 May cause respiratory irritation H402 Harmful to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29212900; UN Number: 2259; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "trien | N'-[2-(2-azanylethylamino)ethyl]ethane-1,2-diamine | N'-[2-(2-aminoethylamino)ethyl]ethane-1,2-diamine | 2-aminoethyl-[2-(2-aminoethylamino)ethyl]amine | trientine | TETA | Tecza | 1,2-Ethanediamine, N,N'-bis(2-aminoethyl)-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "29212900",
+  "similarProducts": [
+    "cas-112-57-2",
+    "cas-111-40-0",
+    "cas-6711-48-4",
+    "cas-3030-47-5",
+    "cas-102-60-3",
+    "cas-110-18-9",
+    "cas-75389-89-8",
+    "cas-68479-98-1",
+    "cas-2095-02-5",
+    "cas-280-57-9",
+    "cas-111-18-2",
+    "cas-143-23-7",
+    "cas-4620-70-6",
+    "cas-2212-32-0",
+    "cas-68479-98-1",
+    "cas-2095-02-5",
+    "cas-280-57-9",
+    "cas-111-18-2",
+    "cas-143-23-7",
+    "cas-4620-70-6",
+    "cas-2212-32-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-24-3/"
+}

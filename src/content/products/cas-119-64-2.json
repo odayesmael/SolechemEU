@@ -1,0 +1,62 @@
+{
+  "id": "718",
+  "name": "Tetralin",
+  "slug": "cas-119-64-2",
+  "cas": "119-64-2",
+  "ec": "204-340-2",
+  "formula": "C10H12",
+  "mw": "132.20 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetralin (CAS 119-64-2 ), also known by the abbreviation THN, is a bicyclic hydrocarbon solvent derived from partial hydrogenation of naphthalene. It functions as a high-boiling, non-polar solvent capable of dissolving resins, waxes, and oils. Its slow evaporation profile makes it a controlled-release carrier in demanding industrial formulations. In printing inks and packaging coatings, it dissolves high-molecular-weight resins to produce smooth, durable films with extended open time. Adhesive and sealant formulators use it to improve tack and flow in rubber-based systems where slower solvent release is critical to bond performance. In coatings, it acts as a tail solvent to reduce surface defects. This chemical helps prevent blushing and cratering during film formation. Personal care manufacturers have incorporated it at trace levels as a fragrance component, where its mild naphthalenic character contributes to specific accord profiles. The product is supplied as a clear liquid in standard industrial drum and IBC quantities. Technical grade is the primary commercial specification, with purity levels typically at 99% or above for industrial use. Specialty fragrance-grade material is available for personal care applications where tighter impurity limits are required. This ensures the material meets the specific needs of high-end cosmetic and aromatic formulations. Contact us for supply of Tetralin Request Quote",
+  "physicalProperties": "Melting Point: -35.8 °C; Boiling Point: 207.6 °C @ Press: 760 Torr; Density: 0.9702 g/cm³ @ Temp: 20 °C; Flash Point: 171 °F; Appearance: colourless liquid with a mouldy smell; Color: Colorless; Odor: pungent menthol odor; Form: Fluid; Water Solubility: INSOLUBLE; Vapor Pressure: 0.18 mm Hg ( 20 °C); Refractive Index: n 20/D 1.541(lit.); Log P: 3.78 at 23℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 GHS06 Hazard Statements H227 Combustible liquid H304 May be fatal if swallowed and enters airways H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H330 Fatal if inhaled H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H373 May causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29029010; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "tetralene | naphthalene 1,2,3,4-tetrahydride | 1,2,3,4-Tetrahydronaphthalene | Tetranap | Tetraline | Naphthalene, 1,2,3,4-tetrahydro- | Tetralina | THN",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29029010",
+  "similarProducts": [
+    "cas-629-59-4",
+    "cas-108-88-3",
+    "cas-109-99-9",
+    "cas-110-01-0",
+    "cas-85-43-8",
+    "cas-64742-49-0",
+    "cas-97-99-4",
+    "cas-1972-08-3",
+    "cas-111-18-2",
+    "cas-586-62-9",
+    "cas-112-75-4",
+    "cas-91-20-3",
+    "cas-6711-48-4",
+    "cas-64742-88-7",
+    "cas-1972-08-3",
+    "cas-111-18-2",
+    "cas-586-62-9",
+    "cas-112-75-4",
+    "cas-91-20-3",
+    "cas-6711-48-4",
+    "cas-64742-88-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-119-64-2/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "1010",
+  "name": "Silicon carbide",
+  "slug": "cas-409-21-2",
+  "cas": "409-21-2",
+  "ec": "206-991-8",
+  "formula": "CSi",
+  "mw": "40.096 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Mining & Metals",
+    "Building & Construction",
+    "Automotive",
+    "Aerospace & Defense",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Silicon carbide (CAS 409-21-2 ), commonly referenced by its abbreviation SiC, is a synthetically produced abrasive and refractory material used across high-temperature and high-wear industrial environments. It delivers exceptional hardness and thermal stability that make it a preferred material in demanding structural and processing applications. In abrasives manufacturing, SiC is used to produce grinding wheels. It is also used for cutting discs, sandpapers, and blasting media for machining hard metals, ceramics, and composites. Refractory producers incorporate it into kiln furniture, furnace linings, and crucibles. These components must withstand extreme thermal cycling without degradation. The electronics and semiconductor industries rely on SiC wafers and substrates for power devices, including inverters and EV drivetrain components. High voltage and high-temperature performance are critical in these sectors. In metallurgy, it functions as a deoxidizer and carbon/silicon additive in steel and cast iron production, improving melt quality. Silicon carbide is supplied as crude material, macrogrits, microgrits, and fine powder, with particle size being the primary specification variable across applications. Established grades include metallurgical-grade. Other grades include refractory-grade and semiconductor-grade, each with distinct purity thresholds. Black SiC and green SiC are the two commercially recognized variants, differentiated by purity level. These variants are selected based on the targeted application. All materials are processed to meet rigorous industrial requirements and ensure consistent performance in heavy-duty manufacturing environments. Contact us for supply of Silicon carbide Request Quote",
+  "physicalProperties": "Melting Point: 2600 °C; Density: 3.23 g/cm³; Appearance: Silicon carbide is a yellow to green to bluishblack, iridescent crystalline substance. Colorless when pure.; Color: Green; Form: nanopowder; Water Solubility: Soluble in molten alkalis (NaOH, KOH) and molten iron. Insoluble in water.; Refractive Index: 2.6500",
+  "safetyHandling": "Danger GHS08 GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H350 May cause cancer H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28492000; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "silicon(IV) carbide | silicon monocarbide | SiC | carbon silicide | Crystar | Silicon carbide (SiC) | Carbolon | Silundum",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "28492000",
+  "similarProducts": [
+    "cas-7440-21-3",
+    "cas-7631-86-9",
+    "cas-60676-86-0",
+    "cas-112945-52-5",
+    "cas-14808-60-7",
+    "cas-112926-00-8",
+    "cas-10279-57-9",
+    "cas-7782-42-5",
+    "cas-68855-54-9",
+    "cas-1333-86-4",
+    "cas-13870-28-5",
+    "cas-1344-28-1",
+    "cas-69012-64-2",
+    "cas-10101-52-7",
+    "cas-7782-42-5",
+    "cas-68855-54-9",
+    "cas-1333-86-4",
+    "cas-13870-28-5",
+    "cas-1344-28-1",
+    "cas-69012-64-2",
+    "cas-10101-52-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-409-21-2/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "488",
+  "name": "Butane",
+  "slug": "cas-106-97-8",
+  "cas": "106-97-8",
+  "ec": "203-448-7",
+  "formula": "C4H10",
+  "mw": "58.12 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Automotive",
+    "Food & Nutrition",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Butane (CAS 106-97-8 ), also identified as R-600 and E943a , is a liquefied petroleum gas supplied as a compressed or liquefied gas for use across energy, industrial, and food-grade applications. It functions primarily as a fuel, propellant, and extraction solvent across multiple sectors. In the food and beverage industry, butane is approved as a propellant and extraction solvent under the E943a designation. It is used in aerosol food products and edible oil extraction processes. In oil and gas, it serves as a blending component in LPG formulations and as a feedstock for petrochemical synthesis, including production of butylene. Automotive applications include use as a fuel blend component in LPG vehicle systems, where its vapor pressure characteristics determine seasonal blending ratios. It is also used in synthetic rubber manufacturing. As a refrigerant designated R-600, it is also used in domestic and light commercial refrigeration systems as a low-GWP alternative. Butane is supplied as a liquefied compressed gas in cylinders and bulk tanks. ISO containers are also available for transport. Food-grade and technical-grade specifications are both commercially available, with food-grade product conforming to FCC requirements for use as a solvent. It is suitable for direct food contact as a propellant. Purity grades typically range from commercial LPG blends to high-purity instrument and extraction grades to meet specific industrial requirements. Contact us for supply of Butane Request Quote",
+  "physicalProperties": "Melting Point: -138.2 °C; Boiling Point: -0.50 °C; Density: 0.5788 g/cm³ @ Temp: 20 °C; Flash Point: 45 °C; Appearance: colourless gas; Odor: faint disagreeable odor; Form: gas; Water Solubility: 73.24mg/L(25 ºC); Vapor Pressure: 3.21, 1.26, and 0.66 mM at 4, 25, and 50 °C, respectively (Kresheck et al., 1965); Refractive Index: 1.3326; Log P: 2.890",
+  "safetyHandling": "Danger GHS02 GHS04 GHS08 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H336 May cause drowsiness or dizziness H340 May cause genetic defects H350 May cause cancer H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place.",
+  "tradeRegulatory": "HS Code: 2901100000; UN Number: 2037; ADR Class: 2.1; Storage Class: 2A - Gases",
+  "otherNames": "R-600 | normal-butane | n-C4H10 | n-butane | E943a | diethyl | butyl hydride | Butanen",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "2901100000",
+  "similarProducts": [
+    "cas-75-28-5",
+    "cas-74-98-6",
+    "cas-78-78-4",
+    "cas-590-01-2",
+    "cas-107-92-6",
+    "cas-123-86-4",
+    "cas-71-36-3",
+    "cas-109-79-5",
+    "cas-109-65-9",
+    "cas-124-38-9",
+    "cas-287-92-3",
+    "cas-78-92-2",
+    "cas-138-22-7",
+    "cas-105-54-4",
+    "cas-109-79-5",
+    "cas-109-65-9",
+    "cas-124-38-9",
+    "cas-287-92-3",
+    "cas-78-92-2",
+    "cas-138-22-7",
+    "cas-105-54-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-106-97-8/"
+}

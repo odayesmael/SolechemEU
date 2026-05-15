@@ -1,0 +1,62 @@
+{
+  "id": "729",
+  "name": "Catechol",
+  "slug": "cas-120-80-9",
+  "cas": "120-80-9",
+  "ec": "204-427-6",
+  "formula": "C6H6O2",
+  "mw": "110.11 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Textile, Leather & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Catechol (CAS 120-80-9 ), also known as Pelagol Grey C and oxyphenic acid, is an aromatic diol used across personal care, pharmaceutical, and industrial manufacturing. It functions primarily as an antioxidant and intermediate. In cosmetics and hair care, it acts as an oxidative coupler in permanent hair dye formulations, producing grey and dark tones when combined with primary intermediates. It is essential for achieving specific color profiles. Pharmaceutical manufacturers use it as a key synthetic intermediate in the production of catecholamine-based active ingredients. This includes certain cardiovascular and neurological compounds used in modern medicine. In the textile and leather industries, it contributes to dyeing processes and tanning formulations where controlled oxidative chemistry is required. It ensures consistent results in industrial chemical processing. As a stabilizer and antioxidant, it is incorporated into industrial formulations to inhibit oxidative degradation in rubber and polymer processing. This extends the lifespan and durability of various synthetic materials. The product is supplied as white to off-white crystalline flakes or powder. Technical grade is the standard offering for industrial and dyestuff applications, while higher-purity grades are available for specific needs. These higher-purity grades are designed to meet pharmaceutical intermediate specifications. Packaging typically ranges from small drums to bulk quantities depending on the specific application requirements of the client. Contact us for supply of Catechol Request Quote",
+  "physicalProperties": "Melting Point: 105 °C; Boiling Point: 245.5 °C @ Press: 760 Torr; Density: 1.344 g/cm³; Flash Point: 279 °F; Appearance: Catechol is a white crystalline solid. Turns brown on contact with light and air.; Color: white to faintly beige; Form: Crystalline Flakes; Water Solubility: 430 g/L (20 ºC); Vapor Pressure: 1 mm Hg ( 75 °C); Refractive Index: 1.6120 (estimate); pH: 6 (100g/l, H2O, 20℃); Log P: 0.93",
+  "safetyHandling": "Danger GHS06 GHS08 GHS07 GHS05 Hazard Statements H301 H301 H302 H302 H311 H311 H312 H312 H314 H314 H315 H315 H317 H317 H318 H318 H319 H319 H332 H332 H335 H335 H341 H341 H350 H350 H351 H351 H361 H361 H370 H370 H372 H372 H373 H373 H401 H401 H412 H412 Precautionary Statements P203 P203 P260 P260 P261 P261 P262 P262 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P316 P316 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P333+P317 P333+P317 P337+P317 P337+P317 P361+P364 P361+P364 P362+P364 P362+P364 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29072900; UN Number: 2811; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "Phthalic alcohol | Pelagol Grey C | Oxyphenic acid | O-Phenylenediol | o-hydroxyphenol | O-Hydroquinone | O-Dioxybenzene | o-Dihydroxybenzene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS07",
+    "GHS05"
+  ],
+  "hsCode": "29072900",
+  "similarProducts": [
+    "cas-274-07-7",
+    "cas-8001-76-1",
+    "cas-87-66-1",
+    "cas-93841-25-9",
+    "cas-54381-16-7",
+    "cas-331-39-5",
+    "cas-84-65-1",
+    "cas-98-29-3",
+    "cas-84041-77-0",
+    "cas-106-50-3",
+    "cas-96-26-4",
+    "cas-95-55-6",
+    "cas-108-46-3",
+    "cas-62-44-2",
+    "cas-98-29-3",
+    "cas-84041-77-0",
+    "cas-106-50-3",
+    "cas-96-26-4",
+    "cas-95-55-6",
+    "cas-108-46-3",
+    "cas-62-44-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-120-80-9/"
+}

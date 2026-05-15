@@ -1,0 +1,59 @@
+{
+  "id": "668",
+  "name": "Tetraethylene glycol",
+  "slug": "cas-112-60-7",
+  "cas": "112-60-7",
+  "ec": "203-989-9",
+  "formula": "C8H18O5",
+  "mw": "194.23 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetraethylene glycol (CAS 112-60-7 ), commonly abbreviated as TEG, is a mid-chain polyethylene glycol marketed under the designation PEG-4 in cosmetic and personal care contexts. It functions as a hygroscopic solvent, humectant, and reactive intermediate across pharmaceutical, cosmetic, and polymer manufacturing applications. In personal care formulations, TEG acts as a humectant. It serves as a solvent carrier for active ingredients in creams, serums, and cleansing products, improving texture and moisture retention. Pharmaceutical manufacturers use it as a solvent and co-solvent. In topical and oral preparations, its low volatility supports stable, consistent dosing. In polymer chemistry, TEG serves as a reactive diol for cross-linking and curing polyurethane and epoxy systems. This contributes to controlled network density in coatings and adhesives. It also functions as a plasticizer and processing aid in specialty plastic formulations requiring flexible, low-migration performance. Tetraethylene glycol is supplied as a clear, low-viscosity liquid in drum and IBC quantities. Standard commercial grades include technical and high-purity specifications suited to industrial applications. Pharmaceutical and cosmetic supply chains typically require material meeting USP or Ph. Eur. compendial standards. Such grades are available from qualified API and specialty chemical distributors. Contact us for supply of Tetraethylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -6.2 °C; Boiling Point: 327 °C @ Press: 760 Torr; Density: 1.1285 g/cm³ @ Temp: 15 °C; Flash Point: 400 °F; Appearance: liquid; Color: Clear slightly yellow; Form: Liquid; Water Solubility: soluble; Vapor Pressure: <0.01 mm Hg; Refractive Index: n 20/D 1.459(lit.); pH: 8.5-9.0 (500g/l, H2O, 20℃); Log P: -2 at 25℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation Precautionary Statements P280 Wear protective gloves/protective clothing/eye protection/face protection. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29094919; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "tetrahydrofurfuryl alcohol polyethylene glycol ether | PEG-4 | chromophore EL | 3,6,9-Trioxaundecane-1,11-diol | 3,6,9-trioxaundecan-1,11-diol | 2,2'-[oxybis(ethane-2,1-diyloxy)]diethanol | 2,2'-[Oxybis(2,1-ethanediyloxy)]diethanol | 2,2'-[oxybis(2,1-ethanediyloxy)]bisethanol | TEG",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29094919",
+  "similarProducts": [
+    "cas-112-27-6",
+    "cas-23783-42-8",
+    "cas-70729-68-9",
+    "cas-143-24-8",
+    "cas-4792-15-8",
+    "cas-5274-68-0",
+    "cas-5117-19-1",
+    "cas-5617-32-3",
+    "cas-111-46-6",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-25322-68-3",
+    "cas-94-28-0",
+    "cas-107-21-1",
+    "cas-5617-32-3",
+    "cas-111-46-6",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-25322-68-3",
+    "cas-94-28-0",
+    "cas-107-21-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-60-7/"
+}

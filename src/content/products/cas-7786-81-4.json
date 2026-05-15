@@ -1,0 +1,63 @@
+{
+  "id": "2182",
+  "name": "Nickel sulfate",
+  "slug": "cas-7786-81-4",
+  "cas": "7786-81-4",
+  "ec": "232-104-9",
+  "formula": "H2O4S.Ni",
+  "mw": "154.76 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Nickel sulfate (CAS 7786-81-4 ), also sold as NiSO4, is an inorganic nickel salt primarily used as an electrolyte source in industrial electroplating and surface finishing operations. It delivers controlled nickel deposition onto metal substrates and serves as a precursor in catalyst manufacturing. In electroplating, it is the standard nickel source for decorative and functional coatings on automotive parts, electronics connectors, and hardware. Deposit quality and bath stability depend on consistent nickel ion concentration during the process. Battery manufacturers use it as a key precursor in synthesizing nickel-rich cathode materials for lithium-ion cells, particularly NMC and NCA chemistries. This application is critical for the production of high-capacity energy storage systems. In textile and leather processing, it acts as a mordant to fix dyes onto fiber substrates, improving color fastness in finished goods. This ensures that the pigments remain stable and vibrant throughout the lifecycle of the material. Mining operations use nickel sulfate solutions in hydrometallurgical refining to recover and purify nickel from ore concentrates. This chemical process is essential for obtaining high-purity metals from raw geological sources. Nickel sulfate is supplied as a crystalline solid in both hexahydrate and anhydrous forms, with the hexahydrate being the dominant commercial grade. Standard supply specifications include technical grade and electroplating grade. Purity levels typically range from 98% to 99.5% depending on the specific industrial requirement. Bulk quantities are available in bags or drums, with high-purity battery-grade material increasingly offered to meet EV supply chain requirements. Contact us for supply of Nickel sulfate Request Quote",
+  "physicalProperties": "Melting Point: 840 °C (decomp); Density: 4.01 g/cm³; Appearance: (1) Yellow-green crystals, (2) blue or emerald green crystals, (3) green crystals.All the sulfates are soluble in water; (2) and (3) are soluble in alcohol; (1) is insoluble in alcohol and ether.; Color: green-yellow orthorhombic crystals, crystalline; Odor: odorless; Form: green-yellow orthorhombic crystals; Water Solubility: 27.3-27.7 g/100 mL at 20 ºC",
+  "safetyHandling": "Danger GHS07 GHS08 GHS09 GHS06 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H332 Harmful if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H341 Suspected of causing genetic defects H350 May cause cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse.",
+  "tradeRegulatory": "UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "NiSO4 | nickel(II) sulphate | nickel sulphate | Nickelous sulfate | Nickel(II) sulfate | Nickel(2+) sulfate | Nickel sulfate(1:1) | Nickel(II) sulfate (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09",
+    "GHS06"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-10101-97-0",
+    "cas-13770-89-3",
+    "cas-13138-45-9",
+    "cas-13478-00-7",
+    "cas-7718-54-9",
+    "cas-10124-43-3",
+    "cas-7440-02-0",
+    "cas-6018-89-9",
+    "cas-12054-48-7",
+    "cas-3333-67-3",
+    "cas-12607-70-4",
+    "cas-61788-71-4",
+    "cas-10028-18-9",
+    "cas-1313-99-1",
+    "cas-6018-89-9",
+    "cas-12054-48-7",
+    "cas-3333-67-3",
+    "cas-12607-70-4",
+    "cas-61788-71-4",
+    "cas-10028-18-9",
+    "cas-1313-99-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7786-81-4/"
+}

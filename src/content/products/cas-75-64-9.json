@@ -1,0 +1,63 @@
+{
+  "id": "154",
+  "name": "tert-butylamine",
+  "slug": "cas-75-64-9",
+  "cas": "75-64-9",
+  "ec": "200-888-1",
+  "formula": "C4H11N",
+  "mw": "73.14 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Water Treatment",
+    "Agriculture & Feed",
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tert-butylamine (CAS 75-64-9 ), also known as t-Butylamine or Erbumine, is a primary aliphatic amine used as a chemical building block and pH-regulating agent across pharmaceutical, agrochemical, and industrial manufacturing processes. Its role as a reactive intermediate drives demand from formulators and synthesis chemists sourcing for multi-step production chains. In pharmaceutical manufacturing, it forms salt complexes with active ingredients. Perindopril erbumine is a prominent example where it directly influences the final drug's stability and bioavailability profile. Agrochemical producers use it as a key intermediate in the synthesis of herbicides and fungicides. It is particularly useful for sulfonamide-class compounds. In polymer chemistry, it functions as a polymerization initiator and chain-transfer agent, influencing molecular weight distribution in specialty plastics production. Water treatment formulators incorporate it for pH buffering in process water systems where controlled alkalinity is required. The chemical is supplied as a liquid in drums, IBCs, and bulk isotanks. This reflects its low boiling point and specific handling requirements. Technical grade is the standard commercial offering, with high-purity grades available for pharmaceutical intermediate applications. Buyers sourcing for regulated end uses typically require documentation supporting GMP -aligned quality standards. This ensures the material meets the rigorous demands of global chemical supply chains. Contact us for supply of tert-butylamine Request Quote",
+  "physicalProperties": "Melting Point: -66.9 °C; Boiling Point: 44 °C; Density: 0.6958 g/cm³ @ Temp: 20 °C; Flash Point: −36.4 °F; Appearance: Butyl amines are highly flammable, colorless liquids (n-turns yellow on standing) with ammoniacal or fishlike odors. n-isomer:; Color: Clear; Odor: Like ammonia.; Form: Liquid; Water Solubility: MISCIBLE; Vapor Pressure: 5.7 psi ( 20 °C); Refractive Index: n 20/D 1.377(lit.); pH: 12 (100g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H225 Highly Flammable liquid and vapor [Danger Flammable liquids] H301 Toxic if swallowed [Danger Acute toxicity, oral] H331 Toxic if inhaled [Danger Acute toxicity, inhalation]",
+  "tradeRegulatory": "HS Code: 29211980; UN Number: 3286; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "t-Butylamine | Erbumine | 2-Methyl-2-propylamine | 2-Methyl-2-propanamine | 1,1-Dimethylethylamine | 1,1-Dimethylethanamine | 2-methylpropan-2-amine | 2-Amino-2-methylpropane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29211980",
+  "similarProducts": [
+    "cas-102-82-9",
+    "cas-4620-70-6",
+    "cas-2160-93-2",
+    "cas-13360-63-9",
+    "cas-78-81-9",
+    "cas-109-73-9",
+    "cas-111-75-1",
+    "cas-36016-38-3",
+    "cas-107-58-4",
+    "cas-102-69-2",
+    "cas-75-65-0",
+    "cas-1643-19-2",
+    "cas-110-58-7",
+    "cas-624-78-2",
+    "cas-36016-38-3",
+    "cas-107-58-4",
+    "cas-102-69-2",
+    "cas-75-65-0",
+    "cas-1643-19-2",
+    "cas-110-58-7",
+    "cas-624-78-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-64-9/"
+}

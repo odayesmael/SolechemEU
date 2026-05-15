@@ -1,0 +1,61 @@
+{
+  "id": "2520",
+  "name": "Ferric sulfate",
+  "slug": "cas-10028-22-5",
+  "cas": "10028-22-5",
+  "ec": "231-753-5",
+  "formula": "Fe.3/2H2O4S",
+  "mw": "399.9 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Mining & Metals",
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ferric sulfate (CAS 10028-22-5 ), also supplied as ferric sulfate anhydrous, is an iron-based inorganic salt used industrially as a coagulant, oxidizing agent, and catalyst precursor across water treatment, mining, and chemical processing sectors. Its ability to precipitate dissolved contaminants and facilitate metal leaching drives demand across multiple process industries. In municipal and industrial water treatment, it functions as a primary coagulant to remove suspended solids. The compound is highly effective at removing phosphates and heavy metals from effluent streams. Hydrometallurgical operations use it to oxidize sulfide ores during heap leaching, particularly in copper and gold recovery processes. Textile and leather processors apply it as a mordant and fixative to bind dyes to fiber substrates, improving color fastness and consistency. This ensures high-quality results in large-scale manufacturing environments. Pharmaceutical manufacturers use it as an astringent and hemostatic agent in topical formulations. It also serves as a catalyst precursor in select organic synthesis routes for specialized chemical production. Ferric sulfate is available as a granular solid, powder, or concentrated aqueous solution. Standard technical and industrial grades are the most common supply forms for bulk industrial procurement and logistics. Solution concentrations typically range from 40–50% by weight for water treatment applications. Purity specifications vary by end use, with higher-purity grades available for pharmaceutical and specialty chemical applications. Contact us for supply of Ferric sulfate Request Quote",
+  "physicalProperties": "Melting Point: 480 °C (decomp); Boiling Point: 101-118 °C; Density: 3.097 g/cm³ @ Temp: 18 °C; Appearance: Yellow crystals or grayish-white powder.(1) slightly soluble in water, (2) very soluble in water. Keep well closed and protected from light. Noncombustible.; Color: Yellow-gray; Form: Powder; Water Solubility: Soluble in water. Sparingly soluble in alcohol. Almost insoluble in acetone and ethyl acetate. Insoluble in sulfuric acid and ammonia.; Vapor Pressure: 0Pa at 20℃; Log P: -1.031 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P234 Keep only in original packaging. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2833298080; UN Number: 9121; WGK (Germany): 3",
+  "otherNames": "diiron trisulfate | diiron tris(sulphate) | ferric sulfate anhydrous | iron(III) sulfate(VI) | iron(III) sulfate | iron tersulfate | iron sesquisulfate | iron persulfate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "2833298080",
+  "similarProducts": [
+    "cas-15244-10-7",
+    "cas-7720-78-7",
+    "cas-7782-63-0",
+    "cas-13463-43-9",
+    "cas-10043-01-3",
+    "cas-7705-08-0",
+    "cas-20344-49-4",
+    "cas-14808-79-8",
+    "cas-7758-94-3",
+    "cas-10294-26-5",
+    "cas-10045-86-0",
+    "cas-7733-02-0",
+    "cas-7758-98-7",
+    "cas-7782-61-8",
+    "cas-14808-79-8",
+    "cas-7758-94-3",
+    "cas-10294-26-5",
+    "cas-10045-86-0",
+    "cas-7733-02-0",
+    "cas-7758-98-7",
+    "cas-7782-61-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10028-22-5/"
+}

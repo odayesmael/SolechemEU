@@ -1,0 +1,60 @@
+{
+  "id": "454",
+  "name": "Diethyl carbonate",
+  "slug": "cas-105-58-8",
+  "cas": "105-58-8",
+  "ec": "203-311-1",
+  "formula": "C5H10O3",
+  "mw": "118.13 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diethyl carbonate ( CAS 105-58-8 ), also known as DEC or Eufin, is a low-toxicity carbonate ester solvent used across pharmaceutical manufacturing, battery electrolyte production, and specialty chemical synthesis. Its low water reactivity and miscibility with a broad range of organic solvents make it a preferred alternative to more hazardous polar aprotic solvents in regulated production environments. In lithium-ion battery electrolyte formulations, DEC is a primary co-solvent that improves ionic conductivity and low-temperature performance for high-performance energy storage systems. Pharmaceutical manufacturers use it as a reaction solvent and carbonylation reagent in the synthesis of carbamates, polycarbonates, and active pharmaceutical ingredients for various medical applications. In food and flavor applications, it functions as a beverage preservative and fermentation inhibitor, particularly in wine and fruit juices where microbial control is required without heat treatment. Specialty chemical producers also use DEC as a methylation and ethylation agent in catalyst preparation and fine chemical synthesis, offering high selectivity and safety in industrial processes. Diethyl carbonate is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Standard commercial grades include technical, anhydrous, and high-purity specifications suited to battery use. FCC grade material is available for food and beverage use cases requiring regulatory compliance documentation. Our logistics team ensures reliable delivery of high-purity chemicals to global facilities. Contact us for supply of Diethyl carbonate Request Quote",
+  "physicalProperties": "Melting Point: -43 °C; Boiling Point: 126 °C; Density: 0.9752 g/cm³ @ Temp: 20 °C; Flash Point: 88 °F; Appearance: colourless liquid with a mild odour; Color: Clear; Odor: Pleasant, etheral; mild and nonresidual.; Form: Liquid; Water Solubility: Negligible; Vapor Pressure: 10 mm Hg ( 23.8 °C); Refractive Index: n 20/D 1.384(lit.); pH: 6.3 (1g/l, H2O); Log P: 1.21 at 25℃",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2920 90 10; UN Number: 2811; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Ethyl carbonate | Carbonic acid diethyl ester | Eufin | Diatol | Carbonic ether | Ethyl carbonate ((EtO)2CO) | DEC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "2920 90 10",
+  "similarProducts": [
+    "cas-96-49-1",
+    "cas-623-53-0",
+    "cas-616-38-6",
+    "cas-95-92-1",
+    "cas-542-52-9",
+    "cas-108-32-7",
+    "cas-96-22-0",
+    "cas-4437-85-8",
+    "cas-110-40-7",
+    "cas-84-66-2",
+    "cas-123-25-1",
+    "cas-105-53-3",
+    "cas-112-36-7",
+    "cas-111-55-7",
+    "cas-4437-85-8",
+    "cas-110-40-7",
+    "cas-84-66-2",
+    "cas-123-25-1",
+    "cas-105-53-3",
+    "cas-112-36-7",
+    "cas-111-55-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-105-58-8/"
+}

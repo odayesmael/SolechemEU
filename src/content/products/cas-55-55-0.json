@@ -1,0 +1,60 @@
+{
+  "id": "21",
+  "name": "p-Methylaminophenol sulfate",
+  "slug": "cas-55-55-0",
+  "cas": "55-55-0",
+  "ec": "200-237-1",
+  "formula": "C7H9NO.1/2H2O4S",
+  "mw": "344.39 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Printing & Packaging",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "p-Methylaminophenol sulfate (CAS 55-55-0 ), commercially known as Metol, is a photographic developing agent and reducing compound used across imaging and specialty chemical applications. It functions as a primary electron donor in developer formulations, enabling controlled silver halide reduction in photographic and radiographic processing. In photographic and X-ray film processing, Metol is a core component of developer baths. It is typically combined with hydroquinone to produce fine-grain, high-acutance image development. Printing plate and graphic arts workflows use Metol-based developers where precise tonal gradation and developer activity control are critical. In hair dye formulations, it acts as a coupler or oxidation base, contributing to color development in permanent colorant systems. Specialty industrial imaging processes, including document archiving, also rely on Metol. Micrographic film development utilizes this compound for its consistent reducing performance across a range of pH and temperature conditions. The material is supplied as a white to off-white crystalline powder for industrial use. Technical and photographic grades are the most commonly traded forms, with purity specifications typically ranging from 98% to 99%+. Packaging is available in kilogram-scale bags through to bulk quantities. These bulk quantities are suited for industrial developer concentrate manufacturing. The compound remains a standard in the chemical industry for high-precision imaging and specialized oxidation reactions. Contact us for supply of p-Methylaminophenol sulfate Request Quote",
+  "physicalProperties": "Melting Point: 260 °C (decomp); Density: 1.577; Appearance: White crystalline powder; Color: white to faintly beige; Form: Powder; Water Solubility: 50 g/L (20 ºC); Refractive Index: 1.6510 (estimate); pH: 3.5-4.5 (20°C, 50g/L in H2O)",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H317 May cause an allergic skin reaction H319 Causes serious eye irritation H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29222990; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "Bis(4-(methylamino)phenol);sulfuric acid | Metol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29222990",
+  "similarProducts": [
+    "cas-54381-16-7",
+    "cas-17438-29-8",
+    "cas-591-27-5",
+    "cas-93841-25-9",
+    "cas-26264-58-4",
+    "cas-123-30-8",
+    "cas-825-90-1",
+    "cas-150-76-5",
+    "cas-79-25-4",
+    "cas-64787-97-9",
+    "cas-108-26-9",
+    "cas-10294-26-5",
+    "cas-70693-62-8",
+    "cas-9008-64-4",
+    "cas-150-76-5",
+    "cas-79-25-4",
+    "cas-64787-97-9",
+    "cas-108-26-9",
+    "cas-10294-26-5",
+    "cas-70693-62-8",
+    "cas-9008-64-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-55-55-0/"
+}

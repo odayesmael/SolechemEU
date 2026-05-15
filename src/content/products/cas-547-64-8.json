@@ -1,0 +1,62 @@
+{
+  "id": "1133",
+  "name": "Methyl lactate",
+  "slug": "cas-547-64-8",
+  "cas": "547-64-8",
+  "ec": "208-930-0",
+  "formula": "C4H8O3",
+  "mw": "104.10 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Food & Nutrition",
+    "Electronics",
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyl lactate (CAS 547-64-8 ) is the methyl ester of lactic acid, functioning as a biodegradable solvent and pH modifier across food, pharmaceutical, and industrial processing applications. Derived from renewable feedstocks, it offers a greener alternative to conventional polar solvents in formulations and manufacturing processes. In electronics, it is used as a photoresist stripper. It effectively removes residues from circuit boards without the toxicity profile of chlorinated alternatives. Personal care formulators incorporate it as a solvent and mild acidulant in skin-conditioning products. Its compatibility with aqueous and organic phases supports stable emulsion systems. In printing and packaging, it functions as a solvent carrier in ink formulations, improving flow and substrate adhesion. Pharmaceutical manufacturers use it as a process solvent in active ingredient synthesis and as a carrier in topical preparations requiring controlled pH. It is supplied as a clear liquid. Standard commercial grades include technical grade for industrial solvent applications and high-purity grades meeting pharmaceutical and food-grade specifications such as USP and FCC standards. Buyers should confirm optical purity requirements, as both racemic (DL) and enantiomerically enriched forms are available depending on the application. Bulk tanker options are available for high-volume buyers. Contact us for supply of Methyl lactate Request Quote",
+  "physicalProperties": "Melting Point: -66 °C; Boiling Point: 144-145 °C; Density: 1.09 g/cm³ @ Temp: 19 °C; Flash Point: 49 °C; Appearance: clear colorless liquid; Color: Clear colorless to pale yellow; Form: Liquid; Water Solubility: miscible, hydrolyses; Refractive Index: n 20/D 1.413; Log P: -0.670 (est)",
+  "safetyHandling": "Warning GHS02 GHS07 Hazard Statements H226 Flammable liquid and vapor H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29181100; UN Number: 3272; ADR Class: 3; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "Methyl 2-hydroxypropanoate | DL-Methyl lactate | Lactic acid, methyl ester | Methyl 2-hydroxypropionate | Propanoic acid, 2-hydroxy-, methyl ester | Methyl alpha-hydroxypropionate | 2-Hydroxypropanoic acid methyl ester | Methyl α-hydroxypropionate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29181100",
+  "similarProducts": [
+    "cas-59259-38-0",
+    "cas-687-47-8",
+    "cas-26855-41-4",
+    "cas-111-82-0",
+    "cas-79-20-9",
+    "cas-6283-92-7",
+    "cas-107-31-3",
+    "cas-1323-03-1",
+    "cas-138-22-7",
+    "cas-79-33-4",
+    "cas-35274-05-6",
+    "cas-105-45-3",
+    "cas-112-61-8",
+    "cas-96-33-3",
+    "cas-1323-03-1",
+    "cas-138-22-7",
+    "cas-79-33-4",
+    "cas-35274-05-6",
+    "cas-105-45-3",
+    "cas-112-61-8",
+    "cas-96-33-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-547-64-8/"
+}

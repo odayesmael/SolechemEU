@@ -1,0 +1,62 @@
+{
+  "id": "905",
+  "name": "Ethyl acetate",
+  "slug": "cas-141-78-6",
+  "cas": "141-78-6",
+  "ec": "205-500-4",
+  "formula": "C4H8O2",
+  "mw": "88.11 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethyl acetate (CAS 141-78-6 ), commonly abbreviated as EtOAc, is a fast-evaporating ester solvent used across printing, pharmaceutical, food, and cosmetic manufacturing. Approved as E1504 for food applications, it also functions as a flavoring agent with FEMA 2414 designation. In flexible packaging and gravure printing, EtOAc is a primary solvent for nitrocellulose and polyurethane-based inks. Its evaporation rate directly affects print quality and line speed in high-volume industrial operations. Pharmaceutical manufacturers rely on it for API extraction, recrystallization, and tablet coating processes. It is preferred as a low-residue solvent with broad regulatory acceptance across global markets and manufacturing standards. In food and beverage production, it contributes a characteristic fruity note to confectionery, baked goods, and alcoholic beverages. These applications require precise dosing at controlled usage levels to ensure flavor consistency. Nail care and cosmetic formulations use it as a fast-drying carrier solvent in lacquers and polish removers. Its ability to dissolve resins quickly makes it an essential component in modern beauty and personal care products. Ethyl acetate is supplied as a clear liquid in drums, IBCs, and bulk tankers. Standard commercial grades include technical, food-grade ( FCC ), and pharmaceutical-grade ( BP / USP ), ensuring compliance with industry requirements. Purity levels typically range from 99.0% to 99.9% depending on the specific needs of the client. Grade selection is driven by end-use regulatory requirements, particularly for food contact and pharmaceutical applications. Contact us for supply of Ethyl acetate Request Quote",
+  "physicalProperties": "Melting Point: -83 °C; Boiling Point: 77 °C; Density: 0.902 g/cm³ @ Temp: 20 °C; Flash Point: 26 °F; Appearance: Ethyl acetate is a colorless liquid. Pleasant, fruity odor.; Color: APHA: ≤10; Odor: Pleasant fruity odor detectable at 7 to 50 ppm (mean = 18 ppm); Form: Liquid; Water Solubility: 80 g/L (20 ºC); Vapor Pressure: 73 mm Hg ( 20 °C); Refractive Index: n 20/D 1.3720(lit.); Log P: 0.68-0.73 at 20-25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H319 Causes serious eye irritation H320 Causes eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153100; UN Number: 1173; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "vinegar naphtha | ethyl ethanoate | ethyl ester of acetic acid | ethyl acetic ester | Acetyl ester | Acetidin | Acetic-acid-ethylester | acetic ether | EtOAc | E1504",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29153100",
+  "similarProducts": [
+    "cas-141-97-9",
+    "cas-103-09-3",
+    "cas-79-20-9",
+    "cas-111-15-9",
+    "cas-105-56-6",
+    "cas-140-88-5",
+    "cas-64-17-5",
+    "cas-108-21-4",
+    "cas-109-60-4",
+    "cas-93-89-0",
+    "cas-123-86-4",
+    "cas-172820-60-9",
+    "cas-111-62-6",
+    "cas-101-97-3",
+    "cas-108-21-4",
+    "cas-109-60-4",
+    "cas-93-89-0",
+    "cas-123-86-4",
+    "cas-172820-60-9",
+    "cas-111-62-6",
+    "cas-101-97-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-141-78-6/"
+}

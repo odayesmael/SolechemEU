@@ -1,0 +1,66 @@
+{
+  "id": "1636",
+  "name": "Benzisothiazolinone",
+  "slug": "cas-2634-33-5",
+  "cas": "2634-33-5",
+  "ec": "220-120-9",
+  "formula": "C7H5NOS",
+  "mw": "151.19 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Lubricants & Metalworking",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzisothiazolinone (CAS 2634-33-5 ), commonly abbreviated as BIT, is a broad-spectrum biocide used to prevent microbial degradation in industrial formulations and manufactured goods. It targets bacteria, fungi, and yeast across a wide range of pH conditions, making it a practical preservation solution for both aqueous and semi-aqueous systems. In paints, coatings, and adhesives, BIT functions as an in-can preservative, protecting formulations from spoilage during storage and extending shelf life for various industrial applications. Metalworking fluids and lubricants incorporate BIT to control bacterial growth that would otherwise cause fluid breakdown and corrosion in machining operations and heavy equipment maintenance. Leather, textile, and paper manufacturers use it to protect materials during processing and in finished goods where microbial attack poses a significant quality risk to the final product. Water treatment programs and cooling systems also rely on BIT as a biostatic agent to limit biofilm formation in recirculating systems and industrial water circuits across many sectors. BIT is supplied as a crystalline powder and in liquid solution form, with concentration levels varying by application requirement and the specific needs of the manufacturing process. Standard technical-grade material is the most common commercial form, though formulated blends with complementary biocides are available for enhanced efficacy and documentation is standard for procurement. Contact us for supply of Benzisothiazolinone Request Quote",
+  "physicalProperties": "Melting Point: 154-156 °C; Boiling Point: 360°C (rough estimate); Density: 1.2170 (rough estimate); Appearance: Yellow Powder; Color: White to Light yellow to Light orange; Form: neat; Water Solubility: 1.288g/L at 20℃; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.5500 (estimate); Log P: 0.7 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS09 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H371 May cause damage to organs H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29339900; UN Number: 3077; ADR Class: 9; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "2,3-dihydro-3-oxo-1,2-benzisothiazole | 1,2-benzisothiazoline-3-one | 1,2-benzisothiazolin-3-one | IPX | BIT | 1,2-benzisothiazol-3(2H)-one | benzoisothiazol-3-one | Proxel PL",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-2682-20-4",
+    "cas-1003-07-2",
+    "cas-55965-84-9",
+    "cas-26172-55-4",
+    "cas-26530-20-1",
+    "cas-6317-18-6",
+    "cas-121-54-0",
+    "cas-21564-17-0",
+    "cas-55406-53-6",
+    "cas-70321-86-7",
+    "cas-8001-54-5",
+    "cas-95-14-7",
+    "cas-68391-01-5",
+    "cas-35691-65-7",
+    "cas-21564-17-0",
+    "cas-55406-53-6",
+    "cas-70321-86-7",
+    "cas-8001-54-5",
+    "cas-95-14-7",
+    "cas-68391-01-5",
+    "cas-35691-65-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2634-33-5/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "1119",
+  "name": "Isobutyl chloroformate",
+  "slug": "cas-543-27-1",
+  "cas": "543-27-1",
+  "ec": "208-840-1",
+  "formula": "C5H9ClO2",
+  "mw": "136.58 g/mol",
+  "category": "Organic Acids",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isobutyl chloroformate (CAS 543-27-1 ), commonly abbreviated as IBCF, is a reactive acylating agent used across pharmaceutical synthesis, specialty chemical manufacturing, and flavor chemistry. It functions as an activated carbonyl intermediate, enabling efficient coupling and protection reactions under mild conditions. In pharmaceutical manufacturing, IBCF is the reagent of choice for mixed anhydride peptide coupling, where it activates carboxylic acids for amide bond formation in API synthesis. This process is essential for creating complex molecular structures in modern medicine. Flavor and fragrance producers use it to synthesize isobutyl esters that contribute characteristic fruity notes to food and cosmetic formulations. These esters are highly valued for their aromatic profiles and stability in various consumer products. In fine chemical synthesis, it serves as a protecting group reagent for amines and alcohols, a step critical in multi-stage synthesis routes where selectivity is required. This allows chemists to manipulate specific functional groups without affecting others. Specialty polymer and agrochemical manufacturers also employ it as a carbonylating agent to introduce chloroformate functionality into target molecules. This versatility makes it a staple in industrial laboratories and large-scale production facilities. Isobutyl chloroformate is supplied as a clear, moisture-sensitive liquid, typically packaged under inert atmosphere to preserve reactivity. Proper handling and storage are necessary to maintain the chemical integrity of the product over time. It is available in technical and synthesis grades, with purity specifications commonly ranging from 97% to 99%+ for research and industrial use. These grades ensure that the material meets the rigorous demands of high-precision chemical engineering. Packaging options generally include small reagent quantities through to bulk drums for commercial-scale production. This flexibility allows suppliers to meet the needs of both small laboratory trials and large industrial manufacturing cycles. Contact us for supply of Isobutyl chloroformate Request Quote",
+  "physicalProperties": "Melting Point: 138-140 °C; Boiling Point: 128-129 °C; Density: 1.053 g/mL at 25 °C(lit.); Flash Point: 82 °F; Appearance: A combustible, colorless to light-colored liquid.; Color: Clear; Form: Liquid; Water Solubility: Immiscible with water.; Vapor Pressure: 0.33 mm Hg ( 20 °C); Refractive Index: n 20/D 1.407(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 Flammable liquid and vapor H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P234 Keep only in original packaging. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159000; UN Number: 3390; ADR Class: 6.1; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "2-Methylpropyl chloroformate | 2-Methylpropyl carbonochloridate | Isobutyl chlorocarbonate | Chloroformic acid isobutyl ester | CARBONOCHLORIDIC ACID, 2-METHYLPROPYL ESTER | Chlorocarbonic acid isobutyl ester | 6S785TC0OB | IBCF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29159000",
+  "similarProducts": [
+    "cas-108-23-6",
+    "cas-13361-31-4",
+    "cas-97-85-8",
+    "cas-79-31-2",
+    "cas-32961-44-7",
+    "cas-78-81-9",
+    "cas-110-19-0",
+    "cas-78-83-1",
+    "cas-55406-53-6",
+    "cas-5856-77-9",
+    "cas-87-19-4",
+    "cas-109-65-9",
+    "cas-97-86-9",
+    "cas-75-26-3",
+    "cas-78-83-1",
+    "cas-55406-53-6",
+    "cas-5856-77-9",
+    "cas-87-19-4",
+    "cas-109-65-9",
+    "cas-97-86-9",
+    "cas-75-26-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-543-27-1/"
+}

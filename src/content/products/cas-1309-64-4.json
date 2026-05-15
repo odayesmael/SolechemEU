@@ -1,0 +1,64 @@
+{
+  "id": "1414",
+  "name": "Antimony trioxide",
+  "slug": "cas-1309-64-4",
+  "cas": "1309-64-4",
+  "ec": "215-175-0",
+  "formula": "O3Sb2",
+  "mw": "291.52 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Automotive",
+    "Aerospace & Defense",
+    "Textile, Leather & Paper",
+    "Building & Construction",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Antimony trioxide (CAS 1309-64-4 ), also known as Flowers of Antimony, is a flame retardant synergist used across plastics, textiles, and industrial materials. It does not act as a standalone flame retardant. Instead, it amplifies the performance of halogenated flame retardant systems, allowing formulators to achieve target fire ratings at lower total additive loadings. In plastics and polymers, it is compounded with brominated or chlorinated flame retardants. This process helps materials meet UL 94 and other flammability standards in wire insulation, connectors, and housings. Textile and fabric coatings for automotive interiors, upholstery, and protective workwear rely on it to pass certifications. In construction materials, it is incorporated into PVC profiles, roofing membranes, and wall panels where building codes mandate flame resistance. Electronics manufacturers use it in printed circuit board laminates and encapsulant compounds. These applications help to control flame spread in high-density assemblies. Antimony trioxide is supplied as a fine white powder in standard and high-purity grades for various industrial needs. Technical and flame retardant grades are the most common commercial forms, with particle size specifications varying by application. Finer grades are preferred for film and fiber applications. Bulk bags and small-pack options are standard across the supply chain. This ensures that manufacturers can source the material in the quantities required for their specific production processes. Contact us for supply of Antimony trioxide Request Quote",
+  "physicalProperties": "Melting Point: 655 °C; Boiling Point: 1425 °C; Density: 5.2 g/cm³ (solid); Flash Point: 1550°C subl.; Appearance: White or gray mineral, sometimes pale red, white streak and adamantine or silky luster. Mohs hardness 2–3.; Color: White; Odor: wh. cubic or orthorhombic cryst., odorless; Form: powder; Water Solubility: Slightly soluble. <0.1 g/100 mL at 20 ºC; Vapor Pressure: 13.3 hPa (660 °C)",
+  "safetyHandling": "Warning GHS08 GHS09 GHS07 Hazard Statements H351 Suspected of causing cancer [Warning Carcinogenicity] H350 May cause cancer [Danger Carcinogenicity] H401 Toxic to aquatic life [Hazardous to the aquatic environment, acute hazard] H411 Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H302 Harmful if swallowed [Warning Acute toxicity, oral] H371 May cause damage to organs [Warning Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H303 May be harmful if swallowed [Warning Acute toxicity, oral] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H402 Harmful to aquatic life [Hazardous to the aquatic environment, acute hazard] H412 Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]",
+  "tradeRegulatory": "HS Code: 28258000; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 2",
+  "otherNames": "Flowers of Antimony | Antimony(III) oxide | Antimony sesquioxide | Antimonous oxide | Diantimony trioxide | Antimonious oxide | Exitelite | Timonox",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "28258000",
+  "similarProducts": [
+    "cas-1314-60-9",
+    "cas-1345-04-6",
+    "cas-10025-91-9",
+    "cas-15432-85-6",
+    "cas-11112-10-0",
+    "cas-1327-53-3",
+    "cas-1304-76-3",
+    "cas-1313-27-5",
+    "cas-1333-82-0",
+    "cas-68937-40-6",
+    "cas-115-86-6",
+    "cas-7723-14-0",
+    "cas-1332-07-6",
+    "cas-126-72-7",
+    "cas-1313-27-5",
+    "cas-1333-82-0",
+    "cas-68937-40-6",
+    "cas-115-86-6",
+    "cas-7723-14-0",
+    "cas-1332-07-6",
+    "cas-126-72-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1309-64-4/"
+}

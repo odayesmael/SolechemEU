@@ -1,0 +1,60 @@
+{
+  "id": "2796",
+  "name": "Ferric sulfate hydrate",
+  "slug": "cas-15244-10-7",
+  "cas": "15244-10-7",
+  "ec": "233-072-9",
+  "formula": "Fe.3/2H2O4S.xH2O",
+  "mw": "417.9 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Pulp & Paper",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ferric sulfate hydrate (CAS 15244-10-7 ), also known as Iron(III) sulfate hydrate, is an iron-based inorganic salt used industrially as a coagulant, flocculant, and pH-regulating agent. It delivers reliable performance across water treatment, mineral processing, and pulp and paper operations where controlled iron chemistry is required. In municipal and industrial water treatment, it acts as a primary coagulant. The product effectively removes suspended solids, phosphates, and turbidity from effluent streams. Mineral processing operations use it as a leaching agent and oxidant in hydrometallurgical circuits for metal recovery. It is particularly useful for recovering copper and other base metals from sulfide ores. Pulp and paper manufacturers apply it in effluent treatment to precipitate lignin and color bodies before discharge. It also supports pH adjustment and sludge conditioning in wastewater systems where iron-based chemistry is preferred over aluminum alternatives. This versatility makes it a staple in heavy industrial processing. Ferric sulfate hydrate is supplied as a granular solid or powder, with bulk quantities available for industrial procurement. Technical grade is the standard commercial specification for water treatment and mining. Purity levels and hydration state should be confirmed with the supplier, as iron content and soluble fraction directly affect dosing calculations. Proper storage is required to maintain the integrity of the hydrate. Contact us for supply of Ferric sulfate hydrate Request Quote",
+  "physicalProperties": "Melting Point: 480°C(decomposition); Density: 3,097 g/cm 3; Appearance: YELLOW-GREEN CRYSTALLINE POWDER; Color: Gray-white; Form: Granular; Water Solubility: Soluble in waterSoluble in water. Sparingly soluble in alcohol.; pH: 1.5 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2833298080; UN Number: 3077; Storage Class: 8B - Non-combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "Iron(III) sulfate hydrate | Sulfuric acid, iron(3+) salt (3:2), hydrate | RefChem:599092 | Ferric trisulfate monohydrate | iron(3+);trisulfate;hydrate | Sulfuric acid, iron(3+)salt (3:2), hydrate (8CI,9CI) | IRON(III) SULFATE N-HYDRATE | Ferric sulphate hydrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "2833298080",
+  "similarProducts": [
+    "cas-10028-22-5",
+    "cas-7782-63-0",
+    "cas-7720-78-7",
+    "cas-13463-43-9",
+    "cas-20344-49-4",
+    "cas-7705-08-0",
+    "cas-10043-01-3",
+    "cas-7782-61-8",
+    "cas-7758-94-3",
+    "cas-12259-21-1",
+    "cas-10045-86-0",
+    "cas-14808-79-8",
+    "cas-10257-54-2",
+    "cas-10026-24-1",
+    "cas-7782-61-8",
+    "cas-7758-94-3",
+    "cas-12259-21-1",
+    "cas-10045-86-0",
+    "cas-14808-79-8",
+    "cas-10257-54-2",
+    "cas-10026-24-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-15244-10-7/"
+}

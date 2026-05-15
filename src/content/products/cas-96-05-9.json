@@ -1,0 +1,64 @@
+{
+  "id": "332",
+  "name": "Allyl methacrylate",
+  "slug": "cas-96-05-9",
+  "cas": "96-05-9",
+  "ec": "202-473-0",
+  "formula": "C7H10O2",
+  "mw": "126.15 g/mol",
+  "category": "Polymers & Resins",
+  "industry": [
+    "Electronics",
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Allyl methacrylate (CAS 96-05-9 ), commonly abbreviated as AMA and sold under the trade name Ageflex AMA, is a bifunctional monomer carrying two distinct polymerizable groups. This dual reactivity makes it a preferred cross-linking agent in polymer synthesis, where controlled network density and cure response are critical to end-product performance. In coating formulations, AMA introduces cross-link density that improves hardness, chemical resistance, and adhesion to demanding substrates including metals and plastics. Adhesive and sealant manufacturers incorporate it into acrylic and methacrylate systems to tune cohesive strength and flexibility across a range of cure chemistries. Electronics producers use AMA in photoresists and encapsulant resins where precise cross-link architecture determines pattern resolution and long-term dielectric stability. In plastics and polymer compounding, it functions as a reactive modifier to compatibilize blends or graft functional groups onto polymer backbones. Allyl methacrylate is supplied as a clear liquid, typically inhibited with hydroquinone monomethyl ether to prevent premature polymerization during storage and transport. It is available in technical and monomer-grade specifications, with purity levels commonly at 98% or higher. Packaging ranges from drum quantities to ISO tank for bulk procurement. Contact us for supply of Allyl methacrylate Request Quote",
+  "physicalProperties": "Melting Point: -65 °C; Boiling Point: 118.8 °C; Density: 0.927 g/cm³ @ Temp: 20 °C; Flash Point: 93 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: 4 g/L (20 ºC); Vapor Pressure: 4.6 mm Hg ( 20 °C); Refractive Index: n 20/D 1.436(lit.); Log P: 2.15 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS06 GHS09 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H311 Toxic in contact with skin H312 Harmful in contact with skin H315 Causes skin irritation H320 Causes eye irritation H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29161490; UN Number: 2929; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Ageflex AMA | Methacrylic acid, allyl ester | 2-Propenoic acid, 2-methyl-, 2-propenyl ester | Allylester kyseliny methakrylove | G2IG50653Z | 2-Propenoic acid, 2-methyl-, 2-propen-1-yl ester | Allyl alcohol, methacrylate | AMA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29161490",
+  "similarProducts": [
+    "cas-80-62-6",
+    "cas-3775-90-4",
+    "cas-79-39-0",
+    "cas-97-63-2",
+    "cas-21282-97-3",
+    "cas-107-11-9",
+    "cas-106-91-2",
+    "cas-923-26-2",
+    "cas-27813-02-1",
+    "cas-1118-84-9",
+    "cas-2867-47-2",
+    "cas-924-42-5",
+    "cas-96-33-3",
+    "cas-79-41-4",
+    "cas-923-26-2",
+    "cas-27813-02-1",
+    "cas-1118-84-9",
+    "cas-2867-47-2",
+    "cas-924-42-5",
+    "cas-96-33-3",
+    "cas-79-41-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-96-05-9/"
+}

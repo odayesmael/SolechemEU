@@ -1,0 +1,59 @@
+{
+  "id": "1181",
+  "name": "Ethanesulfonic acid",
+  "slug": "cas-594-45-6",
+  "cas": "594-45-6",
+  "ec": "209-843-0",
+  "formula": "C2H6O3S",
+  "mw": "110.13 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethanesulfonic acid (CAS 594-45-6 ) is a strong aliphatic sulfonic acid used across pharmaceutical synthesis and biotechnology as a pH regulator, catalyst, and reaction medium component. Its high aqueous solubility and strong acidity make it a practical alternative to methanesulfonic acid in processes where a slightly longer carbon chain is required for solubility or selectivity. In pharmaceutical manufacturing, this chemical is used to form stable acid addition salts with active pharmaceutical ingredients, improving crystallinity, bioavailability, and handling characteristics of drug candidates. It functions as a Brønsted acid catalyst in organic synthesis, driving esterification, cyclization, and condensation reactions under controlled conditions to ensure high yields and purity. Biotechnology applications include its use as a buffering agent in cell culture media and enzyme assay systems where precise pH control is critical to assay reproducibility and stability. It also serves as a solvent modifier or carrier component in chromatographic and extraction processes during API purification, ensuring compliance with USP and Ph.Eur. standards. Ethanesulfonic acid is supplied as a liquid, typically as an aqueous solution at varying concentrations, available in technical and high-purity grades suited to research and GMP production. Packaging ranges from laboratory-scale quantities to bulk drum supply depending on application requirements, meeting BP , EP , and ACS specifications for industrial use. Contact us for supply of Ethanesulfonic acid Request Quote",
+  "physicalProperties": "Melting Point: -17 °C; Boiling Point: 100 °C @ Press: 0.5 Torr; Density: 1.360 g/cm³ @ Temp: 22 °C; Flash Point: >230 °F; Appearance: clear yellow to brown liquid; Color: Colorless to yellow; Form: Liquid; Water Solubility: soluble; Refractive Index: n 20/D 1.434(lit.); Log P: -1.577 (est)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29041000; UN Number: 2586; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 3",
+  "otherNames": "ethylsulphonic acid | ethylsulfonic acid | ethane sulphonic acid | 2-ethanesulfonic acid | 1-ethanesulfonic acid | 599310E3U2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29041000",
+  "similarProducts": [
+    "cas-5324-47-0",
+    "cas-1184-84-5",
+    "cas-75-75-2",
+    "cas-1333-39-7",
+    "cas-107-36-8",
+    "cas-5138-18-1",
+    "cas-64-67-5",
+    "cas-7743-94-4",
+    "cas-141-97-9",
+    "cas-141-78-6",
+    "cas-75-04-7",
+    "cas-20193-20-8",
+    "cas-105-56-6",
+    "cas-141-52-6",
+    "cas-7743-94-4",
+    "cas-141-97-9",
+    "cas-141-78-6",
+    "cas-75-04-7",
+    "cas-20193-20-8",
+    "cas-105-56-6",
+    "cas-141-52-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-594-45-6/"
+}

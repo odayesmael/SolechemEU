@@ -1,0 +1,60 @@
+{
+  "id": "147",
+  "name": "Dichloromethane",
+  "slug": "cas-75-09-2",
+  "cas": "75-09-2",
+  "ec": "200-838-9",
+  "formula": "CH2Cl2",
+  "mw": "84.93 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Printing & Packaging",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dichloromethane (CAS 75-09-2 ), also known as DCM, R 30, and Salesthin, is a fast-evaporating chlorinated solvent used across pharmaceutical manufacturing, industrial processing, and polymer applications. Its high solvency power and low boiling point make it a preferred extraction and process solvent where rapid solvent removal is commercially critical for high-volume production lines. In pharmaceutical manufacturing, DCM serves as a process solvent for active ingredient extraction, recrystallization, and film coating of tablets and capsules to ensure product stability. Printing and packaging operations use it in solvent-based adhesives and as a component in paint strippers for equipment maintenance and surface preparation across various industrial facilities. Polymer processors rely on it to dissolve and weld polycarbonate and other engineering plastics, enabling precision bonding in fabricated components for the automotive and electronics sectors. It also functions as a blowing agent carrier and processing aid in certain foam and polymer formulations, providing consistent results in specialized manufacturing and molding processes. Dichloromethane is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Pharmaceutical-grade material is available to USP , BP , and Ph. Eur. specifications. These grades are suitable for regulated manufacturing environments. Technical-grade DCM remains the standard supply form for general industrial solvent and processing applications worldwide. Contact us for supply of Dichloromethane Request Quote",
+  "physicalProperties": "Melting Point: -95 °C; Boiling Point: 39.75 °C @ Press: 760 Torr; Density: 1.3255 g/cm³ @ Temp: 20 °C; Flash Point: 39-40°C; Appearance: Methylene chloride is a nonflammable, colorless liquid with a chloroform-like odor. A gas above 40C/ 104F. The odor is noticeable @ 250 ppm. However, this level substantially exceeds the OSHA STEL and must not be relied upon as an adequate warning of unsafe concentrations.; Color: APHA: ≤10; Odor: Odor threshold 160 to 230 ppm; Form: Liquid; Water Solubility: 20 g/L (20 ºC); Vapor Pressure: 24.45 psi ( 55 °C); Refractive Index: n 20/D 1.424(lit.); pH: 7 (20°C); Log P: 1.250",
+  "safetyHandling": "Warning GHS08 GHS07 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29031200; UN Number: 1593; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1D - Non-combustible, acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 2",
+  "otherNames": "Salesthin | R 30 | Nevolin | Narkotil | Metylenu chlorek | Methylene dichloride | Methylene chloride | methylene bichloride | DCM",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29031200",
+  "similarProducts": [
+    "cas-616-38-6",
+    "cas-133-53-9",
+    "cas-127-19-5",
+    "cas-68-12-2",
+    "cas-131-11-3",
+    "cas-118-52-5",
+    "cas-75-71-8",
+    "cas-4525-33-1",
+    "cas-77-76-9",
+    "cas-97-23-4",
+    "cas-67-66-3",
+    "cas-109-87-5",
+    "cas-67-68-5",
+    "cas-6864-37-5",
+    "cas-4525-33-1",
+    "cas-77-76-9",
+    "cas-97-23-4",
+    "cas-67-66-3",
+    "cas-109-87-5",
+    "cas-67-68-5",
+    "cas-6864-37-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-09-2/"
+}

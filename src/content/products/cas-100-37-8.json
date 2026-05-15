@@ -1,0 +1,66 @@
+{
+  "id": "387",
+  "name": "2-Diethylethanolamine",
+  "slug": "cas-100-37-8",
+  "cas": "100-37-8",
+  "ec": "202-845-2",
+  "formula": "C6H15NO",
+  "mw": "117.19 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Lubricants & Metalworking",
+    "Oil, Gas & Energy",
+    "Water Treatment",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Diethylethanolamine (CAS 100-37-8 ), also known as DEAE, is an amino alcohol used across industrial and specialty chemical manufacturing as a pH regulator, corrosion inhibitor, and emulsifier. Its dual amine-alcohol functionality makes it a building block for synthesizing active compounds and a direct-use additive in formulated products. In metalworking and industrial lubricants, DEAE neutralizes acidic byproducts. This process occurs in cutting fluids and coolants, extending fluid life and protecting ferrous metal surfaces from corrosion. Water treatment programs use it to condition boiler feed water and cooling tower circuits. By controlling pH, it reduces scale and corrosion in closed-loop systems. Coatings formulators incorporate it as a neutralizing agent for waterborne resin systems, improving dispersion stability and film formation. This is particularly effective in architectural and industrial paints. Pharmaceutical manufacturers use it as an intermediate in the synthesis of active pharmaceutical ingredients, especially in compounds requiring an aminoethanol backbone. 2-Diethylethanolamine is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for high-volume buyers. Technical grade is the standard offering for industrial applications. These applications include coatings, metalworking, and water treatment. Pharmaceutical-grade material meeting USP or equivalent specifications is available for API synthesis and regulated manufacturing. Contact us for supply of 2-Diethylethanolamine Request Quote",
+  "physicalProperties": "Melting Point: -70 °C; Boiling Point: 163 °C @ Press: 760 Torr; Density: 0.8921 g/cm³ @ Temp: 20 °C; Flash Point: 120 °F; Appearance: colourless liquid; Color: White to pale yellow; Odor: Characteristic ammoniacal odor; Form: Crystalline Powder; Water Solubility: soluble; Vapor Pressure: 1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.441(lit.); pH: 11.5 (100g/l, H2O, 20℃); Log P: 0.21 at 23℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS09 GHS06 GHS08 Hazard Statements H226 Flammable liquid and vapor [Warning Flammable liquids] H302 Harmful if swallowed [Warning Acute toxicity, oral] H312 Harmful in contact with skin [Warning Acute toxicity, dermal] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H332 Harmful if inhaled [Warning Acute toxicity, inhalation] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H331 Toxic if inhaled [Danger Acute toxicity, inhalation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure]",
+  "tradeRegulatory": "HS Code: 29221985; UN Number: 2686; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "2-(diethylamino)ethanol | Diethylethanolamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29221985",
+  "similarProducts": [
+    "cas-111-42-2",
+    "cas-139-87-7",
+    "cas-109-89-7",
+    "cas-108-01-0",
+    "cas-102-81-8",
+    "cas-1704-62-7",
+    "cas-102-79-4",
+    "cas-111-41-1",
+    "cas-105-59-9",
+    "cas-25307-17-9",
+    "cas-6735-35-9",
+    "cas-6712-98-7",
+    "cas-660-68-4",
+    "cas-13961-86-9",
+    "cas-111-41-1",
+    "cas-105-59-9",
+    "cas-25307-17-9",
+    "cas-6735-35-9",
+    "cas-6712-98-7",
+    "cas-660-68-4",
+    "cas-13961-86-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-37-8/"
+}

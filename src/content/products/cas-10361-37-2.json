@@ -1,0 +1,62 @@
+{
+  "id": "2590",
+  "name": "Barium chloride",
+  "slug": "cas-10361-37-2",
+  "cas": "10361-37-2",
+  "ec": "233-788-1",
+  "formula": "BaCl2",
+  "mw": "208.23 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Pulp & Paper",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Barium chloride (CAS 10361-37-2 ), also known historically as Muryate of Barytes or barium muriate, is an inorganic barium salt used across industrial processing as a precipitating agent, flux, and chemical intermediate. Procurement demand is driven primarily by metal treatment, water purification, and specialty chemical synthesis applications. In water treatment, it precipitates sulfate ions from industrial effluents and process water. This process enables compliance with discharge limits. Metal and mining operations use it as a flux in heat treatment baths for steel hardening, where it improves surface quality and carbon uptake during the process. Textile and leather processors apply it in dyeing and tanning processes, where controlled precipitation of sulfates affects bath chemistry and product consistency. It also functions as a catalyst precursor. The material serves as a barium source in the manufacture of other barium compounds, including barium sulfate and barium carbonate. It is supplied as a white crystalline powder or granules for industrial use. The dihydrate form is the most commonly traded commercial grade. Standard supply grades include technical and industrial specifications, with purity levels typically ranging from 98% to 99%+ for most applications. Bulk quantities are available in bags or drums, with packaging suited to industrial-scale procurement. The material is handled according to strict safety protocols due to its chemical properties and industrial nature. Contact us for supply of Barium chloride Request Quote",
+  "physicalProperties": "Melting Point: 962 °C; Boiling Point: 1560 °C; Density: 3.9 g/cm³; Appearance: White Crystalline Powder; Color: White; Form: beads; Water Solubility: Soluble in water and methanol. Insoluble in acids, ethanol, acetone and ethyl acetate. Slightly soluble in nitric acid and hydrochloric acid.; pH: 5-8 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28273920; UN Number: 3264; ADR Class: 8; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "Muryate of Barytes | Barium muriate | BaCl2 | Barium dichloride | Barium chloride (BaCl2) | Ba 0108E | SBA 0108E | NCI-C61074",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28273920",
+  "similarProducts": [
+    "cas-10326-27-9",
+    "cas-12230-71-6",
+    "cas-17194-00-2",
+    "cas-22326-55-2",
+    "cas-7787-39-5",
+    "cas-21109-95-5",
+    "cas-7787-47-5",
+    "cas-543-80-6",
+    "cas-513-77-9",
+    "cas-7727-43-7",
+    "cas-10099-58-8",
+    "cas-7758-94-3",
+    "cas-10035-04-8",
+    "cas-1344-67-8",
+    "cas-543-80-6",
+    "cas-513-77-9",
+    "cas-7727-43-7",
+    "cas-10099-58-8",
+    "cas-7758-94-3",
+    "cas-10035-04-8",
+    "cas-1344-67-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10361-37-2/"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "63",
+  "name": "Chlorocresol",
+  "slug": "cas-59-50-7",
+  "cas": "59-50-7",
+  "ec": "200-431-6",
+  "formula": "C7H7ClO",
+  "mw": "142.58 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Chlorocresol (CAS 59-50-7 ), also known by the abbreviation PCMC, is a broad-spectrum antimicrobial active used as a preservative and biocide across pharmaceutical, personal care, and industrial formulations. It delivers effective protection against bacteria, fungi, and yeast at low use concentrations, making it a practical choice for formulators managing microbial challenge across diverse product types. In pharmaceutical manufacturing, it is an established preservative in topical creams, ointments, and multi-dose injectable preparations where long-term microbial integrity is required for safety. Personal care formulators incorporate it into lotions, shampoos, and wet wipes to extend shelf life and meet preservation efficacy standards. In coatings, adhesives, and sealants, it functions as a preservative. It protects water-based systems from microbial degradation during storage and after application. Industrial cutting fluids and metalworking emulsions also use PCMC to suppress bacterial growth during use. This suppression prevents the compromise of fluid performance and worker conditions. The material is supplied as a white to off-white crystalline powder or flake for easy handling in production. Standard grades include pharmaceutical-grade material meeting BP and Ph.Eur. specifications, as well as technical grade for industrial preservation applications in various sectors. Packaging typically ranges from kilogram quantities up to bulk drum supply to suit both compounding and large-scale manufacturing requirements for global chemical distribution and logistics. Contact us for supply of Chlorocresol Request Quote",
+  "physicalProperties": "Melting Point: 67 °C; Boiling Point: 235 °C; Density: 1.37 g/cm³; Flash Point: 118 °C; Appearance: White (pure) or pink crystalline solid. Crystals turn pink on exposure to air and light. Phenolic odor.; Color: White; Form: Tablets; Water Solubility: 4 g/L (20 ºC); Vapor Pressure: <0.1 hPa (20 °C); Refractive Index: 1.5449 (estimate); pH: 6.5 (1g/l, H2O, 20℃); Log P: 3.100",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H335 May cause respiratory irritation H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29081000; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "4-Chloro-3-methylphenol | 4-Chloro-m-cresol | p-Chloro-m-cresol | Ottafact | Baktol | Phenol, 4-chloro-3-methyl- | Baktolan | m-Cresol, 4-chloro- | PCMC",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29081000",
+  "similarProducts": [
+    "cas-15733-22-9",
+    "cas-88-04-0",
+    "cas-104-29-0",
+    "cas-15435-29-7",
+    "cas-123-03-5",
+    "cas-51229-78-8",
+    "cas-6004-24-6",
+    "cas-26172-55-4",
+    "cas-106-44-5",
+    "cas-97-23-4",
+    "cas-133-53-9",
+    "cas-1319-77-3",
+    "cas-3697-42-5",
+    "cas-55-56-1",
+    "cas-26172-55-4",
+    "cas-106-44-5",
+    "cas-97-23-4",
+    "cas-133-53-9",
+    "cas-1319-77-3",
+    "cas-3697-42-5",
+    "cas-55-56-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-59-50-7/"
+}

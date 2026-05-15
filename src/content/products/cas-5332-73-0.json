@@ -1,0 +1,62 @@
+{
+  "id": "1842",
+  "name": "3-methoxypropylamine",
+  "slug": "cas-5332-73-0",
+  "cas": "5332-73-0",
+  "ec": "226-241-3",
+  "formula": "C4H11NO",
+  "mw": "89.14 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Methoxypropylamine (CAS 5332-73-0 ), also known by the abbreviation MOPA, is a primary aliphatic amine used as a reactive intermediate and curing agent across specialty chemical manufacturing. Its amine functionality makes it a building block for synthesizing active pharmaceutical ingredients, polymer additives, and surface-active compounds. In epoxy coating and resin systems, it acts as a curing agent. This chemical contributes to controlled cure rates and improved film flexibility in various industrial applications. Pharmaceutical manufacturers use it as a key intermediate in synthesizing APIs and agrochemical compounds. It is particularly useful where a primary amine with an ether spacer is required for molecular architecture. In personal care formulations, it functions as a pH buffer and stabilizer in rinse-off and leave-on products. Precise alkalinity control is critical to formulation stability in these applications. Polymer producers also incorporate it as a chain modifier or reactive diluent to tune mechanical properties in specialty resin systems. The product is supplied as a clear liquid in standard drum and IBC quantities, with bulk tanker options available for high-volume industrial buyers. Technical grade is the primary commercial specification. Purity levels are typically at 99% or higher confirmed by GC analysis. Certificates of Analysis covering purity, water content, and amine value are standard documentation for procurement and QA purposes. Contact us for supply of 3-methoxypropylamine Request Quote",
+  "physicalProperties": "Melting Point: -65 °C; Boiling Point: 90-125 °C; Density: 0.874 g/cm³; Flash Point: 73 °F; Appearance: CLEAR COLOURLESS TO FAINTLY COLORED LIQUID; Color: Clear colorless to faintly colored; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 20 mm Hg ( 30 °C); Refractive Index: n 20/D 1.417(lit.); pH: 11.5 (100g/l, H2O, 20℃); Log P: -0.5 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29221980; UN Number: 2734; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "1-Amino-3-methoxypropane | 1-Propanamine, 3-methoxy- | Propylamine, 3-methoxy- | Propanolamine methyl ether | gamma-Methoxypropylamine | 3MOPA cpd | VT819VO82Z | 3-Methoxy-1-propanamine",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29221980",
+  "similarProducts": [
+    "cas-6291-84-5",
+    "cas-16728-59-9",
+    "cas-105-83-9",
+    "cas-123-00-2",
+    "cas-75-31-0",
+    "cas-78-96-6",
+    "cas-124-68-5",
+    "cas-109-83-1",
+    "cas-109-55-7",
+    "cas-107-10-8",
+    "cas-20193-20-8",
+    "cas-16369-21-4",
+    "cas-102-69-2",
+    "cas-624-78-2",
+    "cas-109-83-1",
+    "cas-109-55-7",
+    "cas-107-10-8",
+    "cas-20193-20-8",
+    "cas-16369-21-4",
+    "cas-102-69-2",
+    "cas-624-78-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-5332-73-0/"
+}

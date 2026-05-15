@@ -1,0 +1,62 @@
+{
+  "id": "2057",
+  "name": "Stannic chloride",
+  "slug": "cas-7646-78-8",
+  "cas": "7646-78-8",
+  "ec": "231-588-9",
+  "formula": "Cl4Sn",
+  "mw": "260.5 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Stannic chloride (CAS 7646-78-8 ), also known as tin tetrachloride or SnCl4, is an inorganic tin compound supplied primarily as a fuming liquid or in hydrated form. It functions as a Lewis acid catalyst and tin source across chemical synthesis and polymer production. In plastics and polymer manufacturing, it acts as a catalyst and stabilizer precursor in the production of PVC and other tin-stabilized formulations. This helps control degradation during processing and ensures the durability of the final material. Pharmaceutical synthesis relies on it as a Lewis acid catalyst for Friedel-Crafts reactions and other electrophilic processes. Controlled reactivity is critical to yield and purity in these complex chemical transformations. It is also used in the production of indium tin oxide (ITO) coatings and conductive thin films. In these applications, it serves as a tin precursor deposited onto glass or plastic substrates for electronics. In specialty chemical manufacturing, it functions as an intermediate for producing organotin compounds. These compounds are frequently used as biocides and stabilizers in various industrial formulations and coatings. Stannic chloride is available as an anhydrous liquid and as the pentahydrate solid, with the hydrated form preferred where moisture sensitivity is less critical. Standard supply grades include technical and reagent-grade specifications. Bulk quantities are typically packaged in drums or IBCs to ensure safe transport and storage. Smaller quantities are also available for specialized laboratory and pharmaceutical applications requiring precise measurements. Contact us for supply of Stannic chloride Request Quote",
+  "physicalProperties": "Melting Point: -33 °C; Boiling Point: 114.15 °C; Density: 2.34 g/cm³; Flash Point: 34 °F; Appearance: Colorless, fuming, caustic liquid, that water converts into a crystalline solid, SnCl4?5H2O.Keep well stoppered. Soluble in cold water, alcohol, carbon disulfide; decomposed by hot water.; Color: Colorless; Form: Solution; Water Solubility: reacts; Vapor Pressure: 10 mm Hg ( 10 °C); Refractive Index: 1.512; pH: 0.2 (60g/l, H2O, 20℃)Hydrolysis; Log P: -1.67 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS06 GHS08 Hazard Statements H290 H290 H314 H314 H318 H318 H330 H330 H335 H335 H372 H372 H401 H401 H412 H412 Precautionary Statements P234 P234 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P284 P284 P316 P316 P317 P317 P319 P319 P320 P320 P321 P321 P363 P363 P390 P390 P405 P405 P406 P406 P501 P501 P264+P265 P264+P265 P304+P340 P304+P340 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28273990; UN Number: 3264; ADR Class: 8; Packing Group: II; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "tin tetrachloride | Tin perchloride | Stannic tetrachloride | Stannane, tetrachloro- | Tin(IV) tetrachloride | SnCl4 | Tin chloride (SnCl4) | Libavius Fuming spirit",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28273990",
+  "similarProducts": [
+    "cas-10025-69-1",
+    "cas-7772-99-8",
+    "cas-683-18-1",
+    "cas-7550-45-0",
+    "cas-7488-55-3",
+    "cas-21651-19-4",
+    "cas-13355-96-9",
+    "cas-814-94-8",
+    "cas-12058-66-1",
+    "cas-10025-91-9",
+    "cas-7440-31-5",
+    "cas-301-10-0",
+    "cas-12027-70-2",
+    "cas-12142-33-5",
+    "cas-814-94-8",
+    "cas-12058-66-1",
+    "cas-10025-91-9",
+    "cas-7440-31-5",
+    "cas-301-10-0",
+    "cas-12027-70-2",
+    "cas-12142-33-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7646-78-8/"
+}

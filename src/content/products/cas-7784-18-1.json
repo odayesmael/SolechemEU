@@ -1,0 +1,60 @@
+{
+  "id": "2166",
+  "name": "Aluminum fluoride",
+  "slug": "cas-7784-18-1",
+  "cas": "7784-18-1",
+  "ec": "232-051-1",
+  "formula": "AlF3",
+  "mw": "83.976748 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Mining & Metals",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Aluminum fluoride (CAS 7784-18-1 ), also sold as aluminum trifluoride, is an inorganic salt used primarily as a flux and electrolyte modifier in aluminum smelting and as a catalyst or catalyst precursor. Its ability to lower the melting point of alumina-cryolite baths makes it a critical process chemical in primary aluminum production. In aluminum smelting, it is added to the Hall-Héroult electrolytic bath. This addition helps to control the bath ratio and improve current efficiency, directly impacting metal yield and energy consumption. In plastics and polymer manufacturing, it functions as a flame retardant additive. It helps compounded materials meet fire resistance specifications for wire and cable, construction profiles, and automotive components. As a catalyst or catalyst precursor, it supports fluorination and isomerization. These reactions are essential in petrochemical and specialty chemical production. It also sees use as a preservative in fermentation control, where it inhibits enzymatic activity in brewing and fermentation processes. Aluminum fluoride is available as a white crystalline powder or granules, with anhydrous and trihydrate forms both present in the market. Standard supply grades include technical grade for metallurgical applications. Bulk supply is common for smelter-scale procurement, with smaller packaging available for catalyst and specialty chemical applications. This ensures flexibility for various industrial and laboratory requirements. Contact us for supply of Aluminum fluoride Request Quote",
+  "physicalProperties": "Melting Point: 1291 °C; Boiling Point: 1291 °C; Density: 3.10 g/cm³; Flash Point: 1250°C; Appearance: Aluminum fluoride is a white, odorless powder or granule.; Color: White to light gray; Form: powder; Water Solubility: SLIGHTLY SOLUBLE",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 Hazard Statements H301 H301 H319 H319 H335 H335 H361 H361 H372 H372 Precautionary Statements P203 P203 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P318 P318 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P304+P340 P304+P340 P337+P317 P337+P317 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 28261210; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "aluminum trifluoride | aluminum fluoride anhydre | aluminium trifluoride | Aluminum fluoride (AlF3) | Fluorid hlinity | Aluminium fluorure | Z77H3IKW94 | Aluminum trifluoride (AlF3)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28261210",
+  "similarProducts": [
+    "cas-13775-53-6",
+    "cas-7789-24-4",
+    "cas-21645-51-2",
+    "cas-7446-70-0",
+    "cas-7783-49-5",
+    "cas-7789-75-5",
+    "cas-12125-01-8",
+    "cas-15096-52-3",
+    "cas-13939-25-8",
+    "cas-1341-49-7",
+    "cas-7429-90-5",
+    "cas-7784-30-7",
+    "cas-7788-97-8",
+    "cas-7789-23-3",
+    "cas-15096-52-3",
+    "cas-13939-25-8",
+    "cas-1341-49-7",
+    "cas-7429-90-5",
+    "cas-7784-30-7",
+    "cas-7788-97-8",
+    "cas-7789-23-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7784-18-1/"
+}

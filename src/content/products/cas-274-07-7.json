@@ -1,0 +1,60 @@
+{
+  "id": "965",
+  "name": "Catecholborane",
+  "slug": "cas-274-07-7",
+  "cas": "274-07-7",
+  "ec": "205-991-5",
+  "formula": "C6H5BO2",
+  "mw": "119.92 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Agriculture & Feed",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Catecholborane (CAS 274-07-7 ) is a cyclic organoboron reagent used as a selective hydroboration agent in synthetic chemistry. It delivers controlled boron addition to unsaturated substrates, enabling the preparation of boronate esters. These boronate esters are essential chiral intermediates that downstream processes require for complex molecular construction. In pharmaceutical synthesis, it is used to produce enantiomerically enriched boronic acid derivatives. These derivatives serve as building blocks for active pharmaceutical ingredients, including protease inhibitors and antifungal compounds. Asymmetric hydroboration with chiral rhodium or iridium catalysts relies on this boron source. This process allows for the generation of stereocenters with high selectivity during drug development. In agrochemical development, it supports the synthesis of boron-containing crop protection compounds at the research stage. It also functions as a catalyst precursor and initiator in certain boron-mediated polymerization processes within specialty materials research. The reagent is supplied as a liquid, typically handled under an inert atmosphere. Due to its moisture sensitivity, it is available in research quantities and in larger volumes for process chemistry and scale-up applications. Standard offerings include technical and high-purity grades for various uses. Purity specifications are commonly confirmed by NMR or GC analysis to meet pharmaceutical intermediate requirements. This ensures the material meets the rigorous standards necessary for sensitive chemical transformations and manufacturing. Contact us for supply of Catecholborane Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "Danger GHS02 GHS05 Hazard Statements H225 Highly Flammable liquid and vapor H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "",
+  "otherNames": "UB69382H5J | RefChem:574899 | 1,3,2-Benzodioxaborole | c6h5bo2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-25015-63-8",
+    "cas-73183-34-3",
+    "cas-120-80-9",
+    "cas-280-64-8",
+    "cas-14047-29-1",
+    "cas-4856-95-5",
+    "cas-110-51-0",
+    "cas-13289-97-9",
+    "cas-1113-78-6",
+    "cas-22238-17-1",
+    "cas-38050-71-4",
+    "cas-1722-26-5",
+    "cas-14044-65-6",
+    "cas-36016-38-3",
+    "cas-13289-97-9",
+    "cas-1113-78-6",
+    "cas-22238-17-1",
+    "cas-38050-71-4",
+    "cas-1722-26-5",
+    "cas-14044-65-6",
+    "cas-36016-38-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-274-07-7/"
+}

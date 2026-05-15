@@ -1,0 +1,60 @@
+{
+  "id": "623",
+  "name": "1-hexanol",
+  "slug": "cas-111-27-3",
+  "cas": "111-27-3",
+  "ec": "203-852-3",
+  "formula": "C6H14O",
+  "mw": "102.17 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Hexanol (CAS 111-27-3 ), also known as n-hexyl alcohol, is a medium-chain primary alcohol used as a chemical intermediate, solvent, and fragrance ingredient across industrial and consumer product manufacturing. Its controlled reactivity with isocyanates, acids, and anhydrides makes it a practical building block in polymer and coating chemistries. In coatings and adhesives, it functions as a reactive diluent and chain extender. This chemical influences crosslink density and film flexibility in polyurethane and alkyd systems. Plasticizer and polymer synthesis rely on it as an esterification feedstock, producing hexyl esters for resins. These esters modify the softness and processing behavior of PVC and similar materials. Personal care formulators incorporate n-hexyl alcohol as an emollient and emulsifier co-ingredient in skin and hair products. The compound supports texture and phase stability in cosmetic formulations. Assigned FEMA 2567 , it also serves as a flavoring agent in food-grade applications, contributing a mild floral-green note. It is used in beverages, confectionery, and fragrance compositions. 1-Hexanol is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for high-volume industrial buyers. Standard commercial grades include technical and high-purity specifications. Food and flavor applications typically require material meeting FCC or equivalent quality standards for safety and compliance. Contact us for supply of 1-hexanol Request Quote",
+  "physicalProperties": "Melting Point: -44.6 °C; Boiling Point: 157 °C @ Press: 760 Torr; Density: 0.8153 g/cm³ @ Temp: 25 °C; Flash Point: 140 °F; Appearance: Colourless liquid (odour recognition threshold 0.09ppm); Color: Clear colorless; Odor: Sweet; mild.; Form: Liquid; Water Solubility: 6 g/L (25 ºC); Vapor Pressure: 1 mm Hg ( 25.6 °C); Refractive Index: n 20/D 1.418(lit.); Log P: 1.8",
+  "safetyHandling": "Warning GHS07 GHS02 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 2282; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "n-hexyl alcohol | n-hexanol | n-hexan-1-ol | hexyl alcohol | caproyl alcohol | capronyl alcohol | caproic alcohol | 1-hydroxyhexane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS02"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-111-70-6",
+    "cas-104-76-7",
+    "cas-108-93-0",
+    "cas-111-25-1",
+    "cas-111-87-5",
+    "cas-6920-22-5",
+    "cas-71-41-0",
+    "cas-2425-77-6",
+    "cas-1193-81-3",
+    "cas-71-36-3",
+    "cas-66-25-1",
+    "cas-110-54-3",
+    "cas-143-08-8",
+    "cas-629-11-8",
+    "cas-2425-77-6",
+    "cas-1193-81-3",
+    "cas-71-36-3",
+    "cas-66-25-1",
+    "cas-110-54-3",
+    "cas-143-08-8",
+    "cas-629-11-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-111-27-3/"
+}

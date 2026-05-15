@@ -1,0 +1,60 @@
+{
+  "id": "655",
+  "name": "1-Undecanol",
+  "slug": "cas-112-42-5",
+  "cas": "112-42-5",
+  "ec": "203-970-5",
+  "formula": "C11H24O",
+  "mw": "172.31 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Printing & Packaging",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Undecanol (CAS 112-42-5 ), also known by its FEMA 3097 designation, is a medium-chain fatty alcohol used across flavor, fragrance, and surfactant applications. It contributes waxy, citrus-like aromatic character to flavor systems and functions as a surface-active agent and emulsifier in industrial formulations. In food and beverage flavoring, it is used at trace levels. The compound imparts fresh, fatty-citrus top notes in citrus, dairy, and fruit flavor compositions. Personal care formulators incorporate it as an emollient and emulsifier component in creams and lotions. Its specific chain length supports texture and spreadability in conditioning products. In printing and packaging, it acts as a wetting and dispersing agent to improve ink adhesion and substrate compatibility. It also serves as a chemical intermediate in the synthesis of surfactants, esters, and specialty surface-active compounds. These are essential for industrial cleaning and coating systems. The product is supplied as a colorless to pale yellow liquid or low-melting solid depending on ambient temperature. Food-grade material conforming to FEMA specifications is available for flavor applications. Technical-grade material is supplied for industrial and surfactant manufacturing use. Standard packaging includes drums and intermediate bulk containers (IBCs) to ensure safe transport and storage. Contact us for supply of 1-Undecanol Request Quote",
+  "physicalProperties": "Melting Point: 19 °C; Boiling Point: 243 °C @ Press: 760 Torr; Density: 0.8298 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: colourless liquid; Color: Clear colorless to pale yellow; Odor: Faint alcohol.; Form: Liquid; Water Solubility: Not miscible or difficult to mix with water. Soluble in chloroform and ethyl acetate.; Vapor Pressure: <1 hPa (20 °C); Refractive Index: n 20/D 1.44(lit.); Log P: 4.9 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H400 Very toxic to aquatic life H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P264 Wash … thoroughly after handling. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051990; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "Undecanol | undecan-1-ol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29051990",
+  "similarProducts": [
+    "cas-112-30-1",
+    "cas-143-08-8",
+    "cas-112-37-8",
+    "cas-111-87-5",
+    "cas-1120-21-4",
+    "cas-112-70-9",
+    "cas-111-70-6",
+    "cas-111-27-3",
+    "cas-112-53-8",
+    "cas-112-31-2",
+    "cas-127036-24-2",
+    "cas-7045-71-8",
+    "cas-71-36-3",
+    "cas-71-41-0",
+    "cas-111-27-3",
+    "cas-112-53-8",
+    "cas-112-31-2",
+    "cas-127036-24-2",
+    "cas-7045-71-8",
+    "cas-71-36-3",
+    "cas-71-41-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-42-5/"
+}

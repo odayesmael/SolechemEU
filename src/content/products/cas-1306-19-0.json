@@ -1,0 +1,63 @@
+{
+  "id": "1404",
+  "name": "Cadmium oxide",
+  "slug": "cas-1306-19-0",
+  "cas": "1306-19-0",
+  "ec": "215-146-2",
+  "formula": "CdO",
+  "mw": "128.41 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Pulp & Paper",
+    "Plastics & Polymers",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cadmium oxide (CAS 1306-19-0 ), also known as cadmium monoxide, is an inorganic compound used primarily as a precursor and catalyst in industrial chemical synthesis and electrochemical processes. It serves as a source material for producing other cadmium compounds and functional coatings where controlled electrical or catalytic properties are required for specific manufacturing applications. In electronics manufacturing, it is used to produce electroplating baths and conductive thin-film coatings applied to contacts and semiconductors. The compound acts as a catalyst precursor in select organic synthesis processes. This includes the production of certain polymers and specialty chemicals. In the plastics and polymers sector, it has been used as a stabilizer component and pigment precursor for high-temperature processing. Pulp and paper operations have historically employed cadmium compounds in specific process chemistry, though regulatory pressure has significantly narrowed this use in recent years across the global market. The material is supplied as a brown-to-black powder in technical and high-purity grades. Purity levels typically range from 99% to 99.999% (5N), with higher-purity material directed toward electronics. Packaging is available in small laboratory quantities through to bulk industrial quantities. All shipments are subject to applicable hazardous materials handling requirements and safety protocols. Contact us for supply of Cadmium oxide Request Quote",
+  "physicalProperties": "Melting Point: 900-1000 °C; Boiling Point: 1385 °C; Density: 8.15 g/cm³; Appearance: Cadmium oxide forms brownish-red crystals or a yellow to dark brown amorphous powder.; Color: brown; Odor: Odorless; Form: powder; Water Solubility: insoluble. <0.1 g/100 mL at 20 ºC; pH: 9-10 (H2O)(aqueous suspension)",
+  "safetyHandling": "Danger GHS06 GHS08 GHS09 GHS05 GHS07 Hazard Statements H301 Toxic if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H330 Fatal if inhaled H341 Suspected of causing genetic defects H350 May cause cancer H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2825 90 60; UN Number: 2570; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "Cadmium(II) oxide | cadmium monoxide | cadmium fume | Cadmium oxide (CdO) | 0H3KWS8KJ3 | RefChem:573249 | CADMIUM FUME (AS Cd)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS08",
+    "GHS09",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "2825 90 60",
+  "similarProducts": [
+    "cas-513-78-0",
+    "cas-20667-12-3",
+    "cas-1317-38-0",
+    "cas-1307-96-6",
+    "cas-18282-10-5",
+    "cas-547-68-2",
+    "cas-1317-39-1",
+    "cas-1306-23-6",
+    "cas-1313-99-1",
+    "cas-1314-13-2",
+    "cas-1313-27-5",
+    "cas-1317-36-8",
+    "cas-21651-19-4",
+    "cas-1304-76-3",
+    "cas-1306-23-6",
+    "cas-1313-99-1",
+    "cas-1314-13-2",
+    "cas-1313-27-5",
+    "cas-1317-36-8",
+    "cas-21651-19-4",
+    "cas-1304-76-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1306-19-0/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "1339",
+  "name": "2-bromothiophene",
+  "slug": "cas-1003-09-4",
+  "cas": "1003-09-4",
+  "ec": "213-699-4",
+  "formula": "C4H3BrS",
+  "mw": "163.04 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Bromothiophene (CAS 1003-09-4 ), also known as 2-thienyl bromide, is a halogenated heterocyclic building block used across pharmaceutical synthesis and specialty chemical manufacturing. It serves as a reactive intermediate for introducing the thiophene scaffold into complex organic molecules through cross-coupling and metal-catalyzed reactions in various industrial settings. In pharmaceutical development, this compound is a key precursor for active pharmaceutical ingredients where the thiophene ring is a core structural element, including antifungal and antihistamine compounds. Flavor and fragrance chemists use it to access thienyl-containing aroma compounds through further functionalization. It participates in Suzuki, Kumada, and Negishi coupling reactions for advanced intermediates. Specialty chemical producers also use it as a starting material for liquid crystal components and conducting polymer monomers, supporting innovation in agrochemical and materials science applications. The product is supplied as a liquid in standard commercial quantities ranging from laboratory-scale packaging to bulk drums. Technical and high-purity grades are available for diverse industrial needs. Purity specifications are typically at 97–99%+ to meet the demands of pharmaceutical and fine chemical synthesis. Buyers should confirm grade documentation and certificate of analysis requirements. For those sourcing for GMP-regulated processes, ensure the material meets necessary quality standards. Proper handling and storage protocols must be followed to maintain the integrity of the chemical. Contact us for supply of 2-bromothiophene Request Quote",
+  "physicalProperties": "Melting Point: <25 °C; Boiling Point: 53-56 °C @ Press: 18 Torr; Density: 1.6284 g/cm³ @ Temp: 20 °C; Flash Point: 140 °F; Appearance: colorless to light yellow liqui; Color: Clear colorless to slightly brownish; Form: Liquid; Water Solubility: IMMISCIBLE; Refractive Index: n 20/D 1.586(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 GHS07 Hazard Statements H226 H226 H300 H300 H301 H301 H310 H310 H315 H315 H318 H318 H319 H319 H330 H330 Precautionary Statements P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P262 P262 P264 P264 P270 P270 P271 P271 P280 P280 P284 P284 P316 P316 P317 P317 P320 P320 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P316 P301+P316 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P361+P364 P361+P364 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 2929; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "2-thienyl bromide | Thiophene, 2-bromo- | GFF929NUW7 | Monobromothiophene.",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06",
+    "GHS07"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-110-02-1",
+    "cas-75-26-3",
+    "cas-88-15-3",
+    "cas-589-87-7",
+    "cas-5332-24-1",
+    "cas-2682-49-7",
+    "cas-15435-29-7",
+    "cas-75-66-1",
+    "cas-110-01-0",
+    "cas-2857-97-8",
+    "cas-111-25-1",
+    "cas-109-65-9",
+    "cas-2493-02-9",
+    "cas-106-95-6",
+    "cas-75-66-1",
+    "cas-110-01-0",
+    "cas-2857-97-8",
+    "cas-111-25-1",
+    "cas-109-65-9",
+    "cas-2493-02-9",
+    "cas-106-95-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1003-09-4/"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "88",
+  "name": "Ethanol",
+  "slug": "cas-64-17-5",
+  "cas": "64-17-5",
+  "ec": "200-578-6",
+  "formula": "C2H6O",
+  "mw": "46.07 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Printing & Packaging",
+    "Plastics & Polymers",
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethanol (CAS 64-17-5 ), also designated E1510 in food applications and commonly abbreviated as EtOH, is a primary-grade alcohol produced through fermentation or synthetic routes. It functions as a solvent, carrier, preservative, and processing aid across a broad range of regulated and industrial markets. In pharmaceuticals, ethanol dissolves active ingredients and excipients. It is used in oral liquids, tinctures, and topical formulations where controlled concentration and purity are critical to regulatory compliance. This ensures adherence to USP and BP standards. Personal care manufacturers use it as a fast-evaporating carrier in perfumes, hand sanitizers, and aerosol sprays. Its biocidal action also extends product shelf life in these applications. Food and beverage producers rely on E1510 as a flavor carrier and extraction solvent, particularly in botanical extracts and aroma compounds. It meets Ph. Eur. requirements for safety. Printing and packaging operations use ethanol-based ink formulations for flexographic and gravure printing on flexible substrates. This is necessary where fast drying and low residual solvent levels are required. Ethanol is supplied as a liquid in concentrations ranging from 70% to 99.9% (anhydrous). Recognized grades include food-grade and denatured technical grades governed by specific regional regulations. These regulations affect import and end-use eligibility for various industrial sectors. Bulk supply is available in drums, IBCs, and road tankers to meet high-volume manufacturing demands. Contact us for supply of Ethanol Request Quote",
+  "physicalProperties": "Melting Point: -114.1 °C; Boiling Point: 78.5 °C; Density: 0.789 g/cm³ @ Temp: 20 °C; Flash Point: 12°C; Appearance: Ethyl alcohol is a colorless, volatile, flammable liquid with a sweet, fruity odor. The Odor Threshold is 0.1355 ppm.; Color: APHA: ≤10; Odor: Pleasant alcoholic odor detectable at 49 to 716 ppm (mean = 180 ppm); Form: Liquid. Colorless liquid / invisible vapor.; Water Solubility: miscible; Vapor Pressure: 43 mmHg at 20 °C; Refractive Index: 1.3614; pH: 7.0 (10g/l, H2O, 20℃); Log P: -0.19",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor [Danger Flammable liquids] H315 (100%): Causes skin irritation [Warning Skin corrosion/irritation] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation] H320 Causes eye irritation [Warning Serious eye damage/eye irritation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H336 May cause drowsiness or dizziness [Warning Specific target organ toxicity, single exposure; Narcotic effects] H340 May cause genetic defects [Danger Germ cell mutagenicity] H350 May cause cancer [Danger Carcinogenicity] H360 May damage fertility or the unborn child [Danger Reproductive toxicity] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H412 (100%): Harmful to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard]",
+  "tradeRegulatory": "HS Code: 22071000; Storage Class: 3 - Flammable liquids; WGK (Germany): nwg",
+  "otherNames": "EtOH | ethyl hydroxide | ethyl hydrate | ethyl alcohol anhydrous | ethyl alcohol | E1510 | dehydrated ethanol | dehydrated alcohol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "22071000",
+  "similarProducts": [
+    "cas-141-78-6",
+    "cas-172820-60-9",
+    "cas-110-80-5",
+    "cas-104-76-7",
+    "cas-111-35-3",
+    "cas-67-56-1",
+    "cas-75-21-8",
+    "cas-67-63-0",
+    "cas-111-76-2",
+    "cas-100-41-4",
+    "cas-60-29-7",
+    "cas-637-92-3",
+    "cas-112-25-4",
+    "cas-60-12-8",
+    "cas-67-63-0",
+    "cas-111-76-2",
+    "cas-100-41-4",
+    "cas-60-29-7",
+    "cas-637-92-3",
+    "cas-112-25-4",
+    "cas-60-12-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-64-17-5/"
+}

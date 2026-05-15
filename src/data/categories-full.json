@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "Agrochemicals",
+    "slug": "agrochemicals",
+    "count": 48
+  },
+  {
+    "id": "2",
+    "name": "Alcohols & Glycols",
+    "slug": "alcohols-glycols",
+    "count": 198
+  },
+  {
+    "id": "3",
+    "name": "Alkalis & Bases",
+    "slug": "alkalis-bases",
+    "count": 21
+  },
+  {
+    "id": "4",
+    "name": "Amines",
+    "slug": "amines",
+    "count": 183
+  },
+  {
+    "id": "5",
+    "name": "Amino Acids & Peptides",
+    "slug": "amino-acids-peptides",
+    "count": 187
+  },
+  {
+    "id": "6",
+    "name": "Catalysts & Catalyst Precursors",
+    "slug": "catalysts-catalyst-precursors",
+    "count": 149
+  },
+  {
+    "id": "7",
+    "name": "Chelating Agents",
+    "slug": "chelating-agents",
+    "count": 88
+  },
+  {
+    "id": "8",
+    "name": "Flame Retardants",
+    "slug": "flame-retardants",
+    "count": 62
+  },
+  {
+    "id": "9",
+    "name": "Flavors & Fragrances",
+    "slug": "flavors-fragrances",
+    "count": 350
+  },
+  {
+    "id": "10",
+    "name": "Heterocyclic Compounds",
+    "slug": "heterocyclic-compounds",
+    "count": 139
+  },
+  {
+    "id": "11",
+    "name": "Inorganic Acids",
+    "slug": "inorganic-acids",
+    "count": 32
+  },
+  {
+    "id": "12",
+    "name": "Monomers & Building Blocks",
+    "slug": "monomers-building-blocks",
+    "count": 93
+  },
+  {
+    "id": "13",
+    "name": "Nucleosides & Nucleotides",
+    "slug": "nucleosides-nucleotides",
+    "count": 8
+  },
+  {
+    "id": "14",
+    "name": "Oils, Fats & Waxes",
+    "slug": "oils-fats-waxes",
+    "count": 565
+  },
+  {
+    "id": "15",
+    "name": "Organic Acids",
+    "slug": "organic-acids",
+    "count": 181
+  },
+  {
+    "id": "16",
+    "name": "Organometallic Compounds",
+    "slug": "organometallic-compounds",
+    "count": 73
+  },
+  {
+    "id": "17",
+    "name": "Oxidizers & Peroxides",
+    "slug": "oxidizers-peroxides",
+    "count": 73
+  },
+  {
+    "id": "18",
+    "name": "Pharmaceutical Intermediates",
+    "slug": "pharmaceutical-intermediates",
+    "count": 199
+  },
+  {
+    "id": "19",
+    "name": "Pigments & Colorants",
+    "slug": "pigments-colorants",
+    "count": 240
+  },
+  {
+    "id": "20",
+    "name": "Polymers & Resins",
+    "slug": "polymers-resins",
+    "count": 307
+  },
+  {
+    "id": "21",
+    "name": "Salts & Minerals",
+    "slug": "salts-minerals",
+    "count": 433
+  },
+  {
+    "id": "22",
+    "name": "Silicones & Silicates",
+    "slug": "silicones-silicates",
+    "count": 60
+  },
+  {
+    "id": "23",
+    "name": "Solvents",
+    "slug": "solvents",
+    "count": 165
+  },
+  {
+    "id": "24",
+    "name": "Specialty Chemicals",
+    "slug": "specialty-chemicals",
+    "count": 2
+  },
+  {
+    "id": "25",
+    "name": "Surfactants",
+    "slug": "surfactants",
+    "count": 417
+  },
+  {
+    "id": "26",
+    "name": "Sweeteners & Food Additives",
+    "slug": "sweeteners-food-additives",
+    "count": 50
+  },
+  {
+    "id": "27",
+    "name": "UV Absorbers & Stabilizers",
+    "slug": "uv-absorbers-stabilizers",
+    "count": 26
+  },
+  {
+    "id": "28",
+    "name": "Vitamins & Nutrients",
+    "slug": "vitamins-nutrients",
+    "count": 134
+  }
+]

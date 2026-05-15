@@ -1,0 +1,61 @@
+{
+  "id": "392",
+  "name": "Benzonitrile",
+  "slug": "cas-100-47-0",
+  "cas": "100-47-0",
+  "ec": "202-855-7",
+  "formula": "C7H5N",
+  "mw": "103.12 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzonitrile (CAS 100-47-0 ), also known as phenyl cyanide, is an aromatic nitrile solvent and chemical intermediate used across pharmaceutical synthesis, flavor chemistry, and catalyst manufacturing. Its role is primarily as a reactive building block and polar aprotic solvent in multi-step organic synthesis. In pharmaceutical manufacturing, it serves as a key intermediate in the synthesis of active pharmaceutical ingredients. This is particularly important where nitrile-to-amine or nitrile-to-amide transformations are required. Flavor and fragrance formulators use it as a precursor to benzylamine derivatives and aromatic aroma compounds. These compounds are frequently found in finished flavor blends. In catalyst development, it acts as a ligand precursor and stabilizing agent in transition metal catalyst systems, including palladium-based catalysts. Specialty chemical producers also employ it as a solvent in electrochemical applications and high-polarity reaction media. It is often used where conventional solvents are unsuitable for specific chemical reactions. The product is supplied as a clear liquid in standard packaging ranging from laboratory quantities to bulk drums and IBC containers. Technical grade is the most common commercial specification available. High-purity grades of 99% or greater are available for pharmaceutical and catalyst applications. Buyers sourcing for regulated end uses should confirm purity certificates and residual impurity profiles with suppliers. Contact us for supply of Benzonitrile Request Quote",
+  "physicalProperties": "Melting Point: -13.1 °C; Boiling Point: 190.7 °C @ Press: 760 Torr; Density: 1.010 g/cm³ @ Temp: 15 °C; Flash Point: 161 °F; Appearance: Bezonitrile is a colorless, oily liquid. It has an almond odor.; Color: Clear colorless to slightly yellow; Odor: Almond-like.; Form: Liquid; Water Solubility: 10 g/L (100 ºC); Vapor Pressure: 1 hPa at 20 °C; Refractive Index: n 20/D 1.528(lit.); Log P: 1.5 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS06 GHS08 Hazard Statements H227 Combustible liquid H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H331 Toxic if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H402 Harmful to aquatic life Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29269090; UN Number: 2224; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "C6H5-CN | benzoic acid nitrile | Phenyl cyanide | Benzene, cyano-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29269090",
+  "similarProducts": [
+    "cas-140-29-4",
+    "cas-71-43-2",
+    "cas-104-85-8",
+    "cas-100-46-9",
+    "cas-75-05-8",
+    "cas-98-88-4",
+    "cas-51-17-2",
+    "cas-100-44-7",
+    "cas-100-70-9",
+    "cas-100-51-6",
+    "cas-100-54-9",
+    "cas-100-48-1",
+    "cas-76-93-7",
+    "cas-100-52-7",
+    "cas-100-44-7",
+    "cas-100-70-9",
+    "cas-100-51-6",
+    "cas-100-54-9",
+    "cas-100-48-1",
+    "cas-76-93-7",
+    "cas-100-52-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-47-0/"
+}

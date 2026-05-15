@@ -1,0 +1,61 @@
+{
+  "id": "1993",
+  "name": "Lead",
+  "slug": "cas-7439-92-1",
+  "cas": "7439-92-1",
+  "ec": "231-100-4",
+  "formula": "Pb",
+  "mw": "207 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Automotive",
+    "Electronics",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lead (CAS 7439-92-1 ), commonly identified by its symbol Pb, is a dense, refined metal supplied in bulk form for industrial processing and manufacturing. It functions as a base material for battery production and radiation shielding. This metal is essential for alloy manufacturing across heavy industry sectors. In automotive and industrial battery manufacturing, Pb is the primary active material in lead-acid cells, where it forms the grid structure. It also forms the electrochemical plates required for energy storage. Electronics and cable manufacturers use it as a shielding material against X-ray and gamma radiation in medical, nuclear, and diagnostic equipment enclosures. In the metals industry, it is alloyed with tin, antimony, and other elements to produce solders. These alloys create bearing metals and type metals with controlled mechanical properties for specialized engineering tasks. Mining operations use lead compounds derived from bulk metal as flotation reagents and processing intermediates in ore beneficiation. Bulk lead is supplied as ingots, pigs, sheets, and granules for various needs. Ingot form remains the standard for most industrial procurement. Refined grades include 99.97% and 99.99% purity designations, with corroding-grade and chemical-grade specifications available for specific downstream applications. Supply typically conforms to ASTM B29 for refined pig lead or equivalent national standards. This ensures consistent quality and performance for manufacturers requiring high-purity raw materials for production. Contact us for supply of Lead Request Quote",
+  "physicalProperties": "Melting Point: 327.4 °C; Boiling Point: 1740 °C; Density: 11.34 g/cm³ @ Temp: 20 °C; Appearance: grey metal granules, shot, foil, sheet or powder; Color: Olive-green or red to brown; Odor: Odorless gas; Form: wire; Water Solubility: reacts with hot conc HNO3, boiling conc HCl, H2SO4 [MER06]; Refractive Index: 2.881 (632.8 nm); pH: 3.8 (20°C in H2O)",
+  "safetyHandling": "Danger GHS08 GHS09 GHS07 Hazard Statements H302 Harmful if swallowed H332 Harmful if inhaled H341 Suspected of causing genetic defects H351 Suspected of causing cancer H360 May damage fertility or the unborn child H362 May cause harm to breast-fed children H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P263 Avoid contact during pregnancy and while nursing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+  "tradeRegulatory": "HS Code: 78011000; UN Number: 3082; ADR Class: 9; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "element 82 | bulk lead | Lead element | Lead metal | Plumbum | Blei | Lead flake | Glover | Pb",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "78011000",
+  "similarProducts": [
+    "cas-1317-36-8",
+    "cas-17570-76-2",
+    "cas-13814-96-5",
+    "cas-1072-35-1",
+    "cas-7440-31-5",
+    "cas-7439-93-2",
+    "cas-7440-66-6",
+    "cas-301-08-6",
+    "cas-7319-86-0",
+    "cas-7440-69-9",
+    "cas-15696-43-2",
+    "cas-15245-44-0",
+    "cas-7429-90-5",
+    "cas-7440-38-2",
+    "cas-301-08-6",
+    "cas-7319-86-0",
+    "cas-7440-69-9",
+    "cas-15696-43-2",
+    "cas-15245-44-0",
+    "cas-7429-90-5",
+    "cas-7440-38-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7439-92-1/"
+}

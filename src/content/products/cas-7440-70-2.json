@@ -1,0 +1,62 @@
+{
+  "id": "2018",
+  "name": "Calcium",
+  "slug": "cas-7440-70-2",
+  "cas": "7440-70-2",
+  "ec": "231-179-5",
+  "formula": "Ca",
+  "mw": "40.08 g/mol",
+  "category": "Salts & Minerals",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed",
+    "Building & Construction",
+    "Mining & Metals"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Calcium (CAS 7440-70-2 ) is a reactive alkaline earth metal supplied in elemental form for industrial reduction, alloying, and chemical synthesis applications. As a powerful reducing agent and desulfurization reagent, it drives critical metallurgical processes. In steelmaking and non-ferrous metallurgy, elemental calcium is used for desulfurization, deoxidation, and inclusion modification. This directly improves the mechanical properties and cleanliness of finished metal products across various industrial sectors. The nuclear and specialty metals industry uses it as a reduction agent to produce high-purity titanium, uranium, and rare earth metals. This is achieved via metallothermic reduction, where high reactivity is essential for success. In the chemical industry, it serves as a precursor for calcium hydride and other reactive calcium compounds used in organic synthesis. It is also frequently utilized in the production of specialized industrial desiccants. Battery and energy storage research also draws on elemental calcium as an anode material in next-generation calcium-ion cell development. This emerging field relies on the specific electrochemical properties of the metal. Elemental calcium is supplied as granules, lumps, turnings, and shot, with particle size selected to match handling requirements. Technical and high-purity grades are available, with purity levels typically ranging from 98% to 99.5%+. Material is generally packaged under inert atmosphere or in sealed containers to preserve reactivity during storage and transit. This ensures the chemical integrity of the product remains intact until it reaches the final application. Contact us for supply of Calcium Request Quote",
+  "physicalProperties": "Melting Point: 842 °C; Boiling Point: 1484 °C; Density: 1.54 g/cm³ @ Temp: 20 °C; Appearance: Calcium is a silvery-white metal when freshly cut, which tarnishes to a blue-gray color in air. It can also be found as a powder.; Color: Silver-white; Odor: Odorless; Form: pieces; Water Solubility: reacts with H2O, alcohols, dilute acids to evolve H2 [MER06]; pH: 0.5 (20°C in H2O)",
+  "safetyHandling": "Danger GHS02 GHS05 Hazard Statements H250 Catches fire spontaneously if exposed to air H261 In contact with water releases flammable gas H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P231 Handle and store contents under inert gas/… . P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P231+P232 Handle and store contents under inert gas/… . P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P402+P404 Store in a dry place. Store in a closed container. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P335+P334 IF ON SKIN: Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28051200; UN Number: 1401; ADR Class: 4.3; Packing Group: II; Storage Class: 4.3 - Hazardous materials which set free flammable gases upon contact with water; WGK (Germany): 1",
+  "otherNames": "element 20 | 20Ca | Calcium, elemental | SY7Q814VUP | Calcium element | Blood Coagulation Factor IV | Factor IV | Praval",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "28051200",
+  "similarProducts": [
+    "cas-7789-75-5",
+    "cas-12042-68-1",
+    "cas-1344-95-2",
+    "cas-10043-52-4",
+    "cas-813-94-5",
+    "cas-1305-78-8",
+    "cas-7789-41-5",
+    "cas-471-34-1",
+    "cas-7439-93-2",
+    "cas-7439-95-4",
+    "cas-7790-75-2",
+    "cas-19372-44-2",
+    "cas-62-54-4",
+    "cas-7778-18-9",
+    "cas-471-34-1",
+    "cas-7439-93-2",
+    "cas-7439-95-4",
+    "cas-7790-75-2",
+    "cas-19372-44-2",
+    "cas-62-54-4",
+    "cas-7778-18-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-70-2/"
+}

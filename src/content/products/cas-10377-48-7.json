@@ -1,0 +1,59 @@
+{
+  "id": "2591",
+  "name": "Lithium sulfate",
+  "slug": "cas-10377-48-7",
+  "cas": "10377-48-7",
+  "ec": "233-820-4",
+  "formula": "H2O4S.2Li",
+  "mw": "110.0 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium sulfate (CAS 10377-48-7 ), also marketed as lithium sulphate, is an inorganic lithium salt used across pharmaceutical, biotechnological, and industrial water treatment applications. It functions primarily as a source of lithium ions in controlled chemical environments and as a selective biocidal and catalytic agent in various manufacturing processes. In pharmaceutical manufacturing, it serves as a reagent and process chemical in the production of lithium-based active ingredients, particularly for psychiatric and neurological drug formulations. Biotechnology and life sciences applications include its use as a protein crystallization agent, where controlled ionic conditions are critical for structural analysis and drug discovery workflows. Water treatment operations employ it as a biocidal additive to inhibit microbial growth in industrial cooling systems and process water circuits throughout the facility. It also functions as a catalyst precursor in select inorganic synthesis processes, where lithium ion activity influences reaction selectivity and yield during the production cycle. The product is available as a white crystalline powder in both anhydrous and monohydrate forms. Standard supply grades include technical grade for industrial applications and high-purity grades. These high-purity options meet pharmaceutical and reagent specifications. Packaging typically ranges from laboratory-scale quantities to bulk industrial supply depending on requirements. Contact us for supply of Lithium sulfate Request Quote",
+  "physicalProperties": "Melting Point: 1173 °C; Density: 2.22 g/mL at 25 °C(lit.); Appearance: White crystalline powder; Color: White; Form: Powder; Water Solubility: 25.7 g/100 mL (25 ºC); Refractive Index: 1.465; pH: 6.0-9.0 (25℃, 2M in H2O)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H319 Causes serious eye irritation H412 Harmful to aquatic life with long lasting effects Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28332990; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 1",
+  "otherNames": "lithium sulphate | Li2SO4 | dilthium sulfate | dilithium sulfate | Sulfuric acid, dilithium salt | 919XA137JK | Lithium Sulphuratum",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "28332990",
+  "similarProducts": [
+    "cas-554-13-2",
+    "cas-10294-26-5",
+    "cas-7439-93-2",
+    "cas-14808-79-8",
+    "cas-10124-43-3",
+    "cas-919-16-4",
+    "cas-546-89-4",
+    "cas-7447-41-8",
+    "cas-7790-69-4",
+    "cas-1310-66-3",
+    "cas-1310-65-2",
+    "cas-7757-82-6",
+    "cas-7785-87-7",
+    "cas-13568-40-6",
+    "cas-7447-41-8",
+    "cas-7790-69-4",
+    "cas-1310-66-3",
+    "cas-1310-65-2",
+    "cas-7757-82-6",
+    "cas-7785-87-7",
+    "cas-13568-40-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10377-48-7/"
+}

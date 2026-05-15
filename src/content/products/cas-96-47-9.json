@@ -1,0 +1,61 @@
+{
+  "id": "344",
+  "name": "2-methyltetrahydrofuran",
+  "slug": "cas-96-47-9",
+  "cas": "96-47-9",
+  "ec": "202-507-4",
+  "formula": "C5H10O",
+  "mw": "86.13 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Methyltetrahydrofuran (CAS 96-47-9 ), commonly abbreviated as 2-MeTHF, is a cyclic ether solvent derived from renewable feedstocks such as furfural. It functions as a direct replacement for tetrahydrofuran in synthesis and extraction processes. This solvent offers improved water immiscibility and a higher boiling point compared to traditional alternatives. In pharmaceutical manufacturing, it is used as a reaction solvent for Grignard reactions and organolithium chemistry. Its tolerance to aqueous workup conditions simplifies downstream processing during catalytic hydrogenations. Its partial bio-based origin supports green chemistry compliance in API synthesis, which is a decisive factor in supplier qualification. Personal care formulators use it as a carrier solvent for active ingredient dissolution and extraction steps during raw material processing. A minor application exists in flavors and fragrances for specific ethereal notes. The product is supplied as a clear liquid in standard packaging ranging from drums to ISO tank quantities. Technical grade and high-purity anhydrous grades are the most commonly traded specifications for industrial use. Stabilized variants are available for extended storage to prevent peroxide formation. Buyers should confirm inhibitor type and water content specifications when sourcing for sensitive synthetic applications to ensure performance. Contact us for supply of 2-methyltetrahydrofuran Request Quote",
+  "physicalProperties": "Melting Point: -136 °C; Boiling Point: 78-80 °C; Density: 0.847 g/cm³ @ Temp: 25 °C; Press: 750 Torr; Flash Point: 10.4 °F; Appearance: liquid; Color: Clear colorless; Form: Liquid; Water Solubility: 15 g/100 mL (25 C); Vapor Pressure: 136 hPa (20 °C); Refractive Index: n 20/D 1.406(lit.); Log P: 1.1 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29321900; UN Number: 2536; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "2-Methyloxolane | Tetrahydro-2-methylfuran | Furan, tetrahydro-2-methyl- | MTHF | FCD0VD8ALF | 2-MeTHF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29321900",
+  "similarProducts": [
+    "cas-109-99-9",
+    "cas-57124-87-5",
+    "cas-97-99-4",
+    "cas-14044-65-6",
+    "cas-13171-18-1",
+    "cas-1634-04-4",
+    "cas-23783-42-8",
+    "cas-108-87-2",
+    "cas-25498-49-1",
+    "cas-109-87-5",
+    "cas-25190-06-1",
+    "cas-107-31-3",
+    "cas-112-35-6",
+    "cas-463-57-0",
+    "cas-108-87-2",
+    "cas-25498-49-1",
+    "cas-109-87-5",
+    "cas-25190-06-1",
+    "cas-107-31-3",
+    "cas-112-35-6",
+    "cas-463-57-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-96-47-9/"
+}

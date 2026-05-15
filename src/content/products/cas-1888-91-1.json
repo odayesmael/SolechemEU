@@ -1,0 +1,58 @@
+{
+  "id": "1544",
+  "name": "n-acetylcaprolactam",
+  "slug": "cas-1888-91-1",
+  "cas": "1888-91-1",
+  "ec": "217-565-6",
+  "formula": "C8H13NO2",
+  "mw": "155.19 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Acetylcaprolactam (CAS 1888-91-1 ) is a cyclic amide derivative used primarily as an activator and initiator in anionic polymerization processes. In polymer manufacturing, it accelerates the conversion of caprolactam monomer into nylon. This chemical enables faster and more controlled production cycles for industrial manufacturers. Its primary industrial role is as an activator in the anionic ring-opening polymerization of caprolactam to produce polyamide 6 (PA6). It is particularly useful in reaction injection molding and cast nylon processes where rapid polymerization at moderate temperatures is required. In textile fiber production, it supports the manufacture of PA6 yarns and technical fibers. Tight molecular weight control directly affects end-product performance in these applications. Leather finishing and paper treatment formulations use polyamide intermediates derived from activated polymerization systems where this compound contributes to quality. It also functions as a building block in specialty heterocyclic synthesis for research-scale and fine chemical applications. The material is supplied as a liquid at ambient conditions, typically in drum and IBC quantities. Technical grade is the standard commercial specification, with purity levels commonly at 98% or higher. Packaging options generally scale from laboratory quantities through bulk supply to support both R&D and production-scale sourcing. Contact us for supply of n-acetylcaprolactam Request Quote",
+  "physicalProperties": "Boiling Point: 108 °C (approx) @ Press: 12 Torr; Density: 1.1335 g/cm³ @ Temp: 25 °C; Flash Point: >230 °F; Appearance: colourless liquid; Color: Colorless to Light yellow; Form: clear liquid; Water Solubility: 81.7g/L at 20℃; Vapor Pressure: 2.71Pa at 20℃; Refractive Index: n 20/D 1.489(lit.); Log P: 0.95 at 23℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 Harmful if swallowed H319 Causes serious eye irritation Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P330 Rinse mouth. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 2933998090; WGK (Germany): 1",
+  "otherNames": "1-Acetylhexahydro-2H-azepin-2-one | 2H-AZEPIN-2-ONE, 1-ACETYLHEXAHYDRO- | N-Acetyl-6-caprolactam | N-Acetyl-epsilon-caprolactam | N-Acetylhexanelactam | Acetylkaprolaktam [Czech]",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "2933998090",
+  "similarProducts": [
+    "cas-105-60-2",
+    "cas-25038-54-4",
+    "cas-502-44-3",
+    "cas-60-35-5",
+    "cas-616-91-1",
+    "cas-924-42-5",
+    "cas-1188-37-0",
+    "cas-107-13-1",
+    "cas-10604-69-0",
+    "cas-79-06-1",
+    "cas-124-04-9",
+    "cas-27775-00-4",
+    "cas-2043-43-8",
+    "cas-100-54-9",
+    "cas-107-13-1",
+    "cas-10604-69-0",
+    "cas-79-06-1",
+    "cas-124-04-9",
+    "cas-27775-00-4",
+    "cas-2043-43-8",
+    "cas-100-54-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1888-91-1/"
+}

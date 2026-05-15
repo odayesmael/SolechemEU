@@ -1,0 +1,60 @@
+{
+  "id": "2012",
+  "name": "Helium",
+  "slug": "cas-7440-59-7",
+  "cas": "7440-59-7",
+  "ec": "231-168-5",
+  "formula": "He",
+  "mw": "4.00260 g/mol",
+  "category": "Sweeteners & Food Additives",
+  "industry": [
+    "Electronics",
+    "Biotechnology & Life Sciences",
+    "Aerospace & Defense",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Helium (CAS 7440-59-7 ), also identified as E939 in food-grade applications, is a chemically inert noble gas supplied industrially for its unique carrier and purging properties. Its non-reactive nature makes it the preferred choice where contamination from reactive gases would compromise process integrity or product quality in sensitive manufacturing environments. In semiconductor and electronics manufacturing, helium is used as a carrier gas in chemical vapor deposition and as a cooling medium during wafer fabrication processes. Chromatography laboratories rely on it as the dominant carrier gas in GC systems, where its low molecular weight delivers sharper peak resolution and faster analysis times than alternative gases. Aerospace and defense applications use helium to purge fuel systems and pressurize rocket propellants, where zero reactivity is a non-negotiable process requirement for safety. As a food additive, it functions as a propellant gas in food-grade aerosol packaging where inert atmosphere protection is required to maintain the shelf life of the product. Helium is supplied as a compressed gas in high-pressure cylinders, tube trailers, and bulk liquid dewars for large-volume industrial users across various sectors. Standard grades include research-purity, industrial-grade, and food-grade specifications. Liquid helium is available for cryogenic applications, including MRI cooling and superconducting magnet systems. Contact us for supply of Helium Request Quote",
+  "physicalProperties": "Melting Point: -272.2 °C; Boiling Point: -268.9 °C; Density: 1.625 x 10⁻⁴ g/cm³ (gas); Appearance: Helium is a colorless, odorless, and tasteless gas. It is nonflammable.; Color: colorless; Odor: at 100.00?%. odorless; Form: gas; Water Solubility: 8.61mL/1000g H2O (101.32kPa, 0°C) [KIR78]; Henry’s law constants, k×10?4: 9.856 (104°C), 6.739 (149.4°C), 2.524 (250.6°C), 1.796 (275.1°C) [POT78]; Log P: 0.280",
+  "safetyHandling": "Warning GHS04 Hazard Statements H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure]",
+  "tradeRegulatory": "UN Number: 1046; ADR Class: 2.2; Storage Class: 2A - Gases; WGK (Germany): 3",
+  "otherNames": "element 2 | Atomic helium | Helium-4 | p-Helium | O-Helium | Helium (USP) | INS NO.939 | E939",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS04"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7440-37-1",
+    "cas-124-38-9",
+    "cas-7727-37-9",
+    "cas-10024-97-2",
+    "cas-74-98-6",
+    "cas-106-97-8",
+    "cas-75-28-5",
+    "cas-7782-41-4",
+    "cas-75-73-0",
+    "cas-811-97-2",
+    "cas-142-82-5",
+    "cas-74-82-8",
+    "cas-7446-09-5",
+    "cas-78-78-4",
+    "cas-7782-41-4",
+    "cas-75-73-0",
+    "cas-811-97-2",
+    "cas-142-82-5",
+    "cas-74-82-8",
+    "cas-7446-09-5",
+    "cas-78-78-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7440-59-7/"
+}

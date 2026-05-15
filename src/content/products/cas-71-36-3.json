@@ -1,0 +1,62 @@
+{
+  "id": "123",
+  "name": "1-butanol",
+  "slug": "cas-71-36-3",
+  "cas": "71-36-3",
+  "ec": "200-751-6",
+  "formula": "C4H10O",
+  "mw": "74.12 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Plastics & Polymers",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Butanol (CAS 71-36-3 ), also known as n-butyl alcohol, is a short-chain primary alcohol used across industrial manufacturing and consumer product formulation as a solvent, chemical intermediate, and flavoring agent. Its FEMA 2178 designation confirms regulatory acceptance for flavor applications. Demand for this versatile chemical spans coatings, personal care, and food-grade end uses across global markets. In coatings and resin manufacturing, 1-butanol acts as a reactive solvent in the production of butylated amino resins, including urea- and melamine-formaldehyde systems used in automotive and industrial finishes. Personal care formulators use it as a carrier solvent in nail care products, fragrances, and skin-conditioning preparations where controlled evaporation and high purity are required for the final product. As a FEMA-approved flavoring agent, it contributes buttery and fruity top notes to food and beverage products. It also serves as a chemical building block for butyl acrylate and butyl acetate synthesis. The material is also essential for glycol ether synthesis in polymer and plasticizer production. 1-Butanol is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities for large-scale operations. Standard commercial grades include technical, industrial, and reagent-grade specifications. A food-grade version meeting FCC standards is available for flavor and food-contact applications. Contact us for supply of 1-butanol Request Quote",
+  "physicalProperties": "Melting Point: -89.8 °C; Boiling Point: 117.7 °C; Density: 0.8098 g/cm³ @ Temp: 20 °C; Flash Point: 95 °F; Appearance: Colorless liquid; Color: APHA: ≤10; Odor: Alcohol-like; pungent; strong; characteristic; mildly alcoholic, non residual.; Form: Liquid; Water Solubility: 80 g/L (20 ºC); Vapor Pressure: 6.7 hPa (20 °C); Refractive Index: n 20/D 1.399(lit.); pH: 7 (70g/l, H2O, 20℃); Log P: 0.88",
+  "safetyHandling": "Danger GHS02 GHS05 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H302 Harmful if swallowed H305 May be harmful if swallowed and enters airways H313 May be harmful in contact with skin H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P331 Do NOT induce vomiting. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051300; UN Number: 1120; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "propyl carbinol | n-propyl carbinol | n-butylalkohol | n-butyl alcohol | n-butan-1-ol | butyl hydroxide | 1-hydroxybutane | 1-butyl alcohol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29051300",
+  "similarProducts": [
+    "cas-78-92-2",
+    "cas-137-32-6",
+    "cas-78-83-1",
+    "cas-75-65-0",
+    "cas-71-41-0",
+    "cas-111-27-3",
+    "cas-123-86-4",
+    "cas-71-23-8",
+    "cas-107-88-0",
+    "cas-56539-66-3",
+    "cas-109-73-9",
+    "cas-143-08-8",
+    "cas-3913-02-8",
+    "cas-111-87-5",
+    "cas-71-23-8",
+    "cas-107-88-0",
+    "cas-56539-66-3",
+    "cas-109-73-9",
+    "cas-143-08-8",
+    "cas-3913-02-8",
+    "cas-111-87-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-71-36-3/"
+}

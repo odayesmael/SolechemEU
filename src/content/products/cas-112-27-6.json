@@ -1,0 +1,61 @@
+{
+  "id": "647",
+  "name": "Triethylene glycol",
+  "slug": "cas-112-27-6",
+  "cas": "112-27-6",
+  "ec": "203-953-2",
+  "formula": "C6H14O4",
+  "mw": "150.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Water Treatment",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Triethylene glycol (CAS 112-27-6 ), commonly abbreviated as TEG, is a high-boiling glycol ether used across industrial and specialty chemical markets as a solvent, humectant, and chemical intermediate. Its low volatility and hygroscopic character make it a preferred choice where controlled moisture retention or selective absorption is required in process and formulation environments. In natural gas processing, TEG is the standard dehydration agent used to remove water vapor from gas streams before pipeline transport. Plastics and polymer manufacturers use it as a reactive intermediate. In polyester and polyurethane synthesis, it contributes to chain flexibility and crosslink density. In personal care and pharmaceutical formulations, it functions as a humectant and solvent carrier. It is used for active ingredients in creams, gels, and liquid dosage forms. Air disinfection systems also employ TEG as a low-toxicity antimicrobial agent dispersed as a fine mist. This application helps to reduce airborne pathogens in enclosed spaces. Triethylene glycol is supplied as a clear, low-viscosity liquid in drums, IBCs, and bulk tanker quantities. Standard commercial grades include technical and high-purity specifications, with the latter meeting requirements for pharmaceutical and personal care applications. Moisture content and purity levels are key specification parameters buyers should confirm against application requirements to ensure optimal performance in their specific industrial processes. Contact us for supply of Triethylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -7 °C; Boiling Point: 165 °C @ Press: 14 Torr; Density: 1.1274 g/cm³ @ Temp: 15 °C; Flash Point: 165 °C; Appearance: Colorless, hygroscopic liquid; practically odorless. Soluble in water; immiscible with benzene, toluene, and gasoline. Combustible.; Color: Clear very slightly yellow; Odor: Very mild, sweet.; Form: Viscous Liquid; Water Solubility: SOLUBLE; Vapor Pressure: <0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.455(lit.); pH: 5.5-7.0 (25℃, 50mg/mL in H2O); Log P: -1.75 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P362+P364 Take off contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29094919; WGK (Germany): 1",
+  "otherNames": "2-[2-(2-hydroxyethoxy)ethoxy]ethanol | 1,2-bis(2-hydroxyethoxy)ethane | TEG | triglycol | di-beta-hydroxyethoxyethane | 3,6-dioxaoctane-1,8-diol | 2,2'-ethylenedioxydiethanol | 2,2'-ethylenedioxybis(ethanol)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "29094919",
+  "similarProducts": [
+    "cas-112-60-7",
+    "cas-143-22-6",
+    "cas-143-24-8",
+    "cas-112-35-6",
+    "cas-112-50-5",
+    "cas-23783-42-8",
+    "cas-111-46-6",
+    "cas-112-49-2",
+    "cas-94-28-0",
+    "cas-5197-62-6",
+    "cas-70729-68-9",
+    "cas-107-21-1",
+    "cas-112-36-7",
+    "cas-109-16-0",
+    "cas-112-49-2",
+    "cas-94-28-0",
+    "cas-5197-62-6",
+    "cas-70729-68-9",
+    "cas-107-21-1",
+    "cas-112-36-7",
+    "cas-109-16-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-112-27-6/"
+}

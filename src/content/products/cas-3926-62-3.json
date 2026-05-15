@@ -1,0 +1,61 @@
+{
+  "id": "1752",
+  "name": "Sodium chloroacetate",
+  "slug": "cas-3926-62-3",
+  "cas": "3926-62-3",
+  "ec": "223-498-3",
+  "formula": "C2H3ClO2.Na",
+  "mw": "116.48 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium chloroacetate (CAS 3926-62-3 ), also sold as Monoxone and abbreviated SMCA, is the sodium salt form of chloroacetic acid used as a reactive intermediate and biocidal agent across chemical synthesis and industrial processing. It serves as a key building block in the manufacture of active pharmaceutical ingredients, agrochemicals, and specialty surfactants. In pharmaceutical manufacturing, SMCA is used to synthesize carboxymethyl derivatives and API intermediates. This is particularly important in the production of compounds requiring a chloroacetate alkylating step. Personal care formulators rely on it in the production of carboxymethyl cellulose (CMC) and betaine-type surfactants. These surfactants are commonly used in shampoos and skin cleansers. It functions as a selective herbicide intermediate in agrochemical synthesis, contributing to the manufacture of chloroacetic acid-based weed control actives. Industrial buyers also source it as a biocidal agent for controlling microbial growth in specific process environments. Sodium chloroacetate is supplied as a white crystalline powder or granular solid for various applications. Standard commercial grades include technical grade and pharmaceutical-grade material, with purity specifications typically ranging from 97% to 99%+. Packaging is available in bags and drums suited to bulk industrial procurement. Contact us for supply of Sodium chloroacetate Request Quote",
+  "physicalProperties": "Melting Point: 150-200 °C (decomp); Density: 1.87[at 20℃]; Flash Point: 270°C; Appearance: white crystalline powder; Color: White; Form: Crystalline Powder; Water Solubility: 440 g/L (20 ºC); Vapor Pressure: 0.001Pa at 20℃; Refractive Index: 1.438; pH: 4.5-9.0 (50g/l, H2O, 20℃); Log P: -3.8 at 20℃",
+  "safetyHandling": "Danger GHS06 GHS09 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H313 May be harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29154000; UN Number: 2659; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1D - Non-combustible acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 2",
+  "otherNames": "Chloroacetic acid sodium salt | Monoxone | Acetic acid, chloro-, sodium salt | Sodium monochloroacetate | Dow defoliant | SMCA | Sodium monochloracetate | Chloroctan sodny",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29154000",
+  "similarProducts": [
+    "cas-79-11-8",
+    "cas-7775-09-9",
+    "cas-1561-92-8",
+    "cas-79-04-9",
+    "cas-5188-07-8",
+    "cas-7758-19-2",
+    "cas-126-83-0",
+    "cas-68610-43-5",
+    "cas-2836-32-0",
+    "cas-917-61-3",
+    "cas-68390-66-9",
+    "cas-15733-22-9",
+    "cas-7446-81-3",
+    "cas-5589-96-8",
+    "cas-68610-43-5",
+    "cas-2836-32-0",
+    "cas-917-61-3",
+    "cas-68390-66-9",
+    "cas-15733-22-9",
+    "cas-7446-81-3",
+    "cas-5589-96-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3926-62-3/"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "198",
+  "name": "Tetramethylammonium hydroxide",
+  "slug": "cas-75-59-2",
+  "cas": "75-59-2",
+  "ec": "",
+  "formula": "C4H12N.HO",
+  "mw": "91.15 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Electronics",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetramethylammonium hydroxide ( CAS 75-59-2 ), commonly abbreviated as TMAH, is a quaternary ammonium base used across semiconductor manufacturing, pharmaceutical synthesis, and analytical chemistry. It functions as a strong, metal-free alkali, making it the preferred choice where inorganic base contamination is unacceptable. In semiconductor and flat-panel display manufacturing, it is the standard developer. TMAH is used for photoresist stripping and patterning, where its metal-free profile prevents ionic contamination of wafer surfaces. Pharmaceutical and biotech manufacturers use it as a catalyst and pH-adjusting agent. It is ideal for synthesis steps that require a clean base without introducing sodium or potassium ions. In analytical laboratories, it is used as a quaternizing agent for GC sample preparation. This enables direct injection of fatty acid and biological samples. It also supports etching of silicon wafers in MEMS fabrication, where precise anisotropic etch rates are critical to device geometry. TMAH is supplied as aqueous solution, most commonly at 25% concentration, with lower concentrations such as 5% and 10% available for specific process requirements. Pentahydrate solid form is also available. Electronic-grade and reagent-grade specifications are the primary market grades. Electronic-grade material is held to strict metal impurity limits suited for semiconductor process environments. Contact us for supply of Tetramethylammonium hydroxide Request Quote",
+  "physicalProperties": "Melting Point: 63 °C; Boiling Point: 110 °C; Density: 0.866 g/mL at 25 °C; Flash Point: 80 °F; Appearance: colourless to yellow liquid; Color: APHA: ≤10; Odor: strong ammonia-like odor; Form: Solution; Water Solubility: Soluble in water.; Vapor Pressure: 17.5 mm Hg ( 20 °C); Refractive Index: n 20/D 1.384; pH: >13 (H2O, 20°C)",
+  "safetyHandling": "Hazard Statements H300 Fatal if swallowed [Danger Acute toxicity, oral] H301 Toxic if swallowed [Danger Acute toxicity, oral] H310 Fatal in contact with skin [Danger Acute toxicity, dermal] H311 Toxic in contact with skin [Danger Acute toxicity, dermal] H314 Causes severe skin burns and eye damage [Danger Skin corrosion/irritation] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H370 Causes damage to organs [Danger Specific target organ toxicity, single exposure] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H411 (81.2%): Toxic to aquatic life with long lasting effects [Hazardous to the aquatic environment, long-term hazard] H300+H310 (36%): Fatal if swallowed or in contact with skin [Danger Acute toxicity, oral; acute toxicity, dermal]",
+  "tradeRegulatory": "HS Code: 29239000; UN Number: 3286; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Methanaminium, N,N,N-trimethyl-, hydroxide (1:1) | Ammonium, tetramethyl-, hydroxide | Methanaminium, N,N,N-trimethyl-, hydroxide | NMD 3 | TMAH",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "29239000",
+  "similarProducts": [
+    "cas-75-57-0",
+    "cas-111-18-2",
+    "cas-75-50-3",
+    "cas-80-70-6",
+    "cas-593-81-7",
+    "cas-17440-81-2",
+    "cas-1643-19-2",
+    "cas-1445-45-0",
+    "cas-112-75-4",
+    "cas-56-93-9",
+    "cas-1336-21-6",
+    "cas-3290-92-4",
+    "cas-1119-97-7",
+    "cas-25513-64-8",
+    "cas-1445-45-0",
+    "cas-112-75-4",
+    "cas-56-93-9",
+    "cas-1336-21-6",
+    "cas-3290-92-4",
+    "cas-1119-97-7",
+    "cas-25513-64-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-59-2/"
+}

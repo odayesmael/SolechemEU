@@ -1,0 +1,61 @@
+{
+  "id": "1555",
+  "name": "Methyltriethoxysilane",
+  "slug": "cas-2031-67-6",
+  "cas": "2031-67-6",
+  "ec": "217-983-9",
+  "formula": "C7H18O3Si",
+  "mw": "178.30 g/mol",
+  "category": "Monomers & Building Blocks",
+  "industry": [
+    "Plastics & Polymers",
+    "Automotive",
+    "Electronics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyltriethoxysilane (CAS 2031-67-6 ), also known as MTES or by the trade designation A-162, is an organosilane monomer used to modify surfaces and crosslink polymer networks. It bridges organic and inorganic chemistries, enabling durable bonding between substrates that would otherwise be incompatible. This makes it essential for building silicone-based materials. In coatings and sealants, it acts as a crosslinking agent and water-repellent surface modifier for architectural, automotive, and industrial protective systems. It provides long-term durability. Electronics manufacturers use it to treat fillers and substrates, improving adhesion and moisture resistance in encapsulants. It is also vital for underfill compounds in high-tech devices. In silicone elastomer formulations, it functions as a chain-end blocker or crosslinker, influencing cure rate and final network density. This allows for precise control over material properties. Personal care formulators incorporate it into conditioning and film-forming systems where controlled hydrophobicity is required. It is often used on hair or skin surfaces for specific effects. The product is supplied as a clear liquid in standard packaging ranging from drums to ISO tank containers. Technical grade is the primary commercial form with purity levels at 97% or higher. Specialty grades meeting tighter purity thresholds are available for electronics and precision coating applications. These grades ensure trace metal content is strictly controlled for quality. Contact us for supply of Methyltriethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: <-40°C; Boiling Point: 142 °C; Density: 0.894 g/cm³; Flash Point: 75 °F; Appearance: Colorless clear liquid; Color: colorless; Odor: Mild odor; Form: liquid; Water Solubility: INSOLUBLE; Vapor Pressure: 11 mm Hg ( 20 °C); Refractive Index: n 20/D 1.383(lit.); Log P: -2.4-2.2",
+  "safetyHandling": "Warning GHS02 Hazard Statements H226 Flammable liquid and vapor Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P280 Wear protective gloves/protective clothing/eye protection/face protection. P501 Dispose of contents/container in accordance with local regulations. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Triethoxy(methyl)silane | Silane, triethoxymethyl- | Union carbide A-162 | ICI-EP 5850 | SILANE, METHYLTRIETHOXY- | Methaneorthosiliconic acid, triethyl ester | MTES",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-1185-55-3",
+    "cas-4253-34-3",
+    "cas-75-79-6",
+    "cas-22984-54-9",
+    "cas-919-30-2",
+    "cas-34206-40-1",
+    "cas-14513-34-9",
+    "cas-67762-90-7",
+    "cas-780-69-8",
+    "cas-13822-56-5",
+    "cas-3179-76-8",
+    "cas-24801-88-5",
+    "cas-2943-75-1",
+    "cas-78-10-4",
+    "cas-67762-90-7",
+    "cas-780-69-8",
+    "cas-13822-56-5",
+    "cas-3179-76-8",
+    "cas-24801-88-5",
+    "cas-2943-75-1",
+    "cas-78-10-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2031-67-6/"
+}

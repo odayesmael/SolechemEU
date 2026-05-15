@@ -1,0 +1,59 @@
+{
+  "id": "1632",
+  "name": "1-hydroxybenzotriazole",
+  "slug": "cas-2592-95-2",
+  "cas": "2592-95-2",
+  "ec": "219-989-7",
+  "formula": "C6H5N3O",
+  "mw": "135.12 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Hydroxybenzotriazole (CAS 2592-95-2 ), commonly known as HOBt, is a coupling reagent and catalyst used in peptide synthesis and pharmaceutical manufacturing. It suppresses racemization and activates carboxyl groups during amide bond formation. This reagent directly impacts the purity and yield of active pharmaceutical ingredients. HOBt is a standard reagent in solid-phase and solution-phase peptide synthesis, where it forms active esters that drive efficient coupling of amino acids. In pharmaceutical intermediate manufacturing, it is used alongside carbodiimide reagents such as EDC or DCC to improve coupling efficiency. This process helps reduce epimerization in complex molecule assembly during API production. Contract research and development organizations rely on HOBt for small-scale synthesis of peptide-based drug candidates. Stereochemical integrity is a critical quality parameter that this reagent helps maintain throughout the process. It also supports the production of peptide libraries in drug discovery workflows. Consistent coupling performance across large compound sets is required for these high-throughput applications in modern medicinal chemistry. HOBt is supplied as a white to off-white crystalline powder, typically in anhydrous form or as a monohydrate. The hydrated form is preferred for safer handling in bulk quantities during industrial operations. Standard grades include anhydrous and hydrate variants meeting pharmaceutical research specifications. It is available in laboratory quantities through to multi-kilogram lots for commercial API manufacturing campaigns. Contact us for supply of 1-hydroxybenzotriazole Request Quote",
+  "physicalProperties": "Melting Point: 136.00 °C; Boiling Point: 149-150 °C; Density: 1 g/cm 3; Flash Point: 95 °C; Appearance: white to light yellow powder; Color: White to off-white crystalline powder; Form: Solid; Water Solubility: 4.201g/L at 29℃; Vapor Pressure: 0.009Pa at 25℃; Refractive Index: n20/D 1.488; Log P: 0.146 at 25℃",
+  "safetyHandling": "Danger GHS01 GHS07 Hazard Statements H203 Explosive; fire, blast or projection hazard H319 Causes serious eye irritation H412 Harmful to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P230 Keep wetted with… P240 Ground and bond container and receiving equipment. P250 Do not subject to grinding/shock/…/friction. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P372 Explosion risk. P373 DO NOT fight fire when fire reaches explosives. P401 Store in accordance with … . P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P380 Evacuate area. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29339900",
+  "otherNames": "N-Hydroxybenzotriazole | HOBt | 1H-Benzotriazole, 1-hydroxy- | A2T929DMG4 | RefChem:76020 | 1-Hydroxy-1H-benzotriazole | 1-Hydroxy-1,2,3-benzotriazole",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS01",
+    "GHS07"
+  ],
+  "hsCode": "29339900",
+  "similarProducts": [
+    "cas-80029-43-2",
+    "cas-36016-38-3",
+    "cas-148893-10-1",
+    "cas-288-94-8",
+    "cas-69102-90-5",
+    "cas-75-91-2",
+    "cas-24424-99-5",
+    "cas-621-07-8",
+    "cas-865-48-5",
+    "cas-5470-11-1",
+    "cas-95-14-7",
+    "cas-865-47-4",
+    "cas-26021-57-8",
+    "cas-7803-49-8",
+    "cas-621-07-8",
+    "cas-865-48-5",
+    "cas-5470-11-1",
+    "cas-95-14-7",
+    "cas-865-47-4",
+    "cas-26021-57-8",
+    "cas-7803-49-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2592-95-2/"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "136",
+  "name": "Methane",
+  "slug": "cas-74-82-8",
+  "cas": "74-82-8",
+  "ec": "200-812-7",
+  "formula": "CH4",
+  "mw": "16.043 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methane (CAS 74-82-8 ) is the primary component of natural gas and one of the most important energy feedstocks in global industry. Known commercially as CH₄, it underpins fuel supply chains, chemical manufacturing, and large-scale hydrogen production. In the oil and gas sector, methane serves as the dominant fuel source for power generation, industrial heating, and pipeline gas distribution. Steam methane reforming (SMR) converts it into hydrogen and synthesis gas. This process feeds ammonia and methanol production at scale. As a chemical feedstock, it is the starting material for acetylene, chloromethanes, and other downstream intermediates used across the petrochemical chain. Liquefied as LNG, it enables long-distance energy transport where pipeline infrastructure is unavailable. Methane is supplied as a compressed gas in cylinders and tube trailers for various industrial uses. It is also available as liquefied natural gas (LNG) in cryogenic bulk tankers. Pipeline-grade natural gas, which is predominantly methane, is available under standard transmission specifications. These specifications govern BTU content and impurity limits to ensure consistent performance. High-purity methane grades are available for laboratory, calibration, and specialty industrial applications. Contact us for supply of Methane Request Quote",
+  "physicalProperties": "Melting Point: -182.6 °C; Boiling Point: -161.4 °C; Density: 3.40 x 10⁻³ g/cm³ (vapor) @ Press: 1500 Torr; Flash Point: -188 °C; Appearance: Methane is an odorless, colorless gas.; Odor: odorless; Form: gas; Water Solubility: 24.4mg/L(25 ºC); Refractive Index: 1.0004",
+  "safetyHandling": "Danger GHS02 GHS04 Hazard Statements H220 Extremely flammable gas [Danger Flammable gases] H280 Contains gas under pressure; may explode if heated [Warning Gases under pressure] H281 Contains refrigerated gas; may cause cryogenic burns or injury [Warning Gases under pressure]",
+  "tradeRegulatory": "UN Number: 1971; ADR Class: 2.1; Storage Class: 2A - Gases",
+  "otherNames": "tetrahydrogen monocarbide | methyl hydride | CH₄ | Carbane | marsh gas | gaseous signaling molecule | nonessential gasotransmitter | gasocrine signal",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-67-56-1",
+    "cas-74-87-3",
+    "cas-74-89-5",
+    "cas-108-87-2",
+    "cas-115-10-6",
+    "cas-106-97-8",
+    "cas-75-52-5",
+    "cas-7664-41-7",
+    "cas-74-98-6",
+    "cas-75-75-2",
+    "cas-109-87-5",
+    "cas-80-62-6",
+    "cas-8002-05-9",
+    "cas-463-57-0",
+    "cas-7664-41-7",
+    "cas-74-98-6",
+    "cas-75-75-2",
+    "cas-109-87-5",
+    "cas-80-62-6",
+    "cas-8002-05-9",
+    "cas-463-57-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-74-82-8/"
+}

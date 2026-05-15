@@ -1,0 +1,60 @@
+{
+  "id": "804",
+  "name": "Sulfolane",
+  "slug": "cas-126-33-0",
+  "cas": "126-33-0",
+  "ec": "204-783-1",
+  "formula": "C4H8O2S",
+  "mw": "120.17 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Electronics",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sulfolane (CAS 126-33-0 ), also known as thiophane dioxide, is a high-boiling, water-miscible polar aprotic solvent used across extraction, purification, and reaction processes in demanding industrial applications. Its thermal stability and selectivity make it a preferred solvent where conventional options fall short. In natural gas and refinery operations, it is the active solvent in the Sulfinol and other licensed processes. This chemical is essential for removing hydrogen sulfide and carbon dioxide from gas streams. Petrochemical producers use it in aromatic extraction units, particularly BTX separation, where it selectively recovers benzene, toluene, and xylene. Pharmaceutical manufacturers rely on it as a reaction solvent for synthesis steps requiring a stable, high-polarity medium. It is particularly useful in environments that must tolerate strong bases and nucleophiles during production. In electronics, it is used in electrolyte formulations and as a processing solvent where low volatility is critical. Chemical inertness ensures product consistency in these highly sensitive manufacturing environments. The product is supplied as a colorless to pale yellow liquid, typically in drum, IBC, and bulk quantities. Technical grade is the standard commercial offering, with high-purity grades available for specialized applications. Specifications commonly reference purity by GC, water content, and color (APHA) depending on the end-use requirement. This ensures the material meets the rigorous demands of both the pharmaceutical and electronics industries. Contact us for supply of Sulfolane Request Quote",
+  "physicalProperties": "Melting Point: 27.4-27.8 °C; Boiling Point: 285 °C; Density: 1.2606 g/cm³ @ Temp: 30 °C; Flash Point: 330 °F; Appearance: Sulfolane is a colorless oily liquid; Color: Clear yellow; Form: Liquid After Melting; Water Solubility: soluble; Vapor Pressure: 0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.484(lit.); Log P: 0 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H320 Causes eye irritation H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "thiophane dioxide | thiophan sulfone | thiolane-1,1-dioxide | thiacyclopentane dioxide | tetramethylene sulfone | tetrahydrothiophene 1-dioxide | sulfolan | cyclotetramethylene sulfone",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-7791-25-5",
+    "cas-7719-09-7",
+    "cas-108-88-3",
+    "cas-67-68-5",
+    "cas-5138-18-1",
+    "cas-98-09-9",
+    "cas-109-99-9",
+    "cas-38841-48-4",
+    "cas-8014-95-7",
+    "cas-20526-58-3",
+    "cas-68037-49-0",
+    "cas-7446-09-5",
+    "cas-68201-32-1",
+    "cas-75-15-0",
+    "cas-38841-48-4",
+    "cas-8014-95-7",
+    "cas-20526-58-3",
+    "cas-68037-49-0",
+    "cas-7446-09-5",
+    "cas-68201-32-1",
+    "cas-75-15-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-126-33-0/"
+}

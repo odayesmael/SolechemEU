@@ -1,0 +1,62 @@
+{
+  "id": "558",
+  "name": "1-bromo-3-chloropropane",
+  "slug": "cas-109-70-6",
+  "cas": "109-70-6",
+  "ec": "203-697-1",
+  "formula": "C3H6BrCl",
+  "mw": "157.44 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Plastics & Polymers",
+    "Textile, Leather & Paper",
+    "Building & Construction"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1-Bromo-3-chloropropane (CAS 109-70-6 ), also known as trimethylene chlorobromide, is a bifunctional alkyl halide used as a chemical intermediate and flame retardant precursor in industrial manufacturing. Its dual halogen functionality makes it a reactive building block for synthesizing specialty compounds across multiple sectors. In plastics and polymer manufacturing, it serves as an intermediate in producing flame retardant additives. These additives are incorporated into construction materials such as insulation panels and cable sheathing. The textile and leather industries use it in the synthesis of biocidal and preservative agents applied during processing. It also functions as a crosslinking and chain-extension intermediate in polymer chemistry, enabling controlled modification of material properties for construction-grade applications. This versatility is key for industrial producers. Specialty chemical producers use it to prepare quaternary ammonium compounds and other antimicrobial actives. These are used in paper treatment and industrial preservation formulations to ensure product longevity and safety. 1-Bromo-3-chloropropane is supplied as a liquid in standard industrial drum and IBC packaging. Technical grade is the primary commercial specification available from bulk chemical suppliers for large-scale use. Purity levels typically range from 97% to 99%+, with high-purity offerings suited to synthesis applications. This ensures that halide impurities do not affect downstream reaction yields or final product quality. Contact us for supply of 1-bromo-3-chloropropane Request Quote",
+  "physicalProperties": "Melting Point: -58.90 °C; Boiling Point: 143.3 °C @ Press: 760 Torr; Density: 1.5969 g/cm³ @ Temp: 20 °C; Flash Point: 81 °C; Appearance: clear liquid; Color: Clear liquid; Form: liquid; Water Solubility: insoluble; Vapor Pressure: 7.5 hPa (20 °C); Refractive Index: n 20/D 1.486(lit.)",
+  "safetyHandling": "Danger GHS02 GHS06 GHS07 GHS08 Hazard Statements H226 H226 H302 H302 H315 H315 H319 H319 H331 H331 H332 H332 H335 H335 H336 H336 H341 H341 H350 H350 H351 H351 H371 H371 H372 H372 H373 H373 H412 H412 Precautionary Statements P203 P203 P210 P210 P233 P233 P240 P240 P241 P241 P242 P242 P243 P243 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P316 P316 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P403+P235 P403+P235 P303+P361+P353 P303+P361+P353 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29034980; UN Number: 2688; ADR Class: 6.1; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Trimethylene chlorobromide | Propane, 1-bromo-3-chloro- | 3-Bromopropyl chloride | 3-Chloropropyl bromide | 1-Chloro-3-bromopropane | 3-Chloro-1-bromopropane | 3-Bromo-1-chloropropane | Trimethylene bromide chloride",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29034980",
+  "similarProducts": [
+    "cas-75-26-3",
+    "cas-106-94-5",
+    "cas-96-18-4",
+    "cas-75-25-2",
+    "cas-109-65-9",
+    "cas-5589-96-8",
+    "cas-2311-14-0",
+    "cas-38521-51-6",
+    "cas-15435-29-7",
+    "cas-111-25-1",
+    "cas-13674-84-5",
+    "cas-126-72-7",
+    "cas-107-05-1",
+    "cas-36483-57-5",
+    "cas-38521-51-6",
+    "cas-15435-29-7",
+    "cas-111-25-1",
+    "cas-13674-84-5",
+    "cas-126-72-7",
+    "cas-107-05-1",
+    "cas-36483-57-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-70-6/"
+}

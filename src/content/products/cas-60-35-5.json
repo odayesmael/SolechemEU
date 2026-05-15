@@ -1,0 +1,59 @@
+{
+  "id": "71",
+  "name": "Acetamide",
+  "slug": "cas-60-35-5",
+  "cas": "60-35-5",
+  "ec": "200-473-5",
+  "formula": "C2H5NO",
+  "mw": "59.07 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acetamide (CAS 60-35-5 ), also known as acetic acid amide, is the simplest aliphatic amide and functions as a solvent, plasticizer, and chemical intermediate across pharmaceutical, cosmetic, and biotechnology manufacturing. With FEMA number 4251 , it is recognized in flavoring applications and serves as a building block for synthesis of more complex amide-based compounds in various industrial processes. In pharmaceutical manufacturing, acetamide acts as a reaction intermediate and catalyst precursor in the synthesis of active pharmaceutical ingredients requiring specific amide bond formation during the production cycle. Personal care formulators use it as a humectant and surface-modifying agent in skin conditioning products, where it supports moisture retention at the formulation level for high-quality cosmetic goods. Biotechnology applications include its use as a buffering component and nitrogen source in microbial culture media and biochemical assay systems used for research and development purposes. In specialty chemical synthesis, it functions as a catalyst precursor and pH-regulating agent in controlled reaction environments to ensure consistent results across different manufacturing batches. Acetamide is supplied as a white crystalline solid or powder. Standard commercial grades include technical and pharmaceutical-grade material, with purity levels typically ranging from 98% to 99%+. Packaging is available in laboratory quantities through to bulk industrial supply to meet both R&D and production-scale procurement requirements for global chemical distribution networks. Contact us for supply of Acetamide Request Quote",
+  "physicalProperties": "Melting Point: 81 °C; Boiling Point: 222 °C @ Press: 760 Torr; Density: 1.159 g/cm³ @ Temp: 20 °C; Flash Point: 220-222°C; Appearance: Acetamide is a colorless to yellow, deliquescent, crystalline solid. Odorless if pure, “mousy” odor if impure. Odor threshold5140 160 milligram per cubic meter.; Color: White; Odor: Mousy odor; Form: Crystals; Water Solubility: 2000 g/L (20 ºC); Vapor Pressure: 1 mm Hg ( 65 °C); Refractive Index: 1.4274; Log P: -1.26",
+  "safetyHandling": "Warning GHS08 Hazard Statements H316 Causes mild skin irritation H320 Causes eye irritation H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29241900; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Acetic acid amide | Acetimidic acid | Ethanimidic acid | Amid kyseliny octove | NCI-C02108 | CH3CONH2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08"
+  ],
+  "hsCode": "29241900",
+  "similarProducts": [
+    "cas-79-39-0",
+    "cas-2043-43-8",
+    "cas-631-61-8",
+    "cas-75-12-7",
+    "cas-142-26-7",
+    "cas-471-46-5",
+    "cas-79-06-1",
+    "cas-593-87-3",
+    "cas-2044-64-6",
+    "cas-108-24-7",
+    "cas-628-63-7",
+    "cas-127-19-5",
+    "cas-301-02-0",
+    "cas-67-64-1",
+    "cas-593-87-3",
+    "cas-2044-64-6",
+    "cas-108-24-7",
+    "cas-628-63-7",
+    "cas-127-19-5",
+    "cas-301-02-0",
+    "cas-67-64-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-60-35-5/"
+}

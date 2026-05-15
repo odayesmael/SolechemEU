@@ -1,0 +1,64 @@
+{
+  "id": "388",
+  "name": "Styrene",
+  "slug": "cas-100-42-5",
+  "cas": "100-42-5",
+  "ec": "202-851-5",
+  "formula": "C8H8",
+  "mw": "104.15 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Styrene (CAS 100-42-5 ), also known as vinylbenzene, is a reactive liquid monomer that forms the chemical backbone of a broad range of synthetic polymers and resins. At trace levels, it also carries FEMA 3233 status as a recognized flavoring agent. Its primary commercial value lies in polymerization, converting into materials for plastics and coatings. Polystyrene and expanded polystyrene (EPS) production account for the largest share of industrial consumption, supplying rigid packaging, insulation board, and disposable foodservice items. In coatings and adhesives, styrene copolymerizes with acrylates or butadiene to build binders with controlled hardness. Styrene-butadiene rubber (SBR) and latex systems depend on it as a core monomer. These systems are essential for sealants, carpet backing, and pressure-sensitive adhesives. At food-grade purity, it is used in controlled trace quantities as a flavoring ingredient in approved formulations. Styrene is supplied as an inhibited liquid, typically stabilized with 4-tert-butylcatechol (TBC) to prevent premature polymerization during storage and transit. Standard commercial grades include technical-grade and polymer-grade, with purity specifications commonly at 99.5% or higher. Food-grade material meeting FCC standards is available. Contact us for supply of Styrene Request Quote",
+  "physicalProperties": "Melting Point: -31 °C; Boiling Point: 145 °C; Density: 0.9060 g/cm³ @ Temp: 20 °C; Flash Point: 88 °F; Appearance: Styrene is a colorless to yellowish, very refractive, oily liquid with a penetrating odor; Color: Colorless; Odor: at 0.10 % in triacetin. sweet balsam floral plastic; Form: Liquid; Water Solubility: 0.3 g/L (20 ºC); Vapor Pressure: 12.4 mm Hg ( 37.7 °C); Refractive Index: n 20/D 1.546(lit.); Log P: 2.96 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H226 Flammable liquid and vapor H303 May be harmful if swallowed H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects H413 May cause long lasting harmful effects to aquatic life Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29025000; UN Number: 2055; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "Vinyl-Benzene | Styrolene | styrol | styrene monomer | Phenyl-Ethylene | Ethenylbenzene, 9CI | Ethenyl-Benzene | Cinnamol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29025000",
+  "similarProducts": [
+    "cas-61788-44-1",
+    "cas-9003-53-6",
+    "cas-100-41-4",
+    "cas-98-83-9",
+    "cas-9003-70-7",
+    "cas-24981-13-3",
+    "cas-119-53-9",
+    "cas-9003-55-8",
+    "cas-71-43-2",
+    "cas-25038-32-8",
+    "cas-25013-15-4",
+    "cas-111-61-5",
+    "cas-9003-54-7",
+    "cas-25767-47-9",
+    "cas-9003-55-8",
+    "cas-71-43-2",
+    "cas-25038-32-8",
+    "cas-25013-15-4",
+    "cas-111-61-5",
+    "cas-9003-54-7",
+    "cas-25767-47-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-42-5/"
+}

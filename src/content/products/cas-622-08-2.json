@@ -1,0 +1,60 @@
+{
+  "id": "1204",
+  "name": "Benzyloxyethanol",
+  "slug": "cas-622-08-2",
+  "cas": "622-08-2",
+  "ec": "210-719-3",
+  "formula": "C9H12O2",
+  "mw": "152.19 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Benzyloxyethanol ( CAS 622-08-2 ), also known as ethylene glycol monobenzyl ether, is a glycol ether solvent used across coatings, personal care, and specialty chemical formulations. It combines slow evaporation with good solvency, making it effective as a carrier and coalescing agent in systems where controlled drying is commercially important for industrial processes. In coatings and printing inks, it functions as a high-boiling solvent that improves flow, leveling, and film formation in both waterborne and solvent-based systems for professional use. Personal care formulators use it as a solvent and carrier in fragrance compositions, emollients, and preservation systems where it supports active delivery and formulation stability across various product lines. In adhesives and sealants, it aids resin dissolution and controls open time, particularly in systems requiring extended workability during the application phase of construction or manufacturing. It also appears in UV-stabilizer formulations as a carrier solvent, helping to disperse stabilizing actives uniformly within the final product to ensure long-term durability and performance. This chemical is supplied as a clear liquid in standard industrial drum and IBC quantities. Technical grade is the primary commercial form, with purity levels typically at 98% or higher. Cosmetic-grade material is available for personal care applications where tighter impurity profiles are required to meet specific safety and regulatory standards within the global beauty industry. Contact us for supply of Benzyloxyethanol Request Quote",
+  "physicalProperties": "Melting Point: <-75 °C; Boiling Point: 256 °C @ Press: 760 Torr; Density: 1.0640 g/cm³ @ Temp: 20 °C; Flash Point: 110 °C; Appearance: Colorless to light yellow liqui; Color: Clear colorless; Odor: mild rose; Form: Liquid; Water Solubility: 4.282g/L(23 ºC); Vapor Pressure: 7.3hPa at 25℃; Refractive Index: n 20/D 1.521(lit.); Log P: 1.01 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS05 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29052900; WGK (Germany): 3",
+  "otherNames": "Ethylene glycol monobenzyl ether | 2-(benzyloxy) ethanol | 2-phenylmethoxyethanol | Benzyl glycol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS05"
+  ],
+  "hsCode": "29052900",
+  "similarProducts": [
+    "cas-2930-05-4",
+    "cas-111-76-2",
+    "cas-93-89-0",
+    "cas-100-41-4",
+    "cas-110-80-5",
+    "cas-112-25-4",
+    "cas-120-51-4",
+    "cas-112-07-2",
+    "cas-112-34-5",
+    "cas-100-51-6",
+    "cas-104-68-7",
+    "cas-112-73-2",
+    "cas-2807-30-9",
+    "cas-5131-66-8",
+    "cas-112-07-2",
+    "cas-112-34-5",
+    "cas-100-51-6",
+    "cas-104-68-7",
+    "cas-112-73-2",
+    "cas-2807-30-9",
+    "cas-5131-66-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-622-08-2/"
+}

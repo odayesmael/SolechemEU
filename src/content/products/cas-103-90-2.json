@@ -1,0 +1,60 @@
+{
+  "id": "434",
+  "name": "Paracetamol",
+  "slug": "cas-103-90-2",
+  "cas": "103-90-2",
+  "ec": "203-157-5",
+  "formula": "C8H9NO2",
+  "mw": "151.16 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Paracetamol (CAS 103-90-2 ), also known as APAP (acetaminophen), is a globally sourced active pharmaceutical ingredient used as an analgesic and antipyretic in finished dosage forms. It is one of the highest-volume OTC drug substances in the world. With established supply chains across regulated and emerging markets, it serves as a cornerstone of modern medicine. In pharmaceutical manufacturing, it is the primary API in tablets, capsules, syrups, and effervescent formulations. These products target pain relief and fever reduction across various demographics. Pediatric liquid formulations represent a distinct high-demand segment, requiring specific particle size and solubility profiles that influence grade selection. It is also compounded into combination products alongside antihistamines, decongestants, and caffeine for cold and flu preparations. In personal care, it is evaluated as a UV stabilizer in select formulation research. Despite niche uses, pharmaceutical applications dominate procurement volume globally. The material is supplied as a white crystalline powder in standard and fine particle grades to meet diverse manufacturing needs. Recognized specifications include BP , USP , Ph.Eur. , and IP (Indian Pharmacopoeia). The Ph.Eur. and USP grades are most commonly required by regulated-market buyers for quality assurance. Bulk supply is available in fiber drums or multiwall bags for industrial use. GMP-certified manufacturing documentation is typically required for pharmaceutical procurement to ensure compliance with international safety standards. Contact us for supply of Paracetamol Request Quote",
+  "physicalProperties": "Melting Point: 169-170.5 °C; Boiling Point: 500 °C; Density: 1.293 g/cm³ @ Temp: 21 °C; Flash Point: 11 °C; Appearance: White Solid; Color: White; Odor: odorless; Form: Crystals or Crystalline Powder; Water Solubility: 14 g/L (20 ºC); Vapor Pressure: 0.008Pa at 25℃; Refractive Index: 1.5810 (rough estimate); pH: 5.5-6.5 (H2O, 20℃)(saturated solution); Log P: 1.098 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS09 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H370 Causes damage to organs H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29242930; UN Number: 3077; ADR Class: 9; Packing Group: III; WGK (Germany): 1",
+  "otherNames": "p-hydroxyphenolacetamide | p-hydroxyacetanilide | p-hydroxy-acetanilid | p-acetylaminophenol | p-acetaminophenol | p-acetamidophenol | N-acetyl-p-aminophenol4-hydroxyacetanilide | N-(4-hydroxyphenyl)acetamide | APAP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09",
+    "GHS08"
+  ],
+  "hsCode": "29242930",
+  "similarProducts": [
+    "cas-62-44-2",
+    "cas-50-78-2",
+    "cas-15687-27-1",
+    "cas-123-30-8",
+    "cas-60142-96-3",
+    "cas-148553-50-8",
+    "cas-156-06-9",
+    "cas-169590-42-5",
+    "cas-89-57-6",
+    "cas-26787-78-0",
+    "cas-108-95-2",
+    "cas-108-24-7",
+    "cas-60-35-5",
+    "cas-150-13-0",
+    "cas-169590-42-5",
+    "cas-89-57-6",
+    "cas-26787-78-0",
+    "cas-108-95-2",
+    "cas-108-24-7",
+    "cas-60-35-5",
+    "cas-150-13-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-103-90-2/"
+}

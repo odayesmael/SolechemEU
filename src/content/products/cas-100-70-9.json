@@ -1,0 +1,61 @@
+{
+  "id": "399",
+  "name": "2-cyanopyridine",
+  "slug": "cas-100-70-9",
+  "cas": "100-70-9",
+  "ec": "202-880-3",
+  "formula": "C6H4N2",
+  "mw": "104.11 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Biotechnology & Life Sciences",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Cyanopyridine (CAS 100-70-9 ), also known as 2-CP, is a pyridine-based nitrile intermediate used across pharmaceutical synthesis, agrochemical manufacturing, and specialty chemical production. It serves primarily as a building block for constructing more complex heterocyclic structures and as a ligand precursor in catalytic systems. In pharmaceutical manufacturing, it is a key synthetic intermediate. This material is used for active ingredients including antifungals, antivirals, and kinase inhibitors, where the nitrile group undergoes controlled transformation into amidines, tetrazoles, or carboxylic acids. Agrochemical producers use it to synthesize pyridine-based fungicides and herbicides at commercial scale. In coordination chemistry, it functions as a bidentate ligand component for metal-complex catalysts. These catalysts are used in fine chemical and polymer processes. Flavor and fragrance formulators also reference it as picolinic acid nitrile in trace-level applications targeting specific aroma profiles. The product is supplied as a colorless to pale yellow liquid or low-melting solid, depending on purity and storage conditions. It is available in technical and high-purity grades for various uses. Pharmaceutical-grade material typically meets custom specification requirements for residual solvent and metal content. Packaging ranges from kilogram quantities for R&D sourcing to drum and IBC volumes. Industrial-scale procurement is supported by our global logistics network. We ensure all batches meet rigorous internal quality controls to guarantee consistency and performance in your chemical processes. Contact us for supply of 2-cyanopyridine Request Quote",
+  "physicalProperties": "Melting Point: 29 °C; Boiling Point: 224.5 °C; Density: 1.0810 g/cm³ @ Temp: 25 °C; Flash Point: 193 °F; Appearance: The cyanopyridines are as follows: 2-cyano-: A white to tan liquid or solid. Almond odor. Boiling point=2213℃ ; freezing/melting point=27℃ ; flash point=89℃ . 3-cyano-: a colorless liquid or gray crystal- line solid.; Color: White to brown; Form: Low Melting Crystalline Solid; Water Solubility: immiscible; Vapor Pressure: 11.96Pa at 25℃; Refractive Index: n 20/D 1.529(lit.); pH: 8.4 (100g/l, H2O); Log P: 0.45 at 25℃",
+  "safetyHandling": "Warning GHS07 Hazard Statements H302 H302 H315 H315 H319 H319 H335 H335 Precautionary Statements P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29333999; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "2-Pyridinecarbonitrile | pyridine-2-carbonitrile | Picolinic acid nitrile | 2-Pyridyl nitrile | 2-Pyridinecarboxylic acid, nitrile | RefChem:483357 | 2-Pyridinenitrile | 2-CP. | 2-CP",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29333999",
+  "similarProducts": [
+    "cas-100-48-1",
+    "cas-100-54-9",
+    "cas-109-06-8",
+    "cas-110-86-1",
+    "cas-616-45-5",
+    "cas-140-29-4",
+    "cas-109-97-7",
+    "cas-123-75-1",
+    "cas-765-30-0",
+    "cas-108-89-4",
+    "cas-16969-45-2",
+    "cas-108-99-6",
+    "cas-100-47-0",
+    "cas-2942-59-8",
+    "cas-123-75-1",
+    "cas-765-30-0",
+    "cas-108-89-4",
+    "cas-16969-45-2",
+    "cas-108-99-6",
+    "cas-100-47-0",
+    "cas-2942-59-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-70-9/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "966",
+  "name": "Acenaphthylene",
+  "slug": "cas-208-96-8",
+  "cas": "208-96-8",
+  "ec": "205-917-1",
+  "formula": "C12H8",
+  "mw": "152.19 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Acenaphthylene (CAS 208-96-8 ) is a polycyclic aromatic hydrocarbon used as a chemical intermediate and building block in specialty synthesis. It serves as a precursor in the preparation of complex organic compounds across pharmaceutical and fine chemical manufacturing. In pharmaceutical research, acenaphthylene provides a rigid aromatic scaffold for synthesizing bioactive molecules and drug candidates requiring fused-ring architecture. It functions as a catalyst precursor in certain transition-metal-catalyzed reactions. Its conjugated ring system supports ligand design and coordination chemistry. Specialty chemical manufacturers use it as an intermediate in the production of dyes, pigments, and other polycyclic aromatic derivatives. Research institutions and contract synthesis suppliers source it for the preparation of reference standards and analytical calibration materials. This is particularly important in environmental and forensic testing applications. Acenaphthylene is supplied primarily as a solid crystalline material. It is available in research and technical grades, with purity levels typically ranging from 95% to 99%+ for laboratory and synthesis applications. Packaging is generally offered in small quantities suited to specialty and research procurement. Larger lot sizes are available on request from bulk chemical distributors to meet industrial production requirements. Contact us for supply of Acenaphthylene Request Quote",
+  "physicalProperties": "Melting Point: 92-93 °C; Boiling Point: 265-275 °C; Density: 0.8988 g/cm³ @ Temp: 16 °C; Flash Point: 122°C; Appearance: yellow crystalline powder; Color: Yellow; Form: neat; Water Solubility: 3.93mg/L(25 ºC); Vapor Pressure: 6.68 at 25 °C (gas saturation-HPLC/UV spectrophotometry, Sonnefeld et al., 1983); Refractive Index: 1.6360 (estimate)",
+  "safetyHandling": "Danger GHS06 GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H310 Fatal in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation H330 Fatal if inhaled H335 May cause respiratory irritation H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29029090; UN Number: 1145; ADR Class: 3; Packing Group: II; WGK (Germany): 3",
+  "otherNames": "cyclopenta[de]naphthalene | 1Z25C36811",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29029090",
+  "similarProducts": [
+    "cas-83-32-9",
+    "cas-120-12-7",
+    "cas-85-01-8",
+    "cas-140-29-4",
+    "cas-62-44-2",
+    "cas-108-24-7",
+    "cas-578-95-0",
+    "cas-86-73-7",
+    "cas-4994-16-5",
+    "cas-71-43-2",
+    "cas-129-00-0",
+    "cas-75-05-8",
+    "cas-156-06-9",
+    "cas-206-44-0",
+    "cas-86-73-7",
+    "cas-4994-16-5",
+    "cas-71-43-2",
+    "cas-129-00-0",
+    "cas-75-05-8",
+    "cas-156-06-9",
+    "cas-206-44-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-208-96-8/"
+}

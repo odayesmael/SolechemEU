@@ -1,0 +1,60 @@
+{
+  "id": "401",
+  "name": "Solketal",
+  "slug": "cas-100-79-8",
+  "cas": "100-79-8",
+  "ec": "202-888-7",
+  "formula": "C6H12O3",
+  "mw": "132.16 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Plastics & Polymers",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Solketal (CAS 100-79-8 ), also known as Glycerol dimethylketal, is a cyclic acetal derived from glycerol used as a solvent, carrier, and chemical intermediate across pharmaceutical, cosmetic, and polymer applications. Its low toxicity profile and biodegradable character make it a preferred alternative to conventional solvents in formulations where regulatory compliance and sustainability drive sourcing decisions. In pharmaceutical manufacturing, this compound functions as a solvent and carrier for active ingredients, improving solubility and stability in oral and topical drug formulations. Cosmetic formulators incorporate it as a skin-conditioning carrier and co-solvent in serums, creams, and emulsions where clean-label positioning is a priority for the brand. In polymer and resin chemistry, it acts as a reactive intermediate and crosslinking agent, particularly in the synthesis of specialty polyols and high-performance industrial coatings. It also serves as a stabilizer in fuel blending applications, where it improves cold-flow properties and reduces oxidative degradation in modern biodiesel formulations. The material is supplied as a clear liquid in drum and IBC quantities suited to industrial procurement. Pharmaceutical-grade material is available to meet USP and BP specifications. Technical-grade product serves polymer and fuel applications. Purity levels typically range from 98% to 99%+ depending on the specific grade and the intended industrial end use. Contact us for supply of Solketal Request Quote",
+  "physicalProperties": "Melting Point: -26.4 °C; Boiling Point: 188 °C; Density: 1.06 g/cm³; Flash Point: 176 °F; Appearance: clear colourless liquid; Color: Clear colorless; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 34Pa at 20℃; Refractive Index: n 20/D 1.434; pH: 4.0-7.5 (H2O); Log P: 0.3 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H411 Toxic to aquatic life with long lasting effects Precautionary Statements P264 Wash … thoroughly after handling. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P321 Specific treatment (see … on this label). P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29329970; Storage Class: 10 - Combustible liquids; WGK (Germany): 2",
+  "otherNames": "2,2-Dimethyl-1,3-dioxolane-4-methanol | Glycerol dimethylketal | Dioxolan | Isopropylidene glycerol | Glycerol acetonide | 2,3-Isopropylideneglycerol | 1,3-Dioxolane-4-methanol, 2,2-dimethyl- | 2,2-Dimethyl-5-hydroxymethyl-1,3-dioxolane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29329970",
+  "similarProducts": [
+    "cas-4740-78-7",
+    "cas-67-64-1",
+    "cas-112-36-7",
+    "cas-96-22-0",
+    "cas-53694-15-8",
+    "cas-109-87-5",
+    "cas-7397-62-8",
+    "cas-56-81-5",
+    "cas-5877-42-9",
+    "cas-31694-55-0",
+    "cas-64-17-5",
+    "cas-95-92-1",
+    "cas-627-82-7",
+    "cas-111-55-7",
+    "cas-56-81-5",
+    "cas-5877-42-9",
+    "cas-31694-55-0",
+    "cas-64-17-5",
+    "cas-95-92-1",
+    "cas-627-82-7",
+    "cas-111-55-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-100-79-8/"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "2034",
+  "name": "Lithium bromide",
+  "slug": "cas-7550-35-8",
+  "cas": "7550-35-8",
+  "ec": "231-439-8",
+  "formula": "BrLi",
+  "mw": "86.9 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Water Treatment",
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Lithium bromide (CAS 7550-35-8 ), commonly abbreviated as LiBr, is an inorganic salt used across industrial refrigeration, pharmaceutical manufacturing, and life sciences. It functions primarily as an absorption refrigerant and a desiccant in gas drying systems. In commercial HVAC and industrial cooling, LiBr serves as the absorbent fluid in absorption chiller systems. Its strong affinity for water vapor drives the refrigeration cycle without mechanical compression, making it a reagent in specialized chemical synthesis. Pharmaceutical manufacturers use it as a reagent in synthesis and as a buffering agent in select formulations requiring controlled ionic conditions. In biotechnology and life sciences, LiBr solutions are used to precipitate and purify RNA. These solutions enable downstream molecular biology workflows and critical research processes. Water treatment operations apply it in specific biocide and pH-regulation contexts where lithium-based chemistry is specified for industrial systems. Lithium bromide is supplied as a white crystalline powder or in concentrated aqueous solution. Solution concentrations are commonly at 55% for absorption chiller applications to ensure maximum efficiency in large-scale cooling operations. Standard grades include technical, pharmaceutical ( USP ), and high-purity laboratory grades to meet the distinct requirements of industrial, compendial, and research procurement. This ensures compliance with global manufacturing standards. Bulk quantities are available for industrial refrigeration supply chains, with smaller packagings offered for pharmaceutical and laboratory use. We provide consistent quality and reliable logistics for all industrial and research applications. Contact us for supply of Lithium bromide Request Quote",
+  "physicalProperties": "Melting Point: 547 °C; Boiling Point: 133 °C @ Press: Atm pressure; Density: 3.464 g/cm³ (solid); Flash Point: 1265°C; Appearance: White powder; Color: White; Odor: odorless; Form: powder; Water Solubility: 61 g/100 mL (25 º C); Vapor Pressure: 1 hPa ( 748 °C); pH: 7 (20°C, 10g/L); Log P: -0.37 at 25℃",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28275900; Storage Class: 13 - Non Combustible Solids; WGK (Germany): 2",
+  "otherNames": "lithium monobromide | Lithium bromide (LiBr) | LITHIUM BROMATUM | 864G646I84 | RefChem:55513 | LiBr",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "28275900",
+  "similarProducts": [
+    "cas-7447-41-8",
+    "cas-7726-95-6",
+    "cas-10035-10-6",
+    "cas-7647-15-6",
+    "cas-7439-93-2",
+    "cas-7699-45-8",
+    "cas-546-89-4",
+    "cas-7789-48-2",
+    "cas-7758-02-3",
+    "cas-1310-66-3",
+    "cas-1310-65-2",
+    "cas-7789-24-4",
+    "cas-10377-48-7",
+    "cas-7789-41-5",
+    "cas-7789-48-2",
+    "cas-7758-02-3",
+    "cas-1310-66-3",
+    "cas-1310-65-2",
+    "cas-7789-24-4",
+    "cas-10377-48-7",
+    "cas-7789-41-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7550-35-8/"
+}

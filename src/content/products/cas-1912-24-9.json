@@ -1,0 +1,59 @@
+{
+  "id": "1545",
+  "name": "Atrazine",
+  "slug": "cas-1912-24-9",
+  "cas": "1912-24-9",
+  "ec": "217-617-8",
+  "formula": "C8H14ClN5",
+  "mw": "215.68 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Atrazine (CAS 1912-24-9 ) is a selective triazine herbicide used in commercial agriculture to control broadleaf and grassy weeds. Marketed under trade names including Weedex and Primatol A, it remains one of the most established herbicides. This chemical is utilized in pre- and post-emergent crop protection programs globally. It is primarily applied in maize and sorghum cultivation, where it controls a broad spectrum of annual weeds without damaging the crop. In sugarcane production, it is used as a soil-applied treatment to suppress weed competition during the critical early growth phase. Formulators incorporate it into suspension concentrates and wettable powder products. The product is suitable for both ground and aerial application programs. It also serves as an active ingredient in tank-mix combinations with other herbicides to extend weed control spectrum and manage resistance. The material is supplied as a technical-grade active ingredient, typically as a white crystalline powder at 95–97% purity for formulation use. Finished formulations are available as suspension concentrates and powders. These products are offered at standardized active concentrations to meet industrial requirements. Technical material is traded in bulk quantities, with supply sourced primarily from manufacturers in China and India. Contact us for supply of Atrazine Request Quote",
+  "physicalProperties": "Melting Point: 175-177 °C; Boiling Point: 200°C; Density: 1.23 g/cm³ @ Temp: 22 °C; Flash Point: 11 °C; Appearance: Atrazine is a white, odorless, crystalline solid or powder which is often mixed with a flammable liquid.; Color: Crystals; Form: Crystalline; Water Solubility: Slightly soluble. 0.007 g/100 mL; Vapor Pressure: 0Pa at 25℃; Refractive Index: 1.6110 (estimate); Log P: 2.59 at 20℃ and pH7.31-7.51",
+  "safetyHandling": "Warning GHS08 GHS09 GHS07 Hazard Statements H302 H302 H317 H317 H319 H319 H320 H320 H333 H333 H361 H361 H371 H371 H373 H373 H400 H400 H410 H410 Precautionary Statements P203 P203 P260 P260 P261 P261 P264 P264 P270 P270 P272 P272 P273 P273 P280 P280 P318 P318 P319 P319 P321 P321 P330 P330 P391 P391 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P317 P304+P317 P308+P316 P308+P316 P333+P317 P333+P317 P337+P317 P337+P317 P362+P364 P362+P364 P305+P351+P338 P305+P351+P338",
+  "tradeRegulatory": "HS Code: 29336990; Storage Class: 11 - Combustible Solids; WGK (Germany): 3",
+  "otherNames": "Weedex | Vectral SC | Primatol A | Mebazine | Griffex 4L | Fenatrol | Attrex | Atrex",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS07"
+  ],
+  "hsCode": "29336990",
+  "similarProducts": [
+    "cas-886-50-0",
+    "cas-61-82-5",
+    "cas-1071-83-6",
+    "cas-317815-83-1",
+    "cas-71283-80-2",
+    "cas-94-75-7",
+    "cas-80584-91-4",
+    "cas-330-55-2",
+    "cas-99129-21-2",
+    "cas-314-40-9",
+    "cas-85-00-7",
+    "cas-76-06-2",
+    "cas-72178-02-0",
+    "cas-142459-58-3",
+    "cas-330-55-2",
+    "cas-99129-21-2",
+    "cas-314-40-9",
+    "cas-85-00-7",
+    "cas-76-06-2",
+    "cas-72178-02-0",
+    "cas-142459-58-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1912-24-9/"
+}

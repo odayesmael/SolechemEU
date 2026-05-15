@@ -1,0 +1,62 @@
+{
+  "id": "163",
+  "name": "Methyltrichlorosilane",
+  "slug": "cas-75-79-6",
+  "cas": "75-79-6",
+  "ec": "200-902-6",
+  "formula": "CH3Cl3Si",
+  "mw": "149.47 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Building & Construction",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methyltrichlorosilane (CAS 75-79-6 ), commonly abbreviated as MTS, is a reactive chlorosilane monomer used as a fundamental building block in silicone polymer synthesis and surface treatment chemistry. It functions as a trifunctional crosslinker and surface modifier, enabling the formation of durable siloxane networks across a range of industrial processes. In silicone manufacturing, MTS serves as a key precursor. It is used for producing methylsilicone resins, fluids, and elastomers through controlled hydrolysis and condensation reactions. The electronics industry relies on it for chemical vapor deposition of silicon carbide coatings. It also acts as a surface passivation agent on semiconductor substrates. In building and construction, it is applied to mineral substrates such as concrete, stone, and masonry to impart water repellency. This is achieved through covalent bonding to surface hydroxyl groups. Textile and paper processing operations use MTS-derived treatments to achieve release coatings and hydrophobic finishes on fiber and sheet materials. Methyltrichlorosilane is supplied as a colorless, fuming liquid in standard industrial packaging including drums and ISO tank containers for bulk procurement. It is available in technical grade for synthesis. Purity levels are typically at 98% or higher as standard for industrial applications. Buyers should confirm moisture-controlled packaging requirements, as the product reacts with atmospheric humidity during storage. Contact us for supply of Methyltrichlorosilane Request Quote",
+  "physicalProperties": "Melting Point: -90 °C; Boiling Point: 66.4 °C; Density: 1.27 g/cm³ @ Temp: 25 °C; Flash Point: 5 °F; Appearance: Colorless clear liquid; Color: colorless; Odor: Sharp, irritating odor; Form: liquid; Water Solubility: REACTS; Vapor Pressure: 150 mm Hg ( 25 °C); Refractive Index: n 20/D 1.411",
+  "safetyHandling": "Danger GHS02 GHS07 GHS05 Hazard Statements H225 Highly Flammable liquid and vapor H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1250; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "Methyl-trichlorsilan | Silane, trichloromethyl- | Methylsilyl trichloride | Silane, methyltrichloro- | MTS",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS05"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-1185-55-3",
+    "cas-4253-34-3",
+    "cas-2031-67-6",
+    "cas-22984-54-9",
+    "cas-67762-90-7",
+    "cas-68909-20-6",
+    "cas-2530-87-2",
+    "cas-14513-34-9",
+    "cas-2116-84-9",
+    "cas-2554-06-5",
+    "cas-2857-97-8",
+    "cas-2996-92-1",
+    "cas-74-87-3",
+    "cas-18395-30-7",
+    "cas-14513-34-9",
+    "cas-2116-84-9",
+    "cas-2554-06-5",
+    "cas-2857-97-8",
+    "cas-2996-92-1",
+    "cas-74-87-3",
+    "cas-18395-30-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-79-6/"
+}

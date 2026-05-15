@@ -1,0 +1,60 @@
+{
+  "id": "906",
+  "name": "Sodium ethoxide",
+  "slug": "cas-141-52-6",
+  "cas": "141-52-6",
+  "ec": "205-487-5",
+  "formula": "C2H6O.Na",
+  "mw": "68.05 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium ethoxide (CAS 141-52-6 ), also sold as sodium ethylate, is a strong alkoxide base used as a catalyst and reagent across pharmaceutical synthesis and specialty chemical manufacturing. NaOEt drives condensation, cyclization, and transesterification reactions where controlled basicity and reactivity are critical to process efficiency and high-quality chemical output. In pharmaceutical manufacturing, sodium ethoxide catalyzes the synthesis of active pharmaceutical ingredients including barbiturates, sulfonamides, and vitamin B1, where precise reaction control affects yield. Agrochemical producers use it as a base catalyst in the synthesis of herbicides and pesticide intermediates. In biodiesel production, sodium ethylate is the preferred transesterification catalyst. It converts triglycerides to fatty acid ethyl esters, offering faster reaction rates than sodium hydroxide in anhydrous conditions. Specialty chemical formulators also apply it in Claisen condensations. Sodium ethoxide is supplied as a solution in ethanol, typically at 20–21% concentration, and as a dry powder for moisture-sensitive applications to ensure maximum stability and performance. The solution grade is the most commercially prevalent form, favored for ease of handling in large-scale continuous processes. Dry powder grades are available for laboratory and pharmaceutical applications. These powder grades are ideal for processes requiring anhydrous conditions. Our material meets rigorous industrial specifications to ensure consistent results across all manufacturing sectors. Contact us for supply of Sodium ethoxide Request Quote",
+  "physicalProperties": "Melting Point: 260 °C; Boiling Point: 91°C; Density: 0.868 g/cm³; Flash Point: 48 °F; Appearance: White powder, sometimes having brownish tinge; readily hydrolyzes to alcohol and sodium hydroxide.; Color: Yellow to brown; Form: Liquid; Water Solubility: Miscible; Vapor Pressure: <0.1 mm Hg ( 20 °C); Refractive Index: n 20/D 1.386; pH: 13 (5g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS02 GHS05 Hazard Statements H228 Flammable solid H251 Self-heating; may catch fire H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P235 Keep cool. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P407 Maintain air gap between stacks/pallets. P410 Protect from sunlight. P413 Store bulk masses greater than … kg/… lbs at temperatures not exceeding … °C/…°F. P420 Store away from other materials. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29051900; UN Number: 3274; ADR Class: 3; Packing Group: II; Storage Class: 4.2 - Pyrophoric and self-heating hazardous materials; WGK (Germany): 1",
+  "otherNames": "sodium ethylate | NaOEt | caustic alcohol | SODIUM ETHANOLATE | Ethanol, sodium salt | Ethyl alcohol, sodium salt | 1I9504387J | Ethanol, sodium salt (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "29051900",
+  "similarProducts": [
+    "cas-124-41-4",
+    "cas-865-48-5",
+    "cas-19766-89-3",
+    "cas-5324-47-0",
+    "cas-865-33-8",
+    "cas-95-92-1",
+    "cas-1562-00-1",
+    "cas-7646-69-7",
+    "cas-143-19-1",
+    "cas-594-45-6",
+    "cas-27233-34-7",
+    "cas-105-36-2",
+    "cas-5324-84-5",
+    "cas-2836-32-0",
+    "cas-7646-69-7",
+    "cas-143-19-1",
+    "cas-594-45-6",
+    "cas-27233-34-7",
+    "cas-105-36-2",
+    "cas-5324-84-5",
+    "cas-2836-32-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-141-52-6/"
+}

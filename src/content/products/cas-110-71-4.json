@@ -1,0 +1,62 @@
+{
+  "id": "594",
+  "name": "1,2-dimethoxyethane",
+  "slug": "cas-110-71-4",
+  "cas": "110-71-4",
+  "ec": "203-794-9",
+  "formula": "C4H10O2",
+  "mw": "90.12 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Biotechnology & Life Sciences",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,2-Dimethoxyethane (CAS 110-71-4 ), commercially known as monoglyme or DME, is an ether-based solvent used across pharmaceutical synthesis, polymer chemistry, and electrochemical applications. Its ability to coordinate with metal ions and dissolve a broad range of reactive intermediates makes it a preferred solvent in demanding synthesis environments. In pharmaceutical manufacturing, DME supports Grignard reactions. It is also used in organolithium chemistry and other moisture-sensitive syntheses where a stable, non-protic solvent is required. Battery and energy storage manufacturers use it as a co-solvent or primary electrolyte solvent. DME is utilized in lithium-ion and lithium-metal cell formulations. Polymer chemists rely on DME in controlled polymerization processes, including anionic and ring-opening polymerizations, where solvent coordination affects results. It also functions as a reaction medium in palladium-catalyzed cross-coupling reactions, where its chelating behavior stabilizes catalyst systems and improves yields. This makes it essential for high-performance chemistry. 1,2-Dimethoxyethane is supplied as a clear liquid in standard packaging ranging from drums to IBC containers and bulk quantities. Technical grade and anhydrous grades are the most commonly sourced specifications. Anhydrous DME is used where strict moisture control is critical to reaction outcomes. High-purity grades suitable for battery electrolyte applications are available from select suppliers to meet industry requirements. Contact us for supply of 1,2-dimethoxyethane Request Quote",
+  "physicalProperties": "Melting Point: -58 °C; Boiling Point: 82-83 °C @ Press: 760 Torr; Density: 0.86285 g/cm³ @ Temp: 20 °C; Flash Point: 32 °F; Appearance: Colorless liquid; Color: Clear; Odor: water-wh. liq., sharp ethereal odor; Form: Liquid; Water Solubility: Miscible; Vapor Pressure: 48 mm Hg ( 20 °C); Refractive Index: n 20/D 1.379(lit.); pH: 7; Log P: -0.21 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H303 May be harmful if swallowed H313 May be harmful in contact with skin H315 Causes skin irritation H332 Harmful if inhaled H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H351 Suspected of causing cancer H360 May damage fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower.",
+  "tradeRegulatory": "HS Code: 29091900; UN Number: 2252; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "monoglyme | glyme | ethylene glycol dimethyl ether | Egdme | Dimethyl Cellosolve | CH3OCH2CH2OCH3 | alpha,beta-dimethoxyethane | 2,5-dioxahexane | DME",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29091900",
+  "similarProducts": [
+    "cas-111-96-6",
+    "cas-143-24-8",
+    "cas-111-77-3",
+    "cas-1002-67-1",
+    "cas-112-49-2",
+    "cas-109-86-4",
+    "cas-89399-28-0",
+    "cas-34590-94-8",
+    "cas-112-36-7",
+    "cas-111109-77-4",
+    "cas-111-90-0",
+    "cas-7778-85-0",
+    "cas-115-10-6",
+    "cas-24991-55-7",
+    "cas-34590-94-8",
+    "cas-112-36-7",
+    "cas-111109-77-4",
+    "cas-111-90-0",
+    "cas-7778-85-0",
+    "cas-115-10-6",
+    "cas-24991-55-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-110-71-4/"
+}

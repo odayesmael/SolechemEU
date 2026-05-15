@@ -1,0 +1,60 @@
+{
+  "id": "450",
+  "name": "Ethyl bromoacetate",
+  "slug": "cas-105-36-2",
+  "cas": "105-36-2",
+  "ec": "203-290-9",
+  "formula": "C4H7BrO2",
+  "mw": "167.00 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethyl bromoacetate ( CAS 105-36-2 ), also known commercially as Antol, is a reactive alkylating ester used as a key building block in organic synthesis. It functions primarily as an intermediate in the manufacture of active pharmaceutical ingredients. The compound is essential for specialty chemicals, where its reactive bromomethyl group enables carbon-carbon and carbon-heteroatom bond formation. In pharmaceutical manufacturing, it serves as a precursor in the synthesis of amino acids and peptides. It is also used for a broad range of API scaffolds requiring acetic acid ester functionalization. Cosmetic and personal care formulators use it as a synthetic intermediate in fragrance molecule production for specific olfactory profiles. The chemical contributes to the construction of esters and lactones. It also has documented use as a biocidal and preservative agent in industrial applications, where its reactivity toward biological nucleophiles provides antimicrobial effect. In flavor and fragrance chemistry, Antol is referenced as a starting material for aroma compounds requiring bromoacetate chemistry. The product is supplied as a clear to pale yellow liquid for various industrial processes. It is available in technical and reagent grades, with purity specifications typically ranging from 97% to 99%+. Packaging options generally include drums and intermediate bulk containers suited to industrial procurement volumes. Contact us for supply of Ethyl bromoacetate Request Quote",
+  "physicalProperties": "Melting Point: -38 °C; Boiling Point: 168.5 °C; Density: 1.5032 g/cm³ @ Temp: 20 °C; Flash Point: 118 °F; Appearance: Ethyl bromoacetate is a clear, colorless to light-yellow liquid.; Color: Clear; Odor: Pungent odour; Form: Liquid; Water Solubility: Miscible with ethanol, acetone, benzene and ethyl ether. Immiscible with water.; Vapor Pressure: 2.6 mm Hg ( 25 °C); Refractive Index: n 20/D 1.451(lit.)",
+  "safetyHandling": "Danger GHS06 GHS02 GHS05 Hazard Statements H226 Flammable liquid and vapor H300 Fatal if swallowed H310 Fatal in contact with skin H318 Causes serious eye damage H330 Fatal if inhaled H300+H310+H330 Fatal if swallowed, in contact with skin or if inhaled Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29159080; UN Number: 1603; ADR Class: 6.1; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 1",
+  "otherNames": "ETHYL 2-BROMOACETATE | Antol | Bromoacetic acid ethyl ester | Ethyl bromacetate | Ethyl monobromoacetate | Acetic acid, bromo-, ethyl ester | Ethoxycarbonylmethyl bromide | Acetic acid, 2-bromo-, ethyl ester",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS06",
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "29159080",
+  "similarProducts": [
+    "cas-74-96-4",
+    "cas-5589-96-8",
+    "cas-105-56-6",
+    "cas-141-78-6",
+    "cas-141-97-9",
+    "cas-93-89-0",
+    "cas-20193-20-8",
+    "cas-13360-63-9",
+    "cas-95-92-1",
+    "cas-106-95-6",
+    "cas-100-41-4",
+    "cas-105-54-4",
+    "cas-624-78-2",
+    "cas-101-97-3",
+    "cas-13360-63-9",
+    "cas-95-92-1",
+    "cas-106-95-6",
+    "cas-100-41-4",
+    "cas-105-54-4",
+    "cas-624-78-2",
+    "cas-101-97-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-105-36-2/"
+}

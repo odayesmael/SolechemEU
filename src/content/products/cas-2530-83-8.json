@@ -1,0 +1,64 @@
+{
+  "id": "1624",
+  "name": "Glycidoxypropyltrimethoxysilane",
+  "slug": "cas-2530-83-8",
+  "cas": "2530-83-8",
+  "ec": "219-784-2",
+  "formula": "C9H20O5Si",
+  "mw": "236.34 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Electronics",
+    "Automotive",
+    "Aerospace & Defense",
+    "Personal Care & Cosmetics",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Glycidoxypropyltrimethoxysilane (CAS 2530-83-8 ), also marketed as Silane A-187 and KBM-403 and abbreviated GPTMS, is an epoxy-functional silane coupling agent used to chemically bridge inorganic substrates and organic polymer matrices. It improves adhesion at interfaces where bonding between dissimilar materials would otherwise fail under mechanical or environmental stress. In adhesives, sealants, and epoxy coatings, GPTMS acts as a primer or additive to strengthen adhesion. This chemical strengthens bonds to glass, metals, and mineral fillers, directly improving durability and reducing delamination risk. Electronics manufacturers use it to treat glass fiber reinforcements and encapsulant systems. It is essential for printed circuit boards and semiconductor packaging. In automotive and aerospace composite manufacturing, it functions as a surface modifier for mineral-filled polymer systems, improving wet strength retention. Coatings formulators incorporate it as a crosslinker or adhesion promoter in sol-gel systems and UV-curable formulations applied to plastics and glass. GPTMS is supplied as a clear liquid, typically in drums, IBCs, and bulk quantities. The product is suited to industrial procurement volumes and is available in technical grade for industrial applications. Higher-purity grades are also available for electronics and specialty coating applications. Established specifications include technical and reagent-grade standards. Buyers should confirm purity levels and hydrolysis stability with the supplier prior to formulation to ensure compatibility with specific manufacturing processes. Contact us for supply of Glycidoxypropyltrimethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: <-70 °C; Boiling Point: 120 °C @ Press: 2 Torr; Density: 1.070 g/cm³; Flash Point: >230 °F; Appearance: Colorless transparent liquid; Color: Clear; Form: Liquid; Water Solubility: Miscible with alcohols, ketones and aliphatic or aromatic hydrocarbons. Immiscible with water.; Vapor Pressure: 0-12790Pa at 20-25℃; Refractive Index: n 20/D 1.429(lit.); Log P: -2.6-0.5 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS08 GHS07 Hazard Statements H315 Causes skin irritation H318 Causes serious eye damage H319 Causes serious eye irritation H335 May cause respiratory irritation H341 Suspected of causing genetic defects H402 Harmful to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; WGK (Germany): 2",
+  "otherNames": "Silan A 187 | Silicone KBM 403 | Silane A 187 | Silane Z 6040 | NUCA 187 | 3-(Trimethoxysilyl)propyl glycidyl ether | gamma-Glycidoxypropyltrimethoxysilane | Oxirane, 2-[[3-(trimethoxysilyl)propoxy]methyl]- | GPTMS",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-13822-56-5",
+    "cas-2897-60-1",
+    "cas-1185-55-3",
+    "cas-14513-34-9",
+    "cas-3179-76-8",
+    "cas-2768-02-7",
+    "cas-2530-87-2",
+    "cas-35141-30-1",
+    "cas-5089-72-5",
+    "cas-919-30-2",
+    "cas-2530-85-0",
+    "cas-23843-64-3",
+    "cas-23779-32-0",
+    "cas-18395-30-7",
+    "cas-35141-30-1",
+    "cas-5089-72-5",
+    "cas-919-30-2",
+    "cas-2530-85-0",
+    "cas-23843-64-3",
+    "cas-23779-32-0",
+    "cas-18395-30-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2530-83-8/"
+}

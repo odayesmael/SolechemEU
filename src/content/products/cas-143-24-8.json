@@ -1,0 +1,62 @@
+{
+  "id": "936",
+  "name": "Tetraethylene glycol dimethyl ether",
+  "slug": "cas-143-24-8",
+  "cas": "143-24-8",
+  "ec": "205-594-7",
+  "formula": "C10H22O5",
+  "mw": "222.28 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences",
+    "Lubricants & Metalworking",
+    "Electronics",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Tetraethylene glycol dimethyl ether (CAS 143-24-8 ), commercially known as Tetraglyme or by the abbreviation TEGDME, is a high-boiling, aprotic ether solvent used across demanding industrial and research-grade applications. Its thermal stability and low volatility make it a preferred solvent where conventional options fail under process conditions. In battery and electrochemical research, TEGDME functions as an electrolyte solvent. It is used for lithium-air and lithium-sulfur systems, where its electrochemical stability directly influences cycle performance. Pharmaceutical and biotech manufacturers use it as a reaction solvent and carrier. It is ideal for sensitive active ingredients requiring an inert, non-protic environment. In polymer processing, it supports polymerization reactions and acts as a cross-linking medium for product consistency. Electronics manufacturers apply it in specialty cleaning and formulation processes where residue-free, high-purity solvent performance is required. TEGDME is supplied as a clear liquid in standard packaging. Standard industrial packaging includes drums and IBC containers. Technical and high-purity grades are available, with high-purity specifications commonly required for battery-grade and pharmaceutical applications. Anhydrous grades are also offered for moisture-sensitive processes in electrochemical and synthesis applications. This ensures optimal performance in environments where water content must be strictly controlled. Contact us for supply of Tetraethylene glycol dimethyl ether Request Quote",
+  "physicalProperties": "Melting Point: -29.7 °C; Boiling Point: 275 °C; Density: 1.009 g/cm³; Flash Point: 285 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: Soluble; Vapor Pressure: <0.01 mm Hg ( 20 °C); Refractive Index: n 20/D 1.432(lit.); Log P: -0.84 at 23℃",
+  "safetyHandling": "Danger GHS08 GHS07 Hazard Statements H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 29091990; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 1",
+  "otherNames": "1-methoxy-2-[2-[2-(2-methoxyethoxy)ethoxy]ethoxy]ethane | Tetraglyme | TEGDME | E181 (ether)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29091990",
+  "similarProducts": [
+    "cas-112-49-2",
+    "cas-111-96-6",
+    "cas-23783-42-8",
+    "cas-112-27-6",
+    "cas-112-60-7",
+    "cas-112-36-7",
+    "cas-112-35-6",
+    "cas-1002-67-1",
+    "cas-5274-68-0",
+    "cas-110-71-4",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-111-77-3",
+    "cas-109-86-4",
+    "cas-1002-67-1",
+    "cas-5274-68-0",
+    "cas-110-71-4",
+    "cas-143-22-6",
+    "cas-112-50-5",
+    "cas-111-77-3",
+    "cas-109-86-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-143-24-8/"
+}

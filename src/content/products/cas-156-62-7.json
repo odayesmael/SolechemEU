@@ -1,0 +1,62 @@
+{
+  "id": "967",
+  "name": "Calcium cyanamide",
+  "slug": "cas-156-62-7",
+  "cas": "156-62-7",
+  "ec": "205-861-8",
+  "formula": "CH2N2.Ca",
+  "mw": "80.10 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Mining & Metals",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Calcium cyanamide (CAS 156-62-7 ), commercially known as nitrolime or lime nitrogen, is a nitrogen-containing inorganic compound used as a slow-release nitrogen fertilizer and soil-conditioning agent in agriculture. In industrial contexts, it functions as a chemical intermediate and biocidal agent across several processing applications. In agriculture, it is applied directly to soil as a combined fertilizer and herbicide. The compound releases nitrogen gradually while suppressing weeds, moss, and certain soil-borne pathogens, reducing the need for separate crop protection treatments. The steel and metallurgical industries use calcium carbimide as a desulfurization agent. In iron and steel production, it reacts with sulfur impurities in molten metal to improve final product quality. It also serves as a precursor in the synthesis of dicyandiamide and other nitrogen-based chemicals. These chemicals are used in resin and flame retardant manufacturing. In mining operations, it is used as a flotation reagent to selectively depress certain sulfide minerals during ore separation processes. Calcium cyanamide is supplied as a granular or powdered solid, typically with a dark grey appearance due to carbon content from the production process. Standard commercial grades include technical-grade material. Nitrogen content specifications commonly range around 19–21% N. Agricultural-grade formulations are available with added granulation for controlled soil application to ensure consistent nutrient delivery. Contact us for supply of Calcium cyanamide Request Quote",
+  "physicalProperties": "Melting Point: 1340 °C; Density: 2.29 g/cm³ @ Temp: 20 °C; Appearance: Calcium cyanamide is a blackish-gray, shiny crystalline material or powder.; Color: Gray to dark gray; Odor: Odorless; Form: Powder; Water Solubility: insoluble H2O, but undergoes hydrolysis releasing acetylene and ammonia [HAW93] [MER06]; Vapor Pressure: 0.51Pa at 20℃; Log P: -0.72 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS02 GHS08 GHS09 Hazard Statements H261 In contact with water releases flammable gas H302 Harmful if swallowed H313 May be harmful in contact with skin H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H333 May be harmful if inhaled H335 May cause respiratory irritation H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H412 Harmful to aquatic life with long lasting effects Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P231+P232 Handle and store contents under inert gas/… . P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P402+P404 Store in a dry place. Store in a closed container. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 31029010; UN Number: 1403; ADR Class: 4.3; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "nitrolime | lime nitrogen | calcium carbimide | Nitrogen lime | Carbimida calcica | Carbimide calcique | Cyanamide calcique | Cyanamide, calcium salt (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS02",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "31029010",
+  "similarProducts": [
+    "cas-10124-37-5",
+    "cas-13477-34-4",
+    "cas-13780-06-8",
+    "cas-143-33-9",
+    "cas-13821-08-4",
+    "cas-917-61-3",
+    "cas-7440-70-2",
+    "cas-557-21-1",
+    "cas-1305-62-0",
+    "cas-6484-52-2",
+    "cas-57-13-6",
+    "cas-35947-07-0",
+    "cas-461-58-5",
+    "cas-1305-78-8",
+    "cas-557-21-1",
+    "cas-1305-62-0",
+    "cas-6484-52-2",
+    "cas-57-13-6",
+    "cas-35947-07-0",
+    "cas-461-58-5",
+    "cas-1305-78-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-156-62-7/"
+}

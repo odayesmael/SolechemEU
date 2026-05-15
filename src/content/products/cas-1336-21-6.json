@@ -1,0 +1,65 @@
+{
+  "id": "1472",
+  "name": "Ammonium hydroxide",
+  "slug": "cas-1336-21-6",
+  "cas": "1336-21-6",
+  "ec": "215-647-6",
+  "formula": "H5NO",
+  "mw": "35.046 g/mol",
+  "category": "Alkalis & Bases",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Home Care & Industrial Cleaning",
+    "Rubber & Tire",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ammonium hydroxide (CAS 1336-21-6 ), also sold as ammonia water and designated E527 in food-grade applications, is an aqueous solution of ammonia used industrially as an alkaline reagent and pH control agent. It functions across cleaning, processing, and treatment operations where a fast-acting, readily soluble base is required. In water treatment, it adjusts pH and supports chloramine disinfection in municipal systems. Textile, leather, and paper processing rely on it to neutralize acids, swell fibers, and condition pulp during wet processing stages. Industrial and household cleaning formulations use it to cut through grease and protein-based soils. In rubber compounding, it acts as a stabilizer for latex dispersions, preventing premature coagulation during transport and storage. This ensures the material remains stable during long-term industrial transport and storage. Ammonium hydroxide is supplied as an aqueous solution, with concentration typically ranging from 25% to 30% ammonia by weight for industrial supply. This high concentration allows for efficient dilution in various processes. Food-grade material conforming to E527 specifications is available for permitted food processing applications. Technical-grade solutions are the standard for water treatment, cleaning, and industrial processing uses. Contact us for supply of Ammonium hydroxide Request Quote",
+  "physicalProperties": "Melting Point: -77°C; Boiling Point: 38 °C; Density: ~0.90 g/cm³ (approx) @ Temp: 25 °C; Appearance: Ammonium Hydroxide is a colorless to milkywhite solution of ammonia, with a strong, irritating odor.; Color: Colorless; Odor: Strong pungent ammonia odor detectable at 17 ppm; Form: Liquid, Single Sub-Boiling Quartz Distillation; Water Solubility: Miscible with water.; Vapor Pressure: 115 mmHg at 20 °C for 29% solution; pH: 10.09(1 mM solution);10.61(10 mM solution);11.12(100 mM solution);",
+  "safetyHandling": "Danger GHS05 GHS09 GHS07 GHS08 GHS06 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H331 Toxic if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H402 Harmful to aquatic life Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P391 Collect spillage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28142000; UN Number: 2672; ADR Class: 8; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "Ammonia water | Ammonia aqueous | Ammonia, aqua | Household ammonia | Ammonia, monohydrate | Ammonium hydroxide ((NH4)(OH)) | Aqua ammonia | E527",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS09",
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "28142000",
+  "similarProducts": [
+    "cas-7664-41-7",
+    "cas-35249-89-9",
+    "cas-7803-49-8",
+    "cas-631-61-8",
+    "cas-1310-58-3",
+    "cas-12125-02-9",
+    "cas-1310-73-2",
+    "cas-1066-33-7",
+    "cas-12125-01-8",
+    "cas-540-69-2",
+    "cas-10604-69-0",
+    "cas-17194-00-2",
+    "cas-5470-11-1",
+    "cas-7647-01-0",
+    "cas-1066-33-7",
+    "cas-12125-01-8",
+    "cas-540-69-2",
+    "cas-10604-69-0",
+    "cas-17194-00-2",
+    "cas-5470-11-1",
+    "cas-7647-01-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-1336-21-6/"
+}

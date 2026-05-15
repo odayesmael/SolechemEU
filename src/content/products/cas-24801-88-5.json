@@ -1,0 +1,64 @@
+{
+  "id": "2968",
+  "name": "3-Isocyanatopropyltriethoxysilane",
+  "slug": "cas-24801-88-5",
+  "cas": "24801-88-5",
+  "ec": "246-467-6",
+  "formula": "C10H21NO4Si",
+  "mw": "247.36 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Automotive",
+    "Electronics",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "3-Isocyanatopropyltriethoxysilane (CAS 24801-88-5 ), also known as ICPTES, is a bifunctional silane coupling agent combining an isocyanate group with an alkoxysilane anchor. It bonds organic polymer matrices to inorganic substrates by reacting at both the organic and inorganic interface simultaneously. This versatile chemical is used for glass, metals, and mineral fillers. In adhesives, sealants, and structural bonding formulations, it improves adhesion to glass and metal substrates where moisture resistance is critical for long-term performance. Coatings manufacturers use it to crosslink polyurethane systems onto treated surfaces, improving durability and intercoat adhesion on automotive and industrial parts. It ensures a robust chemical bond between the coating and the underlying material. In filled polymer compounds, it functions as a surface modifier for silica and glass fiber, improving stress transfer between filler and matrix in reinforced plastics. This leads to enhanced mechanical properties and structural integrity. Electronics encapsulants and underfill resins incorporate it to enhance interfacial adhesion between polymer and substrate under thermal cycling conditions. This prevents delamination and protects sensitive electronic components from environmental stress. Supplied as a clear to pale yellow liquid in standard packaging from small laboratory quantities up to bulk drums and IBC containers. Technical grade is the primary commercial offering, with purity typically at 95% or higher. Moisture-sensitive handling requirements influence packaging specifications, and nitrogen-blanketed containers are standard for bulk shipments. Proper storage is essential to maintain the chemical stability and reactivity of the isocyanate functional group. Contact us for supply of 3-Isocyanatopropyltriethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: <0°C; Boiling Point: 130 °C @ Press: 20 Torr; Density: 0.990 g/cm³; Flash Point: 171 °F; Appearance: Colorless clear liquid; Color: Clear colorless to yellow; Form: Liquid; Water Solubility: Hydrolyzes in water.; Vapor Pressure: 0-7910Pa at 20-25℃; Refractive Index: n 20/D 1.42(lit.); Log P: -4--0.3 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H302+H312 Harmful if swallowed or in contact with skin Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29319090; UN Number: 3390; ADR Class: 6.1; Packing Group: I; Storage Class: 6.1A - Combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 3",
+  "otherNames": "Triethoxy(3-isocyanatopropyl)silane | Tib kat sssa | (3-Isocyanatopropyl)triethoxysilane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29319090",
+  "similarProducts": [
+    "cas-919-30-2",
+    "cas-17980-47-1",
+    "cas-23779-32-0",
+    "cas-40372-72-3",
+    "cas-18395-30-7",
+    "cas-23843-64-3",
+    "cas-2530-87-2",
+    "cas-2530-83-8",
+    "cas-2031-67-6",
+    "cas-13822-56-5",
+    "cas-17865-07-5",
+    "cas-2943-75-1",
+    "cas-5089-72-5",
+    "cas-3179-76-8",
+    "cas-2530-83-8",
+    "cas-2031-67-6",
+    "cas-13822-56-5",
+    "cas-17865-07-5",
+    "cas-2943-75-1",
+    "cas-5089-72-5",
+    "cas-3179-76-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-24801-88-5/"
+}

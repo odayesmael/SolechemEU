@@ -1,0 +1,58 @@
+{
+  "id": "3113",
+  "name": "Trimethylsilyl triflate",
+  "slug": "cas-27607-77-8",
+  "cas": "27607-77-8",
+  "ec": "248-565-4",
+  "formula": "C4H9F3O3SSi",
+  "mw": "222.26 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Trimethylsilyl triflate ( CAS 27607-77-8 ), commonly abbreviated as TMSOTf, is a highly reactive silylating agent used across synthetic chemistry and specialty chemical manufacturing. It transfers trimethylsilyl groups to nucleophilic substrates under mild conditions. This reagent enables selective protection and activation steps that less reactive silylating agents cannot achieve efficiently. In pharmaceutical and fine chemical synthesis, it is used to install TMS-protecting groups on alcohols and amines. It is also utilized for carbonyl compounds during multi-step API manufacturing. It activates glycosyl donors in carbohydrate chemistry, making it a standard reagent in oligosaccharide and glycoconjugate synthesis processes. In polymer and materials chemistry, it initiates cationic polymerization and surface silylation processes where controlled reactivity is critical. This ensures product consistency across various industrial applications. Personal care ingredient manufacturers use it in the synthesis of silicone-modified actives and surface-treated powders. This is particularly useful where conventional silylation routes are too slow or lack the necessary selectivity. TMSOTf is supplied as a colorless to pale yellow liquid, typically in moisture-sealed packaging to preserve reactivity. Standard commercial concentrations are neat with a purity of at least 98 percent for industrial use. Anhydrous solvent solutions are also available, suited for direct use in synthesis. Technical and high-purity reagent grades are offered, with the latter meeting specifications required for pharmaceutical intermediate production. Contact us for supply of Trimethylsilyl triflate Request Quote",
+  "physicalProperties": "Melting Point: <25 °C; Boiling Point: 140-141 °C; Density: 1.225 g/cm³; Flash Point: 78 °F; Appearance: clear colourless to light brown fuming liquid; Color: Clear colorless to light brown; Form: Fuming Liquid; Water Solubility: REACTS; Vapor Pressure: 4.7 hPa (20 °C); Refractive Index: n 20/D 1.36(lit.)",
+  "safetyHandling": "Danger GHS02 GHS05 Hazard Statements H226 Flammable liquid and vapor H314 Causes severe skin burns and eye damage Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P370+P378 Use … for extinction. P403+P235 Store in a well-ventilated place. Keep cool. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 2920; ADR Class: 8; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "trimethylsilyl trifluoromethanesulfonate | TMS triflate | Trimethylsilyl trifluoromethanesulphonate | Trimethylsilyl trifluoromethylsulfonate | Methanesulfonic acid, trifluoro-, trimethylsilyl ester | Z84V0CBH9J | trimethylsilanol trifluoromethanesulfonate | Methanesulfonic acid, 1,1,1-trifluoro-, trimethylsilyl ester | TMSOTf",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-358-23-6",
+    "cas-1493-13-6",
+    "cas-2857-97-8",
+    "cas-149-73-5",
+    "cas-18162-48-6",
+    "cas-68909-20-6",
+    "cas-1185-55-3",
+    "cas-144026-79-9",
+    "cas-407-25-0",
+    "cas-2116-84-9",
+    "cas-76-05-1",
+    "cas-75-79-6",
+    "cas-1445-45-0",
+    "cas-12068-03-0",
+    "cas-144026-79-9",
+    "cas-407-25-0",
+    "cas-2116-84-9",
+    "cas-76-05-1",
+    "cas-75-79-6",
+    "cas-1445-45-0",
+    "cas-12068-03-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-27607-77-8/"
+}

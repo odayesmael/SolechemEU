@@ -1,0 +1,63 @@
+{
+  "id": "410",
+  "name": "Dicyclohexylamine",
+  "slug": "cas-101-83-7",
+  "cas": "101-83-7",
+  "ec": "202-980-7",
+  "formula": "C12H23N",
+  "mw": "181.32 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dicyclohexylamine (CAS 101-83-7 ), commonly abbreviated as DCHA, is a secondary aliphatic amine used as a chemical intermediate, catalyst, and neutralizing agent across pharmaceutical, polymer, and specialty chemical manufacturing. Its basicity and reactivity make it a building block for a range of downstream synthesis processes. In pharmaceutical manufacturing, DCHA forms stable salt complexes with acidic active ingredients, improving crystallization and purification. This material assists in the handling of intermediates during synthesis. Rubber and polymer producers use it as a vulcanization accelerator precursor and corrosion inhibitor component in metalworking and vapor-phase protection formulations. In organic synthesis and catalysis, DCHA acts as a base catalyst for condensation and esterification reactions. This is particularly useful where a hindered, non-nucleophilic amine is required for specific chemical transformations. It also appears in flavor chemistry applications under FEMA -regulated use, where it contributes to specific fragrance and flavor profiles in approved formulations. The compound is supplied as a colorless to pale yellow liquid. Standard packaging includes drum and IBC options for industrial scale. Technical grade is the most common commercial form, with pharmaceutical-grade material available to meet purity requirements for API intermediate applications. Buyers should confirm specification sheets against their synthesis or regulatory requirements, as purity thresholds vary by application. Adherence to USP or EP standards may be necessary depending on the final use case. Contact us for supply of Dicyclohexylamine Request Quote",
+  "physicalProperties": "Melting Point: -0.1 °C; Boiling Point: 255.8 °C @ Press: 760 Torr; Density: 0.9104 g/cm³ @ Temp: 25 °C; Flash Point: 205 °F; Appearance: Colorless liquid; Color: White to off-white; Odor: amine odor; Form: Crystalline Powder; Water Solubility: 1 g/L (20 ºC); Vapor Pressure: 12 mm Hg ( 37.7 °C); Refractive Index: n 20/D 1.4842(lit.); pH: 11 (1g/l, H2O, 20℃); Log P: 2.724 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 GHS06 GHS08 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H332 Harmful if inhaled H361 Suspected of damaging fertility or the unborn child H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H401 Toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29213000; UN Number: 2565; ADR Class: 8; Packing Group: III; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "N-cyclohexylcyclohexanamine | Cyclohexanamine, N-cyclohexyl- | DCHA | N,N-Dicyclohexylamine | N-Cyclohexyl-cyclohexylamine | 1A93RJW924 | Bis(cyclohexyl)amine.",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "29213000",
+  "similarProducts": [
+    "cas-98-94-2",
+    "cas-108-91-8",
+    "cas-106-20-7",
+    "cas-111-92-2",
+    "cas-103-49-1",
+    "cas-554-00-7",
+    "cas-109-89-7",
+    "cas-538-75-0",
+    "cas-7396-58-9",
+    "cas-461-58-5",
+    "cas-929-73-7",
+    "cas-660-68-4",
+    "cas-102-83-0",
+    "cas-929-06-6",
+    "cas-538-75-0",
+    "cas-7396-58-9",
+    "cas-461-58-5",
+    "cas-929-73-7",
+    "cas-660-68-4",
+    "cas-102-83-0",
+    "cas-929-06-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-101-83-7/"
+}

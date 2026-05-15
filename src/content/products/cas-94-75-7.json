@@ -1,0 +1,61 @@
+{
+  "id": "314",
+  "name": "2,4-dichlorophenoxyacetic acid",
+  "slug": "cas-94-75-7",
+  "cas": "94-75-7",
+  "ec": "202-361-1",
+  "formula": "C8H6Cl2O3",
+  "mw": "221.03 g/mol",
+  "category": "Agrochemicals",
+  "industry": [
+    "Agriculture & Feed",
+    "Home Care & Industrial Cleaning"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2,4-Dichlorophenoxyacetic acid (CAS 94-75-7 ), commonly known as 2,4-D, is a systemic herbicide active ingredient used to selectively control broadleaf weeds in agricultural and turf settings. It acts by mimicking plant growth hormones, causing uncontrolled growth in target weeds while leaving grasses largely unaffected. Formulators and agrochemical manufacturers source the acid form as the basis for a broad range of herbicide end-products. As a herbicide active ingredient, 2,4-D is formulated into amine salts, ester derivatives, and emulsifiable concentrates for use in cereal crops, pastureland, and corn production. Turf management products for golf courses, lawns, and roadside vegetation control rely on 2,4-D-based formulations to suppress dandelions, clover, and other broadleaf species. Industrial vegetation management programs, including utility rights-of-way and railway corridors, use high-concentration formulations derived from this acid. It also functions as a biocidal component in certain industrial cleaning and weed control products where selective plant elimination is required for maintenance. 2,4-D acid is supplied as a white to off-white crystalline powder. Technical grade is the standard commercial form, with purity levels typically at 96% or higher per FAO/WHO specifications. Bulk supply is available in fiber drums or multiwall bags, with formulation-grade material offered to agrochemical manufacturers and toll formulators for large-scale production. Contact us for supply of 2,4-dichlorophenoxyacetic acid Request Quote",
+  "physicalProperties": "Melting Point: 138 °C; Boiling Point: 160 °C @ Press: 0.4 Torr; Density: 1.42 g/cm³ @ Temp: 25 °C; Flash Point: 160°C/0.4mm; Appearance: 2,4-Dichlorophenoxyacetic acid is a white to yellow crystalline powder with a slight phenolic odor.; Color: off-white to tan; Form: crystalline; Water Solubility: Slightly soluble. Decomposes. 0.0890 g/100 mL; Vapor Pressure: 0.4 mm Hg ( 160 °C); Refractive Index: 1.5000 (estimate); Log P: 2.810",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H302 H302 H312 H312 H313 H313 H316 H316 H317 H317 H318 H318 H319 H319 H320 H320 H332 H332 H334 H334 H335 H335 H336 H336 H351 H351 H361 H361 H370 H370 H372 H372 H373 H373 H400 H400 H402 H402 H410 H410 H412 H412 H302+H312 H302+H312 Precautionary Statements P203 P203 P233 P233 P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P272 P272 P273 P273 P280 P280 P284 P284 P317 P317 P318 P318 P319 P319 P321 P321 P330 P330 P391 P391 P403 P403 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P317 P302+P317 P302+P352 P302+P352 P304+P340 P304+P340 P308+P316 P308+P316 P332+P317 P332+P317 P333+P317 P333+P317 P337+P317 P337+P317 P342+P316 P342+P316 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29189090; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "dichlorophenoxyacetic acid | 2,4-dichlorophenoxyethanoic acid | 2,4-D acid | 2-(2,4-dichlorophenoxy)acetic acid | (2,4-dichlorphenoxy)acetic acid | (2,4-dichlorophenyloxy)acetic acid | 2,4-D | Dicopur",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29189090",
+  "similarProducts": [
+    "cas-1918-00-9",
+    "cas-554-00-7",
+    "cas-85-00-7",
+    "cas-121-14-2",
+    "cas-71283-80-2",
+    "cas-89-61-2",
+    "cas-1912-24-9",
+    "cas-1777-82-8",
+    "cas-94050-90-5",
+    "cas-97-23-4",
+    "cas-79-11-8",
+    "cas-99129-21-2",
+    "cas-2942-59-8",
+    "cas-69377-81-7",
+    "cas-1777-82-8",
+    "cas-94050-90-5",
+    "cas-97-23-4",
+    "cas-79-11-8",
+    "cas-99129-21-2",
+    "cas-2942-59-8",
+    "cas-69377-81-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-94-75-7/"
+}

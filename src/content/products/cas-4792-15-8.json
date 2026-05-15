@@ -1,0 +1,60 @@
+{
+  "id": "1806",
+  "name": "Pentaethylene glycol",
+  "slug": "cas-4792-15-8",
+  "cas": "4792-15-8",
+  "ec": "225-341-4",
+  "formula": "C10H22O6",
+  "mw": "238.28 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Textile, Leather & Paper",
+    "Lubricants & Metalworking",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Pentaethylene glycol (CAS 4792-15-8 ), also abbreviated as PEG-5, is a mid-chain polyethylene glycol diol used as a humectant, plasticizer, and solvent across pharmaceutical, industrial, and polymer applications. Its defined five-unit ethylene oxide chain makes it a well-characterized building block for formulators requiring a specific molecular weight fraction within the PEG family. In pharmaceutical formulations, PEG-5 functions as a solvent and carrier for active ingredients in topical and semi-solid dosage forms. Polymer and plastics manufacturers incorporate it as a plasticizer. This additive helps to improve flexibility and processability in films and coatings. Textile and leather processing operations use it as a softening agent and humectant to maintain substrate moisture balance. Metalworking fluid formulators include it as a lubricant component and carrier in water-miscible cutting and grinding fluid systems. Pentaethylene glycol is supplied as a clear, viscous liquid. It is available in drum and IBC quantities suited to industrial procurement volumes. It is available in technical and pharmaceutical-grade specifications for various buyers. Buyers typically source against defined purity thresholds relevant to their regulatory requirements. Specification alignment with USP or Ph.Eur. PEG monographs should be confirmed. Consult with the supplier for regulated applications to ensure compliance. This ensures the material meets the necessary standards for your specific industrial or pharmaceutical manufacturing process. Contact us for supply of Pentaethylene glycol Request Quote",
+  "physicalProperties": "Melting Point: 187 °C; Boiling Point: 174-176 °C @ Press: 0.14 Torr; Density: 1.1424 g/cm³ (liquid) @ Temp: 50 °C; Press: 7.13 x 10⁵ Torr; Flash Point: >230 °F; Appearance: colourless liquid; Color: Clear colorless to yellow; Form: Liquid; Water Solubility: Miscible with water.; Refractive Index: n 20/D 1.462(lit.)",
+  "safetyHandling": "Warning GHS07 Hazard Statements H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29094990; Storage Class: 10 - Combustible liquids; WGK (Germany): 3",
+  "otherNames": "HO[CH2CH2O]5H | 3,6,9,12-Tetraoxatetradecane-1,14-diol | RefChem:171360 | HO-PEG5-OH | 2-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]ethanol | 1,2-Bis[2-(2-hydroxyethoxy)ethoxy]ethane | 3,6,9,12-Tetraoxatetradecan-1,14-diol | PEG-5",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "29094990",
+  "similarProducts": [
+    "cas-25322-68-3",
+    "cas-5617-32-3",
+    "cas-112-60-7",
+    "cas-5117-19-1",
+    "cas-5343-92-0",
+    "cas-111-29-5",
+    "cas-115-77-5",
+    "cas-32130-27-1",
+    "cas-1191-87-3",
+    "cas-61790-81-6",
+    "cas-23783-42-8",
+    "cas-24991-53-5",
+    "cas-9004-94-8",
+    "cas-34398-01-1",
+    "cas-32130-27-1",
+    "cas-1191-87-3",
+    "cas-61790-81-6",
+    "cas-23783-42-8",
+    "cas-24991-53-5",
+    "cas-9004-94-8",
+    "cas-34398-01-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-4792-15-8/"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "2029",
+  "name": "Stannous sulfate",
+  "slug": "cas-7488-55-3",
+  "cas": "7488-55-3",
+  "ec": "231-302-2",
+  "formula": "H2O4S.Sn",
+  "mw": "214.78 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Mining & Metals",
+    "Plastics & Polymers",
+    "Textile, Leather & Paper",
+    "Printing & Packaging",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Stannous sulfate (CAS 7488-55-3 ), also known as tin(II) sulfate, is an inorganic tin salt used primarily as a source of stannous ions in electroplating baths and surface finishing processes. It functions as a catalyst and surface modification agent across electronics manufacturing, textile processing, and specialty chemical applications. In electronics and printed circuit board manufacturing, it is a key electrolyte component. The product is used in acid tin plating baths, depositing uniform tin coatings on copper substrates for solderability and corrosion resistance. Textile and leather processors use it as a mordant and reducing agent. These applications help to fix dyes and improve color fastness on natural fibers. In the printing and packaging sector, it supports tin-based electrodeposition on metal substrates used in food-grade packaging production. It also serves as a catalyst precursor in polymer synthesis and certain organic esterification reactions where controlled stannous ion activity is required. The material is supplied as a white to off-white crystalline powder. Technical grade is the standard commercial form, with purity levels typically ranging from 95% to 99%+. High-purity grades are available for electronics and plating applications where strict tin content is necessary. These specialized grades ensure low heavy metal impurity specifications are met for sensitive industrial processes. The chemical remains a vital component for achieving high-quality surface finishes in modern manufacturing. Contact us for supply of Stannous sulfate Request Quote",
+  "physicalProperties": "Melting Point: 360 °C (decomp); Density: 1.35 g/cm³; Appearance: off-white solid; Color: White to off-white; Odor: Odorless; Form: Solid; Water Solubility: 330 g/L (20 ºC); Vapor Pressure: 0Pa at 20℃; pH: 1.6 (50g/l, H2O, 20℃)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 GHS09 Hazard Statements H315 Causes skin irritation [Warning Skin corrosion/irritation] H317 May cause an allergic skin reaction [Warning Sensitization, Skin] H318 Causes serious eye damage [Danger Serious eye damage/eye irritation] H335 May cause respiratory irritation [Warning Specific target organ toxicity, single exposure; Respiratory tract irritation] H372 Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure] H373 May causes damage to organs through prolonged or repeated exposure [Warning Specific target organ toxicity, repeated exposure] H303 May be harmful if swallowed [Warning Acute toxicity, oral] H319 Causes serious eye irritation [Warning Serious eye damage/eye irritation]",
+  "tradeRegulatory": "HS Code: 28332990; UN Number: 3260; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials",
+  "otherNames": "SnSO4 | Tin(II) sulfate | Tin(2+) sulfate | Sulfuric acid, tin(2+) salt (1:1) | 0MFE10J96E | RefChem:185365 | lambda2-tin(2+) ion sulfate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "28332990",
+  "similarProducts": [
+    "cas-12142-33-5",
+    "cas-814-94-8",
+    "cas-10025-69-1",
+    "cas-13814-97-6",
+    "cas-7772-99-8",
+    "cas-12058-66-1",
+    "cas-21651-19-4",
+    "cas-12027-70-2",
+    "cas-13464-82-9",
+    "cas-301-10-0",
+    "cas-7783-47-3",
+    "cas-15578-26-4",
+    "cas-7646-78-8",
+    "cas-18282-10-5",
+    "cas-12027-70-2",
+    "cas-13464-82-9",
+    "cas-301-10-0",
+    "cas-7783-47-3",
+    "cas-15578-26-4",
+    "cas-7646-78-8",
+    "cas-18282-10-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7488-55-3/"
+}

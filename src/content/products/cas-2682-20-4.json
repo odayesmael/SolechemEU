@@ -1,0 +1,64 @@
+{
+  "id": "1638",
+  "name": "Methylisothiazolinone",
+  "slug": "cas-2682-20-4",
+  "cas": "2682-20-4",
+  "ec": "220-239-6",
+  "formula": "C4H5NOS",
+  "mw": "115.16 g/mol",
+  "category": "Flame Retardants",
+  "industry": [
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Textile, Leather & Paper",
+    "Water Treatment",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Methylisothiazolinone (CAS 2682-20-4 ), commonly abbreviated as MIT, is a broad-spectrum biocide used to control microbial growth in aqueous industrial and consumer formulations. It targets bacteria, fungi, and algae at low concentrations. This makes it a cost-effective preservation solution across multiple sectors. In coatings, paints, and adhesives, MIT is used as an in-can preservative to prevent spoilage during storage and extend shelf life. Water treatment facilities apply it to control biofouling in cooling towers, industrial water systems, and paper mill process water. In personal care, MIT appears in rinse-off products such as shampoos and liquid soaps. In these applications, it prevents microbial contamination throughout the product's use cycle. Textile and leather processing operations use it to protect wet-processed materials and finished goods from degradation. This protection is vital against bacterial and fungal degradation during production and transit. MIT is supplied as an aqueous solution, typically at concentrations of 9.5% or 14% for various uses. Higher-concentration formulations are available for industrial use. It is commonly offered in technical grade for industrial applications and in cosmetic-grade specifications meeting relevant regulatory standards. Packaging ranges from drums to IBC containers depending on volume requirements. This versatile biocide remains a staple for manufacturers requiring reliable microbial control in diverse liquid environments. Contact us for supply of Methylisothiazolinone Request Quote",
+  "physicalProperties": "Melting Point: 44 °C; Boiling Point: 85 °C @ Press: 1.0 Torr; Density: 1.25 (14% aq.); Color: Yellow; Form: neat; Water Solubility: 489g/L at 20℃; Vapor Pressure: <0.1 mm Hg ( 25 °C); Log P: -0.486 at 20℃",
+  "safetyHandling": "Danger GHS05 GHS06 GHS09 GHS07 GHS08 Hazard Statements H301 Toxic if swallowed H302 Harmful if swallowed H311 Toxic in contact with skin H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H330 Fatal if inhaled H331 Toxic if inhaled H335 May cause respiratory irritation H370 Causes damage to organs H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H301+H311 Toxic if swallowed or in contact with skin Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P262 Do not get in eyes, on skin, or on clothing. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P320 Specific treatment is urgent (see … on this label). P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P361+P364 Take off immediately all contaminated clothing and wash it before reuse. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; UN Number: 3077; ADR Class: 9; Packing Group: III; WGK (Germany): 2",
+  "otherNames": "2-Methyl-3(2H)-isothiazolone | 2-Methyl-4-isothiazolin-3-one | 2-Methyl-4-isothiazoline-3-one | N-methylisothiazolone | 3(2H)-Isothiazolone, 2-methyl- | 2-methyl-3-isothiazolone | n-methylisothiazolin-3-one | Neolone 950 | MIT",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06",
+    "GHS09",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-55965-84-9",
+    "cas-26172-55-4",
+    "cas-2634-33-5",
+    "cas-1003-07-2",
+    "cas-99-76-3",
+    "cas-35691-65-7",
+    "cas-26530-20-1",
+    "cas-6317-18-6",
+    "cas-108-10-1",
+    "cas-6440-58-0",
+    "cas-66204-44-2",
+    "cas-4080-31-3",
+    "cas-55406-53-6",
+    "cas-547-63-7",
+    "cas-6317-18-6",
+    "cas-108-10-1",
+    "cas-6440-58-0",
+    "cas-66204-44-2",
+    "cas-4080-31-3",
+    "cas-55406-53-6",
+    "cas-547-63-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2682-20-4/"
+}

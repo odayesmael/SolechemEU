@@ -1,0 +1,60 @@
+{
+  "id": "1207",
+  "name": "Ethyl methyl carbonate",
+  "slug": "cas-623-53-0",
+  "cas": "623-53-0",
+  "ec": "433-480-9",
+  "formula": "C4H8O3",
+  "mw": "104.10 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Home Care & Industrial Cleaning",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Ethyl methyl carbonate ( CAS 623-53-0 ), commonly abbreviated as EMC, is a linear organic carbonate ester used as a high-purity solvent and electrolyte component across battery and pharmaceutical manufacturing. Its low viscosity and broad solvency profile make it a preferred carrier in formulations requiring controlled evaporation and chemical compatibility. EMC is a primary electrolyte solvent in lithium-ion battery manufacturing. In this application, it is blended with other carbonates to optimize ionic conductivity and cycle performance. In pharmaceutical synthesis, it functions as a reaction solvent and intermediate for active ingredient processing. This is particularly useful where low toxicity and clean evaporation profiles are required. Industrial and specialty cleaning formulations use EMC as a carrier solvent to dissolve resins, coatings, and adhesive residues. It performs these tasks without aggressive substrate attack. It also appears in flavor and fragrance compounding as a solvent carrier for sensitive aroma compounds requiring controlled release during application. Ethyl methyl carbonate is supplied as a clear liquid in drum, IBC, and bulk quantities. Battery-grade and high-purity electronic grades are the most commercially prominent specifications for industrial use. These grades feature defined water content and metal ion limits critical for electrolyte applications. Pharmaceutical-grade material is available from select suppliers where process purity documentation is required. Contact us for supply of Ethyl methyl carbonate Request Quote",
+  "physicalProperties": "Melting Point: -55 °C; Boiling Point: 107 °C; Density: 1.00086 g/cm³ @ Temp: 30 °C; Flash Point: 23°C; Color: Colorless to Almost colorless; Form: clear liquid; Water Solubility: 46.8-47.1g/L at 20℃; Vapor Pressure: 43hPa at 25℃; Refractive Index: n20/D 1.378; Log P: 0.972 at 40℃",
+  "safetyHandling": "Danger GHS02 GHS07 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29209090; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "Carbonic acid, ethyl methyl ester | Ester solvent | Methyl Ethyl Carbonate | Ethoxyacetic acid, methyl ester | OU358HAE25 | C2H5OCOOCH3 | EMC | Ethylene methyl carbonate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07"
+  ],
+  "hsCode": "29209090",
+  "similarProducts": [
+    "cas-96-49-1",
+    "cas-616-38-6",
+    "cas-105-58-8",
+    "cas-109-86-4",
+    "cas-108-32-7",
+    "cas-624-78-2",
+    "cas-4437-85-8",
+    "cas-1002-67-1",
+    "cas-110-71-4",
+    "cas-97-63-2",
+    "cas-872-36-6",
+    "cas-9004-59-5",
+    "cas-111-12-6",
+    "cas-103429-90-9",
+    "cas-1002-67-1",
+    "cas-110-71-4",
+    "cas-97-63-2",
+    "cas-872-36-6",
+    "cas-9004-59-5",
+    "cas-111-12-6",
+    "cas-103429-90-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-623-53-0/"
+}

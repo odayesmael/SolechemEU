@@ -1,0 +1,61 @@
+{
+  "id": "1589",
+  "name": "4-Hydroxy-TEMPO",
+  "slug": "cas-2226-96-2",
+  "cas": "2226-96-2",
+  "ec": "218-760-9",
+  "formula": "C9H18NO2",
+  "mw": "172.24 g/mol",
+  "category": "Heterocyclic Compounds",
+  "industry": [
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "4-Hydroxy-TEMPO (CAS 2226-96-2 ), commercially known as TEMPOL, is a stable nitroxide radical used across polymer, pharmaceutical, and personal care manufacturing. It functions primarily as a polymerization inhibitor and radical scavenger. This chemical acts as a process stabilizer, preventing premature crosslinking or degradation during production and storage. In polymer and resin manufacturing, it inhibits unwanted radical polymerization in monomer streams. By protecting product integrity during transport and storage, it ensures high-quality outcomes. Pharmaceutical manufacturers use it as a controlled radical mediator in active ingredient synthesis and as an antioxidant stabilizer. In personal care, it is incorporated into formulations requiring oxidative stability. This is particularly important where free radical chain reactions would compromise shelf life or efficacy in the final consumer product. TEMPOL also serves as a catalyst in selective oxidation reactions, including the conversion of primary alcohols to aldehydes. This functionality is essential in fine chemical and API synthesis workflows for modern medicine. The product is supplied as a crystalline solid, typically as an orange to red-orange powder or granules. It is available in technical and high-purity grades, with purity specifications commonly ranging from 97% to 99%+. These grades are suitable for research, pharmaceutical, and industrial applications. Packaging options range from small laboratory quantities to bulk industrial supply, depending on specific application requirements and scale. Contact us for supply of 4-Hydroxy-TEMPO Request Quote",
+  "physicalProperties": "Melting Point: 71-73 °C; Boiling Point: 302.58°C (rough estimate); Density: 1.0402 (rough estimate); Flash Point: 146°(295°F); Appearance: solid; Color: Orange; Form: Crystals or Crystalline Powder; Water Solubility: soluble; Vapor Pressure: 0.025Pa at 20℃; Refractive Index: 1.4350 (estimate); pH: 8.2 (20g/l, H2O, 20℃); Log P: 0.56 at 25℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS08 Hazard Statements H302 H302 H315 H315 H318 H318 H319 H319 H335 H335 H373 H373 H412 H412 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P273 P273 P280 P280 P317 P317 P319 P319 P321 P321 P330 P330 P405 P405 P501 P501 P264+P265 P264+P265 P301+P317 P301+P317 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 29333999; Storage Class: 11 - Combustible Solids; WGK (Germany): 1",
+  "otherNames": "Tempol",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1578496780896-7259c4808de4?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29333999",
+  "similarProducts": [
+    "cas-144-19-4",
+    "cas-100418-33-5",
+    "cas-5080-22-8",
+    "cas-945558-97-4",
+    "cas-36016-38-3",
+    "cas-75-91-2",
+    "cas-7803-49-8",
+    "cas-140-66-9",
+    "cas-112-57-2",
+    "cas-75980-60-8",
+    "cas-5470-11-1",
+    "cas-77-99-6",
+    "cas-88-27-7",
+    "cas-110-18-9",
+    "cas-140-66-9",
+    "cas-112-57-2",
+    "cas-75980-60-8",
+    "cas-5470-11-1",
+    "cas-77-99-6",
+    "cas-88-27-7",
+    "cas-110-18-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2226-96-2/"
+}

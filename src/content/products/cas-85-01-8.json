@@ -1,0 +1,60 @@
+{
+  "id": "251",
+  "name": "Phenanthrene",
+  "slug": "cas-85-01-8",
+  "cas": "85-01-8",
+  "ec": "201-581-5",
+  "formula": "C14H10",
+  "mw": "178.23 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Printing & Packaging",
+    "Personal Care & Cosmetics",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phenanthrene (CAS 85-01-8 ), also known commercially as Ravatite, is a polycyclic aromatic hydrocarbon derived primarily from coal tar distillation. It functions as a chemical intermediate and reference standard across dye synthesis and fragrance research. This compound is essential in specialty chemical manufacturing and pigment production. It serves as a precursor in the synthesis of certain vat dyes and fluorescent compounds used in printing inks and packaging coatings. Fragrance researchers use it as a structural reference and intermediate in the development of polycyclic aromatic musks and specialty aroma chemicals. It provides a foundational structure for various high-performance industrial applications. In analytical and quality control laboratories, it is sourced as a certified reference material for PAH testing in food contact materials. This ensures compliance with safety protocols for various packaging substrates and consumer goods. Cosmetic formulators and raw material evaluators also encounter it as a benchmark compound when screening for PAH contamination. This is particularly important when testing petroleum-derived ingredients for purity and safety. The product is available as a white to pale yellow crystalline solid or powder. Standard supply grades include technical grade and high-purity grades of 98% or higher for industrial use. Research and analytical grades are offered at 99% purity for reference standard applications. Packaging ranges from small quantities for laboratory use to bulk quantities for industrial intermediate applications. Contact us for supply of Phenanthrene Request Quote",
+  "physicalProperties": "Melting Point: 101 °C; Boiling Point: 340 °C; Density: 0.9800 g/cm³ @ Temp: 4 °C; Flash Point: 99-101°C; Appearance: Phenanthrene is a white crystalline substance. Weak aromatic odor. Polycyclic aromatic hydrocarbons (PAHs) are compounds containing multiple benzene rings and are also called polynuclear aromatic hydrocarbons.; Color: brown; Form: platelets (fine); Water Solubility: insoluble; Vapor Pressure: 0.00012 hPa (20 °C); Refractive Index: 1.5943",
+  "safetyHandling": "Warning GHS07 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H319 Causes serious eye irritation H335 May cause respiratory irritation H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29029090; UN Number: 3077; ADR Class: 9; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "Ravatite | 448J8E5BST | [3]Helicene",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "29029090",
+  "similarProducts": [
+    "cas-120-12-7",
+    "cas-129-00-0",
+    "cas-83-32-9",
+    "cas-206-44-0",
+    "cas-86-73-7",
+    "cas-82-76-8",
+    "cas-62-44-2",
+    "cas-108-95-2",
+    "cas-208-96-8",
+    "cas-84-65-1",
+    "cas-85-44-9",
+    "cas-156-06-9",
+    "cas-77-09-8",
+    "cas-91-20-3",
+    "cas-108-95-2",
+    "cas-208-96-8",
+    "cas-84-65-1",
+    "cas-85-44-9",
+    "cas-156-06-9",
+    "cas-77-09-8",
+    "cas-91-20-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-85-01-8/"
+}

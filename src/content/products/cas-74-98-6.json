@@ -1,0 +1,61 @@
+{
+  "id": "140",
+  "name": "Propane",
+  "slug": "cas-74-98-6",
+  "cas": "74-98-6",
+  "ec": "200-827-9",
+  "formula": "C3H8",
+  "mw": "44.10 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Automotive",
+    "Food & Nutrition",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Propane (CAS 74-98-6 ), also supplied under the refrigerant designation R-290 and approved as food propellant E944 , is a liquefied hydrocarbon gas sourced for use as a solvent. It functions as an aerosol propellant and fuel across multiple industrial sectors. In the oil and gas industry, propane serves as a solvent in deasphalting processes for lubricant base stocks. It selectively separates heavy residual oils to produce cleaner refinery streams. Food-grade propane is used as a propellant in aerosol food products, dispensing whipped creams and cooking sprays. This application ensures products are dispensed without leaving residue or affecting flavor. In automotive and energy markets, it functions as a liquefied petroleum gas fuel for fleet vehicles. It is also utilized for industrial burners and portable heating equipment. As a refrigerant, R-290 is increasingly adopted in commercial refrigeration systems as a low-GWP alternative to synthetic refrigerants. Propane is supplied as a compressed liquefied gas in cylinders, bulk tanks, and ISO containers. Food-grade and aerosol-grade propane is available to FCC specification for regulated use. These grades are suitable for use in various food and cosmetic applications. Technical-grade supply is standard for fuel, refrigeration, and industrial solvent applications across the global market. Contact us for supply of Propane Request Quote",
+  "physicalProperties": "Melting Point: -189.7 °C; Boiling Point: -42.1 °C @ Press: 800 Torr; Density: 0.5853 g/cm³ @ Temp: -45 °C; Flash Point: -104 °C; Appearance: Propane is a colorless gas that is odorless when pure (a foul-smelling odorant is often added); Form: liquid; Water Solubility: 62.61mg/L(25 ºC); Vapor Pressure: 190 psi ( 37.7 °C); Refractive Index: 1.2861; Log P: 2.360",
+  "safetyHandling": "Danger GHS02 GHS04 GHS07 Hazard Statements H220 Extremely flammable gas H280 Contains gas under pressure; may explode if heated H336 May cause drowsiness or dizziness Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P222 Do not allow contact with air. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P377 Leaking gas fire: Do not extinguish, unless leak can be stopped safely. P381 In case of leakage, eliminate all ignition sources. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P410+P403 Protect from sunlight. Store in a well-ventilated place.",
+  "tradeRegulatory": "UN Number: 1978; ADR Class: 2.1",
+  "otherNames": "R-290 | propyl hydride | n-propane | HC-290 | E944 | dimethyl methane | CH3-CH2-CH3 | CARE-40",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS04",
+    "GHS07"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-75-28-5",
+    "cas-106-97-8",
+    "cas-124-38-9",
+    "cas-57-55-6",
+    "cas-78-78-4",
+    "cas-106-36-5",
+    "cas-287-92-3",
+    "cas-10024-97-2",
+    "cas-71-23-8",
+    "cas-7440-59-7",
+    "cas-7440-37-1",
+    "cas-79-09-4",
+    "cas-4254-15-3",
+    "cas-106-94-5",
+    "cas-10024-97-2",
+    "cas-71-23-8",
+    "cas-7440-59-7",
+    "cas-7440-37-1",
+    "cas-79-09-4",
+    "cas-4254-15-3",
+    "cas-106-94-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-74-98-6/"
+}

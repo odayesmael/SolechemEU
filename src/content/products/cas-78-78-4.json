@@ -1,0 +1,63 @@
+{
+  "id": "202",
+  "name": "Isopentane",
+  "slug": "cas-78-78-4",
+  "cas": "78-78-4",
+  "ec": "201-142-8",
+  "formula": "C5H12",
+  "mw": "72.15 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Pharmaceuticals & Healthcare",
+    "Oil, Gas & Energy",
+    "Food & Nutrition",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Isopentane (CAS 78-78-4 ), also supplied under the refrigerant designation R-601a, is a highly volatile hydrocarbon solvent used across industrial, laboratory, and specialty gas applications. Its rapid evaporation rate makes it a preferred carrier and blowing agent where low residue and fast flash-off are critical procurement requirements for various manufacturing processes. In the pharmaceutical and biomedical sector, isopentane is used as a cryogenic tissue-freezing medium, enabling rapid specimen preservation without the cracking associated with liquid nitrogen. As a blowing agent in expandable polystyrene and polyolefin foam manufacturing, it controls cell structure and density in insulation and packaging materials for the construction industry. In the oil and gas industry, it functions as a component in natural gasoline blending and as a reference standard in hydrocarbon analysis for laboratory testing and calibration. Flavor manufacturers also use isopentane as a low-boiling solvent carrier in the extraction and processing of volatile aroma compounds to ensure high-quality sensory profiles in final products. Isopentane is supplied as a liquefied gas or pressurized liquid at ambient temperature, typically in cylinders, drums, and isotanks depending on specific volume requirements of the client. Standard commercial grades include high-purity research grade and technical grade for industrial blowing agent applications. Anhydrous and low-sulfur specifications are available to meet process sensitivity. Contact us for supply of Isopentane Request Quote",
+  "physicalProperties": "Melting Point: -159.9 °C; Boiling Point: 27.8 °C @ Press: 760 Torr; Density: 0.6201 g/cm³ @ Temp: 20 °C; Flash Point: −51 °C; Appearance: colourless liquid with a characteristic smell; Color: Clear colorless; Odor: gasoline-like odor; Form: Liquid; Water Solubility: Miscible with water, hydrocarbons, oils, alcohol and ether.; Vapor Pressure: 11.17 psi ( 20 °C); Refractive Index: n 20/D 1.354(lit.); Log P: 3.4 at 20℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H224 Extremely flammable liquid and vapor H304 May be fatal if swallowed and enters airways H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29011000; UN Number: 1265; ADR Class: 3; Packing Group: I; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "R-601a | iso-C5H12 | 1,1,2-trimethylethane | 1,1-dimethylpropane | (CH3)2CH-CH2-CH3 | 2-methylbutane | Butane, 2-methyl-",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29011000",
+  "similarProducts": [
+    "cas-75-28-5",
+    "cas-287-92-3",
+    "cas-106-97-8",
+    "cas-78-59-1",
+    "cas-74-98-6",
+    "cas-142-82-5",
+    "cas-75-26-3",
+    "cas-78-83-1",
+    "cas-31807-55-3",
+    "cas-67-63-0",
+    "cas-939-48-0",
+    "cas-78-81-9",
+    "cas-108-11-2",
+    "cas-123-51-3",
+    "cas-78-83-1",
+    "cas-31807-55-3",
+    "cas-67-63-0",
+    "cas-939-48-0",
+    "cas-78-81-9",
+    "cas-108-11-2",
+    "cas-123-51-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-78-78-4/"
+}

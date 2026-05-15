@@ -1,0 +1,57 @@
+{
+  "id": "2185",
+  "name": "Deuterium oxide",
+  "slug": "cas-7789-20-0",
+  "cas": "7789-20-0",
+  "ec": "232-148-9",
+  "formula": "D2O",
+  "mw": "20.028 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Electronics",
+    "Pharmaceuticals & Healthcare",
+    "Biotechnology & Life Sciences"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Deuterium oxide (CAS 7789-20-0 ), commonly known as heavy water or D₂O, is the isotopically enriched form of water in which hydrogen atoms are replaced by deuterium. It functions primarily as a solvent and isotopic tracer across research and industrial environments. In NMR spectroscopy, D₂O is used as a reference solvent to suppress background signals, enabling accurate structural analysis of pharmaceutical compounds and biologics. This ensures high precision in molecular characterization. Semiconductor and electronics manufacturers use it in specialized etching and deposition processes where isotopic purity affects process control. It is essential for maintaining the integrity of advanced electronic components. In pharmaceutical manufacturing, it supports isotope labeling studies and stable isotope-tagged API synthesis. Here, deuterium incorporation is a deliberate design element for drug development and metabolic studies. Life science researchers rely on D₂O in cell culture and metabolic flux studies to trace biochemical pathways without radioactive materials. This provides a safe and effective method for observing complex biological systems. Deuterium oxide is supplied as a clear liquid, with isotopic purity typically ranging from 99.8% to 99.96% atom % D depending on intended use. NMR-grade and analytical-grade specifications are the most commonly stocked. Pharmaceutical-grade material is available under GMP conditions for regulated applications. This ensures compliance with strict industry requirements for safety and quality in manufacturing processes. Packaging ranges from small ampoules for laboratory use to bulk quantities for industrial or manufacturing supply. We provide flexible logistics solutions to meet the specific volume requirements of our global clients. Contact us for supply of Deuterium oxide Request Quote",
+  "physicalProperties": "Melting Point: 3.81 °C; Boiling Point: 101.42 °C; Density: 1.107 g/cm³; Flash Point: 101.4°C; Appearance: colourless liquid; Color: Colorless; Form: Liquid; Water Solubility: Miscible with water.; Vapor Pressure: 27.464hPa at 25℃; Refractive Index: n 20/D 1.328(lit.); pH: 7 (H2O, 20℃)",
+  "safetyHandling": "",
+  "tradeRegulatory": "HS Code: 28451000; Storage Class: 12 - Non Combustible Liquids; WGK (Germany): 3",
+  "otherNames": "dideuterium monoxide | D₂O | Heavy water | Deuterated water | Water-d2 | Dideuterium oxide | Heavy water (D2O) | Water-d sub(2)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "28451000",
+  "similarProducts": [
+    "cas-67-68-5",
+    "cas-77-76-9",
+    "cas-7732-18-5",
+    "cas-123-91-1",
+    "cas-110-71-4",
+    "cas-298-07-7",
+    "cas-541-05-9",
+    "cas-68-12-2",
+    "cas-3710-84-7",
+    "cas-7803-57-8",
+    "cas-7722-84-1",
+    "cas-10217-52-4",
+    "cas-77-71-4",
+    "cas-107-46-0",
+    "cas-68-12-2",
+    "cas-3710-84-7",
+    "cas-7803-57-8",
+    "cas-7722-84-1",
+    "cas-10217-52-4",
+    "cas-77-71-4",
+    "cas-107-46-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7789-20-0/"
+}

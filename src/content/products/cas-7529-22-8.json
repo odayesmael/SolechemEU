@@ -1,0 +1,63 @@
+{
+  "id": "2032",
+  "name": "n-methylmorpholine n-oxide",
+  "slug": "cas-7529-22-8",
+  "cas": "7529-22-8",
+  "ec": "231-391-8",
+  "formula": "C5H11NO2",
+  "mw": "117.15 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "N-Methylmorpholine N-oxide (CAS 7529-22-8 ), commonly known as NMO, is a stable, recyclable oxidant used across chemical synthesis and industrial processing. It functions primarily as a co-oxidant in catalytic oxidation reactions. The compound also serves as a cellulose dissolution agent in fiber production. In textile and pulp manufacturing, NMO is the solvent system of choice for dissolving cellulose in the Lyocell process. This application enables the production of fibers such as Tencel. Synthetic chemists rely on NMO as the stoichiometric co-oxidant in Sharpless dihydroxylation and Ley oxidation protocols. In these processes, it regenerates osmium tetroxide or TPAP catalysts in situ. In biotechnology and life sciences, NMO supports selective oxidation steps in the synthesis of complex molecules. This includes the production of carbohydrates and pharmaceutical intermediates. Water treatment applications utilize NMO-based oxidation systems for degrading recalcitrant organic compounds. NMO is supplied as an aqueous solution, most commonly at 50% concentration, and as a monohydrate powder for applications requiring precise stoichiometry for chemical reactions. Technical and reagent grades are available to serve both industrial-scale fiber processing and laboratory synthesis demands. Packaging ranges from small quantities to bulk drum supply. These options support research use as well as continuous manufacturing operations. Our product meets rigorous industry requirements for purity and performance in diverse chemical environments. Contact us for supply of n-methylmorpholine n-oxide Request Quote",
+  "physicalProperties": "Melting Point: 120-160 °C; Boiling Point: 118-119°C; Density: 1,14 g/cm 3; Flash Point: 118-119°C; Appearance: Clear colorless to yellow solution; Color: Clear colorless to yellow; Form: Liquid; Water Solubility: Soluble in water, methanol, ethanol, acetone, ethers and dimethylsulfoxide.; Vapor Pressure: 1.41hPa at 20℃; Refractive Index: n 20/D 1.43; pH: 9.00 ( in neat); Log P: -1.2 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS03 GHS07 GHS08 Hazard Statements H228 Flammable solid H272 May intensify fire; oxidizer H315 Causes skin irritation H319 Causes serious eye irritation H335 May cause respiratory irritation H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29349990; Storage Class: 4.1B - Flammable solid hazardous materials; WGK (Germany): 1",
+  "otherNames": "N-Methylmorpholine oxide | N-Methylmorpholine 4-oxide | 4-Methylmorpholine-4-oxide | NMO | 4-Methylmorpholine N-oxide | Morpholine, 4-methyl-, 4-oxide | Methyl morpholine oxide | 4-Methylmorpholine Oxide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS03",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29349990",
+  "similarProducts": [
+    "cas-109-02-4",
+    "cas-872-50-4",
+    "cas-4394-85-8",
+    "cas-100-74-3",
+    "cas-3332-27-2",
+    "cas-924-42-5",
+    "cas-75-52-5",
+    "cas-110-91-8",
+    "cas-67806-10-4",
+    "cas-7378-99-6",
+    "cas-1852-16-0",
+    "cas-1313-27-5",
+    "cas-96-29-7",
+    "cas-2605-79-0",
+    "cas-110-91-8",
+    "cas-67806-10-4",
+    "cas-7378-99-6",
+    "cas-1852-16-0",
+    "cas-1313-27-5",
+    "cas-96-29-7",
+    "cas-2605-79-0"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7529-22-8/"
+}

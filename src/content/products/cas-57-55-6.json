@@ -1,0 +1,61 @@
+{
+  "id": "49",
+  "name": "Propylene glycol",
+  "slug": "cas-57-55-6",
+  "cas": "57-55-6",
+  "ec": "200-338-0",
+  "formula": "C3H8O2",
+  "mw": "76.09 g/mol",
+  "category": "Solvents",
+  "industry": [
+    "Plastics & Polymers",
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Propylene glycol (CAS 57-55-6 ), commonly abbreviated as PG and approved as E1520 in food applications, is a synthetic diol used across food, pharmaceutical, personal care, and industrial sectors. It functions primarily as a humectant, solvent, and carrier, retaining moisture in formulations and solubilizing active ingredients that are otherwise difficult to deliver effectively in various mediums. In food and beverage manufacturing, PG carries flavors, colors, and preservatives in products where water or oil-based solvents are unsuitable for the specific formulation requirements of the manufacturer. Pharmaceutical formulators rely on it as a solvent and co-solvent in oral liquids, topical creams, and injectable preparations where consistent solubility and stability are required for the final product. Personal care producers use it to control moisture retention in lotions, serums, and hair care products while also improving texture and ingredient compatibility across a wide range of cosmetic applications. In unsaturated polyester resin production, PG acts as a reactive diol in the polymer backbone, contributing to cross-linking and final resin performance for industrial and construction materials. Propylene glycol is supplied as a clear, low-viscosity liquid in bulk, IBC, and drum formats. Recognized grades include USP / EP for pharmaceutical and food use, and FCC for food-grade applications. Technical grade is available for industrial and polymer processing. USP and FCC grades are the most commonly specified by procurement teams sourcing for highly regulated global end markets. Contact us for supply of Propylene glycol Request Quote",
+  "physicalProperties": "Melting Point: -59 °C; Boiling Point: 188.2 °C; Density: 1.036 g/cm³ @ Temp: 25 °C; Flash Point: 225 °F; Appearance: Propylene glycol is a colorless, odorless, syrupy liquid.; Color: APHA: ≤10; Odor: at 100.00 %. odorless very slight alcoholic; Form: Viscous Liquid; Water Solubility: miscible; Vapor Pressure: 0.08 mm Hg ( 20 °C); Refractive Index: n 20/D 1.432(lit.); pH: 6-8 (100g/l, H2O, 20℃); Log P: -0.92",
+  "safetyHandling": "Danger GHS07 GHS08 Hazard Statements H336 May cause drowsiness or dizziness H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure Precautionary Statements P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P403+P233 Store in a well-ventilated place. Keep container tightly closed.",
+  "tradeRegulatory": "HS Code: 29053200; Storage Class: 10 - Combustible liquids; WGK (Germany): 1",
+  "otherNames": "HOCH2CH(OH)CH3 | DL-propylene glycol | DL-1,2-propanediol | CH3CH(OH)CH2OH | alpha-propyleneglycol | 2,3-propanediol | 2-hydroxypropanol | 1,2-propylene glycol | PG | E1520",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29053200",
+  "similarProducts": [
+    "cas-4254-15-3",
+    "cas-25322-69-4",
+    "cas-623-84-7",
+    "cas-85252-24-0",
+    "cas-1323-39-3",
+    "cas-25265-71-8",
+    "cas-121-79-9",
+    "cas-110-98-5",
+    "cas-56-81-5",
+    "cas-1569-02-4",
+    "cas-7384-98-7",
+    "cas-41593-38-8",
+    "cas-68332-79-6",
+    "cas-106-62-7",
+    "cas-110-98-5",
+    "cas-56-81-5",
+    "cas-1569-02-4",
+    "cas-7384-98-7",
+    "cas-41593-38-8",
+    "cas-68332-79-6",
+    "cas-106-62-7"
+  ],
+  "url": "https://www.solechem.eu/products/cas-57-55-6/"
+}

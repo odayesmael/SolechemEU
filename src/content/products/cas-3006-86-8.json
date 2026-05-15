@@ -1,0 +1,61 @@
+{
+  "id": "1672",
+  "name": "1,1-Di(tert-butylperoxy)cyclohexane",
+  "slug": "cas-3006-86-8",
+  "cas": "3006-86-8",
+  "ec": "221-111-2",
+  "formula": "C14H28O4",
+  "mw": "260.37 g/mol",
+  "category": "Oxidizers & Peroxides",
+  "industry": [
+    "Plastics & Polymers",
+    "Rubber & Tire",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "1,1-Di(tert-butylperoxy)cyclohexane (CAS 3006-86-8 ), commercially known as Perkadox 16, initiates free-radical reactions that drive polymer crosslinking and addition polymerization. It belongs to the dialkyl peroxide class and is selected for its mid-range decomposition temperature, which suits a broad range of processing conditions across rubber and plastics manufacturing. In rubber compounding, it crosslinks EPDM, silicone, and natural rubber to produce vulcanizates with improved heat resistance and compression set performance for industrial applications. Unsaturated polyester and acrylic resin producers use it as a high-temperature cure initiator where controlled exotherm and thorough through-cure are essential process requirements. In wire and cable insulation, it initiates peroxide crosslinking of polyethylene to meet electrical and thermal performance specifications. Adhesive and sealant formulators incorporate it into systems. These systems require elevated-temperature activation and durable bond strength under thermal cycling. It is supplied as a liquid concentrate, typically at 50% active content on an inert carrier. This format simplifies handling and metering in industrial processes. Material is provided as a Technical-grade offering, with purity and active oxygen content specified per batch documentation. Packaging ranges from drums to intermediate bulk containers depending on volume requirements. All batches are manufactured to meet rigorous industrial safety and performance benchmarks. Contact us for supply of 1,1-Di(tert-butylperoxy)cyclohexane Request Quote",
+  "physicalProperties": "Melting Point: 65 °C (SADT); Boiling Point: 55 °C @ Press: 0.01 Torr; Density: 0.941 g/cm³ @ Temp: 20 °C; Flash Point: 155 °F; Appearance: clear liquid; Color: Clear; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 4.88hPa at 25℃; Refractive Index: n 20/D 1.435; Log P: 7.2 at 25℃",
+  "safetyHandling": "Danger GHS02 GHS07 GHS01 Hazard Statements H227 H227 H241 H241 H242 H242 H315 H315 H319 H319 H335 H335 H413 H413 Precautionary Statements P210 P210 P234 P234 P235 P235 P240 P240 P261 P261 P264 P264 P271 P271 P273 P273 P280 P280 P319 P319 P321 P321 P378 P378 P403 P403 P405 P405 P410 P410 P411 P411 P420 P420 P501 P501 P264+P265 P264+P265 P302+P352 P302+P352 P304+P340 P304+P340 P332+P317 P332+P317 P337+P317 P337+P317 P362+P364 P362+P364 P370+P378 P370+P378 P403+P233 P403+P233 P305+P351+P338 P305+P351+P338 P370+P380+P375 P370+P380+P375",
+  "tradeRegulatory": "HS Code: 29096000; UN Number: 3103; ADR Class: 5.2; Storage Class: 4.1A - Other explosive hazardous materials; WGK (Germany): 2",
+  "otherNames": "Perkadox gb-50x | 1,1-bis(tert-butylperoxy)cyclohexane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS01"
+  ],
+  "hsCode": "29096000",
+  "similarProducts": [
+    "cas-78-63-7",
+    "cas-80-43-3",
+    "cas-13122-18-4",
+    "cas-110-05-4",
+    "cas-3851-87-4",
+    "cas-80-15-9",
+    "cas-614-45-9",
+    "cas-29240-17-3",
+    "cas-762-12-9",
+    "cas-1338-23-4",
+    "cas-1931-62-0",
+    "cas-28324-52-9",
+    "cas-927-07-1",
+    "cas-107-71-1",
+    "cas-29240-17-3",
+    "cas-762-12-9",
+    "cas-1338-23-4",
+    "cas-1931-62-0",
+    "cas-28324-52-9",
+    "cas-927-07-1",
+    "cas-107-71-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-3006-86-8/"
+}

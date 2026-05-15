@@ -1,0 +1,59 @@
+{
+  "id": "2374",
+  "name": "Glucose oxidase",
+  "slug": "cas-9001-37-0",
+  "cas": "9001-37-0",
+  "ec": "232-601-0",
+  "formula": "Unspecified",
+  "mw": "180.16 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Food & Nutrition"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Glucose oxidase (CAS 9001-37-0 ), also known as GOX, is an oxidoreductase enzyme that catalyzes the oxidation of glucose to gluconic acid and hydrogen peroxide. Commercially sourced primarily from Aspergillus niger and Penicillium species, it is used across food processing and biotechnology. In baking, GOX strengthens dough by generating hydrogen peroxide in situ, which oxidizes gluten proteins to improve dough handling and loaf volume. It functions as a clean-label alternative to chemical oxidants like bromate in commercial bread production. Diagnostic manufacturers use it as the active enzyme in glucose biosensors and test strips for blood glucose monitoring. Its high substrate specificity is critical to measurement accuracy in medical and laboratory settings. In food and beverage processing, GOX acts as an oxygen scavenger to extend shelf life by removing dissolved oxygen from packaging headspace or liquid products. This prevents oxidative spoilage and maintains the sensory profile of the product. Pharmaceutical and biotech producers also use it as a hydrogen peroxide-generating system in antimicrobial formulations. It is frequently utilized in enzyme-coupled assay development for various research and clinical applications. Glucose oxidase is supplied as a lyophilized powder or liquid concentrate, with activity expressed in units per milligram or milliliter. Food-grade and reagent-grade specifications are standard for industrial use. Food applications typically requiring compliance with FCC or Ph. Eur. monographs are readily available. High-purity preparations for diagnostic use are provided with defined specific activity and low contaminating enzyme profiles. Contact us for supply of Glucose oxidase Request Quote",
+  "physicalProperties": "Density: 1.00 g/mL at 20 °C; Appearance: yellow powder; Color: yellow; Form: solution (clear); Vapor Pressure: 0.004Pa at 25℃; pH: 4.5; Log P: -1.3 at 20℃",
+  "safetyHandling": "Danger GHS08 Hazard Statements H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled Precautionary Statements P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P284 In case of inadequate ventilation wear respiratory protection. P403 Store in a well-ventilated place. P501 Dispose of contents/container in accordance with local regulations. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P342+P316 Get emergency medical help immediately.",
+  "tradeRegulatory": "HS Code: 35079090; WGK (Germany): 1",
+  "otherNames": "glucose oxyhydrase | glucose aerodehydrogenase | D-glucose-1-oxidase | D-glucose oxidase | beta-D-glucose:quinone oxidoreductase | beta-D-glucose:oxygen 1-oxidoreductase | beta-D-glucose oxidase | beta-D-glucose | GOX",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08"
+  ],
+  "hsCode": "35079090",
+  "similarProducts": [
+    "cas-9032-08-0",
+    "cas-50-99-7",
+    "cas-9001-05-2",
+    "cas-9003-99-0",
+    "cas-9031-11-2",
+    "cas-107-22-2",
+    "cas-65996-62-5",
+    "cas-70-18-8",
+    "cas-9000-92-4",
+    "cas-298-12-4",
+    "cas-9000-90-2",
+    "cas-59-23-4",
+    "cas-90-80-2",
+    "cas-9054-89-1",
+    "cas-70-18-8",
+    "cas-9000-92-4",
+    "cas-298-12-4",
+    "cas-9000-90-2",
+    "cas-59-23-4",
+    "cas-90-80-2",
+    "cas-9054-89-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-9001-37-0/"
+}

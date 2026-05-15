@@ -1,0 +1,62 @@
+{
+  "id": "561",
+  "name": "Butyl bromide",
+  "slug": "cas-109-65-9",
+  "cas": "109-65-9",
+  "ec": "203-691-9",
+  "formula": "C4H9Br",
+  "mw": "137.02 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Plastics & Polymers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Butyl bromide ( CAS 109-65-9 ), also known as 1-bromobutane, is a reactive alkyl halide used as a chemical building block and alkylating agent across pharmaceutical and industrial manufacturing. Its primary commercial role is introducing a butyl group into target molecules during synthesis, making it a key intermediate in multi-step production processes for various sectors. In pharmaceutical manufacturing, it is used to synthesize active pharmaceutical ingredients and intermediates where controlled alkylation is required to achieve specific molecular structures. Polymer and plastics producers use it as a precursor in catalyst systems and in the preparation of flame retardant additives for thermoplastic formulations to enhance material safety. In textile and leather processing, it functions as a chemical intermediate in the production of finishing agents and preservation compounds used to improve the durability of final products. It also serves as a reagent in Grignard reactions, where it reacts with magnesium to form butylmagnesium bromide for downstream organic synthesis and complex chemical transformations. The material is supplied as a clear liquid in standard packaging including drums and intermediate bulk containers. Technical grade is the most common commercial specification for industrial use. High-purity grades are available to meet pharmaceutical intermediate requirements. Suppliers typically offer material with defined purity thresholds and low water content to support sensitive applications. Contact us for supply of Butyl bromide Request Quote",
+  "physicalProperties": "Melting Point: -112 °C; Boiling Point: 101.3 °C @ Press: 760 Torr; Density: 1.2686 g/cm³ @ Temp: 25 °C; Flash Point: 23 °C; Appearance: clear colorless to slightly yellow liquid; Color: Clear colorless to light yellow; Odor: characteristic odor; Form: Liquid; Water Solubility: 0.608 g/L (30 ºC); Vapor Pressure: 150 mm Hg ( 50 °C); Refractive Index: n 20/D 1.439(lit.); Log P: 2.75",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H315 Causes skin irritation H319 Causes serious eye irritation H332 Harmful if inhaled H335 May cause respiratory irritation H350 May cause cancer H351 Suspected of causing cancer H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29033036; UN Number: 1126; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 2",
+  "otherNames": "1-Bromobutane | N-BUTYL BROMIDE | Butane, 1-bromo- | 1-Butyl bromide | SAV6Y78U3D",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29033036",
+  "similarProducts": [
+    "cas-74-96-4",
+    "cas-75-26-3",
+    "cas-111-25-1",
+    "cas-106-95-6",
+    "cas-109-73-9",
+    "cas-78-81-9",
+    "cas-9010-85-9",
+    "cas-71-36-3",
+    "cas-106-94-5",
+    "cas-109-70-6",
+    "cas-141-32-2",
+    "cas-13360-63-9",
+    "cas-112-82-3",
+    "cas-38521-51-6",
+    "cas-71-36-3",
+    "cas-106-94-5",
+    "cas-109-70-6",
+    "cas-141-32-2",
+    "cas-13360-63-9",
+    "cas-112-82-3",
+    "cas-38521-51-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-109-65-9/"
+}

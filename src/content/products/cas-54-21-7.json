@@ -1,0 +1,60 @@
+{
+  "id": "16",
+  "name": "Sodium salicylate",
+  "slug": "cas-54-21-7",
+  "cas": "54-21-7",
+  "ec": "200-198-0",
+  "formula": "C7H6O3.Na",
+  "mw": "160.10 g/mol",
+  "category": "Pharmaceutical Intermediates",
+  "industry": [
+    "Food & Nutrition",
+    "Personal Care & Cosmetics",
+    "Pharmaceuticals & Healthcare"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sodium salicylate (CAS 54-21-7 ) is the sodium salt of salicylic acid, used across pharmaceutical, personal care, and food applications as a preservative, antioxidant, and UV-stabilizing agent. Commercially recognized under names such as Salsonin and Alysine, it offers broad functional utility at relatively low use levels. In pharmaceutical manufacturing, it serves as an intermediate in the synthesis of active ingredients. It also acts as a stabilizer in topical and oral formulations. Personal care formulators incorporate it into sunscreen and UV-protective products, where it absorbs ultraviolet radiation to protect both the formulation and the skin. In food-contact and preservation applications, it functions as an antimicrobial and antioxidant agent, extending shelf life in specific regulated contexts. It also appears in analytical and laboratory reagent applications. Consistent purity is a key sourcing requirement for these technical uses. Sodium salicylate is supplied as a white crystalline powder or granules. Standard grades include USP , BP , and Ph. Eur. for pharmaceutical use. Technical grade material is also available for industrial applications. Food-grade material is available where regulatory compliance for food-contact or food-additive use is required for specific manufacturing processes. Contact us for supply of Sodium salicylate Request Quote",
+  "physicalProperties": "Melting Point: 213 °C (decomp); Boiling Point: 237°; Density: 0.100532 g/cm³ @ Temp: 20 °C; Flash Point: 98.3°; Appearance: white crystals; Color: White; Odor: wh. lustrous cryst. scales or amorphous powd., odorless or faint odor, saline taste; Form: Crystals or Crystalline Powder; Water Solubility: 1000 g/L (20 ºC); Vapor Pressure: <1 hPa ( 25 °C); Refractive Index: 1.435; pH: 6.5 (100g/l, H2O, 20℃); Log P: 2.061 (est)",
+  "safetyHandling": "Warning GHS07 GHS08 Hazard Statements H302 Harmful if swallowed H319 Causes serious eye irritation H361 Suspected of damaging fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P330 Rinse mouth. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29182100; WGK (Germany): 1",
+  "otherNames": "Salsonin | Alysine | Benzoic acid, 2-hydroxy-, monosodium salt | Natrum salicylicum | salicylate sodium | Salicylic acid sodium salt | Monosodium 2-hydroxybenzoate | Benzoic acid, 2-hydroxy-, sodium salt (1:1)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29182100",
+  "similarProducts": [
+    "cas-824-35-1",
+    "cas-69-72-7",
+    "cas-118-55-8",
+    "cas-127-09-3",
+    "cas-536-45-8",
+    "cas-16283-36-6",
+    "cas-50-78-2",
+    "cas-532-32-1",
+    "cas-134-03-2",
+    "cas-35285-69-9",
+    "cas-2836-32-0",
+    "cas-36457-20-2",
+    "cas-82385-42-0",
+    "cas-84930-15-4",
+    "cas-532-32-1",
+    "cas-134-03-2",
+    "cas-35285-69-9",
+    "cas-2836-32-0",
+    "cas-36457-20-2",
+    "cas-82385-42-0",
+    "cas-84930-15-4"
+  ],
+  "url": "https://www.solechem.eu/products/cas-54-21-7/"
+}

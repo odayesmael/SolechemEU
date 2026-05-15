@@ -1,0 +1,61 @@
+{
+  "id": "3360",
+  "name": "Copper methanesulfonate",
+  "slug": "cas-54253-62-2",
+  "cas": "54253-62-2",
+  "ec": "405-400-2",
+  "formula": "CH4O3S.1/2Cu",
+  "mw": "159.65 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Mining & Metals",
+    "Lubricants & Metalworking",
+    "Electronics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Copper methanesulfonate (CAS 54253-62-2 ) is a copper salt of methanesulfonic acid used primarily as an electrolyte source in copper electroplating and electrodeposition processes. Its high solubility and low corrosivity compared to sulfate-based alternatives make it a preferred choice for precision metal finishing operations. In electronics manufacturing, it functions as the copper ion source in plating baths for printed circuit boards, semiconductor interconnects, and wafer-level packaging, where deposit uniformity and bath stability are critical. Copper methanesulfonate electrolytes are also applied in decorative and functional plating across automotive and industrial components, delivering smooth, adherent copper layers for various applications. In mining and hydrometallurgy, it appears in electrowinning and electrorefining circuits where methanesulfonate-based systems offer improved current efficiency and better performance in demanding environments. Catalytic applications include its use as a Lewis acid catalyst in select organic synthesis processes relevant to specialty chemical production, providing high reactivity and selectivity in chemical reactions. Copper methanesulfonate is supplied as an aqueous solution, with concentration typically expressed as copper content or as percent active salt. Technical and electronic grades are available for industrial use. Electronic-grade material is held to tighter limits on metallic impurities to meet semiconductor fabrication requirements. Packaging ranges from drums to intermediate bulk containers depending on application scale. Contact us for supply of Copper methanesulfonate Request Quote",
+  "physicalProperties": "Density: 1.88[at 20℃]; Water Solubility: 862g/L at 21℃; Vapor Pressure: 0Pa at 25℃; Log P: -3 at 21℃",
+  "safetyHandling": "Danger GHS05 GHS07 GHS09 Hazard Statements H302 Harmful if swallowed H318 Causes serious eye damage H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects Precautionary Statements P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P330 Rinse mouth. P391 Collect spillage. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "",
+  "otherNames": "Methanesulfonic acid copper(2+) salt (2:1) | Copper(II) methansulfonate | Methanesulfonic acid, copper(2+) salt | Copper(2+) methanesulfonate | RefChem:156938 | Copper(II) methanesulfonate | Cupric methanesulfonate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS09"
+  ],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-17570-76-2",
+    "cas-10257-54-2",
+    "cas-6046-93-1",
+    "cas-7758-98-7",
+    "cas-10102-90-6",
+    "cas-142-71-2",
+    "cas-7758-99-8",
+    "cas-10124-43-3",
+    "cas-75-75-2",
+    "cas-10402-15-0",
+    "cas-1317-38-0",
+    "cas-866-82-0",
+    "cas-7440-50-8",
+    "cas-1332-65-6",
+    "cas-10124-43-3",
+    "cas-75-75-2",
+    "cas-10402-15-0",
+    "cas-1317-38-0",
+    "cas-866-82-0",
+    "cas-7440-50-8",
+    "cas-1332-65-6"
+  ],
+  "url": "https://www.solechem.eu/products/cas-54253-62-2/"
+}

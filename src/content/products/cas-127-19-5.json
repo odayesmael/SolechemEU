@@ -1,0 +1,61 @@
+{
+  "id": "820",
+  "name": "Dimethylacetamide",
+  "slug": "cas-127-19-5",
+  "cas": "127-19-5",
+  "ec": "204-826-4",
+  "formula": "C4H9NO",
+  "mw": "87.12 g/mol",
+  "category": "Amines",
+  "industry": [
+    "Biotechnology & Life Sciences",
+    "Pharmaceuticals & Healthcare",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Dimethylacetamide ( CAS 127-19-5 ), commonly known as DMAc or DMAC, is a high-boiling polar aprotic solvent used across pharmaceutical manufacturing, fiber production, and specialty chemical processing. Its strong solvating power makes it the preferred choice for dissolving polymers, active pharmaceutical ingredients, and resins that resist conventional solvents. In pharmaceutical manufacturing, DMAc is used as a reaction solvent. It serves as a crystallization medium for APIs, particularly in the synthesis of antibiotics and oncology compounds where solubility and process consistency are critical. Fiber and membrane producers rely on it to dissolve polyacrylonitrile. It is also used for aramid polymers for wet-spinning processes, including the production of carbon fiber precursors and filtration membranes. It functions as a process solvent in the manufacture of polyurethane films and coatings. This enables uniform dispersion of high-molecular-weight resins. In agrochemical and specialty chemical synthesis, DMAc supports reactions requiring a stable, high-boiling medium that remains inert under demanding conditions. DMAc is supplied as a clear liquid in drums, IBCs, and bulk tanker quantities. Standard commercial grades include technical grade and pharmaceutical-grade specifications for industrial use. The material is compliant with various regulatory standards and is often categorized as an ICH Q3C Class 2 solvent. Moisture content and purity levels are typically specified to meet the requirements of regulated environments. These specifications ensure the product meets the necessary criteria for high-stakes manufacturing. Quality control measures are strictly followed to maintain the integrity of the solvent during transport and storage. Contact us for supply of Dimethylacetamide Request Quote",
+  "physicalProperties": "Melting Point: -18.59 °C; Boiling Point: 163-165 °C; Density: 0.9366 g/cm³ @ Temp: 25 °C; Flash Point: 158 °F; Appearance: colourless liquid with a faint ammonia odour; Color: Colorless to yellowish; Odor: Faint ammonia odor; Form: Liquid; Water Solubility: miscible; Vapor Pressure: 40 mm Hg ( 19.4 °C); Refractive Index: n 20/D 1.439(lit.); pH: 4 (200g/l, H2O, 20℃); Log P: -0.77 at 25℃",
+  "safetyHandling": "Danger GHS07 GHS08 GHS06 Hazard Statements H227 Combustible liquid H303 May be harmful if swallowed H312 Harmful in contact with skin H313 May be harmful in contact with skin H316 Causes mild skin irritation H319 Causes serious eye irritation H320 Causes eye irritation H331 Toxic if inhaled H332 Harmful if inhaled H336 May cause drowsiness or dizziness H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H370 Causes damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H312+H332 Harmful in contact with skin or if inhaled Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29241900; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 2",
+  "otherNames": "N,N-Dimethyl acetamide | DMAC | Acetamide, N,N-dimethyl- | Dimethylamide acetate | N,N-Dimethylethanamide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS06"
+  ],
+  "hsCode": "29241900",
+  "similarProducts": [
+    "cas-2044-64-6",
+    "cas-68-12-2",
+    "cas-124-40-3",
+    "cas-121-69-7",
+    "cas-98-94-2",
+    "cas-2867-47-2",
+    "cas-616-38-6",
+    "cas-6864-37-5",
+    "cas-109-55-7",
+    "cas-77-76-9",
+    "cas-1704-62-7",
+    "cas-88917-22-0",
+    "cas-108-01-0",
+    "cas-75-09-2",
+    "cas-6864-37-5",
+    "cas-109-55-7",
+    "cas-77-76-9",
+    "cas-1704-62-7",
+    "cas-88917-22-0",
+    "cas-108-01-0",
+    "cas-75-09-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-127-19-5/"
+}

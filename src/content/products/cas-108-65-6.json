@@ -1,0 +1,62 @@
+{
+  "id": "535",
+  "name": "Propylene glycol methyl ether acetate",
+  "slug": "cas-108-65-6",
+  "cas": "108-65-6",
+  "ec": "203-603-9",
+  "formula": "C6H12O3",
+  "mw": "132.16 g/mol",
+  "category": "UV Absorbers & Stabilizers",
+  "industry": [
+    "Food & Nutrition",
+    "Printing & Packaging",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Propylene glycol methyl ether acetate (CAS 108-65-6 ), commonly sourced and specified as PGMEA or methoxypropyl acetate, is a slow-evaporating ester solvent used across coatings, electronics, and printing industries. Its controlled evaporation rate supports film formation and flow in high-performance formulations where solvent balance is critical to end-product quality. In architectural and industrial coatings, it functions as a coalescing solvent. It acts as a viscosity modifier, improving leveling and film integrity in both solvent-borne and high-solids systems. Semiconductor and PCB manufacturers rely on it as a carrier solvent for photoresists and anti-reflective coatings. In these high-tech applications, purity specifications are tightly controlled to ensure performance. In printing inks, particularly UV-curable and gravure formulations, it dissolves resins and controls ink rheology to meet press requirements. Adhesive and sealant formulators use it to adjust open time and application viscosity in structural and pressure-sensitive systems. This versatility makes it a staple in modern chemical manufacturing and industrial processing. PGMEA is supplied as a clear liquid in drum, IBC, and bulk tanker quantities. Electronic-grade and standard technical-grade are the primary commercial specifications available for various industrial needs. Electronic-grade material carries tighter purity and metals content requirements for semiconductor applications. Standard technical-grade material is available for coatings, inks, and adhesive end uses across the global market. Contact us for supply of Propylene glycol methyl ether acetate Request Quote",
+  "physicalProperties": "Melting Point: -87 °C; Boiling Point: 146 °C; Density: 0.96 g/cm³; Flash Point: 110 °F; Appearance: colourless liquid; Color: Clear colorless; Odor: mild fruity odor; Form: Liquid; Water Solubility: 19.8 g/L (25 ºC); Vapor Pressure: 3.7 mm Hg ( 20 °C); Refractive Index: n 20/D 1.402; pH: 4 (200g/l, H2O, 20℃); Log P: 1.2 at 20℃",
+  "safetyHandling": "Warning GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapor H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H360 May damage fertility or the unborn child Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29153990; UN Number: 3271; ADR Class: 3; Packing Group: III; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "propylene glycol monomethyl ether acetate | PGMEA | methoxypropyl acetate | 1-methoxy-2-propyl acetate | PGMEA cpd | RefChem:433493 | 1-methoxypropan-2-yl acetate | 2-Acetoxy-1-methoxypropane",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "29153990",
+  "similarProducts": [
+    "cas-107-98-2",
+    "cas-112-15-2",
+    "cas-88917-22-0",
+    "cas-34590-94-8",
+    "cas-52125-53-8",
+    "cas-109-86-4",
+    "cas-7778-85-0",
+    "cas-112-07-2",
+    "cas-41593-38-8",
+    "cas-89399-28-0",
+    "cas-112-35-6",
+    "cas-111-77-3",
+    "cas-1002-67-1",
+    "cas-111-15-9",
+    "cas-112-07-2",
+    "cas-41593-38-8",
+    "cas-89399-28-0",
+    "cas-112-35-6",
+    "cas-111-77-3",
+    "cas-1002-67-1",
+    "cas-111-15-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-108-65-6/"
+}

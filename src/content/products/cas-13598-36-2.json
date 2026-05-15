@@ -1,0 +1,61 @@
+{
+  "id": "2718",
+  "name": "Phosphonic acid",
+  "slug": "cas-13598-36-2",
+  "cas": "13598-36-2",
+  "ec": "237-066-7",
+  "formula": "H3O3P",
+  "mw": "81.996 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phosphonic acid (CAS 13598-36-2 ) is an inorganic phosphorus-based acid used industrially as a pH regulator, reducing agent, and stabilizer across water treatment, agriculture, and specialty chemical manufacturing. Its reducing character makes it effective in processes requiring controlled acidic conditions without introducing strong oxidizing byproducts. In water treatment, it functions as a pH adjustment agent and scale-inhibition precursor. It supports corrosion control programs in industrial cooling and boiler systems. Textile and paper processors use it to manage bath acidity during dyeing and bleaching operations, where consistent pH control directly affects product quality. In agriculture, it serves as a building block or acidulant in formulating phosphonate-based fungicides and fertilizer adjuvants. Pharmaceutical manufacturers use it as a reagent and intermediate in synthesizing active pharmaceutical ingredients. These applications require controlled reducing conditions. Phosphonic acid is supplied as an aqueous solution, with concentration typically ranging around 50% by weight for industrial use. Technical grade is the standard commercial offering, though higher-purity specifications are available to meet pharmaceutical intermediate requirements. Packaging options typically include drums and intermediate bulk containers. Contact us for supply of Phosphonic acid Request Quote",
+  "physicalProperties": "Melting Point: ~73 °C (approx); Boiling Point: 200 °C; Density: 1.651 g/mL at 25 °C(lit.); Flash Point: 200°C; Appearance: white crystalline solid; Color: White; Form: Crystals; Water Solubility: SOLUBLE; Vapor Pressure: 0.001Pa at 20℃; pH: pKa1= 1.10, pKa2 = 6.33(25℃)",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H318 Causes serious eye damage H335 May cause respiratory irritation Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28092019; UN Number: 2834; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "RefChem:6132 | Phosphorus trihydroxide | Dihydroxyphosphine oxide | Phosphorous acid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "28092019",
+  "similarProducts": [
+    "cas-10294-56-1",
+    "cas-7664-38-2",
+    "cas-7803-60-3",
+    "cas-6303-21-5",
+    "cas-37971-36-1",
+    "cas-2466-09-3",
+    "cas-23783-26-8",
+    "cas-12501-23-4",
+    "cas-14265-44-2",
+    "cas-8017-16-1",
+    "cas-7723-14-0",
+    "cas-34690-00-1",
+    "cas-2809-21-4",
+    "cas-88-99-3",
+    "cas-12501-23-4",
+    "cas-14265-44-2",
+    "cas-8017-16-1",
+    "cas-7723-14-0",
+    "cas-34690-00-1",
+    "cas-2809-21-4",
+    "cas-88-99-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-13598-36-2/"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "78",
+  "name": "Thiourea",
+  "slug": "cas-62-56-6",
+  "cas": "62-56-6",
+  "ec": "200-543-5",
+  "formula": "CH4N2S",
+  "mw": "76.12 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Food & Nutrition",
+    "Pharmaceuticals & Healthcare",
+    "Printing & Packaging"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Thiourea (CAS 62-56-6 ) is an organosulfur compound used across chemical synthesis, surface treatment, and industrial processing as a reducing agent, complexing agent, and reaction intermediate. It functions as a catalyst precursor and auxiliary chemical in processes where controlled sulfur donation or metal ion sequestration is required for specific chemical transformations. In pharmaceutical manufacturing, this compound serves as a key intermediate in synthesizing active compounds, including certain antithyroid drugs and antimicrobial agents for medical use. The printing and packaging industry uses it in photographic fixing baths and toning solutions, where its metal-complexing behavior controls image development chemistry and stability. In textile and leather processing, it acts as a reducing agent for bleaching and surface preparation. It also functions as a catalyst precursor in hydrothermal synthesis routes. These routes are essential for sulfide-based nanomaterials and pigments. The product is supplied as a white crystalline powder or granules available in technical grade for industrial applications. Higher-purity grades are available meeting pharmaceutical or reagent specifications. Standard packaging ranges from small quantities for laboratory use to bulk industrial quantities. Purity is typically specified at 99% or above for most commercial grades. This ensures consistent performance across diverse manufacturing and laboratory environments worldwide. Contact us for supply of Thiourea Request Quote",
+  "physicalProperties": "Melting Point: 176-178 °C; Boiling Point: 150-160 °C; Density: 1.405 g/cm³; Appearance: Thiourea consists of colorless, lustrous crystals or powder with a bitter taste.; Color: White to almost white; Odor: Odorless; Form: Crystals; Water Solubility: 13.6 g/100 mL (20 ºC); Refractive Index: 1.5300 (estimate); pH: 6-8 (50g/l, H2O, 20℃); Log P: -1.050 (est)",
+  "safetyHandling": "Warning GHS07 GHS08 GHS09 Hazard Statements H302 Harmful if swallowed H315 Causes skin irritation H317 May cause an allergic skin reaction H320 Causes eye irritation H335 May cause respiratory irritation H351 Suspected of causing cancer H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309070; UN Number: 2811; ADR Class: 6.1; Packing Group: III; Storage Class: 11 - Combustible Solids; WGK (Germany): 2",
+  "otherNames": "thiocarbonic acid diamide | carbonothioic diamide | 2-thiourea | Sulfourea | Sulourea | 2-Thiopseudourea | Urea, thio- | Pseudourea, 2-thio- | (NH2)2CS.",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29309070",
+  "similarProducts": [
+    "cas-1758-73-2",
+    "cas-110-02-1",
+    "cas-540-72-7",
+    "cas-7772-98-7",
+    "cas-1762-95-4",
+    "cas-2682-49-7",
+    "cas-57-13-6",
+    "cas-68-11-1",
+    "cas-156-57-0",
+    "cas-37457-75-3",
+    "cas-7704-34-9",
+    "cas-136-95-8",
+    "cas-333-20-0",
+    "cas-34452-51-2",
+    "cas-68-11-1",
+    "cas-156-57-0",
+    "cas-37457-75-3",
+    "cas-7704-34-9",
+    "cas-136-95-8",
+    "cas-333-20-0",
+    "cas-34452-51-2"
+  ],
+  "url": "https://www.solechem.eu/products/cas-62-56-6/"
+}

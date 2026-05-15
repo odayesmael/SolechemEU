@@ -1,0 +1,61 @@
+{
+  "id": "2564",
+  "name": "Cobalt dinitrate",
+  "slug": "cas-10141-05-6",
+  "cas": "10141-05-6",
+  "ec": "233-402-1",
+  "formula": "Co.2HNO3",
+  "mw": "182.94 g/mol",
+  "category": "Catalysts & Catalyst Precursors",
+  "industry": [
+    "Agriculture & Feed"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Cobalt dinitrate ( CAS 10141-05-6 ), commercially available as cobalt(II) nitrate, is an inorganic cobalt salt used primarily as a catalyst precursor and micronutrient source across industrial and agricultural applications. Its high solubility makes it a preferred cobalt delivery form where controlled uptake or precise impregnation is required. In heterogeneous catalysis, it serves as the standard precursor for preparing cobalt-based catalysts. Used in Fischer-Tropsch synthesis and hydroprocessing, the nitrate decomposes cleanly during calcination to yield active cobalt oxide phases. Fertilizer formulators incorporate it into micronutrient blends to correct cobalt deficiency. In soils supporting legume cultivation, it directly improves nitrogen fixation efficiency. Animal feed manufacturers use it as a cobalt supplementation source in ruminant nutrition programs to support vitamin B12 synthesis. It also functions as an impregnation agent in the production of supported catalysts for petrochemical refining. The material is supplied as a red crystalline solid or in hexahydrate form for various uses. The hexahydrate is the most commercially prevalent grade, while technical and reagent grades are standard across the market. Bulk quantities are available for industrial catalyst production and specialty applications. Contact us for supply of Cobalt dinitrate Request Quote",
+  "physicalProperties": "Melting Point: 100-105 °C (decomp); Boiling Point: 2900 °C(lit.); Density: 2.49 g/cm³; Flash Point: 4°C (Toluene); Appearance: Red crystals. Deliquescent in moist air. Soluble in most organic solvents.; Color: pale; Form: wire; Water Solubility: g/100g solution H2O: 45.66 (0°), 50.5 ± 0.2 (25°C), 77.21 (91°C); solid phase, Co(NO3)2 ·6H2O (0°C, 25°C), Co(NO3)2 · 3H2O (91°C) [KRU93]; Vapor Pressure: 0Pa at 20℃; pH: 4.8 (20°C in H2O)",
+  "safetyHandling": "Danger GHS08 GHS09 GHS03 GHS05 GHS07 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H317 May cause an allergic skin reaction H318 Causes serious eye damage H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled H335 May cause respiratory irritation H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H371 May cause damage to organs H372 Causes damage to organs through prolonged or repeated exposure H373 May causes damage to organs through prolonged or repeated exposure H400 Very toxic to aquatic life H410 Very toxic to aquatic life with long lasting effects H411 Toxic to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P220 Keep away from clothing and other combustible materials. P233 Keep container tightly closed. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P284 In case of inadequate ventilation wear respiratory protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P330 Rinse mouth. P363 Wash contaminated clothing before reuse. P391 Collect spillage. P403 Store in a well-ventilated place. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P317 Get emergency medical help. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P333+P317 Get emergency medical help. P342+P316 Get emergency medical help immediately. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 28342910; UN Number: 3264; ADR Class: 8; Packing Group: III; Storage Class: 6.1D - Non-combustible, acute toxic Cat.3 toxic hazardous materials or hazardous materials causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Cobalt(ii) nitrate | Cobalt(2+) dinitrate | Cobalt nitrate",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS09",
+    "GHS03",
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "28342910",
+  "similarProducts": [
+    "cas-10026-22-9",
+    "cas-71-48-7",
+    "cas-513-79-1",
+    "cas-6147-53-1",
+    "cas-7440-48-4",
+    "cas-13138-45-9",
+    "cas-3251-23-8",
+    "cas-7646-79-9",
+    "cas-10124-43-3",
+    "cas-13478-00-7",
+    "cas-7791-13-1",
+    "cas-21041-93-0",
+    "cas-10026-24-1",
+    "cas-10031-43-3",
+    "cas-7646-79-9",
+    "cas-10124-43-3",
+    "cas-13478-00-7",
+    "cas-7791-13-1",
+    "cas-21041-93-0",
+    "cas-10026-24-1",
+    "cas-10031-43-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-10141-05-6/"
+}

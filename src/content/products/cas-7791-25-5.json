@@ -1,0 +1,63 @@
+{
+  "id": "2201",
+  "name": "Sulfuryl chloride",
+  "slug": "cas-7791-25-5",
+  "cas": "7791-25-5",
+  "ec": "232-245-6",
+  "formula": "Cl2O2S",
+  "mw": "134.97 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Water Treatment",
+    "Textile, Leather & Paper",
+    "Pharmaceuticals & Healthcare",
+    "Pulp & Paper"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Sulfuryl chloride (CAS 7791-25-5 ), also known as sulfuric oxychloride and abbreviated SO2Cl2, is a reactive inorganic chlorinating and sulfonating agent used across chemical synthesis and industrial processing. It delivers both chlorination and sulfonation in a single reagent, reducing the need for multiple process steps. In pharmaceutical manufacturing, it serves as a chlorinating agent in the synthesis of active pharmaceutical ingredients. This reagent is particularly valued in intermediates where precise reactivity control is required. Pulp and paper producers use it as a bleaching agent to achieve target brightness levels in processed fiber. Textile and leather processors apply it for whitening treatments and surface modification of natural substrates. In water treatment, it functions as a biocidal agent contributing to disinfection and microbial control. These applications are critical for maintaining hygiene in industrial water systems. Sulfuryl chloride is supplied as a fuming liquid, typically in cylinders, drums, or ISO tank containers depending on volume. It is available in technical grade, with purity levels commonly at 97% or higher for industrial applications. Pharmaceutical-grade material meeting stricter purity specifications is also available for regulated synthesis. Contact us for supply of Sulfuryl chloride Request Quote",
+  "physicalProperties": "Melting Point: -54.1 °C; Boiling Point: 69.3 °C; Density: 1.6674 g/cm³ @ Temp: 20 °C; Flash Point: 69.1°C; Appearance: A colorless to light yellow fuming liquid. Pungent acrid odor.; Color: Clear colorless to yellow; Form: Liquid; Water Solubility: reacts; Vapor Pressure: 100 mm Hg ( 17.8 °C); Refractive Index: n 20/D 1.443(lit.)",
+  "safetyHandling": "Danger GHS05 GHS07 GHS06 GHS08 Hazard Statements H314 H314 H318 H318 H330 H330 H335 H335 H370 H370 H372 H372 Precautionary Statements P260 P260 P261 P261 P264 P264 P270 P270 P271 P271 P280 P280 P284 P284 P316 P316 P317 P317 P319 P319 P320 P320 P321 P321 P363 P363 P405 P405 P501 P501 P264+P265 P264+P265 P304+P340 P304+P340 P308+P316 P308+P316 P403+P233 P403+P233 P301+P330+P331 P301+P330+P331 P302+P361+P354 P302+P361+P354 P305+P354+P338 P305+P354+P338",
+  "tradeRegulatory": "HS Code: 28121099; UN Number: 2927; ADR Class: 6.1; Packing Group: II; Storage Class: 6.1B - Non-combustible acute toxic Cat. 1 and 2 very toxic hazardous materials; WGK (Germany): 2",
+  "otherNames": "sulphuryl dichloride | sulfuryl dichloride | sulfuric oxychloride | sulfuric dichloride | Sulfuric chloride | sulfur dichloride dioxide | Sulfonyl chloride | SO2Cl2",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1614935151651-0bea6508db6b?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07",
+    "GHS06",
+    "GHS08"
+  ],
+  "hsCode": "28121099",
+  "similarProducts": [
+    "cas-7719-09-7",
+    "cas-98-09-9",
+    "cas-10025-67-9",
+    "cas-7790-94-5",
+    "cas-124-63-0",
+    "cas-7446-09-5",
+    "cas-7782-50-5",
+    "cas-75-36-5",
+    "cas-108-77-0",
+    "cas-98-88-4",
+    "cas-7758-19-2",
+    "cas-126-33-0",
+    "cas-7704-34-9",
+    "cas-79-04-9",
+    "cas-75-36-5",
+    "cas-108-77-0",
+    "cas-98-88-4",
+    "cas-7758-19-2",
+    "cas-126-33-0",
+    "cas-7704-34-9",
+    "cas-79-04-9"
+  ],
+  "url": "https://www.solechem.eu/products/cas-7791-25-5/"
+}

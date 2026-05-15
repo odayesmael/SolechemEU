@@ -1,0 +1,64 @@
+{
+  "id": "1644",
+  "name": "Vinyltrimethoxysilane",
+  "slug": "cas-2768-02-7",
+  "cas": "2768-02-7",
+  "ec": "220-449-8",
+  "formula": "C5H12O3Si",
+  "mw": "148.23 g/mol",
+  "category": "Silicones & Silicates",
+  "industry": [
+    "Automotive",
+    "Electronics",
+    "Personal Care & Cosmetics",
+    "Plastics & Polymers",
+    "Coatings, Adhesives, Sealants & Elastomers"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Vinyltrimethoxysilane (CAS 2768-02-7 ), commonly abbreviated as VTMS, is a bifunctional organosilane monomer used to chemically bridge inorganic substrates and organic polymer matrices. It provides covalent bonding between mineral fillers, glass fibers, or metal surfaces and surrounding resin systems, improving composite performance and adhesion durability across various industries. In polyolefin cable and pipe manufacturing, VTMS enables moisture-cure crosslinking of polyethylene, producing XLPE compounds with improved thermal and mechanical resistance for demanding environments. It functions as a coupling agent in glass fiber-reinforced composites, bonding the silica surface to epoxy, polyester, or polyurethane resins to increase tensile strength and reduce delamination. Coatings and adhesive formulators use VTMS as an adhesion promoter on glass, aluminum, and mineral substrates, particularly in automotive glazing sealants and structural bonding applications. In electronics, it supports surface treatment of silica fillers used in encapsulants and underfill compounds, improving filler dispersion and moisture resistance in cured systems. Vinyltrimethoxysilane is supplied as a clear liquid in drum and IBC quantities, with bulk tanker options available for high-volume buyers requiring consistent supply chains. Standard commercial grades include technical and industrial purity levels, typically specified at ≥97% or ≥98% purity. Specialty grades are available for high-performance polymer applications. Contact us for supply of Vinyltrimethoxysilane Request Quote",
+  "physicalProperties": "Melting Point: <-70°C; Boiling Point: 123 °C; Density: 0.970 g/cm³; Flash Point: 73 °F; Appearance: Colorless transparent liquid; Color: Colorless to Almost colorless; Odor: Fruity odor; Form: liquid; Water Solubility: slightly soluble; Vapor Pressure: 88 hPa (55 °C); Refractive Index: n 20/D 1.392(lit.); Log P: -2--0.82 at 20℃",
+  "safetyHandling": "Warning GHS07 GHS02 GHS05 GHS08 Hazard Statements H225 Highly Flammable liquid and vapor H226 Flammable liquid and vapor H315 Causes skin irritation H317 May cause an allergic skin reaction H318 Causes serious eye damage H319 Causes serious eye irritation H332 Harmful if inhaled H336 May cause drowsiness or dizziness H371 May cause damage to organs H373 May causes damage to organs through prolonged or repeated exposure Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P280 Wear protective gloves/protective clothing/eye protection/face protection. P317 Get emergency medical help. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P308+P316 Get emergency medical help immediately. P332+P317 Get emergency medical help. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29310095; UN Number: 1993; ADR Class: 3; Packing Group: II; WGK (Germany): 1",
+  "otherNames": "Silane, ethenyltrimethoxy- | (Trimethoxysilyl)ethene | Silane, trimethoxyvinyl- | 0ZIU135UES | A 171 (Silane derivative) | VTMS",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07",
+    "GHS02",
+    "GHS05",
+    "GHS08"
+  ],
+  "hsCode": "29310095",
+  "similarProducts": [
+    "cas-78-08-0",
+    "cas-4130-08-9",
+    "cas-2224-33-1",
+    "cas-1185-55-3",
+    "cas-1067-53-4",
+    "cas-2530-83-8",
+    "cas-13822-56-5",
+    "cas-14513-34-9",
+    "cas-18395-30-7",
+    "cas-22984-54-9",
+    "cas-2996-92-1",
+    "cas-2031-67-6",
+    "cas-57813-67-9",
+    "cas-2554-06-5",
+    "cas-14513-34-9",
+    "cas-18395-30-7",
+    "cas-22984-54-9",
+    "cas-2996-92-1",
+    "cas-2031-67-6",
+    "cas-57813-67-9",
+    "cas-2554-06-5"
+  ],
+  "url": "https://www.solechem.eu/products/cas-2768-02-7/"
+}

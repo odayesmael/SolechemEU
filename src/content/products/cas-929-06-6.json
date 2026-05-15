@@ -1,0 +1,60 @@
+{
+  "id": "1323",
+  "name": "Diglycolamine",
+  "slug": "cas-929-06-6",
+  "cas": "929-06-6",
+  "ec": "213-195-4",
+  "formula": "C4H11NO2",
+  "mw": "105.14 g/mol",
+  "category": "Alcohols & Glycols",
+  "industry": [
+    "Water Treatment",
+    "Pharmaceuticals & Healthcare",
+    "Coatings, Adhesives, Sealants & Elastomers",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Diglycolamine (CAS 929-06-6 ), commonly abbreviated as DGA, is a bifunctional amine-alcohol used across industrial and specialty chemical sectors. It combines amine and hydroxyl reactivity in a single molecule, enabling it to act as a curing agent and pH modifier. Formulators and process engineers source DGA where dual-functional reactivity reduces the need for multiple additives. In natural gas and refinery operations, it is used as an acid gas scrubbing agent, selectively absorbing H2S and CO2 from process streams. Epoxy and polyurethane formulators use it as a crosslinking and curing agent, where its amine group drives network formation. The hydroxyl group contributes to chain extension, making it a versatile component in high-performance polymer systems. Water treatment applications rely on DGA for pH buffering and as a building block for corrosion inhibitor formulations. It provides stability and protection in aqueous environments where maintaining specific chemical balances is critical for infrastructure. Personal care chemists incorporate it into hair and skin products as a neutralizing agent for anionic polymers and acidic actives. This ensures product stability and performance in various cosmetic formulations requiring precise acidity control. Diglycolamine is supplied as a clear liquid, typically at high purity concentrations suitable for industrial and specialty applications. Technical grade is the most common commercial form for large-scale manufacturing and processing. Refined grades meeting pharmaceutical or reagent specifications like USP or ACS are available from select suppliers. Bulk liquid supply in drums and IBC containers is standard for industrial procurement and logistics. Contact us for supply of Diglycolamine Request Quote",
+  "physicalProperties": "Melting Point: -12.5 °C; Boiling Point: 221 °C; Density: 1.0572 g/cm³ @ Temp: 20 °C; Flash Point: >230 °F; Appearance: 2-(2-Aminoethoxy)ethanol is a combustible, colorless to light yellow, thick liquid. Fishy odor; Color: Yellow; Odor: slightly viscous liq., amine odor; Form: Crystalline Powder and or Chunks; Water Solubility: miscible; Vapor Pressure: <0.1 hPa (20 °C); Refractive Index: n 20/D 1.460; pH: 10.2 (10g/l, H2O, 20℃); Log P: -1.89 at 25℃",
+  "safetyHandling": "Danger GHS05 Hazard Statements H290 May be corrosive to metals H314 Causes severe skin burns and eye damage H318 Causes serious eye damage Precautionary Statements P234 Keep only in original packaging. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P280 Wear protective gloves/protective clothing/eye protection/face protection. P316 Get emergency medical help immediately. P317 Get emergency medical help. P321 Specific treatment (see … on this label). P363 Wash contaminated clothing before reuse. P390 Absorb spillage to prevent material damage. P405 Store locked up. P406 Store in a corrosion-resistant/… container with a resistant inner liner. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P301+P330+P331 Rinse mouth. Do NOT induce vomiting. P302+P361+P354 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P354+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29221980; UN Number: 3055; ADR Class: 8; Packing Group: III; Storage Class: 8A - Combustible corrosive hazardous materials; WGK (Germany): 1",
+  "otherNames": "O-(2-Hydroxyethyl)ethanolamine | Ethylene glycol mono(2-aminoethyl) ether | Diethylene glycolamine | 2-(2-AMINOETHOXY)ETHANOL | 2-Aminoethoxyethanol | 2-(2-Hydroxyethoxy)ethylamine | Diethylene glycol monoamine | Ethanol, 2-(2-aminoethoxy)- | DGA",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05"
+  ],
+  "hsCode": "29221980",
+  "similarProducts": [
+    "cas-59113-36-9",
+    "cas-1704-62-7",
+    "cas-627-82-7",
+    "cas-111-96-6",
+    "cas-3586-55-8",
+    "cas-63469-23-8",
+    "cas-111-46-6",
+    "cas-101-83-7",
+    "cas-111-90-0",
+    "cas-112-36-7",
+    "cas-108-01-0",
+    "cas-110-97-4",
+    "cas-24991-53-5",
+    "cas-76326-99-3",
+    "cas-101-83-7",
+    "cas-111-90-0",
+    "cas-112-36-7",
+    "cas-108-01-0",
+    "cas-110-97-4",
+    "cas-24991-53-5",
+    "cas-76326-99-3"
+  ],
+  "url": "https://www.solechem.eu/products/cas-929-06-6/"
+}

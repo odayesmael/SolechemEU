@@ -1,0 +1,60 @@
+{
+  "id": "186",
+  "name": "Phenolphthalein",
+  "slug": "cas-77-09-8",
+  "cas": "77-09-8",
+  "ec": "201-004-7",
+  "formula": "C20H14O4",
+  "mw": "318.3 g/mol",
+  "category": "Pigments & Colorants",
+  "industry": [
+    "Printing & Packaging",
+    "Textile, Leather & Paper",
+    "Personal Care & Cosmetics"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "Phenolphthalein (CAS 77-09-8 ) is a pH-sensitive indicator compound that transitions from colorless to vivid pink-red under alkaline conditions. This makes it a standard tool in titration and analytical chemistry. In industrial settings, it functions as a colorimetric marker for detecting alkalinity in substrates, coatings, and treated surfaces. In the printing and packaging industry, indicator solutions are used to test paper substrates. These tests ensure compatibility with inks and adhesives during the manufacturing process. Textile and leather processors apply it to verify the pH of dye baths, wash liquors, and various finishing treatments. This verification is critical where residual alkali affects product quality. In concrete and construction material testing, it is the standard reagent for carbonation depth assessment on cut surfaces. Sprayed solutions reveal the boundary between carbonated and uncarbonated zones. Personal care formulators use it as a bench-level QC tool to confirm the alkalinity of cream, soap, and hair relaxer formulations. This ensures safety and consistency during development and production. The product is supplied as a white to pale yellow crystalline powder available in reagent-grade and ACS -grade specifications. These grades are suited to laboratory and analytical applications, as well as technical grade for industrial process use. Pre-prepared indicator solutions at standard concentrations are also commercially available. Contact us for supply of Phenolphthalein Request Quote",
+  "physicalProperties": "Melting Point: 262.5 °C; Boiling Point: 417.49°C (rough estimate); Density: 1.277 g/cm³ @ Temp: 32 °C; Flash Point: 24 °C; Appearance: white to light yellow crystal powde; Color: White to yellow-white; Odor: Odorless; Form: Solid; Water Solubility: <0.1 g/100 mL; Vapor Pressure: <0.00001 Pa ( 50 °C); Refractive Index: 1.5400 (estimate); pH: 7.8～10.0; Log P: 2.410",
+  "safetyHandling": "Danger GHS08 GHS07 Hazard Statements H317 May cause an allergic skin reaction H319 Causes serious eye irritation H341 Suspected of causing genetic defects H350 May cause cancer H351 Suspected of causing cancer H360 May damage fertility or the unborn child H361 Suspected of damaging fertility or the unborn child H372 Causes damage to organs through prolonged or repeated exposure H401 Toxic to aquatic life H412 Harmful to aquatic life with long lasting effects Precautionary Statements P203 Obtain, consult and follow expert instructions for use. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P264 Wash … thoroughly after handling. P270 Do not eat, drink or smoke when using this product. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P318 IF exposed or concerned, get medical advice. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P302+P352 IF ON SKIN: Wash with plenty of water. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29322910; Storage Class: 6.1C - Combustible acute toxic Cat.3 toxic compounds or compounds which causing chronic effects; WGK (Germany): 3",
+  "otherNames": "Prulet | Ex-Lax | Alpha-di(p-hydroxyphenyl)phthalide | 3,3-Bis(p-hydroxyphenyl)phthalide | 3,3-Bis(4-hydroxyphenyl)phthalide | 3,3-Bis(4-hydroxyphenyl)-2-benzofuran-1(3H)-one | 3,3-Bis(4-hydroxyphenyl)-1(3H)-isobenzofuranone | Phenolax",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1603126857599-f6e157fa2fe6?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS08",
+    "GHS07"
+  ],
+  "hsCode": "29322910",
+  "similarProducts": [
+    "cas-108-95-2",
+    "cas-62-44-2",
+    "cas-1333-39-7",
+    "cas-85-01-8",
+    "cas-701-64-4",
+    "cas-82-76-8",
+    "cas-156-06-9",
+    "cas-88-99-3",
+    "cas-119-40-4",
+    "cas-98-11-3",
+    "cas-92-69-3",
+    "cas-128275-31-0",
+    "cas-585-38-6",
+    "cas-60-12-8",
+    "cas-88-99-3",
+    "cas-119-40-4",
+    "cas-98-11-3",
+    "cas-92-69-3",
+    "cas-128275-31-0",
+    "cas-585-38-6",
+    "cas-60-12-8"
+  ],
+  "url": "https://www.solechem.eu/products/cas-77-09-8/"
+}

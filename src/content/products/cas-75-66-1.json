@@ -1,0 +1,61 @@
+{
+  "id": "156",
+  "name": "2-methylpropane-2-thiol",
+  "slug": "cas-75-66-1",
+  "cas": "75-66-1",
+  "ec": "200-890-2",
+  "formula": "C4H10S",
+  "mw": "90.19 g/mol",
+  "category": "Flavors & Fragrances",
+  "industry": [
+    "Food & Nutrition",
+    "Oil, Gas & Energy"
+  ],
+  "grade": "Standard",
+  "moq": "Contact for details",
+  "description": "2-Methylpropane-2-thiol (CAS 75-66-1 ), commercially known as tert-butyl mercaptan, is a synthetic sulfur compound used as a potent flavoring agent and odorant across food and industrial applications. Its intense, characteristic sulfurous odor makes it effective at trace concentrations, supporting both flavor creation and gas detection functions. In the flavor and fragrance industry, it is used at very low levels. This compound helps replicate roasted, savory, and sulfurous top notes in processed food formulations. Natural gas and LPG suppliers use it as an odorant additive, blending it into fuel gas streams for safety. This provides a detectable warning odor for leak detection compliance. Petroleum refiners and petrochemical processors also use it as a reference compound and intermediate in sulfur chemistry research and calibration standards. In beverage and food flavor houses, it contributes to coffee, meat, and onion flavor profiles where authentic sulfur character is required. It is available in food-grade quality meeting FEMA standards. The product is supplied as a liquid at ambient conditions, typically in small packaging formats suited to flavor and odorant applications. It also meets various flavor industry purity standards for global use. Technical grade options are available for gas odorant and industrial use. Packaging ranges from laboratory-scale quantities up to drum volumes for industrial odorant blending operations and large scale manufacturing. Contact us for supply of 2-methylpropane-2-thiol Request Quote",
+  "physicalProperties": "Melting Point: -0.5 °C; Boiling Point: -63.7-64.2 °C @ Press: 760 Torr; Density: 0.80 g/cm³; Flash Point: −12 °F; Appearance: liquid with an exceedingly unpleasant smell; Color: Clear colorless; Odor: sulfury; Form: Liquid; Water Solubility: Slightly soluble in water; Vapor Pressure: 303.5 mm Hg ( 37.7 °C); Refractive Index: n 20/D 1.423(lit.); Log P: 2.206 (est)",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 GHS09 Hazard Statements H225 Highly Flammable liquid and vapor H304 May be fatal if swallowed and enters airways H317 May cause an allergic skin reaction H319 Causes serious eye irritation H320 Causes eye irritation H335 May cause respiratory irritation H336 May cause drowsiness or dizziness H373 May causes damage to organs through prolonged or repeated exposure H411 Toxic to aquatic life with long lasting effects Precautionary Statements P210 Keep away from heat, hot surfaces, sparks, open flames and other ignition sources. No smoking. P233 Keep container tightly closed. P240 Ground and bond container and receiving equipment. P241 Use explosion-proof [electrical/ventilating/lighting/…] equipment. P242 Use non-sparking tools. P243 Take action to prevent static discharges. P260 Do not breathe dust/fume/gas/mist/vapours/spray. P261 Avoid breathing dust/fume/gas/mist/vapours/spray. P271 Use only outdoors or in a well-ventilated area. P272 Contaminated work clothing should not be allowed out of the workplace. P273 Avoid release to the environment. P280 Wear protective gloves/protective clothing/eye protection/face protection. P319 Get medical advice/attention if you feel unwell. P321 Specific treatment (see … on this label). P331 Do NOT induce vomiting. P391 Collect spillage. P405 Store locked up. P501 Dispose of contents/container in accordance with local regulations. P264+P265 Wash … thoroughly after handling. P301+P316 Get emergency medical help immediately. P302+P352 IF ON SKIN: Wash with plenty of water. P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing. P333+P317 Get emergency medical help. P337+P317 If eye irritation persists: Get medical advice/attention. Get emergency medical help. P362+P364 Take off contaminated clothing and wash it before reuse. P370+P378 Use … for extinction. P403+P233 Store in a well-ventilated place. Keep container tightly closed. P403+P235 Store in a well-ventilated place. Keep cool. P303+P361+P353 IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water/shower. P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.",
+  "tradeRegulatory": "HS Code: 29309090; UN Number: 2347; ADR Class: 3; Packing Group: II; Storage Class: 3 - Flammable liquids; WGK (Germany): 3",
+  "otherNames": "tert-butyl mercaptan",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1628863353691-0071c8c1eeaa?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08",
+    "GHS09"
+  ],
+  "hsCode": "29309090",
+  "similarProducts": [
+    "cas-109-79-5",
+    "cas-57124-87-5",
+    "cas-16215-21-7",
+    "cas-116-53-0",
+    "cas-25103-58-6",
+    "cas-600-07-7",
+    "cas-110-01-0",
+    "cas-75-65-0",
+    "cas-110-02-1",
+    "cas-88-15-3",
+    "cas-1634-04-4",
+    "cas-590-86-3",
+    "cas-112-55-0",
+    "cas-7452-79-1",
+    "cas-75-65-0",
+    "cas-110-02-1",
+    "cas-88-15-3",
+    "cas-1634-04-4",
+    "cas-590-86-3",
+    "cas-112-55-0",
+    "cas-7452-79-1"
+  ],
+  "url": "https://www.solechem.eu/products/cas-75-66-1/"
+}
