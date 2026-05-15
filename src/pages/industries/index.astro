@@ -70,50 +70,11 @@ import { INDUSTRIES } from '../../data';
     <!-- Industries Grid -->
     <section class="py-20">
       <div class="max-w-7xl mx-auto px-4 lg:px-8">
-        <!-- Alphabetic Filter Bar -->
-        <div class="flex flex-wrap items-center gap-1 bg-white border border-slate-200 px-3 py-2 shadow-sm mb-6">
-          <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest mr-2 shrink-0">A-Z</span>
-          <button data-letter="all" class="ind-alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all bg-orange-600 text-white shadow-sm">All</button>
-          {(() => {
-            const hasNumeric = INDUSTRIES.some(i => /^[0-9]/.test(i.name));
-            return (
-              <button
-                data-letter="#"
-                disabled={!hasNumeric}
-                class={`ind-alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all ${
-                  hasNumeric
-                    ? 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 cursor-pointer'
-                    : 'text-slate-300 cursor-not-allowed'
-                }`}
-              >
-                #
-              </button>
-            );
-          })()}
-          {Array.from('ABCDEFGHIJKLMNOPQRSTUVWXYZ').map(letter => {
-            const hasItems = INDUSTRIES.some(i => i.name.charAt(0).toUpperCase() === letter);
-            return (
-              <button
-                data-letter={letter}
-                disabled={!hasItems}
-                class={`ind-alpha-btn w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all ${
-                  hasItems
-                    ? 'text-slate-600 hover:bg-slate-100 hover:text-slate-900 cursor-pointer'
-                    : 'text-slate-300 cursor-not-allowed'
-                }`}
-              >
-                {letter}
-              </button>
-            );
-          })}
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="industries-grid">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {INDUSTRIES.map((industry) => (
             <a
               href={`/industries/${industry.slug}`}
-              class="industry-card group bg-white border border-slate-200 hover:border-orange-500 hover:shadow-md transition-all duration-300 flex flex-col h-full rounded-sm overflow-hidden"
-              data-name={industry.name}
+              class="group bg-white border border-slate-200 hover:border-orange-500 hover:shadow-md transition-all duration-300 flex flex-col h-full rounded-sm overflow-hidden"
             >
               <div class="h-48 relative overflow-hidden bg-slate-100">
                 <img
@@ -206,43 +167,4 @@ import { INDUSTRIES } from '../../data';
       </div>
     </section>
   </div>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const buttons = document.querySelectorAll('.ind-alpha-btn');
-      const cards = document.querySelectorAll('.industry-card');
-      let activeLetter: string | null = null;
-
-      buttons.forEach(btn => {
-        btn.addEventListener('click', () => {
-          const letter = (btn as HTMLElement).dataset.letter!;
-          if (letter === 'all') {
-            activeLetter = null;
-          } else {
-            activeLetter = activeLetter === letter ? null : letter;
-          }
-
-          buttons.forEach(b => {
-            const l = (b as HTMLElement).dataset.letter!;
-            const isActive = (activeLetter === null && l === 'all') || l === activeLetter;
-            b.classList.toggle('bg-orange-600', isActive);
-            b.classList.toggle('text-white', isActive);
-            b.classList.toggle('shadow-sm', isActive);
-            if (!isActive && !(b as HTMLButtonElement).disabled) {
-              b.classList.add('text-slate-600');
-              b.classList.remove('bg-orange-600', 'text-white', 'shadow-sm');
-            }
-          });
-
-          cards.forEach(card => {
-            const name = (card as HTMLElement).dataset.name!;
-            const firstChar = name.charAt(0);
-            const show = !activeLetter ||
-              (activeLetter === '#' ? /^[0-9]/.test(firstChar) : firstChar.toUpperCase() === activeLetter);
-            (card as HTMLElement).style.display = show ? '' : 'none';
-          });
-        });
-      });
-    });
-  </script>
 </BaseLayout>

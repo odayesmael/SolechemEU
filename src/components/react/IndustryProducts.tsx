@@ -24,6 +24,7 @@ export default function IndustryProducts({ products, industryName }: Props) {
   const [view, setView] = useState<'grid' | 'list'>('list');
   const [currentPage, setCurrentPage] = useState(1);
   const [sortBy, setSortBy] = useState('name-asc');
+  const [activeLetter, setActiveLetter] = useState<string | null>(null);
   const [globalResults, setGlobalResults] = useState<any[]>([]);
   const [showGlobalDropdown, setShowGlobalDropdown] = useState(false);
   const debounceRef = useRef<ReturnType<typeof setTimeout>>();
@@ -37,11 +38,15 @@ export default function IndustryProducts({ products, industryName }: Props) {
       .catch(() => {});
   }, []);
 
+  const ALPHABET = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+
   const filteredProducts = useMemo(() => {
-    const filtered = products.filter(p =>
-      p.name.toLowerCase().includes(search.toLowerCase()) ||
-      p.cas.toLowerCase().includes(search.toLowerCase())
-    );
+    const filtered = products.filter(p => {
+      const matchesSearch = p.name.toLowerCase().includes(search.toLowerCase()) ||
+        p.cas.toLowerCase().includes(search.toLowerCase());
+      const matchesLetter = !activeLetter || (activeLetter === '#' ? /^[0-9]/.test(p.name) : p.name.charAt(0).toUpperCase() === activeLetter);
+      return matchesSearch && matchesLetter;
+    });
 
     const sorted = [...filtered];
     switch (sortBy) {
@@ -59,7 +64,7 @@ export default function IndustryProducts({ products, industryName }: Props) {
         break;
     }
     return sorted;
-  }, [products, search, sortBy]);
+  }, [products, search, sortBy, activeLetter]);
 
   const totalPages = Math.ceil(filteredProducts.length / ITEMS_PER_PAGE);
   const paginatedProducts = filteredProducts.slice(
@@ -100,6 +105,12 @@ export default function IndustryProducts({ products, industryName }: Props) {
   // Reset to page 1 when search changes
   const handleSearchChange = (val: string) => {
     setSearch(val);
+    setCurrentPage(1);
+  };
+
+  const clearAllFilters = () => {
+    setSearch('');
+    setActiveLetter(null);
     setCurrentPage(1);
   };
 
@@ -195,6 +206,69 @@ export default function IndustryProducts({ products, industryName }: Props) {
             <span className="font-bold text-slate-900">{filteredProducts.length}</span> Products
           </div>
         </div>
+      </div>
+
+      {/* Alphabetic Filter Bar */}
+      <div className="flex flex-wrap items-center gap-1 bg-white border border-slate-200 px-3 py-2 shadow-sm">
+        <span className="text-[10px] font-bold text-slate-400 uppercase tracking-widest mr-2 shrink-0">A-Z</span>
+        <button
+          onClick={() => setActiveLetter(null)}
+          className={cn(
+            "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+            activeLetter === null
+              ? "bg-orange-600 text-white shadow-sm"
+              : "text-slate-500 hover:bg-slate-100 hover:text-slate-900"
+          )}
+        >
+          All
+        </button>
+        {(() => {
+          const hasNumeric = products.some(p => /^[0-9]/.test(p.name));
+          return (
+            <button
+              onClick={() => hasNumeric && setActiveLetter(activeLetter === '#' ? null : '#')}
+              disabled={!hasNumeric}
+              className={cn(
+                "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+                activeLetter === '#'
+                  ? "bg-orange-600 text-white shadow-sm"
+                  : hasNumeric
+                    ? "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
+                    : "text-slate-300 cursor-not-allowed"
+              )}
+            >
+              #
+            </button>
+          );
+        })()}
+        {ALPHABET.map(letter => {
+          const hasProducts = products.some(p => p.name.charAt(0).toUpperCase() === letter);
+          return (
+            <button
+              key={letter}
+              onClick={() => hasProducts && setActiveLetter(activeLetter === letter ? null : letter)}
+              disabled={!hasProducts}
+              className={cn(
+                "w-7 h-7 flex items-center justify-center text-[11px] font-bold rounded-sm transition-all",
+                activeLetter === letter
+                  ? "bg-orange-600 text-white shadow-sm"
+                  : hasProducts
+                    ? "text-slate-600 hover:bg-slate-100 hover:text-slate-900"
+                    : "text-slate-300 cursor-not-allowed"
+              )}
+            >
+              {letter}
+            </button>
+          );
+        })}
+        {activeLetter && (
+          <button
+            onClick={() => setActiveLetter(null)}
+            className="ml-2 text-[11px] font-bold text-orange-600 hover:text-orange-700 transition-colors uppercase tracking-wider"
+          >
+            Clear
+          </button>
+        )}
       </div>
 
       {/* Results info */}
