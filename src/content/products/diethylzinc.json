@@ -1,0 +1,37 @@
+{
+  "id": "5017",
+  "name": "Diethylzinc",
+  "slug": "diethylzinc",
+  "cas": "557-20-0",
+  "ec": "Unspecified",
+  "formula": "Zn(C2H5)2",
+  "mw": "123.53 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Diethylzinc (CAS 557-20-0), commonly abbreviated as DEZ, is a highly pyrophoric organometallic compound used as a zinc precursor in Chemical Vapor Deposition (CVD) and Atomic Layer Deposition (ALD) processes for the electronics and solar photovoltaic industries. In PV manufacturing, DEZ is used to deposit zinc oxide (ZnO) transparent conductive layers and anti-reflective coatings on solar cells. In the semiconductor industry, it serves as a dopant source and precursor for ZnO thin film deposition in transparent electronics and gas sensor applications. DEZ is also widely used in the production of zinc-based catalysts for organic synthesis and polymerization reactions. The compound is extremely reactive with air and moisture and requires specialized handling under inert atmosphere with strict safety protocols.",
+  "physicalProperties": "Appearance: colorless pyrophoric liquid; Molecular Weight: 123.53 g/mol; Boiling Point: 117 °C; Melting Point: -28 °C; Density: 1.205 g/cm³; Flash Point: -18 °C; Vapor Pressure: 16 mmHg at 25°C",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 Hazard Statements H250 Catches fire spontaneously if exposed to air H260 In contact with water releases flammable gases which may ignite spontaneously H300 Fatal if swallowed H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P222 Do not allow contact with air P223 Do not allow contact with water P231+P232 Handle under inert gas P280 Wear protective gloves/protective clothing/eye protection/face protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "DEZ, Zinc Diethyl, Ethylzinc",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/diethylzinc/"
+}

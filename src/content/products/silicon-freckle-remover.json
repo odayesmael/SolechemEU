@@ -1,0 +1,36 @@
+{
+  "id": "5015",
+  "name": "Silicon Freckle Remover",
+  "slug": "silicon-freckle-remover",
+  "cas": "7697-37-2 / 12125-01-8",
+  "ec": "Unspecified",
+  "formula": "HNO3 + NH4F",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Silicon Freckle Remover is a specialized cleaning solution based on nitric acid and ammonium fluoride designed to remove silicon freckle defects and surface particulates from semiconductor and flat panel display substrates. Silicon freckles are micro-scale surface defects that form during various fabrication steps and can cause device failure if not removed. This formulation provides controlled chemical action that selectively dissolves silicon-based surface contaminants without damaging the underlying substrate or adjacent thin film layers. The solution is optimized for use in standard wet bench and spray processing equipment in cleanroom environments.",
+  "physicalProperties": "Appearance: clear liquid; Density: ~1.1-1.2 g/cm³; pH: <2",
+  "safetyHandling": "Danger GHS05 GHS06 Hazard Statements H300 Fatal if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection/face protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Si Freckle Cleaner, Silicon Defect Remover, Surface Defect Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/silicon-freckle-remover/"
+}

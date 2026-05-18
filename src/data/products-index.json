@@ -68016,5 +68016,181 @@
       "Electronics & Solar Photovoltaic"
     ],
     "description": "High-purity electronic-grade etching solutions including Cr, Mo/Al/Mo, Mo/Al, Gold, ITO, and Aluminum etchants for semiconductor, display, and solar PV manufacturing."
+  },
+  {
+    "id": "5002",
+    "name": "Buffered Oxide Etchant (BOE/BHF)",
+    "slug": "buffered-oxide-etchant",
+    "cas": "12125-01-8 / 7664-39-3",
+    "formula": "NH4F + HF",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5003",
+    "name": "Ultra Buffered Oxide Etchant with Surfactant (UBHF)",
+    "slug": "ultra-buffered-oxide-etchant-surfactant",
+    "cas": "12125-01-8 / 7664-39-3",
+    "formula": "NH4F + HF + Surfactant",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5004",
+    "name": "Aluminum Etchant",
+    "slug": "aluminum-etchant",
+    "cas": "7664-38-2 / 7697-37-2 / 64-19-7",
+    "formula": "H3PO4 + HNO3 + CH3COOH",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5005",
+    "name": "ITO Etchant (HCl Base)",
+    "slug": "ito-etchant-hcl-base",
+    "cas": "Mixture — no single CAS",
+    "formula": "FeCl3 + HCl",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5006",
+    "name": "ITO Etchant (HNO3 Base)",
+    "slug": "ito-etchant-hno3-base",
+    "cas": "Mixture — no single CAS",
+    "formula": "FeCl3 + HNO3",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5007",
+    "name": "ITO Etchant (HCl + HNO3)",
+    "slug": "ito-etchant-hcl-hno3",
+    "cas": "Mixture — no single CAS",
+    "formula": "HNO3 + HCl",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5008",
+    "name": "Chrome Etchant",
+    "slug": "chrome-etchant",
+    "cas": "16774-21-3 / 7697-37-2",
+    "formula": "(NH4)2Ce(NO3)6 + HNO3",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5009",
+    "name": "Poly Etchant",
+    "slug": "poly-etchant",
+    "cas": "7697-37-2 / 7664-39-3",
+    "formula": "HF + HNO3",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5010",
+    "name": "Silver Etchant",
+    "slug": "silver-etchant",
+    "cas": "7664-38-2 / 7697-37-2 / 64-19-7",
+    "formula": "H3PO4 + HNO3 + CH3COOH",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5011",
+    "name": "Q Etchant II",
+    "slug": "q-etchant-ii",
+    "cas": "12125-01-8 / 7664-38-2",
+    "formula": "H3PO4 + NH4F",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5012",
+    "name": "PAD Etchant I-S",
+    "slug": "pad-etchant-i-s",
+    "cas": "64-19-7 / 12125-01-8",
+    "formula": "CH3COOH + NH4F",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5013",
+    "name": "Glass Thinning Etchant",
+    "slug": "glass-thinning-etchant",
+    "cas": "Proprietary mixture",
+    "formula": "Proprietary",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5014",
+    "name": "Mixed Acid Etchant (MAE Series)",
+    "slug": "mixed-acid-etchant",
+    "cas": "Proprietary mixture",
+    "formula": "Proprietary",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5015",
+    "name": "Silicon Freckle Remover",
+    "slug": "silicon-freckle-remover",
+    "cas": "7697-37-2 / 12125-01-8",
+    "formula": "HNO3 + NH4F",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5016",
+    "name": "Copper CMP Clean Solution",
+    "slug": "copper-cmp-clean",
+    "cas": "7732-18-5 / 77-92-9",
+    "formula": "H2O + C6H8O7",
+    "category": "Etchants & Cleaning Solutions",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
+  },
+  {
+    "id": "5017",
+    "name": "Diethylzinc",
+    "slug": "diethylzinc",
+    "cas": "557-20-0",
+    "formula": "Zn(C2H5)2",
+    "category": "Organometallic Compounds",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ]
   }
 ]

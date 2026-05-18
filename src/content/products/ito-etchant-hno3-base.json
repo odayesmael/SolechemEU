@@ -1,0 +1,36 @@
+{
+  "id": "5006",
+  "name": "ITO Etchant (HNO3 Base)",
+  "slug": "ito-etchant-hno3-base",
+  "cas": "Mixture — no single CAS",
+  "ec": "Unspecified",
+  "formula": "FeCl3 + HNO3",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "ITO Etchant (HNO3 Base) is a wet etching formulation based on ferric chloride and nitric acid for patterning Indium Tin Oxide (ITO) transparent conductive oxide layers. This nitric acid-based variant provides different etch characteristics compared to HCl-based formulations, offering alternative selectivity and surface finish properties for specific FPD and LED manufacturing processes. The combination of ferric chloride as the oxidant with nitric acid provides effective ITO dissolution while maintaining good process control. This formulation is particularly suited for applications where chloride residue must be minimized or where specific etch profile characteristics are required.",
+  "physicalProperties": "Appearance: yellow to brown liquid; Density: ~1.2 g/cm³; pH: <1; Boiling Point: >100 °C",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "ITO Etchant FeCl3/HNO3, Nitric-Based ITO Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/ito-etchant-hno3-base/"
+}

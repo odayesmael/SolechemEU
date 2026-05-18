@@ -1,0 +1,36 @@
+{
+  "id": "5007",
+  "name": "ITO Etchant (HCl + HNO3)",
+  "slug": "ito-etchant-hcl-hno3",
+  "cas": "Mixture — no single CAS",
+  "ec": "Unspecified",
+  "formula": "HNO3 + HCl",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "ITO Etchant (HCl + HNO3) is a mineral acid-based wet etching solution combining hydrochloric acid and nitric acid for high-performance Indium Tin Oxide (ITO) patterning. This aqua regia-type formulation provides aggressive and uniform ITO etching with clean surface finish, making it ideal for advanced FPD and LED transparent electrode fabrication. The synergistic combination of oxidizing (HNO3) and complexing (HCl) acids ensures complete dissolution of both indium and tin components without residue formation. This formulation is preferred for high-throughput production where fast etch rates and minimal undercut are required.",
+  "physicalProperties": "Appearance: clear to pale yellow fuming liquid; Density: ~1.2-1.4 g/cm³; pH: <1; Boiling Point: >100 °C",
+  "safetyHandling": "Danger GHS05 GHS06 Hazard Statements H290 May be corrosive to metals H300 Fatal if swallowed H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection/face protection P284 Wear respiratory protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Aqua Regia ITO Etchant, Mineral Acid ITO Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/ito-etchant-hcl-hno3/"
+}

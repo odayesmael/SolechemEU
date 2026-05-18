@@ -1,0 +1,36 @@
+{
+  "id": "5014",
+  "name": "Mixed Acid Etchant (MAE Series)",
+  "slug": "mixed-acid-etchant",
+  "cas": "Proprietary mixture",
+  "ec": "Unspecified",
+  "formula": "Proprietary",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Mixed Acid Etchant (MAE Series) is a family of proprietary multi-component acid etchant formulations for semiconductor and flat panel display manufacturing. The MAE series is designed for specialized etching applications where standard single- or dual-acid etchants do not provide the required selectivity, etch rate, or surface finish. Each MAE formulation is optimized for specific material systems and device integration requirements. Applications include multi-layer metal stack etching, compound semiconductor processing, and specialty thin film patterning. Custom formulations and process optimization support are available to meet specific customer requirements.",
+  "physicalProperties": "Appearance: clear to colored liquid (varies by formulation); Contact supplier for detailed specifications",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection. Contact supplier for complete SDS.",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "MAE Etchant, Multi-Component Etchant, Custom Acid Blend",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/mixed-acid-etchant/"
+}

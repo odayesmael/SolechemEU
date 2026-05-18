@@ -1,0 +1,35 @@
+{
+  "id": "5016",
+  "name": "Copper CMP Clean Solution",
+  "slug": "copper-cmp-clean",
+  "cas": "7732-18-5 / 77-92-9",
+  "ec": "Unspecified",
+  "formula": "H2O + C6H8O7",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Copper CMP Clean Solution is a post-chemical mechanical planarization (CMP) cleaning formulation based on deionized water and citric acid designed for removing residual slurry particles, copper oxides, and organic contaminants from wafer surfaces after copper CMP processing. Effective post-CMP cleaning is critical in copper interconnect manufacturing to prevent defects, ensure reliable via connections, and maintain device yield. The citric acid component acts as a chelating agent that complexes dissolved copper ions, preventing re-deposition and galvanic corrosion on exposed metal surfaces. This solution is compatible with standard post-CMP brush scrubber and megasonic cleaning tools.",
+  "physicalProperties": "Appearance: clear colorless liquid; Density: ~1.0 g/cm³; pH: 2-4",
+  "safetyHandling": "Warning GHS07 Hazard Statements H319 Causes serious eye irritation Precautionary Statements P264 Wash hands thoroughly after handling P280 Wear eye protection P305+P351+P338 IF IN EYES: Rinse cautiously with water for several minutes",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Post-CMP Cleaner, Cu CMP Rinse, Copper Cleaning Solution",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/copper-cmp-clean/"
+}

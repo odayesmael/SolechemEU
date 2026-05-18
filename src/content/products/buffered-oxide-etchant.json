@@ -1,0 +1,36 @@
+{
+  "id": "5002",
+  "name": "Buffered Oxide Etchant (BOE/BHF)",
+  "slug": "buffered-oxide-etchant",
+  "cas": "12125-01-8 / 7664-39-3",
+  "ec": "Unspecified",
+  "formula": "NH4F + HF",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Buffered Oxide Etchant (BOE), also known as Buffered HF (BHF), is a critical wet etching solution composed of ammonium fluoride and hydrofluoric acid used extensively in semiconductor, flat panel display, photovoltaic, and LED manufacturing. The buffered formulation provides controlled and uniform silicon dioxide etching with superior etch rate stability compared to dilute HF alone. BOE is essential for oxide patterning, pre-diffusion cleaning, and post-CMP oxide removal in advanced device fabrication. The ammonium fluoride buffer maintains consistent fluoride ion concentration throughout the etch process, ensuring predictable etch rates and excellent selectivity to silicon and silicon nitride. Available in multiple ratios (6:1, 7:1, 10:1, 20:1) to match specific process requirements for etch rate and selectivity.",
+  "physicalProperties": "Appearance: clear colorless liquid; Density: 1.06-1.15 g/cm³ (varies by ratio); pH: <1; Boiling Point: ~106 °C",
+  "safetyHandling": "Danger GHS05 GHS06 Hazard Statements H300 Fatal if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection/face protection P284 Wear respiratory protection P301+P310 IF SWALLOWED: Immediately call a POISON CENTER",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "BOE, BHF, Buffered HF, Buffered Hydrofluoric Acid",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/buffered-oxide-etchant/"
+}

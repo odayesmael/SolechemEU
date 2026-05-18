@@ -1,0 +1,36 @@
+{
+  "id": "5003",
+  "name": "Ultra Buffered Oxide Etchant with Surfactant (UBHF)",
+  "slug": "ultra-buffered-oxide-etchant-surfactant",
+  "cas": "12125-01-8 / 7664-39-3",
+  "ec": "Unspecified",
+  "formula": "NH4F + HF + Surfactant",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Ultra Buffered Oxide Etchant with Surfactant (UBHF) is an advanced formulation of buffered HF enhanced with surfactant additives for improved wetting and etch uniformity. The surfactant component reduces surface tension, enabling better penetration into high-aspect-ratio features and contact holes in semiconductor device fabrication. This results in more uniform etching with reduced pattern-dependent etch rate variations. UBHF is specifically designed for advanced semiconductor nodes where critical dimension control and etch uniformity across the wafer are essential. The formulation provides consistent performance in both immersion and spray processing configurations for silicon dioxide etching in semiconductor, FPD, PV, and LED applications.",
+  "physicalProperties": "Appearance: clear liquid; Density: 1.06-1.15 g/cm³; pH: <1; Boiling Point: ~106 °C",
+  "safetyHandling": "Danger GHS05 GHS06 Hazard Statements H300 Fatal if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection/face protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "UBHF, Surfactant-Enhanced BOE, Ultra BHF",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/ultra-buffered-oxide-etchant-surfactant/"
+}

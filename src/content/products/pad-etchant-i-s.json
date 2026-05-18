@@ -1,0 +1,36 @@
+{
+  "id": "5012",
+  "name": "PAD Etchant I-S",
+  "slug": "pad-etchant-i-s",
+  "cas": "64-19-7 / 12125-01-8",
+  "ec": "Unspecified",
+  "formula": "CH3COOH + NH4F",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "PAD Etchant I-S is a wet etching solution based on acetic acid and ammonium fluoride formulated for selective pad oxide etching and surface conditioning in semiconductor fabrication. The acetic acid buffer maintains pH stability during the etch process while the ammonium fluoride provides controlled oxide dissolution. This etchant is specifically designed for removing native oxide and thin pad oxide layers prior to subsequent deposition or implantation steps. The mild formulation offers precise control for thin oxide removal with excellent wafer-to-wafer reproducibility, making it suitable for advanced process nodes where tight thickness control is critical.",
+  "physicalProperties": "Appearance: clear liquid; Density: ~1.05 g/cm³; pH: 3-5; Boiling Point: >100 °C",
+  "safetyHandling": "Warning GHS05 GHS07 Hazard Statements H302 Harmful if swallowed H312 Harmful in contact with skin H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "PAD Etch, Pad Oxide Etchant, Acetic-Fluoride Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/pad-etchant-i-s/"
+}

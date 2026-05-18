@@ -1,0 +1,36 @@
+{
+  "id": "5004",
+  "name": "Aluminum Etchant",
+  "slug": "aluminum-etchant",
+  "cas": "7664-38-2 / 7697-37-2 / 64-19-7",
+  "ec": "Unspecified",
+  "formula": "H3PO4 + HNO3 + CH3COOH",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Aluminum Etchant is a mixed acid formulation of phosphoric acid, nitric acid, and acetic acid designed for selective wet etching of aluminum and aluminum alloy thin films in semiconductor and flat panel display manufacturing. The phosphoric acid provides the primary etch mechanism, while nitric acid serves as an oxidizer and acetic acid acts as a buffer to control etch rate and uniformity. This formulation enables controlled, isotropic etching of aluminum metallization layers with excellent selectivity to underlying dielectric films. Various concentration ratios are available to optimize etch rate, taper angle, and process compatibility for specific device architectures and aluminum alloy compositions.",
+  "physicalProperties": "Appearance: clear colorless to pale yellow liquid; Density: ~1.3 g/cm³; Boiling Point: varies by formulation; Flash Point: non-flammable",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection/face protection P301+P330+P331 IF SWALLOWED: Rinse mouth. Do NOT induce vomiting",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Al Etchant, PAN Etchant, Phosphoric-Nitric-Acetic Acid Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/aluminum-etchant/"
+}

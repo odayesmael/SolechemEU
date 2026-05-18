@@ -1,0 +1,35 @@
+{
+  "id": "5013",
+  "name": "Glass Thinning Etchant",
+  "slug": "glass-thinning-etchant",
+  "cas": "Proprietary mixture",
+  "ec": "Unspecified",
+  "formula": "Proprietary",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Glass Thinning Etchant (GGE Series) is a proprietary chemical formulation designed for controlled thinning of glass substrates used in flat panel display manufacturing. The etchant enables uniform thickness reduction of large-area glass panels while maintaining surface quality and planarity. Glass thinning is a critical process in modern FPD manufacturing to reduce display module weight and thickness for mobile and automotive applications. The GGE series provides multiple formulation options to accommodate different glass compositions (aluminosilicate, borosilicate) and target thickness requirements. Process optimization support is available for integration into existing wet bench or spray tool configurations.",
+  "physicalProperties": "Appearance: clear liquid; Contact supplier for detailed specifications",
+  "safetyHandling": "Danger GHS05 Hazard Statements H314 Causes severe skin burns and eye damage Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection. Contact supplier for complete SDS.",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "GGE Etchant, Glass Slim Etchant, Glass Reduction Chemical",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/glass-thinning-etchant/"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "5005",
+  "name": "ITO Etchant (HCl Base)",
+  "slug": "ito-etchant-hcl-base",
+  "cas": "Mixture — no single CAS",
+  "ec": "Unspecified",
+  "formula": "FeCl3 + HCl",
+  "mw": "Mixture",
+  "category": "Etchants & Cleaning Solutions",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "ITO Etchant (HCl Base) is a specialized wet etching solution composed of ferric chloride and hydrochloric acid formulated for precise patterning of Indium Tin Oxide (ITO) transparent conductive films. This formulation is widely used in flat panel display and LED manufacturing for creating transparent electrode patterns. The ferric chloride component acts as the primary oxidizing etchant, while hydrochloric acid maintains the solution pH and prevents re-deposition of etched material. The HCl-based formulation provides controlled etch rates with good uniformity suitable for large-area display substrates. Multiple concentration grades are available to match specific ITO film thicknesses and process integration requirements.",
+  "physicalProperties": "Appearance: yellow to brown liquid; Density: ~1.2 g/cm³; pH: <1; Boiling Point: >100 °C",
+  "safetyHandling": "Danger GHS05 GHS07 Hazard Statements H290 May be corrosive to metals H302 Harmful if swallowed H314 Causes severe skin burns and eye damage H315 Causes skin irritation Precautionary Statements P260 Do not breathe vapours P280 Wear protective gloves/protective clothing/eye protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "ITO Etchant FeCl3/HCl, Indium Tin Oxide Etchant, TCO Etchant",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/ito-etchant-hcl-base/"
+}
