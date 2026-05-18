@@ -100,7 +100,7 @@ export default function ContactForm() {
             <input required type="email" name="email" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-sm px-4 text-[14px] text-slate-900 placeholder:text-slate-400 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all" placeholder="john@acme.com" />
           </div>
           <div className="space-y-2">
-            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Phone / WhatsApp</label>
+            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Phone</label>
             <input type="tel" name="phone" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-sm px-4 text-[14px] text-slate-900 placeholder:text-slate-400 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all" placeholder="+39 ..." />
           </div>
         </div>

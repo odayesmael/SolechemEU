@@ -105,7 +105,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
         <div ref={searchRef} className="hidden md:block flex-1 max-w-md relative">
           <form onSubmit={handleSearch} className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
-            <input type="text" value={searchQuery} onChange={(e) => onSearchChange(e.target.value)} onFocus={() => searchResults.length > 0 && setShowResults(true)} placeholder="Search CAS, formula, or product..." className="w-full h-9 pl-10 pr-12 bg-gray-100/50 dark:bg-slate-800 border border-gray-200/50 dark:border-slate-700 rounded-sm text-sm focus:outline-none focus:ring-1 focus:ring-slate-400 focus:bg-white dark:focus:bg-slate-900 transition-all text-slate-900 dark:text-white placeholder:text-gray-400" autoComplete="off" />
+            <input type="text" value={searchQuery} onChange={(e) => onSearchChange(e.target.value)} onFocus={() => searchResults.length > 0 && setShowResults(true)} placeholder="Search CAS, formula, or product..." className="w-full h-9 pl-10 pr-12 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-sm text-sm focus:outline-none focus:ring-1 focus:ring-slate-400 transition-all text-slate-900 dark:text-white placeholder:text-gray-400" autoComplete="off" />
             <div className="absolute right-3 top-1/2 -translate-y-1/2 text-[10px] font-mono text-gray-400 border border-gray-200/50 dark:border-slate-700 px-1 rounded">⌘K</div>
           </form>
           {showResults && searchResults.length > 0 && (
@@ -151,7 +151,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           </div>
         </div>
         <div className="flex items-center gap-4 shrink-0" onMouseEnter={() => setActiveMegaMenu(null)}>
-          <button onClick={() => setIsQuoteModalOpen(true)} className="hidden sm:flex items-center gap-2 bg-orange-600 hover:bg-orange-700 text-white px-4 h-9 rounded-sm text-xs font-bold transition-all active:scale-95">SUBMIT RFQ</button>
+          <button onClick={() => setIsQuoteModalOpen(true)} className="hidden sm:flex items-center gap-2 bg-orange-600 hover:bg-orange-700 text-white px-4 h-9 rounded-sm text-xs font-bold transition-all active:scale-95">GET OFFER</button>
           <button className={cn("lg:hidden p-2", isLightMode ? "text-slate-600" : "text-white")} onClick={() => setIsMenuOpen(!isMenuOpen)}>{isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}</button>
         </div>
       </div>
@@ -224,25 +224,16 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
               <div className="flex gap-10">
                 <div className="w-1/3">
                   <h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2">
-                    <Phone className="w-5 h-5 text-orange-600" /> Get in Touch
+                    <Mail className="w-5 h-5 text-orange-600" /> Get in Touch
                   </h3>
                   <p className="text-[13px] text-slate-500 mb-6 leading-relaxed">
-                    Speak directly with a technical expert — not a call centre. We respond to all B2B inquiries within 24 business hours.
+                    Reach our team directly via email for quotes, technical inquiries, or product information. We respond to all B2B inquiries within 24 business hours.
                   </p>
                   <a href="/contact" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">
                     Contact Form <ArrowRight className="w-4 h-4" />
                   </a>
                 </div>
                 <div className="w-2/3 grid grid-cols-2 gap-5 border-l border-gray-100 pl-10">
-                  <a href="tel:+390230556150" className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
-                    <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
-                      <Phone className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
-                    </div>
-                    <div>
-                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">B2B Sales & Technical</h4>
-                      <p className="text-xs text-slate-500 leading-relaxed font-mono">+39 02 3055 6150</p>
-                    </div>
-                  </a>
                   <a href="mailto:info@solechem.eu" className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
                     <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
                       <Mail className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
@@ -250,15 +241,6 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
                     <div>
                       <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">Email</h4>
                       <p className="text-xs text-slate-500 leading-relaxed">info@solechem.eu</p>
-                    </div>
-                  </a>
-                  <a href="https://wa.me/390230556150" target="_blank" rel="noopener noreferrer" className="group flex gap-4 p-4 rounded-sm hover:bg-green-50/50 transition-colors border border-transparent hover:border-green-100">
-                    <div className="w-11 h-11 rounded-sm bg-green-100 flex items-center justify-center shrink-0 group-hover:bg-green-600 transition-colors">
-                      <MessageCircle className="w-5 h-5 text-green-600 group-hover:text-white transition-colors" />
-                    </div>
-                    <div>
-                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-green-700">WhatsApp Business</h4>
-                      <p className="text-xs text-slate-500 leading-relaxed">Response within 2 hours</p>
                     </div>
                   </a>
                   <div className="group flex gap-4 p-4 rounded-sm border border-transparent">
@@ -297,7 +279,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           )}
           <div className="flex items-center justify-between gap-3 py-2">
             <a href="tel:+390230556150" className="flex-1 flex items-center justify-center gap-2 bg-slate-100 text-slate-900 py-3 rounded-xl font-bold text-sm"><Phone className="w-4 h-4 text-orange-600" />Call Us</a>
-            <button onClick={() => { setIsMenuOpen(false); setIsQuoteModalOpen(true); }} className="flex-1 flex items-center justify-center gap-2 bg-orange-50 text-orange-600 py-3 rounded-xl font-bold text-sm"><ClipboardList className="w-5 h-5" />Submit RFQ</button>
+            <button onClick={() => { setIsMenuOpen(false); setIsQuoteModalOpen(true); }} className="flex-1 flex items-center justify-center gap-2 bg-orange-50 text-orange-600 py-3 rounded-xl font-bold text-sm"><ClipboardList className="w-5 h-5" />Get Offer</button>
           </div>
           <div className="h-px bg-gray-100 my-1" />
           <div className="flex flex-col">

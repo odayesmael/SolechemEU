@@ -149,6 +149,15 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
   }, [search, activeCategory, activeIndustries, activeLetter, sortBy, fuse]);
 
   const hasActiveFilter = activeCategory !== 'All' || activeIndustries.length > 0 || activeLetter !== null;
+
+  useEffect(() => {
+    if (search.trim().length >= 2 && filteredProducts.length === 0 && hasActiveFilter) {
+      setActiveCategory('All');
+      setActiveIndustries([]);
+      setActiveLetter(null);
+    }
+  }, [filteredProducts.length, search, hasActiveFilter]);
+
   useEffect(() => {
     if (search.trim().length >= 2 && hasActiveFilter) {
       if (debounceRef.current) clearTimeout(debounceRef.current);
