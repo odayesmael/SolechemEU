@@ -41,8 +41,9 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
           from_name: "SoleChem Quote System",
           "Product Requested": product ? `${product.name} (CAS: ${product.cas})` : "General request",
           "Full Name": data.fullName,
-          "Work Email": data.email,
+          "Business Email": data.email,
           "Company": data.company,
+          "Job Title": data.jobTitle,
           "Phone": data.phone || "Not provided",
           "Country": data.country,
           "Quantity": `${data.quantity} ${data.unit}`,
@@ -107,8 +108,6 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
                       <div className="flex flex-wrap gap-2">
                         <span className="text-[10px] font-bold bg-white border border-slate-200 px-2 py-0.5 rounded-sm text-slate-600 uppercase tracking-widest">CAS: {product.cas}</span>
                         {product.ec && <span className="text-[10px] font-bold bg-white border border-slate-200 px-2 py-0.5 rounded-sm text-slate-600 uppercase tracking-widest">EC: {product.ec}</span>}
-                        {product.formula && product.formula !== 'N/A' && <span className="text-[10px] font-bold bg-white border border-slate-200 px-2 py-0.5 rounded-sm text-slate-600 uppercase tracking-widest">Formula: {product.formula}</span>}
-                        {product.mw && product.mw !== 'N/A' && <span className="text-[10px] font-bold bg-white border border-slate-200 px-2 py-0.5 rounded-sm text-slate-600 uppercase tracking-widest">MW: {product.mw}</span>}
                       </div>
                     </div>
                   ) : (
@@ -155,16 +154,22 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
                             <input required name="fullName" type="text" className="w-full h-10 px-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors" placeholder="John Doe" />
                           </div>
                           <div className="space-y-2 col-span-2 sm:col-span-1">
-                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Work Email *</label>
+                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Business Email *</label>
                             <input required name="email" type="email" className="w-full h-10 px-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors" placeholder="john@company.com" />
                           </div>
                         </div>
 
-                        <div className="space-y-2">
-                          <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Company Name *</label>
-                          <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
-                            <Building2 className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
-                            <input required name="company" type="text" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none" placeholder="Acme Corp" />
+                        <div className="grid grid-cols-2 gap-4">
+                          <div className="space-y-2 col-span-2 sm:col-span-1">
+                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Company Name *</label>
+                            <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
+                              <Building2 className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
+                              <input required name="company" type="text" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none" placeholder="Acme Corp" />
+                            </div>
+                          </div>
+                          <div className="space-y-2 col-span-2 sm:col-span-1">
+                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Job Title *</label>
+                            <input required name="jobTitle" type="text" className="w-full h-10 px-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors" placeholder="Procurement Manager" />
                           </div>
                         </div>
 
@@ -177,10 +182,10 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
                             </div>
                           </div>
                           <div className="space-y-2 col-span-2 sm:col-span-1">
-                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Country / Region *</label>
+                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Country / Region</label>
                             <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
                               <Globe className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
-                              <select required name="country" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none appearance-none">
+                              <select name="country" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none appearance-none">
                                 <option value="">Select Country</option>
                                 <option value="US">United States</option>
                                 <option value="GB">United Kingdom</option>
@@ -210,10 +215,8 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
                             <div className="flex gap-2">
                               <input required name="quantity" type="number" min="1" className="w-full h-10 px-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors" placeholder="e.g. 1000" />
                               <select name="unit" className="h-10 px-2 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 focus:outline-none focus:border-orange-500 transition-colors w-20 shrink-0">
-                                <option>kg</option>
+                                <option>KG</option>
                                 <option>MT</option>
-                                <option>L</option>
-                                <option>drums</option>
                               </select>
                             </div>
                           </div>
@@ -252,16 +255,17 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
 
                         <div className="space-y-2">
                           <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest flex items-center gap-2">
-                            <FileText className="w-3.5 h-3.5 text-slate-400" /> Additional Requirements
+                            <FileText className="w-3.5 h-3.5 text-slate-400" /> Message
                           </label>
-                          <textarea 
+                          <textarea
                             name="requirements"
-                            className="w-full p-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors resize-none h-[100px]" 
-                            placeholder="Please specify any specific grades, compliance requirements (e.g., REACH, GMP), or delivery terms..."
+                            className="w-full p-3 rounded-sm border border-slate-200 bg-slate-50 focus:bg-white text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none focus:border-orange-500 transition-colors resize-none h-[100px]"
+                            placeholder="Please specify any specific grades, compliance requirements, or delivery terms..."
                           ></textarea>
                         </div>
                       </div>
                     </div>
+
                   </form>
                 )}
               </div>

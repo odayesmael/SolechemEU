@@ -454,7 +454,7 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
                   >
                     <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700 ease-in-out" />
                     <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-0.5" />
-                    <span className="relative">Request Quote (RFQ)</span>
+                    <span className="relative">Request Quote</span>
                   </button>
                   <p className="text-center text-[10px] font-semibold text-slate-500 dark:text-slate-400 uppercase tracking-wider">
                     Fast Response - Competitive Pricing
@@ -464,19 +464,6 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
 
 
 
-                <div className="bg-slate-50 dark:bg-slate-800/50 p-5 border border-slate-200 dark:border-slate-700 space-y-4">
-                  <h5 className="text-[10px] font-bold text-slate-500 uppercase tracking-widest">Volume Pricing Guidelines</h5>
-                  <div className="space-y-3">
-                    <div className="flex justify-between items-center text-[13px] border-b border-slate-200 dark:border-slate-700 pb-2">
-                      <span className="text-slate-600 dark:text-slate-400 font-mono">25-500 kg</span>
-                      <span className="font-semibold text-slate-900 dark:text-white">Base pricing</span>
-                    </div>
-                    <div className="flex justify-between items-center text-[13px]">
-                      <span className="text-slate-600 dark:text-slate-400 font-mono">&gt; 500 kg</span>
-                      <span className="font-semibold text-orange-600 dark:text-orange-400">Custom quote</span>
-                    </div>
-                  </div>
-                </div>
               </div>
 
               {/* Contact */}
@@ -520,7 +507,7 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
         >
           <span className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700 ease-in-out" />
           <ArrowRight className="w-4 h-4" />
-          <span className="relative">Request Quote (RFQ)</span>
+          <span className="relative">Request Quote</span>
         </button>
       </div>
       )}

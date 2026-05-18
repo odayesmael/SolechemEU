@@ -123,7 +123,7 @@ export default function ContactForm() {
             </div>
           </div>
           <div className="space-y-2 pt-2">
-            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Requirements</label>
+            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Message</label>
             <textarea rows={4} name="message" className="w-full bg-slate-50 border border-slate-200 rounded-sm p-4 text-[14px] text-slate-900 placeholder:text-slate-400 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all min-h-[120px]" placeholder="Describe requirements: product, CAS, quantity, purity grade, application, Incoterms..." />
           </div>
         </div>
@@ -135,6 +135,13 @@ export default function ContactForm() {
           <p className="text-[13px] font-bold text-slate-900">Request an NDA before sharing details</p>
           <p className="text-[12px] text-slate-600 font-medium">We'll send a mutual NDA within 4 business hours for confidential projects.</p>
         </div>
+      </div>
+
+      <div className="flex items-start gap-3">
+        <input required type="checkbox" name="privacyPolicy" className="mt-1 w-4 h-4 rounded-sm border-slate-300 text-orange-600 focus:ring-orange-500" />
+        <label className="text-[13px] text-slate-600 font-medium">
+          I have agreed to the <a href="/privacy-policy" target="_blank" className="text-orange-600 hover:text-orange-700 underline">Privacy Policy</a>
+        </label>
       </div>
 
       <button
