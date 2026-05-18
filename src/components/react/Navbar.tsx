@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Mail, MapPin, Globe, Award, Users, MessageCircle, Building2 } from 'lucide-react';
+import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Globe, Award, Users, Building2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 import { motion, AnimatePresence } from 'motion/react';
 import QuoteModal from './QuoteModal';
@@ -146,7 +146,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('about')}>
             <a href="/about" className={cn("text-sm font-semibold transition-colors", currentPath === '/about' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>About</a>
           </div>
-          <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('contact')}>
+          <div className="h-full flex items-center px-4" onMouseEnter={() => setActiveMegaMenu(null)}>
             <a href="/contact" className={cn("text-sm font-semibold transition-colors", currentPath === '/contact' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Contact</a>
           </div>
         </div>
@@ -160,7 +160,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
         {activeMegaMenu === 'products' && (
           <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.2 }} className="absolute top-20 left-0 right-0 bg-white border-b border-gray-200 shadow-xl overflow-hidden">
             <div className="max-w-7xl mx-auto px-4 py-6"><div className="flex gap-8">
-              <div className="w-56 shrink-0"><h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2"><Beaker className="w-5 h-5 text-orange-600" /> Categories</h3><p className="text-[13px] text-slate-500 mb-6 leading-relaxed">Browse 27 categories across 4,483+ chemical products.</p><a href="/categories" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">View All <ArrowRight className="w-4 h-4" /></a></div>
+              <div className="w-56 shrink-0"><h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2"><Beaker className="w-5 h-5 text-orange-600" /> Categories</h3><p className="text-[13px] text-slate-500 mb-6 leading-relaxed">Browse 27 categories across 4,488+ chemical products.</p><a href="/categories" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">View All <ArrowRight className="w-4 h-4" /></a></div>
               <div className="flex-1 grid grid-cols-3 gap-x-6 gap-y-1 border-l border-gray-100 pl-8">{TOP_CATEGORIES.map(cat => (<a key={cat} href={`/products?category=${encodeURIComponent(cat)}`} className="group flex items-center justify-between py-2 px-3 rounded hover:bg-orange-50 transition-colors"><span className="text-[13px] font-semibold text-slate-700 group-hover:text-orange-700">{cat}</span><ChevronRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-orange-500 transform group-hover:translate-x-1 transition-all" /></a>))}</div>
             </div></div>
           </motion.div>
@@ -200,7 +200,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
                   {[
                     { icon: Globe, title: 'Global Reach', desc: 'Supplying verified B2B buyers across 50+ countries with full regulatory documentation.', link: '/about' },
                     { icon: Award, title: 'Certifications', desc: 'ISO 9001, ISO 22000, REACH & CLP compliant with full batch traceability.', link: '/about' },
-                    { icon: Beaker, title: '4,483+ Products', desc: 'Comprehensive catalog spanning 27 chemical categories for every industrial application.', link: '/products' },
+                    { icon: Beaker, title: '4,488+ Products', desc: 'Comprehensive catalog spanning 27 chemical categories for every industrial application.', link: '/products' },
                     { icon: Users, title: 'Talent', desc: 'Join our team of qualified chemists and industry experts shaping the future of chemistry.', link: '/sole-talent' },
                   ].map((item, i) => (
                     <a key={i} href={item.link} className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
@@ -213,45 +213,6 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
                       </div>
                     </a>
                   ))}
-                </div>
-              </div>
-            </div>
-          </motion.div>
-        )}
-        {activeMegaMenu === 'contact' && (
-          <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.2 }} className="absolute top-20 left-0 right-0 bg-white border-b border-gray-200 shadow-xl overflow-hidden">
-            <div className="max-w-7xl mx-auto px-4 py-8">
-              <div className="flex gap-10">
-                <div className="w-1/3">
-                  <h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2">
-                    <Mail className="w-5 h-5 text-orange-600" /> Get in Touch
-                  </h3>
-                  <p className="text-[13px] text-slate-500 mb-6 leading-relaxed">
-                    Reach our team directly via email for quotes, technical inquiries, or product information. We respond to all B2B inquiries within 24 business hours.
-                  </p>
-                  <a href="/contact" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">
-                    Contact Form <ArrowRight className="w-4 h-4" />
-                  </a>
-                </div>
-                <div className="w-2/3 grid grid-cols-2 gap-5 border-l border-gray-100 pl-10">
-                  <a href="mailto:info@solechem.eu" className="group flex gap-4 p-4 rounded-sm hover:bg-orange-50/50 transition-colors border border-transparent hover:border-orange-100">
-                    <div className="w-11 h-11 rounded-sm bg-orange-100 flex items-center justify-center shrink-0 group-hover:bg-orange-600 transition-colors">
-                      <Mail className="w-5 h-5 text-orange-600 group-hover:text-white transition-colors" />
-                    </div>
-                    <div>
-                      <h4 className="text-sm font-bold text-slate-900 mb-1 group-hover:text-orange-700">Email</h4>
-                      <p className="text-xs text-slate-500 leading-relaxed">info@solechem.eu</p>
-                    </div>
-                  </a>
-                  <div className="group flex gap-4 p-4 rounded-sm border border-transparent">
-                    <div className="w-11 h-11 rounded-sm bg-slate-100 flex items-center justify-center shrink-0">
-                      <MapPin className="w-5 h-5 text-slate-500" />
-                    </div>
-                    <div>
-                      <h4 className="text-sm font-bold text-slate-900 mb-1">Milan, Italy</h4>
-                      <p className="text-xs text-slate-500 leading-relaxed">Via Leonardo da Vinci 9<br />20051 Cassina de'Pecchi (MI)</p>
-                    </div>
-                  </div>
                 </div>
               </div>
             </div>

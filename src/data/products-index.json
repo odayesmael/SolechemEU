@@ -1336,7 +1336,8 @@
       "Plastics & Polymers",
       "Food & Nutrition",
       "Pharmaceuticals & Healthcare",
-      "Personal Care & Cosmetics"
+      "Personal Care & Cosmetics",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "Ethanol (CAS 64-17-5 ), also designated E1510 in food applications and commonly abbreviated as EtOH, is a primary-grade "
   },
@@ -1560,7 +1561,8 @@
       "Automotive",
       "Pharmaceuticals & Healthcare",
       "Plastics & Polymers",
-      "Printing & Packaging"
+      "Printing & Packaging",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "Methanol (CAS 67-56-1 ), also known as wood alcohol or wood naphtha, is a primary alcohol produced at industrial scale a"
   },
@@ -3137,7 +3139,8 @@
       "Textile, Leather & Paper",
       "Plastics & Polymers",
       "Printing & Packaging",
-      "Coatings, Adhesives, Sealants & Elastomers"
+      "Coatings, Adhesives, Sealants & Elastomers",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "Methyl ethyl ketone (CAS 78-93-3 ), commonly known as MEK, is a fast-evaporating industrial solvent used across coatings"
   },
@@ -9668,7 +9671,8 @@
     "industry": [
       "Printing & Packaging",
       "Personal Care & Cosmetics",
-      "Coatings, Adhesives, Sealants & Elastomers"
+      "Coatings, Adhesives, Sealants & Elastomers",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "2-Butoxyethanol (CAS 111-76-2 ), also known as EGBE or Butyl Cellosolve, is a glycol ether solvent used across industria"
   },
@@ -11806,7 +11810,8 @@
     "industry": [
       "Lubricants & Metalworking",
       "Personal Care & Cosmetics",
-      "Food & Nutrition"
+      "Food & Nutrition",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "Butyl acetate (CAS 123-86-4 ), also known as NBA, is a fast-evaporating ester solvent used across coatings, personal car"
   },
@@ -31497,7 +31502,8 @@
       "Textile, Leather & Paper",
       "Pulp & Paper",
       "Oil, Gas & Energy",
-      "Agriculture & Feed"
+      "Agriculture & Feed",
+      "Electronics & Solar Photovoltaic"
     ],
     "description": "Ammonia (CAS 7664-41-7 ), also supplied as anhydrous ammonia, is one of the highest-volume industrial chemicals in globa"
   },
@@ -67998,5 +68004,17 @@
     "industry": [
       "Electronics & Solar Photovoltaic"
     ]
+  },
+  {
+    "id": "5001",
+    "name": "Etching Solution",
+    "slug": "etching-solution",
+    "cas": "Mixture",
+    "formula": "N/A",
+    "category": "Specialty Chemicals",
+    "industry": [
+      "Electronics & Solar Photovoltaic"
+    ],
+    "description": "High-purity electronic-grade etching solutions including Cr, Mo/Al/Mo, Mo/Al, Gold, ITO, and Aluminum etchants for semiconductor, display, and solar PV manufacturing."
   }
 ]

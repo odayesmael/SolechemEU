@@ -4,6 +4,7 @@ import { Send, Loader2, CheckCircle2, ShieldCheck, Clock, Award } from 'lucide-r
 export default function ContactForm() {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [enquiryType, setEnquiryType] = useState('');
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -20,9 +21,7 @@ export default function ContactForm() {
     }
 
     try {
-      const interestTypes = Array.from(
-        e.currentTarget.querySelectorAll('input[type="checkbox"][name="interestType"]:checked')
-      ).map(cb => (cb as HTMLInputElement).value).join(', ');
+      const enquiry = data.enquiryType === 'Other' ? (data.enquiryTypeOther || 'Other') : (data.enquiryType || 'Not provided');
 
       const response = await fetch('https://api.web3forms.com/submit', {
         method: 'POST',
@@ -36,9 +35,8 @@ export default function ContactForm() {
           'Company': data.company,
           'Email': data.email,
           'Phone': data.phone || 'Not provided',
-          'Interest Area': interestTypes || 'Not provided',
+          'Enquiry Type': enquiry,
           'Message': data.message || 'None',
-          'NDA Requested': data.ndaRequest ? 'Yes' : 'No',
         }),
       });
 
@@ -111,29 +109,23 @@ export default function ContactForm() {
         <div className="space-y-4">
           <div className="space-y-2">
             <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Enquiry Type</label>
-            <div className="flex flex-wrap gap-2 mt-2">
-              {['RFQ / Pricing', 'Custom Formulation', 'Supply Agreement', 'Toll Manufacturing', 'Sample Request'].map(type => (
-                <label key={type} className="cursor-pointer group">
-                  <input type="checkbox" name="interestType" value={type} className="hidden peer" />
-                  <span className="px-3 py-2 rounded-sm border border-slate-200 bg-slate-50 text-[11px] font-bold text-slate-600 uppercase tracking-widest peer-checked:bg-orange-50 peer-checked:border-orange-600 peer-checked:text-orange-600 group-hover:border-slate-300 transition-all block">
-                    {type}
-                  </span>
-                </label>
-              ))}
-            </div>
+            <select name="enquiryType" value={enquiryType} onChange={(e) => setEnquiryType(e.target.value)} className="w-full h-12 bg-slate-50 border border-slate-200 rounded-sm px-4 text-[14px] text-slate-900 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all appearance-none">
+              <option value="">Select enquiry type</option>
+              <option value="Buy Chemical">Buy Chemical</option>
+              <option value="RFQ / Pricing">RFQ / Pricing</option>
+              <option value="Custom Formulation">Custom Formulation</option>
+              <option value="Get Technical Information">Get Technical Information</option>
+              <option value="Sample Request">Sample Request</option>
+              <option value="Other">Other</option>
+            </select>
+            {enquiryType === 'Other' && (
+              <input name="enquiryTypeOther" type="text" className="w-full h-12 bg-slate-50 border border-slate-200 rounded-sm px-4 text-[14px] text-slate-900 placeholder:text-slate-400 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all mt-2" placeholder="Please specify..." />
+            )}
           </div>
           <div className="space-y-2 pt-2">
             <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Message</label>
             <textarea rows={4} name="message" className="w-full bg-slate-50 border border-slate-200 rounded-sm p-4 text-[14px] text-slate-900 placeholder:text-slate-400 focus:bg-white focus:ring-1 focus:ring-orange-500 focus:border-orange-500 outline-none transition-all min-h-[120px]" placeholder="Describe requirements: product, CAS, quantity, purity grade, application, Incoterms..." />
           </div>
-        </div>
-      </div>
-
-      <div className="p-4 bg-orange-50/50 rounded-sm border border-orange-100 flex items-start gap-3">
-        <input type="checkbox" name="ndaRequest" className="mt-1 w-4 h-4 rounded-sm border-slate-300 text-orange-600 focus:ring-orange-500" />
-        <div>
-          <p className="text-[13px] font-bold text-slate-900">Request an NDA before sharing details</p>
-          <p className="text-[12px] text-slate-600 font-medium">We'll send a mutual NDA within 4 business hours for confidential projects.</p>
         </div>
       </div>
 

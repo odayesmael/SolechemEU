@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { X, Send, CheckCircle2, Building2, User, Mail, Phone, Package, FileText, Globe, DollarSign, Target, Truck, FlaskConical } from 'lucide-react';
+import { X, Send, CheckCircle2, Building2, User, Mail, Phone, Package, FileText, DollarSign, Target, Truck, FlaskConical } from 'lucide-react';
 import type { Product } from '@/types';
 
 interface QuoteModalProps {
@@ -45,7 +45,6 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
           "Company": data.company,
           "Job Title": data.jobTitle,
           "Phone": data.phone || "Not provided",
-          "Country": data.country,
           "Quantity": `${data.quantity} ${data.unit}`,
           "Target Price": data.targetPrice || "Not provided",
           "Application/Industry": data.application || "Not provided",
@@ -173,31 +172,11 @@ export default function QuoteModal({ isOpen, onClose, product }: QuoteModalProps
                           </div>
                         </div>
 
-                        <div className="grid grid-cols-2 gap-4">
-                          <div className="space-y-2 col-span-2 sm:col-span-1">
-                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Phone Number</label>
-                            <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
-                              <Phone className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
-                              <input type="tel" name="phone" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none" placeholder="+1 (555) 000-0000" />
-                            </div>
-                          </div>
-                          <div className="space-y-2 col-span-2 sm:col-span-1">
-                            <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Country / Region</label>
-                            <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
-                              <Globe className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
-                              <select name="country" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none appearance-none">
-                                <option value="">Select Country</option>
-                                <option value="US">United States</option>
-                                <option value="GB">United Kingdom</option>
-                                <option value="DE">Germany</option>
-                                <option value="FR">France</option>
-                                <option value="IT">Italy</option>
-                                <option value="ES">Spain</option>
-                                <option value="AE">United Arab Emirates</option>
-                                <option value="SA">Saudi Arabia</option>
-                                <option value="OTHER">Other</option>
-                              </select>
-                            </div>
+                        <div className="space-y-2">
+                          <label className="text-[10px] font-bold text-slate-600 uppercase tracking-widest block">Phone Number</label>
+                          <div className="relative flex items-center bg-slate-50 border border-slate-200 rounded-sm focus-within:border-orange-500 focus-within:bg-white transition-colors">
+                            <Phone className="w-4 h-4 text-slate-400 ml-3 shrink-0" />
+                            <input type="tel" name="phone" className="w-full h-10 pl-3 pr-3 bg-transparent text-[13px] text-slate-900 placeholder:text-slate-400 focus:outline-none" placeholder="+1 (555) 000-0000" />
                           </div>
                         </div>
                       </div>

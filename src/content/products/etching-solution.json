@@ -1,0 +1,49 @@
+{
+  "id": "5001",
+  "name": "Etching Solution",
+  "slug": "etching-solution",
+  "cas": "Mixture",
+  "ec": "N/A",
+  "formula": "N/A",
+  "mw": "N/A",
+  "category": "Specialty Chemicals",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "SoleChem supplies a comprehensive range of high-purity, electronic-grade etching solutions for the semiconductor, flat panel display, and solar photovoltaic industries. Our etching solution product line includes: Cr Etching Solution for chromium layer patterning in photomask and display manufacturing; Molybdenum Aluminum Molybdenum (Mo/Al/Mo) Etching Solution, a PAN-type etchant for simultaneous patterning of Mo/Al/Mo stacked metal layers in TFT-LCD and AMOLED production; Molybdenum Aluminum (Mo/Al) Etching Solution for dual-layer metal stack etching in backplane processes; Gold Etching Solution for precision gold layer removal in IC packaging and sensor fabrication; ITO Etching Solution for indium tin oxide patterning in touch panels, displays, and transparent conductive film applications; and Aluminum Etching Solution for aluminum metallization etching in semiconductor and display processes. All solutions are supplied as ready-to-use, ultra-pure formulations with trace metal levels controlled to ppb specifications. Available in 4L, 20L, 200L, and 1000L packaging to meet both R&D and high-volume production requirements. Contact us for supply of Etching Solution Request Quote",
+  "physicalProperties": "",
+  "safetyHandling": "",
+  "tradeRegulatory": "",
+  "otherNames": "Cr etchant | Mo/Al/Mo etchant | Mo/Al etchant | Gold etchant | ITO etchant | Aluminum etchant | Wet etching solution | Display metal etchant | Semiconductor etchant",
+  "compliance": [
+    "REACH",
+    "RoHS",
+    "SEMI Standards"
+  ],
+  "packing": [
+    "4 L HDPE bottle",
+    "20 L HDPE jerrycan",
+    "200 L HDPE drum",
+    "1000 L IBC"
+  ],
+  "leadTime": "2–4 weeks ex works",
+  "imageUrl": "https://images.unsplash.com/photo-1581093588401-fbb62a02f120?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [],
+  "hsCode": "",
+  "similarProducts": [
+    "cas-7664-38-2",
+    "cas-7697-37-2",
+    "cas-64-19-7",
+    "cas-7664-39-3",
+    "cas-7664-93-9",
+    "cas-7722-84-1",
+    "cas-7647-01-0",
+    "cas-1310-58-3",
+    "cas-1310-73-2",
+    "cas-67-63-0"
+  ],
+  "url": "https://www.solechem.eu/products/etching-solution/"
+}
