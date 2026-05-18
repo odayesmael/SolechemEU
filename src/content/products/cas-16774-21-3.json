@@ -1,0 +1,36 @@
+{
+  "id": "4484",
+  "name": "Ammonium Cerium Nitrate",
+  "slug": "cas-16774-21-3",
+  "cas": "16774-21-3",
+  "ec": "Unspecified",
+  "formula": "(NH4)2Ce(NO3)6",
+  "mw": "548.22 g/mol",
+  "category": "Inorganic Salts",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Ammonium Cerium Nitrate (CAS 16774-21-3), also known as ceric ammonium nitrate (CAN), is a powerful oxidizing agent widely used in the electronics and semiconductor industry. It serves as the primary component in chrome etchant formulations for flat panel display (FPD) and LED manufacturing, enabling precise patterning of chromium layers. In analytical chemistry, it functions as a standard oxidant in cerimetry. The compound is also employed in organic synthesis as a single-electron oxidant for radical reactions and oxidative additions. In the electronics sector, high-purity grades are critical for consistent etching performance in photomask and display production. Supplied as an orange-red crystalline solid or as a 50% aqueous solution for direct use in etchant preparation.",
+  "physicalProperties": "Appearance: orange-red crystals; Molecular Weight: 548.22 g/mol; Density: 1.11 g/cm³ (50% solution); Melting Point: 107-108 °C; Water Solubility: Soluble; pH: strongly acidic in solution",
+  "safetyHandling": "Warning GHS03 GHS07 Hazard Statements H272 May intensify fire; oxidizer H302 Harmful if swallowed H312 Harmful in contact with skin H315 Causes skin irritation H319 Causes serious eye irritation Precautionary Statements P220 Keep away from combustible materials P264 Wash hands thoroughly after handling P280 Wear protective gloves/protective clothing/eye protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Ceric Ammonium Nitrate, CAN, Diammonium hexanitratocerate(IV)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS03",
+    "GHS07"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/cas-16774-21-3/"
+}

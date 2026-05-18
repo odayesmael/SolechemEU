@@ -1,0 +1,37 @@
+{
+  "id": "4487",
+  "name": "Trimethylaluminium",
+  "slug": "cas-75-24-1",
+  "cas": "75-24-1",
+  "ec": "Unspecified",
+  "formula": "Al(CH3)3",
+  "mw": "72.09 g/mol",
+  "category": "Organometallic Compounds",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Trimethylaluminium (CAS 75-24-1), commonly abbreviated as TMA, is a highly pyrophoric organometallic compound that is a key precursor in Atomic Layer Deposition (ALD) processes for the electronics and solar photovoltaic industries. In PV manufacturing, TMA is used to deposit ultra-thin aluminium oxide (Al2O3) passivation layers on silicon solar cells, significantly improving cell efficiency by reducing surface recombination. In the semiconductor industry, it serves as an aluminium source for ALD and MOCVD processes to deposit high-k dielectric and barrier layers. TMA is also used in the production of modified methylaluminoxane (MAO) co-catalysts for olefin polymerization. The compound is extremely reactive with air and moisture and requires specialized handling under inert atmosphere.",
+  "physicalProperties": "Appearance: colorless pyrophoric liquid; Molecular Weight: 72.09 g/mol; Boiling Point: 127 °C; Melting Point: 15 °C; Density: 0.752 g/cm³; Flash Point: -17 °C; Vapor Pressure: 8.4 mmHg at 20°C",
+  "safetyHandling": "Danger GHS02 GHS05 GHS06 Hazard Statements H250 Catches fire spontaneously if exposed to air H260 In contact with water releases flammable gases which may ignite spontaneously H300 Fatal if swallowed H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P222 Do not allow contact with air P223 Do not allow contact with water P231+P232 Handle under inert gas/moisture-free atmosphere P280 Wear protective gloves/protective clothing/eye protection/face protection",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "TMA, Aluminium Trimethyl, Al(CH3)3",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/cas-75-24-1/"
+}

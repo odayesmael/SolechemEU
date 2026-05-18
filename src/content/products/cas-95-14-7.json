@@ -10,10 +10,10 @@
   "industry": [
     "Textile, Leather & Paper",
     "Automotive",
-    "Electronics & Solar Photovoltaic",
     "Oil, Gas & Energy",
     "Lubricants & Metalworking",
-    "Water Treatment"
+    "Water Treatment",
+    "Electronics & Solar Photovoltaic"
   ],
   "grade": "Standard",
   "moq": "Contact for details",

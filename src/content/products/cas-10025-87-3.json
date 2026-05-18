@@ -1,0 +1,36 @@
+{
+  "id": "4486",
+  "name": "Phosphorus Oxychloride",
+  "slug": "cas-10025-87-3",
+  "cas": "10025-87-3",
+  "ec": "Unspecified",
+  "formula": "POCl3",
+  "mw": "153.33 g/mol",
+  "category": "Inorganic Acids",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Phosphorus Oxychloride (CAS 10025-87-3), also known as phosphoryl chloride, is a critical process chemical in solar photovoltaic cell manufacturing. It serves as the primary phosphorus dopant source in the diffusion doping process for crystalline silicon solar cells, creating the n-type emitter layer essential for the p-n junction. The compound is also widely used in organic synthesis as a chlorinating and dehydrating agent for producing phosphate esters, pharmaceutical intermediates, and flame retardants. In semiconductor applications, ultra-high purity grades ensure consistent doping profiles and optimal cell efficiency. Phosphorus Oxychloride is a colorless to pale yellow fuming liquid that reacts vigorously with water and must be handled under strict moisture-free conditions.",
+  "physicalProperties": "Appearance: colorless to pale yellow fuming liquid; Molecular Weight: 153.33 g/mol; Boiling Point: 105.8 °C; Melting Point: 1.25 °C; Density: 1.645 g/cm³; Vapor Pressure: 40 mmHg at 27.3°C; Refractive Index: 1.4609",
+  "safetyHandling": "Danger GHS05 GHS06 Hazard Statements H300 Fatal if swallowed H310 Fatal in contact with skin H314 Causes severe skin burns and eye damage H330 Fatal if inhaled Precautionary Statements P260 Do not breathe fumes P264 Wash hands thoroughly after handling P280 Wear protective gloves/protective clothing/eye protection/face protection P284 Wear respiratory protection P301+P310 IF SWALLOWED: Immediately call a POISON CENTER P303+P361+P353 IF ON SKIN: Take off immediately all contaminated clothing. Rinse skin with water",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Phosphoryl Chloride, POCl3, Phosphorus Trichloride Oxide",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS05",
+    "GHS06"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/cas-10025-87-3/"
+}

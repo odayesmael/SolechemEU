@@ -1,0 +1,37 @@
+{
+  "id": "4485",
+  "name": "Stoddard Solvent",
+  "slug": "cas-8052-41-3",
+  "cas": "8052-41-3",
+  "ec": "Unspecified",
+  "formula": "Unspecified",
+  "mw": "Unspecified",
+  "category": "Specialty Chemicals",
+  "industry": [
+    "Electronics & Solar Photovoltaic"
+  ],
+  "grade": "Electronic Grade",
+  "moq": "Contact for details",
+  "description": "Stoddard Solvent (CAS 8052-41-3), also known as mineral spirits or white spirit, is a petroleum-derived hydrocarbon solvent mixture widely used in industrial cleaning and chemical processing. In the semiconductor industry, it serves as the active solvent in negative photoresist developer formulations, enabling the selective dissolution and removal of unexposed negative photoresist during photolithography. The solvent is valued for its controlled evaporation rate, excellent solvency for organic materials, and low residue characteristics. It is also used in degreasing, paint thinning, and precision cleaning applications across electronics manufacturing. High-purity electronic grades with controlled composition and low particulate content are available for semiconductor fabrication environments.",
+  "physicalProperties": "Appearance: clear liquid; Boiling Range: 149-204 °C; Density: 0.78 g/cm³; Flash Point: 40-46 °C; Vapor Pressure: 4 mmHg at 20°C",
+  "safetyHandling": "Danger GHS02 GHS07 GHS08 Hazard Statements H226 Flammable liquid and vapour H304 May be fatal if swallowed and enters airways H332 Harmful if inhaled H336 May cause drowsiness or dizziness H372 Causes damage to organs through prolonged exposure Precautionary Statements P210 Keep away from heat/sparks/open flames P261 Avoid breathing vapours P280 Wear protective gloves/protective clothing",
+  "tradeRegulatory": "Contact for details",
+  "otherNames": "Mineral Spirits, White Spirit, Negative Resist Developer (NRD)",
+  "compliance": [
+    "REACH"
+  ],
+  "packing": [
+    "Contact for details"
+  ],
+  "leadTime": "Contact for details",
+  "imageUrl": "https://images.unsplash.com/photo-1548407260-da850faa41e3?auto=format&fit=crop&q=80",
+  "applications": [],
+  "ghsCodes": [
+    "GHS02",
+    "GHS07",
+    "GHS08"
+  ],
+  "hsCode": "Unspecified",
+  "similarProducts": [],
+  "url": "https://www.solechem.eu/products/cas-8052-41-3/"
+}

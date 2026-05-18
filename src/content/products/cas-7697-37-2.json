@@ -10,9 +10,9 @@
   "industry": [
     "Agriculture & Feed",
     "Pharmaceuticals & Healthcare",
-    "Electronics & Solar Photovoltaic",
     "Aerospace & Defense",
-    "Mining & Metals"
+    "Mining & Metals",
+    "Electronics & Solar Photovoltaic"
   ],
   "grade": "Standard",
   "moq": "Contact for details",

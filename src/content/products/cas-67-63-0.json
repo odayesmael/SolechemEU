@@ -9,10 +9,10 @@
   "category": "Alcohols & Glycols",
   "industry": [
     "Home Care & Industrial Cleaning",
-    "Electronics & Solar Photovoltaic",
     "Printing & Packaging",
     "Personal Care & Cosmetics",
-    "Pharmaceuticals & Healthcare"
+    "Pharmaceuticals & Healthcare",
+    "Electronics & Solar Photovoltaic"
   ],
   "grade": "Standard",
   "moq": "Contact for details",
