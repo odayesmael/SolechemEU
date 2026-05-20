@@ -20,3 +20,14 @@ export interface ProductLite {
 export const PRODUCTS_INDEX: ProductLite[] = productsIndexData as ProductLite[];
 export const INDUSTRIES: Industry[] = industriesData as Industry[];
 export const CATEGORIES: any[] = categoriesData;
+
+const _slugToName = new Map<string, string>(categoriesData.map((c: any) => [c.slug, c.name]));
+const _nameToSlug = new Map<string, string>(categoriesData.map((c: any) => [c.name, c.slug]));
+
+export function categorySlug(name: string): string {
+  return _nameToSlug.get(name) ?? name.toLowerCase().replace(/[&,]+/g, '').replace(/\s+/g, '-').replace(/-+/g, '-');
+}
+
+export function categoryName(slug: string): string {
+  return _slugToName.get(slug) ?? slug;
+}

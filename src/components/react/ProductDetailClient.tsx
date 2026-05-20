@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ChevronRight, Copy, Check, ShieldCheck, Phone, Mail, MessageCircle, ArrowRight, FlaskConical, AlertTriangle, Scale, Thermometer, Droplets, Atom } from 'lucide-react';
 import { motion } from 'motion/react';
 import { cn } from '@/lib/utils';
+import { categorySlug } from '@/data';
 import QuoteModal from '@/components/react/QuoteModal';
 import type { Product } from '@/types';
 
@@ -92,7 +93,7 @@ export default function ProductDetailClient({ product, industries: INDUSTRIES, s
             <div className="space-y-6">
               <div className="border-b border-slate-200 dark:border-slate-800 pb-8">
                 <div className="flex items-center gap-3 mb-4">
-                  <a href={`/products?category=${encodeURIComponent(product.category)}`} className="bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400 text-[10px] font-bold uppercase tracking-widest px-2 py-1 rounded-sm hover:bg-orange-100 hover:text-orange-700 dark:hover:bg-orange-900/30 dark:hover:text-orange-400 transition-colors cursor-pointer">
+                  <a href={`/products?category=${categorySlug(product.category)}`} className="bg-slate-100 text-slate-600 dark:bg-slate-800 dark:text-slate-400 text-[10px] font-bold uppercase tracking-widest px-2 py-1 rounded-sm hover:bg-orange-100 hover:text-orange-700 dark:hover:bg-orange-900/30 dark:hover:text-orange-400 transition-colors cursor-pointer">
                     {product.category}
                   </a>
                   {product.compliance?.map((c: string) => (

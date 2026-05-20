@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProductDetailClient from '../../components/react/ProductDetailClient.tsx';
 import { getEntry } from 'astro:content';
-import { INDUSTRIES } from '../../data';
+import { INDUSTRIES, categorySlug } from '../../data';
 
 const slug = Astro.params.slug;
 
@@ -45,7 +45,7 @@ const similarProductsResolved = similarEntries
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.solechem.eu/" },
       { "@type": "ListItem", "position": 2, "name": "Products", "item": "https://www.solechem.eu/products" },
-      { "@type": "ListItem", "position": 3, "name": product.category, "item": `https://www.solechem.eu/products?category=${encodeURIComponent(product.category)}` },
+      { "@type": "ListItem", "position": 3, "name": product.category, "item": `https://www.solechem.eu/products?category=${categorySlug(product.category)}` },
       { "@type": "ListItem", "position": 4, "name": product.name, "item": `https://www.solechem.eu/products/${product.slug}` }
     ]
   })} />

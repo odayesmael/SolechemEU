@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { INDUSTRIES } from '../data';
+import { INDUSTRIES, categorySlug } from '../data';
 import QuoteModal from '../components/react/QuoteModal.tsx';
 
 const TRUSTED_LOGOS = [
@@ -188,7 +188,7 @@ const featuredIndustries = INDUSTRIES.slice(0, 8);
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
           {FEATURED_CATEGORIES.map((category) => (
             <a
-              href={`/products?category=${encodeURIComponent(category.name)}`}
+              href={`/products?category=${categorySlug(category.name)}`}
               class="group bg-white rounded p-3 border border-gray-200 hover:border-orange-500 hover:shadow-lg hover:-translate-y-1 transition-all duration-300 flex items-center gap-4"
             >
               <div class="w-16 h-16 shrink-0 rounded-sm overflow-hidden relative bg-slate-100">

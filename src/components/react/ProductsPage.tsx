@@ -3,6 +3,7 @@ import { Search, Filter, Grid, List, ArrowRight, ChevronRight, ChevronLeft, X, P
 import { motion, AnimatePresence } from 'motion/react';
 import Fuse from 'fuse.js';
 import { cn } from '@/lib/utils';
+import { categoryName, categorySlug } from '@/data';
 
 interface ProductLite {
   id: string;
@@ -56,7 +57,7 @@ export default function ProductsPage({ products: PRODUCTS }: Props) {
     const ind = params.get('industry');
     const page = params.get('page');
     if (q) setSearch(q);
-    if (cat) setActiveCategory(cat);
+    if (cat) setActiveCategory(categoryName(cat));
     if (ind) setActiveIndustries([ind]);
     if (page) setCurrentPage(parseInt(page, 10));
   }, []);

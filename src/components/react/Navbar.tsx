@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { Search, Phone, ClipboardList, Menu, X, ChevronRight, Beaker, Factory, ShieldCheck, ArrowRight, Package, Globe, Award, Users, Building2 } from 'lucide-react';
 import { cn } from '@/lib/utils';
+import { categorySlug } from '@/data';
 import { motion, AnimatePresence } from 'motion/react';
 import QuoteModal from './QuoteModal';
 
@@ -161,7 +162,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
           <motion.div initial={{ opacity: 0, y: -10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -10 }} transition={{ duration: 0.2 }} className="absolute top-20 left-0 right-0 bg-white border-b border-gray-200 shadow-xl overflow-hidden">
             <div className="max-w-7xl mx-auto px-4 py-6"><div className="flex gap-8">
               <div className="w-56 shrink-0"><h3 className="text-sm font-black text-slate-900 uppercase tracking-widest mb-4 flex items-center gap-2"><Beaker className="w-5 h-5 text-orange-600" /> Categories</h3><p className="text-[13px] text-slate-500 mb-6 leading-relaxed">Browse 27 categories across 4,488+ chemical products.</p><a href="/categories" className="inline-flex items-center gap-2 text-sm font-bold text-orange-600 hover:text-orange-700 transition-colors">View All <ArrowRight className="w-4 h-4" /></a></div>
-              <div className="flex-1 grid grid-cols-3 gap-x-6 gap-y-1 border-l border-gray-100 pl-8">{TOP_CATEGORIES.map(cat => (<a key={cat} href={`/products?category=${encodeURIComponent(cat)}`} className="group flex items-center justify-between py-2 px-3 rounded hover:bg-orange-50 transition-colors"><span className="text-[13px] font-semibold text-slate-700 group-hover:text-orange-700">{cat}</span><ChevronRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-orange-500 transform group-hover:translate-x-1 transition-all" /></a>))}</div>
+              <div className="flex-1 grid grid-cols-3 gap-x-6 gap-y-1 border-l border-gray-100 pl-8">{TOP_CATEGORIES.map(cat => (<a key={cat} href={`/products?category=${categorySlug(cat)}`} className="group flex items-center justify-between py-2 px-3 rounded hover:bg-orange-50 transition-colors"><span className="text-[13px] font-semibold text-slate-700 group-hover:text-orange-700">{cat}</span><ChevronRight className="w-3.5 h-3.5 text-slate-300 group-hover:text-orange-500 transform group-hover:translate-x-1 transition-all" /></a>))}</div>
             </div></div>
           </motion.div>
         )}

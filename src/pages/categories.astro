@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { PRODUCTS_INDEX } from '../data';
+import { PRODUCTS_INDEX, categorySlug } from '../data';
 
 const CATEGORIES = [
   { name: "Agrochemicals", image: "/categories/Agrochemicals.webp" },
@@ -88,7 +88,7 @@ const getCategoryCount = (categoryName: string) => {
           const count = getCategoryCount(category.name);
           return (
             <a
-              href={`/products?category=${encodeURIComponent(category.name)}`}
+              href={`/products?category=${categorySlug(category.name)}`}
               class="category-card group block rounded bg-white border border-slate-200 hover:border-orange-500/50 transition-all duration-300 hover:shadow-md hover:-translate-y-0.5 overflow-hidden"
               data-name={category.name}
             >
