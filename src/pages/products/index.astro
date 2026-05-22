@@ -1,12 +1,50 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ProductsPage from '../../components/react/ProductsPage.tsx';
-import { PRODUCTS_INDEX } from '../../data';
+import { PRODUCTS_INDEX, CATEGORIES } from '../../data';
 
-// Already lightweight — pre-built index, no transformation needed
-const productsLite = PRODUCTS_INDEX;
+const categories = [
+  { name: 'All', slug: 'all' },
+  ...CATEGORIES.map((c: any) => ({ name: c.name, slug: c.slug })),
+];
+
+const industries = Array.from(
+  new Set(PRODUCTS_INDEX.flatMap(p => p.industry))
+).sort();
+
+const availableLetters = Array.from(
+  new Set(
+    PRODUCTS_INDEX.map(p => {
+      const ch = p.name.charAt(0).toUpperCase();
+      return /^[0-9]/.test(ch) ? '#' : ch;
+    })
+  )
+);
+
+const initialProducts = PRODUCTS_INDEX
+  .slice()
+  .sort((a, b) => a.name.localeCompare(b.name))
+  .slice(0, 24)
+  .map(p => ({
+    id: p.id,
+    name: p.name,
+    slug: p.slug,
+    cas: p.cas,
+    formula: p.formula,
+    category: p.category,
+    industry: p.industry,
+  }));
+
+const totalProducts = PRODUCTS_INDEX.length;
 ---
 
 <BaseLayout title="Products | SoleChem Europe" description="Browse our catalog of 4,488+ industrial chemicals. Search by product name, CAS number, category, or industry application.">
-  <ProductsPage client:load products={productsLite} />
+  <ProductsPage
+    client:load
+    initialProducts={initialProducts}
+    initialTotal={totalProducts}
+    categories={categories}
+    industries={industries}
+    availableLetters={availableLetters}
+  />
 </BaseLayout>

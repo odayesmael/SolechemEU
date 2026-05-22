@@ -1,6 +1,5 @@
 @import "tailwindcss";
 
-@custom-variant dark (&:where(.never-dark));
 
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;

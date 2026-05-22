@@ -125,7 +125,7 @@ const canonicalUrl = canonical || `${siteUrl}${currentPath}`;
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   </head>
   <body>
-    <div class="min-h-screen flex flex-col font-sans selection:bg-orange-600/30 selection:text-orange-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300">
+    <div class="min-h-screen flex flex-col font-sans selection:bg-orange-600/30 selection:text-orange-900 transition-colors duration-300">
       <Navbar client:load currentPath={currentPath} />
       <main class="flex-grow">
         <slot />

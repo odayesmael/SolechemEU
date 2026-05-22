@@ -98,7 +98,7 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
   };
 
   return (
-    <nav className={cn("fixed top-0 left-0 right-0 z-50 transition-all duration-300", isLightMode ? "bg-white dark:bg-slate-900 shadow-md border-b border-gray-200 dark:border-slate-800" : "bg-transparent")} onMouseLeave={() => setActiveMegaMenu(null)}>
+    <nav className={cn("fixed top-0 left-0 right-0 z-50 transition-all duration-300", isLightMode ? "bg-white shadow-md border-b border-gray-200" : "bg-transparent")} onMouseLeave={() => setActiveMegaMenu(null)}>
       <div className="max-w-7xl mx-auto px-4 h-20 flex items-center justify-between gap-4">
         <a href="/" className="flex items-center gap-2 shrink-0">
           <img src={isLightMode ? "https://www.solechem.eu/solechem-logo-small.webp" : "https://www.solechem.eu/solechem-logo-white.webp"} alt="SoleChem Logo" className="h-12 w-auto object-contain" />
@@ -106,8 +106,8 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
         <div ref={searchRef} className="hidden md:block flex-1 max-w-md relative">
           <form onSubmit={handleSearch} className="relative">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
-            <input type="text" value={searchQuery} onChange={(e) => onSearchChange(e.target.value)} onFocus={() => searchResults.length > 0 && setShowResults(true)} placeholder="Search CAS, formula, or product..." className="w-full h-9 pl-10 pr-12 bg-white dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-sm text-sm focus:outline-none focus:ring-1 focus:ring-slate-400 transition-all text-slate-900 dark:text-white placeholder:text-gray-400" autoComplete="off" />
-            <div className="absolute right-3 top-1/2 -translate-y-1/2 text-[10px] font-mono text-gray-400 border border-gray-200/50 dark:border-slate-700 px-1 rounded">⌘K</div>
+            <input type="text" value={searchQuery} onChange={(e) => onSearchChange(e.target.value)} onFocus={() => searchResults.length > 0 && setShowResults(true)} placeholder="Search CAS, formula, or product..." className="w-full h-9 pl-10 pr-12 bg-white border border-gray-200 rounded-sm text-sm focus:outline-none focus:ring-1 focus:ring-slate-400 transition-all text-slate-900 placeholder:text-gray-400" autoComplete="off" />
+            <div className="absolute right-3 top-1/2 -translate-y-1/2 text-[10px] font-mono text-gray-400 border border-gray-200/50 px-1 rounded">⌘K</div>
           </form>
           {showResults && searchResults.length > 0 && (
             <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-sm shadow-xl z-[60] max-h-[400px] overflow-y-auto">
@@ -136,19 +136,19 @@ export default function Navbar({ currentPath = '/' }: NavbarProps) {
         </div>
         <div className="hidden lg:flex items-center h-full">
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('products')}>
-            <a href="/products" className={cn("text-sm font-semibold transition-colors", currentPath === '/products' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Products</a>
+            <a href="/products" className={cn("text-sm font-semibold transition-colors", currentPath === '/products' ? "text-orange-600" : (isLightMode ? "text-slate-600 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Products</a>
           </div>
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('industries')}>
-            <a href="/industries" className={cn("text-sm font-semibold transition-colors", currentPath === '/industries' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Industries</a>
+            <a href="/industries" className={cn("text-sm font-semibold transition-colors", currentPath === '/industries' ? "text-orange-600" : (isLightMode ? "text-slate-600 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Industries</a>
           </div>
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('manufacturing')}>
-            <a href="/manufacturing" className={cn("text-sm font-semibold transition-colors", currentPath === '/manufacturing' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Manufacturing</a>
+            <a href="/manufacturing" className={cn("text-sm font-semibold transition-colors", currentPath === '/manufacturing' ? "text-orange-600" : (isLightMode ? "text-slate-600 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Manufacturing</a>
           </div>
           <div className="h-full flex items-center px-4 cursor-pointer" onMouseEnter={() => setActiveMegaMenu('about')}>
-            <a href="/about" className={cn("text-sm font-semibold transition-colors", currentPath === '/about' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>About</a>
+            <a href="/about" className={cn("text-sm font-semibold transition-colors", currentPath === '/about' ? "text-orange-600" : (isLightMode ? "text-slate-600 hover:text-orange-600" : "text-white/80 hover:text-white"))}>About</a>
           </div>
           <div className="h-full flex items-center px-4" onMouseEnter={() => setActiveMegaMenu(null)}>
-            <a href="/contact" className={cn("text-sm font-semibold transition-colors", currentPath === '/contact' ? "text-orange-600" : (isLightMode ? "text-slate-600 dark:text-slate-300 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Contact</a>
+            <a href="/contact" className={cn("text-sm font-semibold transition-colors", currentPath === '/contact' ? "text-orange-600" : (isLightMode ? "text-slate-600 hover:text-orange-600" : "text-white/80 hover:text-white"))}>Contact</a>
           </div>
         </div>
         <div className="flex items-center gap-4 shrink-0" onMouseEnter={() => setActiveMegaMenu(null)}>

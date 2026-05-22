@@ -16,8 +16,5 @@ export default defineConfig({
   ],
   vite: {
     plugins: [tailwindcss()],
-    define: {
-      'process.env.GEMINI_API_KEY': JSON.stringify(process.env.GEMINI_API_KEY || ''),
-    },
   },
 });
